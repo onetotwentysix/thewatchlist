@@ -7,8 +7,8 @@
     "name": "Polaris Date 41",
     "name_kr": "폴라리스 데이트 41",
     "gender": "Men",
-    "price_krw": 11500000,
-    "price_confirmed": false,
+    "price_krw": 18200000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -50,7 +50,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 9000000,
-    "source": "WatchCharts (USD $7,700 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "1968년 메모복스 폴라리스에서 영감. JLC의 스포츠 라인 엔트리. 200m 방수.",
     "verdict": {
       "overall": "Versatile",
@@ -76,8 +76,8 @@
     "name": "Polaris Chronograph 42",
     "name_kr": "폴라리스 크로노그래프 42",
     "gender": "Men",
-    "price_krw": 18500000,
-    "price_confirmed": false,
+    "price_krw": 23500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42,
@@ -119,7 +119,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 14500000,
-    "source": "WatchCharts (USD $11,200 추정), Chrono24 (₩20,086,389 새제품 확인)",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "폴라리스 크로노그래프. 65h 파워리저브. 200m 방수 스포츠 크로노.",
     "verdict": {
       "overall": "Versatile",

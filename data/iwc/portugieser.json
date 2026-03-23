@@ -52,7 +52,7 @@
     "limited": false,
     "year_introduced": 2024,
     "resale_krw_est": 9500000,
-    "source": "IWC 공식 한국 홈페이지 (직접 확인 · 2026.03)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2024 W&W 신형 케이스 · 더블 박스 글래스",
     "verdict": {
       "overall": "Definitive",
@@ -78,8 +78,8 @@
     "name": "Portugieser Automatic 42",
     "name_kr": "포르투기저 오토매틱 42",
     "gender": "Men",
-    "price_krw": 13200000,
-    "price_confirmed": false,
+    "price_krw": 11600000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42,
@@ -122,7 +122,7 @@
     "limited": false,
     "year_introduced": 2024,
     "resale_krw_est": 11000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "7일 파워리저브 · 52010 칼리버",
     "verdict": {
       "overall": "Iconic",
@@ -148,8 +148,8 @@
     "name": "Portugieser Chronograph",
     "name_kr": "포르투기저 크로노그래프",
     "gender": "Men",
-    "price_krw": 14800000,
-    "price_confirmed": false,
+    "price_krw": 13500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -192,7 +192,7 @@
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 12000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "수직 배열 서브다이얼 · IWC 자체 무브먼트",
     "verdict": {
       "overall": "Definitive",
@@ -218,8 +218,8 @@
     "name": "Portugieser Chronograph Blue Dial",
     "name_kr": "포르투기저 크로노그래프 블루",
     "gender": "Men",
-    "price_krw": 14800000,
-    "price_confirmed": false,
+    "price_krw": 13500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -260,7 +260,7 @@
     "limited": false,
     "year_introduced": 2024,
     "resale_krw_est": 12500000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2024 신색상 호라이즌 블루",
     "verdict": {
       "overall": "Iconic",
@@ -358,8 +358,8 @@
     "name": "Portugieser Chronograph Dune",
     "name_kr": "포르투기저 크로노그래프 듄",
     "gender": "Men",
-    "price_krw": 14800000,
-    "price_confirmed": false,
+    "price_krw": 13500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -400,7 +400,7 @@
     "limited": false,
     "year_introduced": 2024,
     "resale_krw_est": 12800000,
-    "source": "Klocca 한국 (2025.11)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "60단계 공정 다이얼 · 15겹 투명 래커 · 골드 도금 핸즈",
     "verdict": {
       "overall": "Iconic",

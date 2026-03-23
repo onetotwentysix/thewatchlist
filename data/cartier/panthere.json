@@ -7,8 +7,8 @@
     "name": "Panthère de Cartier 22mm",
     "name_kr": "팡테르 드 까르띠에 22mm",
     "gender": "Women",
-    "price_krw": 4300000,
-    "price_confirmed": false,
+    "price_krw": 6550000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 22,
@@ -23,7 +23,10 @@
       "power_reserve_hours": 0,
       "frequency_vph": 32768,
       "jewels": 0,
-      "functions": ["Hours", "Minutes"]
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,13 +38,15 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
     "year_introduced": 1983,
     "resale_krw_est": 3200000,
-    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "22mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 1983년 론칭 · 다이아나 왕세자빈·엘리자베스 테일러 착용으로 전설화된 레이디스 아이콘 · 삿파이어 카보숑 크라운",
     "verdict": {
       "overall": "Iconic",
@@ -67,8 +72,8 @@
     "name": "Panthère de Cartier 27mm",
     "name_kr": "팡테르 드 까르띠에 27mm",
     "gender": "Women",
-    "price_krw": 5800000,
-    "price_confirmed": false,
+    "price_krw": 7750000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 27,
@@ -83,7 +88,10 @@
       "power_reserve_hours": 0,
       "frequency_vph": 32768,
       "jewels": 0,
-      "functions": ["Hours", "Minutes"]
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +103,15 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
     "year_introduced": 1983,
     "resale_krw_est": 4400000,
-    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "27mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 소형 대비 가시성 향상 · 레이디스 및 유니섹스 포지션",
     "verdict": {
       "overall": "Iconic",
@@ -127,8 +137,8 @@
     "name": "Panthère de Cartier 35mm",
     "name_kr": "팡테르 드 까르띠에 35mm",
     "gender": "Women",
-    "price_krw": 8500000,
-    "price_confirmed": false,
+    "price_krw": 9250000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 35,
@@ -143,7 +153,10 @@
       "power_reserve_hours": 0,
       "frequency_vph": 32768,
       "jewels": 0,
-      "functions": ["Hours", "Minutes"]
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -155,13 +168,15 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 6500000,
-    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "35mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 2017년 재런칭 시 추가된 엑스트라 라지 사이즈 · 유니섹스 포지션으로 남성 착용도 가능",
     "verdict": {
       "overall": "Iconic",

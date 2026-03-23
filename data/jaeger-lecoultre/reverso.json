@@ -7,8 +7,8 @@
     "name": "Reverso Classic Large Small Seconds",
     "name_kr": "리베르소 클래식 라지 스몰 세컨즈",
     "gender": "Men",
-    "price_krw": 13500000,
-    "price_confirmed": false,
+    "price_krw": 16700000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 47,
@@ -48,7 +48,7 @@
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 10000000,
-    "source": "WatchCharts (USD $7,500~ 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "1931년 오리지널 리베르소에 가장 가까운 현행 모델. 47x28.3mm 아트데코 직사각형 케이스.",
     "verdict": {
       "overall": "Iconic",
@@ -74,8 +74,8 @@
     "name": "Reverso Tribute Duoface",
     "name_kr": "리베르소 트리뷰트 듀오페이스",
     "gender": "Men",
-    "price_krw": 22000000,
-    "price_confirmed": false,
+    "price_krw": 21600000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 47,
@@ -115,7 +115,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 17000000,
-    "source": "WatchCharts (USD $13,000~ 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "앞면과 뒷면 각각 다른 시간대를 표시. 듀얼 타임존의 기발한 해법.",
     "verdict": {
       "overall": "Iconic",
@@ -141,8 +141,8 @@
     "name": "Reverso Classic Monoface Small Seconds Mid",
     "name_kr": "리베르소 클래식 모노페이스 미드",
     "gender": "Men/Women",
-    "price_krw": 11500000,
-    "price_confirmed": false,
+    "price_krw": 11700000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40.1,
@@ -181,7 +181,7 @@
     "limited": false,
     "year_introduced": 2025,
     "resale_krw_est": 9000000,
-    "source": "Monochrome Watches 2025 (EUR 8,000 추정)",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2025 신형 미드사이즈. 유니섹스 착용 가능. 코인 스택 기요셰 다이얼.",
     "verdict": {
       "overall": "Versatile",
@@ -207,8 +207,8 @@
     "name": "Reverso Tribute Monoface White",
     "name_kr": "리베르소 트리뷰트 모노페이스 화이트",
     "gender": "Men",
-    "price_krw": 17500000,
-    "price_confirmed": false,
+    "price_krw": 14000000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 47,
@@ -248,7 +248,7 @@
     "limited": false,
     "year_introduced": 2025,
     "resale_krw_est": 14000000,
-    "source": "Chrono24 (USD $12,000~ 추정)",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2025 출시 트리뷰트 라인 화이트 다이얼. 1930년대 오리지널 리베르소에 오마주.",
     "verdict": {
       "overall": "Iconic",

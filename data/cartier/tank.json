@@ -23,7 +23,11 @@
       "power_reserve_hours": 0,
       "frequency_vph": 0,
       "jewels": 0,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,7 +39,12 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Black", "Green", "Champagne"],
+    "color_variants": [
+      "Silver",
+      "Black",
+      "Green",
+      "Champagne"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
@@ -83,7 +92,10 @@
       "power_reserve_hours": 20,
       "frequency_vph": 21600,
       "jewels": 18,
-      "functions": ["Hours", "Minutes"]
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,7 +107,9 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
@@ -127,8 +141,8 @@
     "name": "Tank Française Medium",
     "name_kr": "탱크 프랑세즈 미디엄",
     "gender": "Women",
-    "price_krw": 9500000,
-    "price_confirmed": false,
+    "price_krw": 10300000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 27.4,
@@ -143,7 +157,11 @@
       "power_reserve_hours": 0,
       "frequency_vph": 32768,
       "jewels": 0,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -155,13 +173,15 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
     "year_introduced": 1996,
     "resale_krw_est": 7200000,
-    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "케이스 27.4×37.4mm · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 1996년 론칭 · 양 측면 브레이슬릿이 케이스 플랭크와 자연스럽게 연결 · Tank 직선미에 메탈 브레이슬릿 실용성 결합",
     "verdict": {
       "overall": "Definitive",
@@ -203,7 +223,12 @@
       "power_reserve_hours": 42,
       "frequency_vph": 28800,
       "jewels": 21,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -215,7 +240,9 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
@@ -263,7 +290,12 @@
       "power_reserve_hours": 42,
       "frequency_vph": 28800,
       "jewels": 21,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -275,7 +307,9 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,

@@ -1,0 +1,129 @@
+{
+  "session_date": "2026-03-23",
+  "status": "in_progress",
+  "notes": "Price verification session - scraping official KRW prices from brand Korean websites",
+
+  "iwc": {
+    "source": "https://www.iwc.com/kr-ko/watches/",
+    "confirmed": true,
+    "models": [
+      {"db_ref": "IW358304", "site_ref": "IW358304", "site_price_krw": 11600000, "collection": "pilot"},
+      {"db_ref": "IW358305", "site_ref": "IW358305", "site_price_krw": 11600000, "collection": "pilot"},
+      {"db_ref": "IW371604", "site_ref": "IW371604", "site_price_krw": 13500000, "collection": "pilot"},
+      {"db_ref": "IW371605", "site_ref": "IW371605", "site_price_krw": 13500000, "collection": "pilot"},
+      {"db_ref": "IW371624", "site_ref": "IW371624", "site_price_krw": 13500000, "collection": "pilot"},
+      {"db_ref": "IW328201", "site_ref": "IW328201", "site_price_krw": 8900000, "collection": "pilot"},
+      {"db_ref": "IW328202", "site_ref": "IW328202", "site_price_krw": 10500000, "collection": "pilot"},
+      {"db_ref": "IW328207", "site_ref": "IW328207", "site_price_krw": 8900000, "collection": "pilot"},
+      {"db_ref": "IW329303", "site_ref": "IW329303", "site_price_krw": 14000000, "collection": "pilot"},
+      {"db_ref": "IW501001", "site_ref": "IW501001", "site_price_krw": 21500000, "collection": "portugieser"},
+      {"db_ref": "IW356502", "site_ref": "IW356502", "site_price_krw": 8500000, "collection": "portofino"},
+      {"db_ref": "IW459401", "site_ref": "IW459401", "site_price_krw": 11800000, "collection": "portofino"},
+      {"db_ref": "IW357405", "site_ref": "IW357411", "site_price_krw": 8100000, "collection": "portofino", "note": "DB ref IW357405 matched to updated site ref IW357411"},
+      {"db_ref": "IW324901", "site_ref": "IW324901", "site_price_krw": 15800000, "collection": "portugieser"},
+      {"db_ref": "IW329001", "site_ref": "IW328801", "site_price_krw": 11000000, "collection": "aquatimer", "note": "DB ref IW329001 matched to updated site ref IW328801"},
+      {"db_ref": "IW376901", "site_ref": "IW376803", "site_price_krw": 12500000, "collection": "aquatimer", "note": "DB ref IW376901 matched to updated site ref IW376803"},
+      {"db_ref": "IW356802", "site_ref": "IW379502", "site_price_krw": 18300000, "collection": "aquatimer", "note": "DB ref IW356802 matched to updated site ref IW379502"}
+    ],
+    "skipped": [
+      {"db_ref": "IW503406", "reason": "Portugieser Perpetual Calendar 44 - not found on Korean site"},
+      {"db_ref": "IW323601", "reason": "Ingenieur - updated ref unknown"},
+      {"db_ref": "IW323901", "reason": "Ingenieur - updated ref unknown"},
+      {"db_ref": "IW358307", "reason": "Da Vinci - collection discontinued on Korean site"},
+      {"db_ref": "IW458312", "reason": "Da Vinci - collection discontinued on Korean site"}
+    ]
+  },
+
+  "jaeger_lecoultre": {
+    "source": "https://www.jaeger-lecoultre.com/kr-ko/watches/",
+    "confirmed": true,
+    "models": [
+      {"db_ref": "Q4018420", "site_ref": "Q4018421", "site_price_krw": 15100000, "collection": "master-ultra-thin", "note": "Ref last digit updated: Q4018420 → Q4018421"},
+      {"db_ref": "Q1368471", "site_ref": "Q1368471", "site_price_krw": 18400000, "collection": "master-control"},
+      {"db_ref": "Q3868520", "site_ref": "Q3868520", "site_price_krw": 11700000, "collection": "reverso"},
+      {"db_ref": "Q3858522", "site_ref": "Q3858523", "site_price_krw": 16700000, "collection": "reverso", "note": "Ref last digit updated: Q3858522 → Q3858523"},
+      {"db_ref": "Q3988482", "site_ref": "Q3988481", "site_price_krw": 21600000, "collection": "reverso", "note": "Ref last digit updated: Q3988482 → Q3988481"},
+      {"db_ref": "Q7168420", "site_ref": "Q7168420", "site_price_krw": 14000000, "collection": "polaris"},
+      {"db_ref": "Q902843J", "site_ref": "Q902843J", "site_price_krw": 23500000, "collection": "master-grande-tradition"}
+    ],
+    "additional_confirmed": [
+      {"db_ref": "Q1548420", "site_ref": "Q4138480", "site_price_krw": 28600000, "collection": "master-control", "note": "Ref updated Q1548420 → Q4138480 (Master Control Chronograph Calendar)"},
+      {"db_ref": "Q1352420", "site_ref": "Q1238421", "site_price_krw": 15100000, "collection": "master-ultra-thin", "note": "Ref updated Q1352420 → Q1238421 (Master Grande Ultra Thin Date)"},
+      {"db_ref": "Q9008170", "site_ref": "Q9068650", "site_price_krw": 18200000, "collection": "polaris", "note": "Ref updated Q9008170 → Q9068650 (Polaris Date 41)"},
+      {"db_ref": "Q3568590", "site_ref": "Q3578431", "site_price_krw": 31500000, "collection": "rendez-vous", "note": "Ref updated Q3568590 → Q3578431 (Rendez-Vous Moon 36)"}
+    ],
+    "skipped": [
+      {"db_ref": "Q8108420", "reason": "Geophysic collection discontinued from Korean site - URL redirects to main page"},
+      {"db_ref": "Q4102520", "reason": "Geophysic collection discontinued from Korean site - URL redirects to main page"}
+    ]
+  },
+
+  "blancpain": {
+    "source": "https://www.blancpain.com/en/",
+    "confirmed": true,
+    "models": [
+      {"db_ref": "5015-1130-52b", "site_ref": "5015-1130-52b", "site_price_krw": 24520000, "collection": "fifty-fathoms"},
+      {"db_ref": "5015-12b40-98b", "site_ref": "5015-12b40-98b", "site_price_krw": 29910000, "collection": "fifty-fathoms"},
+      {"db_ref": "5010-1130-71s", "site_ref": "5010-1130-71s", "site_price_krw": 27130000, "collection": "fifty-fathoms"},
+      {"db_ref": "5100-1140-o52a", "site_ref": "5100-1140-o52a", "site_price_krw": 15360000, "collection": "fifty-fathoms"},
+      {"db_ref": "5054-3640-76s", "site_ref": "5054-3640-76s", "site_price_krw": 83340000, "collection": "fifty-fathoms", "note": "Rose gold case - confirm this is the correct DB ref"},
+      {"db_ref": "5000-1110-b52a", "site_ref": "5000-1110-b52a", "site_price_krw": 16840000, "collection": "fifty-fathoms"},
+      {"db_ref": "5200-0130-b52a", "site_ref": "5200-0130-b52a", "site_price_krw": 27620000, "collection": "fifty-fathoms"},
+      {"db_ref": "6651-1127-55b", "site_ref": "6651-1127-55b", "site_price_krw": 15860000, "collection": "villeret"},
+      {"db_ref": "6654-1127-55b", "site_ref": "6654-1127-55b", "site_price_krw": 24190000, "collection": "villeret"},
+      {"db_ref": "6659-3631-55b", "site_ref": "6659-3631-55b", "site_price_krw": 99520000, "collection": "villeret"},
+      {"db_ref": "6025-1542-55b", "site_ref": "6025-1542-55b", "site_price_krw": 190540000, "collection": "villeret"},
+      {"db_ref": "3663a-4654-55b", "site_ref": "3663a-4654-55b", "site_price_krw": 30230000, "collection": "woman"}
+    ],
+    "skipped": []
+  },
+
+  "vacheron_constantin": {
+    "status": "skipped",
+    "reason": "Korean site shows '가격 문의' (price on request) - no online prices available"
+  },
+
+  "cartier": {
+    "source": "https://www.cartier.com/ko-kr/",
+    "confirmed": true,
+    "models": [
+      {"db_ref": "WSSA0029", "site_ref": "WSSA0029", "site_price_krw": 12600000, "collection": "santos"},
+      {"db_ref": "WSSA0017", "site_ref": "WSSA0017", "site_price_krw": 17800000, "collection": "santos"},
+      {"db_ref": "W69016Z4", "site_ref": "WSBB0040", "site_price_krw": 12200000, "collection": "ballon-bleu", "note": "40mm auto SS - matched by size/type"},
+      {"db_ref": "WSPN0019", "site_ref": "WSPN0012", "site_price_krw": 6550000, "collection": "panthere", "note": "25.1mm - matched to old 22mm"},
+      {"db_ref": "WSPN0020", "site_ref": "WSPN0013", "site_price_krw": 7750000, "collection": "panthere", "note": "30.3mm - matched to old 27mm"},
+      {"db_ref": "WSPN0007", "site_ref": "WSPN0015", "site_price_krw": 9250000, "collection": "panthere", "note": "36.5mm - matched to old 35mm"},
+      {"db_ref": "WSPA0013", "site_ref": "WSPA0013", "site_price_krw": 11300000, "collection": "pasha"},
+      {"db_ref": "WSTA0067", "site_ref": "WSTA0067", "site_price_krw": 10300000, "collection": "tank"}
+    ],
+    "skipped": [
+      {"db_ref": "W69011Z4", "reason": "Ballon Bleu 36mm quartz - no current 36mm quartz found on Korean site; 33mm quartz (WSBB0030 ₩9,700,000) is nearest but different size"},
+      {"db_ref": "W7100014", "reason": "Ballon Bleu 44mm Chrono - not found on Korean site, likely discontinued"},
+      {"db_ref": "WSNM0004", "reason": "Drive de Cartier - collection page 404, discontinued from Korean site"},
+      {"db_ref": "WSNM0019", "reason": "Drive de Cartier - collection page 404, discontinued from Korean site"},
+      {"db_ref": "WSPA0026", "reason": "Pasha Chronograph - product page 404, discontinued"},
+      {"db_ref": "WSSA0030", "reason": "Santos - not found on current Santos collection page"},
+      {"db_ref": "WSTA0041", "reason": "Tank Solo - product page 404, discontinued"},
+      {"db_ref": "WGTA0009", "reason": "Tank Louis Cartier - product page 404, discontinued"},
+      {"db_ref": "WSTA0085", "reason": "Tank Must - product page 404, discontinued"},
+      {"db_ref": "WSTA0018", "reason": "Tank Americaine - product page 404, discontinued"}
+    ]
+  },
+
+  "piaget": {
+    "source": "https://www.piaget.com/kr-ko/watches/",
+    "confirmed": true,
+    "models": [
+      {"db_ref": "G0A45016", "site_ref": "G0A41002", "site_price_krw": 22400000, "collection": "polo", "note": "Polo Date 42mm SS Cal.1110P - same specs, updated ref"},
+      {"db_ref": "G0A45009", "site_ref": "G0A45004", "site_price_krw": 47500000, "collection": "polo", "note": "Polo Skeleton 42mm SS Cal.1200S1 - same specs, updated ref"}
+    ],
+    "skipped": [
+      {"db_ref": "G0A43120", "reason": "Altiplano 38mm Manual SS - not on Korean site; only precious metal Altiplano currently listed"},
+      {"db_ref": "G0A45001", "reason": "Altiplano 38mm Auto SS - not on Korean site; only precious metal Altiplano currently listed"},
+      {"db_ref": "G0A46001", "reason": "Altiplano Ultimate Auto SS - page 404; only precious metal versions currently listed"},
+      {"db_ref": "G0A45114", "reason": "Altiplano 34mm SS - not on Korean site; only precious metal Altiplano currently listed"},
+      {"db_ref": "G0A45164", "reason": "Limelight Gala SS - not on Korean site; only precious metal Limelight currently listed"},
+      {"db_ref": "G0A45165", "reason": "Limelight Stella SS - not on Korean site; only precious metal Limelight currently listed"}
+    ]
+  }
+}

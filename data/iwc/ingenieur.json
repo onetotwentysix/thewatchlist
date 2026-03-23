@@ -142,8 +142,8 @@
     "name": "Ingenieur Automatic 35",
     "name_kr": "인제니어 오토매틱 35",
     "gender": "Women",
-    "price_krw": 12800000,
-    "price_confirmed": false,
+    "price_krw": 15800000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 35.1,
@@ -183,7 +183,7 @@
     "limited": false,
     "year_introduced": 2025,
     "resale_krw_est": 10500000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2025 신규 출시 35mm 버전 · 레이디스/유니섹스",
     "verdict": {
       "overall": "Emerging",

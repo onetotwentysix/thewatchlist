@@ -7,8 +7,8 @@
     "name": "Portofino Automatic 40",
     "name_kr": "포르토피노 오토매틱 40",
     "gender": "Men",
-    "price_krw": 8400000,
-    "price_confirmed": false,
+    "price_krw": 8500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -50,7 +50,7 @@
     "limited": false,
     "year_introduced": 2015,
     "resale_krw_est": 6000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "드레스 워치 · 바 인덱스 + 로만 12/6시",
     "verdict": {
       "overall": "Versatile",
@@ -76,8 +76,8 @@
     "name": "Portofino Automatic Moon Phase 40",
     "name_kr": "포르토피노 오토매틱 문페이즈 40",
     "gender": "Men/Women",
-    "price_krw": 12500000,
-    "price_confirmed": false,
+    "price_krw": 11800000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -119,7 +119,7 @@
     "limited": false,
     "year_introduced": 2023,
     "resale_krw_est": 9800000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "문페이즈 디스플레이 · Exhibition 케이스백",
     "verdict": {
       "overall": "Versatile",
@@ -145,8 +145,8 @@
     "name": "Portofino Automatic 37 Ladies",
     "name_kr": "포르토피노 오토매틱 37 레이디스",
     "gender": "Women",
-    "price_krw": 9200000,
-    "price_confirmed": false,
+    "price_krw": 8100000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 37,
@@ -187,7 +187,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 6800000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "레이디스 37mm · 마더오브펄 다이얼",
     "verdict": {
       "overall": "Classic",

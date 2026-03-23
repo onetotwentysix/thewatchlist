@@ -7,8 +7,8 @@
     "name": "Villeret Ultra-Slim Automatic 40",
     "name_kr": "빌레레 울트라슬림 오토매틱 40",
     "gender": "Men",
-    "price_krw": 14800000,
-    "price_confirmed": false,
+    "price_krw": 15860000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -49,7 +49,7 @@
     "limited": false,
     "year_introduced": 2011,
     "resale_krw_est": 11000000,
-    "source": "WatchCharts, Chrono24 (USD $8,500~ 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "블랑팡이 설립된 빌레레 마을 이름의 드레스 컬렉션. 더블 스텝 케이스와 울트라슬림.",
     "verdict": {
       "overall": "Classic",
@@ -75,8 +75,8 @@
     "name": "Villeret Complete Calendar 40",
     "name_kr": "빌레레 컴플리트 캘린더 40",
     "gender": "Men",
-    "price_krw": 21000000,
-    "price_confirmed": false,
+    "price_krw": 24190000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -118,7 +118,7 @@
     "limited": false,
     "year_introduced": 2015,
     "resale_krw_est": 16000000,
-    "source": "WatchCharts, Chrono24 (USD $13,000~ 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "컴플리트 캘린더 + 문페이즈. 블랑팡 드레스 컴플리케이션의 핵심.",
     "verdict": {
       "overall": "Definitive",
@@ -228,7 +228,19 @@
       "power_reserve_hours": 192,
       "frequency_vph": 21600,
       "jewels": 35,
-      "functions": ["Hours", "Minutes", "Seconds", "Perpetual Calendar", "Day", "Date", "Month", "Year", "Moon Phase", "Leap Year", "Power Reserve Indicator"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Perpetual Calendar",
+        "Day",
+        "Date",
+        "Month",
+        "Year",
+        "Moon Phase",
+        "Leap Year",
+        "Power Reserve Indicator"
+      ]
     },
     "dial": {
       "color": "Silver Guilloche",
@@ -240,7 +252,9 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "hard",
     "certification": false,
     "limited": false,
@@ -272,8 +286,8 @@
     "name": "Villeret Tourbillon Carrousel",
     "name_kr": "빌레레 투르비용 카루셀",
     "gender": "Men",
-    "price_krw": 130000000,
-    "price_confirmed": false,
+    "price_krw": 190540000,
+    "price_confirmed": true,
     "case": {
       "material": "Rose Gold",
       "diameter_mm": 42,
@@ -288,7 +302,12 @@
       "power_reserve_hours": 168,
       "frequency_vph": 21600,
       "jewels": 35,
-      "functions": ["Hours", "Minutes", "Tourbillon", "Carrousel"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon",
+        "Carrousel"
+      ]
     },
     "dial": {
       "color": "Silver Guilloche",
@@ -300,13 +319,15 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "hard",
     "certification": false,
     "limited": false,
     "year_introduced": 2013,
     "resale_krw_est": 105000000,
-    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "42mm 로즈 골드 · 13.55mm · Cal. 225 수동 168h · 투르비용 + 카루셀 동시 탑재 (세계 최초 구현 브랜드) · 핸드 기요셰 은 다이얼 · 시계 제조 역사상 가장 복잡한 레귤레이팅 오르간 조합",
     "verdict": {
       "overall": "Collector's Pick",

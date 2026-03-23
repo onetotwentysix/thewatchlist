@@ -7,8 +7,8 @@
     "name": "Rendez-Vous Moon 36",
     "name_kr": "랑데부 문 36",
     "gender": "Women",
-    "price_krw": 19500000,
-    "price_confirmed": false,
+    "price_krw": 31500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 36,
@@ -50,7 +50,7 @@
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 14000000,
-    "source": "WatchCharts (USD $11,000~ 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "JLC 여성 플래그십 컬렉션. 랑데부 특유의 다이아몬드 인덱스 버전.",
     "verdict": {
       "overall": "Versatile",

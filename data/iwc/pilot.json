@@ -7,8 +7,8 @@
     "name": "Pilot's Watch Mark XX",
     "name_kr": "파일럿 워치 마크 XX",
     "gender": "Men",
-    "price_krw": 7300000,
-    "price_confirmed": false,
+    "price_krw": 8900000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -49,7 +49,7 @@
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 5800000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "EasX-CHANGE 스트랩 시스템 · 항자기성 · 마크 XI 계보",
     "verdict": {
       "overall": "Versatile",
@@ -75,8 +75,8 @@
     "name": "Pilot's Watch Mark XX Bracelet",
     "name_kr": "파일럿 워치 마크 XX 브레이슬릿",
     "gender": "Men",
-    "price_krw": 8100000,
-    "price_confirmed": false,
+    "price_krw": 10500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -116,7 +116,7 @@
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 6500000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "마크 XX 스틸 브레이슬릿 버전",
     "verdict": {
       "overall": "Versatile",
@@ -142,8 +142,8 @@
     "name": "Pilot's Watch Mark XX White",
     "name_kr": "파일럿 워치 마크 XX 화이트",
     "gender": "Men",
-    "price_krw": 7300000,
-    "price_confirmed": false,
+    "price_krw": 8900000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -183,7 +183,7 @@
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 5800000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "화이트 다이얼 · 블랙 핸즈",
     "verdict": {
       "overall": "Versatile",
@@ -209,8 +209,8 @@
     "name": "Pilot's Watch Chronograph 41",
     "name_kr": "파일럿 크로노그래프 41",
     "gender": "Men",
-    "price_krw": 11800000,
-    "price_confirmed": false,
+    "price_krw": 14000000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -252,7 +252,7 @@
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 9500000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "IWC 자체 69380 칼리버 · 정시 리셋 크로노",
     "verdict": {
       "overall": "Versatile",
@@ -278,8 +278,8 @@
     "name": "Big Pilot's Watch",
     "name_kr": "빅 파일럿 워치",
     "gender": "Men",
-    "price_krw": 23500000,
-    "price_confirmed": false,
+    "price_krw": 21500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 46.2,
@@ -320,7 +320,7 @@
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 18000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "7일 파워리저브 · 52110 자체 무브먼트 · 46.2mm 대형",
     "verdict": {
       "overall": "Collector's Pick",

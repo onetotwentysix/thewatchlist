@@ -23,7 +23,11 @@
       "power_reserve_hours": 0,
       "frequency_vph": 0,
       "jewels": 7,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,7 +39,11 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Blue", "Pink"],
+    "color_variants": [
+      "Silver",
+      "Blue",
+      "Pink"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
@@ -67,8 +75,8 @@
     "name": "Ballon Bleu de Cartier 40mm",
     "name_kr": "발롱 블루 드 까르띠에 40",
     "gender": "Men",
-    "price_krw": 9800000,
-    "price_confirmed": false,
+    "price_krw": 12200000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -83,7 +91,12 @@
       "power_reserve_hours": 42,
       "frequency_vph": 28800,
       "jewels": 21,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +108,17 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Blue", "Black"],
+    "color_variants": [
+      "Silver",
+      "Blue",
+      "Black"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
     "year_introduced": 2007,
     "resale_krw_est": 8000000,
-    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "Ballon Bleu 남성 메인 사이즈 · Cal.1847 MC 자동",
     "verdict": {
       "overall": "Definitive",
@@ -143,7 +160,13 @@
       "power_reserve_hours": 48,
       "frequency_vph": 28800,
       "jewels": 30,
-      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -155,7 +178,9 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,

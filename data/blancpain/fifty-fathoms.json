@@ -7,8 +7,8 @@
     "name": "Fifty Fathoms Automatique 45 Steel",
     "name_kr": "피프티 패덤즈 오토매틱 45 스틸",
     "gender": "Men",
-    "price_krw": 22500000,
-    "price_confirmed": false,
+    "price_krw": 24520000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 45,
@@ -49,7 +49,7 @@
     "limited": false,
     "year_introduced": 2007,
     "resale_krw_est": 18000000,
-    "source": "Monochrome Watches, Blancpain 공식, WatchCharts",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "1953년 최초 다이버워치의 현대 계승작. 3-배럴 칼리버 1315로 5일 파워리저브. 실리콘 헤어스프링.",
     "verdict": {
       "overall": "Iconic",
@@ -75,8 +75,8 @@
     "name": "Fifty Fathoms Automatique 45 Titanium",
     "name_kr": "피프티 패덤즈 오토매틱 45 티타늄 블루",
     "gender": "Men",
-    "price_krw": 24500000,
-    "price_confirmed": false,
+    "price_krw": 29910000,
+    "price_confirmed": true,
     "case": {
       "material": "Titanium",
       "diameter_mm": 45,
@@ -116,7 +116,7 @@
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 20000000,
-    "source": "Monochrome Watches (CHF 14,700 기준 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "풀 새틴 브러싱 티타늄. 스틸 버전보다 가볍고 블루 다이얼.",
     "verdict": {
       "overall": "Iconic",
@@ -142,8 +142,8 @@
     "name": "Fifty Fathoms Automatique 42 Steel",
     "name_kr": "피프티 패덤즈 오토매틱 42 스틸",
     "gender": "Men",
-    "price_krw": 25000000,
-    "price_confirmed": false,
+    "price_krw": 27130000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42.3,
@@ -183,7 +183,7 @@
     "limited": false,
     "year_introduced": 2025,
     "resale_krw_est": 21000000,
-    "source": "Monochrome Watches 2025 (USD 약 $17,500 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "2025년 신규 42mm 스틸 버전. 45mm보다 착용감 개선.",
     "verdict": {
       "overall": "Definitive",
@@ -209,8 +209,8 @@
     "name": "Fifty Fathoms Bathyscaphe 38",
     "name_kr": "피프티 패덤즈 바티스카프 38",
     "gender": "Men/Women",
-    "price_krw": 15500000,
-    "price_confirmed": false,
+    "price_krw": 15360000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 38,
@@ -252,7 +252,7 @@
     "limited": false,
     "year_introduced": 2015,
     "resale_krw_est": 12000000,
-    "source": "WatchCharts, Chrono24 (USD $8,000~11,000 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "라운드 베젤과 더 얇은 케이스. 유니섹스 가능한 FF 엔트리.",
     "verdict": {
       "overall": "Versatile",
@@ -278,8 +278,8 @@
     "name": "Bathyscaphe Complete Calendar Moonphase",
     "name_kr": "바티스카프 컴플리트 캘린더 문페이즈",
     "gender": "Men",
-    "price_krw": 35000000,
-    "price_confirmed": false,
+    "price_krw": 83340000,
+    "price_confirmed": true,
     "case": {
       "material": "18K Red Gold",
       "diameter_mm": 43.6,
@@ -320,7 +320,7 @@
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 28000000,
-    "source": "WatchCharts (USD $22,000~ 추정), Chrono24",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "다이버 케이스에 컴플리케이션 결합. 18K 레드골드. 문페이즈+컴플리트 캘린더.",
     "verdict": {
       "overall": "Collector's Pick",
@@ -362,7 +362,12 @@
       "power_reserve_hours": 120,
       "frequency_vph": 28800,
       "jewels": 35,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -374,7 +379,11 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Black", "Blue", "Green"],
+    "color_variants": [
+      "Black",
+      "Blue",
+      "Green"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
@@ -406,8 +415,8 @@
     "name": "Fifty Fathoms Bathyscaphe Flyback Chronograph 43",
     "name_kr": "피프티 패덤즈 바티스카프 플라이백 크로노그래프 43",
     "gender": "Men",
-    "price_krw": 23000000,
-    "price_confirmed": false,
+    "price_krw": 27620000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 43,
@@ -422,7 +431,13 @@
       "power_reserve_hours": 40,
       "frequency_vph": 36000,
       "jewels": 37,
-      "functions": ["Hours", "Minutes", "Seconds", "Flyback Chronograph", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Blue",
@@ -434,13 +449,16 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Blue", "Black"],
+    "color_variants": [
+      "Blue",
+      "Black"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 18500000,
-    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "43mm · 15mm · Cal. F185 자동 플라이백 크로노그래프 · 36,000vph 고주파 · 300m 방수 · 세라믹 베젤 · 다이버워치에 인하우스 플라이백 크로노 탑재한 복합 전문 도구",
     "verdict": {
       "overall": "Specialist",
@@ -482,7 +500,17 @@
       "power_reserve_hours": 40,
       "frequency_vph": 36000,
       "jewels": 37,
-      "functions": ["Hours", "Minutes", "Seconds", "Flyback Chronograph", "Annual Calendar", "Day", "Date", "Month", "Moon Phase"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Annual Calendar",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -494,7 +522,10 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Black", "Blue"],
+    "color_variants": [
+      "Black",
+      "Blue"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,

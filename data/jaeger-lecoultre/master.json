@@ -7,8 +7,8 @@
     "name": "Master Control Date 40",
     "name_kr": "마스터 컨트롤 데이트 40",
     "gender": "Men",
-    "price_krw": 12500000,
-    "price_confirmed": false,
+    "price_krw": 15100000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -50,7 +50,7 @@
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 9500000,
-    "source": "WatchCharts (USD $7,500~ 추정), WatchCrunch 리뷰",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "1992년 마스터 컨트롤 재출시 계보. 1000시간 테스트. Cal.899는 70h 파워리저브.",
     "verdict": {
       "overall": "Versatile",
@@ -76,8 +76,8 @@
     "name": "Master Control Chronograph Calendar",
     "name_kr": "마스터 컨트롤 크로노그래프 캘린더",
     "gender": "Men",
-    "price_krw": 27000000,
-    "price_confirmed": false,
+    "price_krw": 28600000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42,
@@ -120,7 +120,7 @@
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 21000000,
-    "source": "WatchCharts (USD $17,000~ 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "크로노그래프 + 연간 캘린더 + 문페이즈. JLC 마스터 라인 최상위 컴플리케이션.",
     "verdict": {
       "overall": "Collector's Pick",
@@ -146,8 +146,8 @@
     "name": "Master Ultra Thin Moon 40",
     "name_kr": "마스터 울트라씬 문 40",
     "gender": "Men",
-    "price_krw": 17000000,
-    "price_confirmed": false,
+    "price_krw": 18400000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -189,7 +189,7 @@
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 13000000,
-    "source": "Chrono24 (₩14,336,768 중고가 확인), WatchCharts",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "9.9mm 슬림에 문페이즈 내장. 닥터 스트레인지에 등장해 한국 인지도 상승.",
     "verdict": {
       "overall": "Versatile",
@@ -215,8 +215,8 @@
     "name": "Master Grande Ultra Thin Date",
     "name_kr": "마스터 그랑드 울트라 씬 데이트",
     "gender": "Men",
-    "price_krw": 11500000,
-    "price_confirmed": false,
+    "price_krw": 15100000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -231,7 +231,12 @@
       "power_reserve_hours": 38,
       "frequency_vph": 28800,
       "jewels": 19,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -243,13 +248,16 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Blue"],
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2014,
     "resale_krw_est": 8800000,
-    "source": "JLC 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "40mm · 8.26mm · Cal.925/3 자동 (무브먼트 두께 3.3mm) · COSC 인증 · 50m 방수 · Master Ultra Thin 시리즈의 기본 날짜 모델 · 초박형 드레스 자동시계 카테고리의 기준",
     "verdict": {
       "overall": "Definitive",

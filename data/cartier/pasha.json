@@ -7,8 +7,8 @@
     "name": "Pasha de Cartier 41mm",
     "name_kr": "파샤 드 까르띠에 41",
     "gender": "Men",
-    "price_krw": 13500000,
-    "price_confirmed": false,
+    "price_krw": 11300000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -23,7 +23,12 @@
       "power_reserve_hours": 42,
       "frequency_vph": 28800,
       "jewels": 21,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,13 +40,17 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Black", "Blue"],
+    "color_variants": [
+      "Silver",
+      "Black",
+      "Blue"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 10500000,
-    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "스크루다운 크라운 + 크라운 캡 · COSC 크로노미터 인증 · 100m 방수 · 아라비아 숫자 인덱스로 Cartier 중 가장 스포티한 표정",
     "verdict": {
       "overall": "Definitive",
@@ -83,7 +92,13 @@
       "power_reserve_hours": 48,
       "frequency_vph": 28800,
       "jewels": 30,
-      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,7 +110,10 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Black"],
+    "color_variants": [
+      "Silver",
+      "Black"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
