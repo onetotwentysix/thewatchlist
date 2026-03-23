@@ -136,5 +136,411 @@
         "comment": "다이버 크로노그래프는 스포츠 시계 중에서도 수요가 안정적인 카테고리. 이 가격대에서 300m 방수 크로노는 경쟁력 있는 포지션."
       }
     }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Aquatimer",
+    "collection_kr": "아쿠아타이머",
+    "reference": "IW328802",
+    "name": "Aquatimer Automatic 42",
+    "name_kr": "아쿠아타이머 오토매틱",
+    "gender": "Men",
+    "price_krw": 11000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 14.7,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "인터날 / 익스터날 베젤 시스템",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Pro-Diver Spec",
+        "comment": "42mm · Cal.32111 · 300m · 120h 파워리저브. IWC 다이버 컬렉션의 실용적인 입문."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1967년 첫 아쿠아타이머부터 이어지는 다이버워치 계보."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 다이버 디자인은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Aquatimer",
+    "collection_kr": "아쿠아타이머",
+    "reference": "IW328803",
+    "name": "Aquatimer Automatic 42",
+    "name_kr": "아쿠아타이머 오토매틱",
+    "gender": "Men",
+    "price_krw": 12800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 14.7,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "고무 코팅 스테인리스 스틸 케이스",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Pro-Diver Spec",
+        "comment": "42mm · Cal.32111 · 300m · 120h 파워리저브. IWC 다이버 컬렉션의 실용적인 입문."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1967년 첫 아쿠아타이머부터 이어지는 다이버워치 계보."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 다이버 디자인은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Aquatimer",
+    "collection_kr": "아쿠아타이머",
+    "reference": "IW376803",
+    "name": "Aquatimer Chronograph 44",
+    "name_kr": "아쿠아타이머 크로노그래프",
+    "gender": "Men",
+    "price_krw": 12500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44,
+      "thickness_mm": 16.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69375",
+      "power_reserve_hours": 68,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "인터날 / 익스터날 베젤 시스템",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Diver Chrono",
+        "comment": "44mm · Cal.69375 · 300m · 68h. 다이버+크로노그래프 조합의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "아쿠아타이머 크로노 라인업의 현행 플래그십."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "툴워치 미학과 크로노 기능의 조화."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Aquatimer",
+    "collection_kr": "아쿠아타이머",
+    "reference": "IW376804",
+    "name": "Aquatimer Chronograph 44",
+    "name_kr": "아쿠아타이머 크로노그래프",
+    "gender": "Men",
+    "price_krw": 13900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44,
+      "thickness_mm": 16.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69375",
+      "power_reserve_hours": 68,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 9000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "브레이슬릿 포함 버전",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Diver Chrono",
+        "comment": "44mm · Cal.69375 · 300m · 68h. 다이버+크로노그래프 조합의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "아쿠아타이머 크로노 라인업의 현행 플래그십."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "툴워치 미학과 크로노 기능의 조화."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Aquatimer",
+    "collection_kr": "아쿠아타이머",
+    "reference": "IW379502",
+    "name": "Aquatimer Chronograph Edition Galápagos Islands",
+    "name_kr": "아쿠아타이머 크로노그래프 \"갈라파고스 아일랜드\" 에디션",
+    "gender": "Men",
+    "price_krw": 18300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 16.9,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89365",
+      "power_reserve_hours": 68,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 11900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "갈라파고스 해양보전 프로젝트 파트너십 에디션",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Expedition Grade",
+        "comment": "Cal.89365 · 300m · 특수 외부 기어 시스템. 전문 탐험가용 기능성."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "갈라파고스 해양보전 프로젝트와의 연계로 컬렉터블 가치."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "한정판적 성격의 에디션워치."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Aquatimer",
+    "collection_kr": "아쿠아타이머",
+    "reference": "IW379503",
+    "name": "Aquatimer Chronograph Edition Expedition Charles Darwin",
+    "name_kr": "아쿠아타이머 크로노그래프 \"엑스페디션 찰스 다윈\" 에디션",
+    "gender": "Men",
+    "price_krw": 18300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Bronze",
+      "diameter_mm": 44,
+      "thickness_mm": 16.9,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89365",
+      "power_reserve_hours": 68,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 11900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "브론즈 케이스 · 찰스 다윈 탐험 에디션",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Expedition Grade",
+        "comment": "Cal.89365 · 300m · 특수 외부 기어 시스템. 전문 탐험가용 기능성."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "갈라파고스 해양보전 프로젝트와의 연계로 컬렉터블 가치."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "한정판적 성격의 에디션워치."
+      }
+    }
   }
 ]

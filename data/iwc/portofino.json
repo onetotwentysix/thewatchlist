@@ -136,5 +136,3798 @@
         "comment": "문페이즈 컴플리케이션은 시대를 초월한 수요를 유지한다. 남/여 구분 없이 착용 가능한 40mm 사이즈로 기프트 및 커플 워치로도 인기."
       }
     }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW357411",
+    "name": "Portofino Automatic 34",
+    "name_kr": "포르토피노 오토매틱 34",
+    "gender": "Men",
+    "price_krw": 8100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW357412",
+    "name": "Portofino Automatic 34",
+    "name_kr": "포르토피노 오토매틱 34",
+    "gender": "Men",
+    "price_krw": 8100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW357413",
+    "name": "Portofino Automatic 34",
+    "name_kr": "포르토피노 오토매틱 34",
+    "gender": "Men",
+    "price_krw": 9600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 6200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW357414",
+    "name": "Portofino Automatic 34",
+    "name_kr": "포르토피노 오토매틱 34",
+    "gender": "Women",
+    "price_krw": 21700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 14100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW357415",
+    "name": "Portofino Automatic 34",
+    "name_kr": "포르토피노 오토매틱 34",
+    "gender": "Women",
+    "price_krw": 21700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Ardoise",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Ardoise"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 14100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW657601",
+    "name": "Portofino Automatic 34",
+    "name_kr": "포르토피노 오토매틱 34",
+    "gender": "Women",
+    "price_krw": 16600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 10800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW458601",
+    "name": "Portofino Automatic 37",
+    "name_kr": "포르토피노 오토매틱 37",
+    "gender": "Men",
+    "price_krw": 9400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 6100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW458602",
+    "name": "Portofino Automatic 37",
+    "name_kr": "포르토피노 오토매틱 37",
+    "gender": "Men",
+    "price_krw": 11000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 7200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW458603",
+    "name": "Portofino Automatic 37",
+    "name_kr": "포르토피노 오토매틱 37",
+    "gender": "Men",
+    "price_krw": 9400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 6100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW458606",
+    "name": "Portofino Automatic 37",
+    "name_kr": "포르토피노 오토매틱 37",
+    "gender": "Women",
+    "price_krw": 22000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 37,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 14300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW458610",
+    "name": "Portofino Automatic 37",
+    "name_kr": "포르토피노 오토매틱 37",
+    "gender": "Men",
+    "price_krw": 8000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 5200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW458611",
+    "name": "Portofino Automatic 37",
+    "name_kr": "포르토피노 오토매틱 37",
+    "gender": "Men",
+    "price_krw": 8000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 5200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW658601",
+    "name": "Portofino Automatic 37",
+    "name_kr": "포르토피노 오토매틱 37",
+    "gender": "Women",
+    "price_krw": 17800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 37,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 11600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW658602",
+    "name": "Portofino Automatic 37",
+    "name_kr": "포르토피노 오토매틱 37",
+    "gender": "Women",
+    "price_krw": 17800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 37,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Ardoise",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Ardoise"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 11600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW658603",
+    "name": "Portofino Automatic 37",
+    "name_kr": "포르토피노 오토매틱 37",
+    "gender": "Women",
+    "price_krw": 31500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 37,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 20500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW459801",
+    "name": "Portofino Automatic Day & Night 34",
+    "name_kr": "포르토피노 오토매틱 데이 & 나이트 34",
+    "gender": "Men",
+    "price_krw": 10600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35180",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 24,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Day/Night"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 6900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "낮/밤 표시 기능",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW459805",
+    "name": "Portofino Automatic Day & Night 34",
+    "name_kr": "포르토피노 오토매틱 데이 & 나이트 34",
+    "gender": "Women",
+    "price_krw": 26800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35180",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 24,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Day/Night"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 17400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "18k 옐로 골드 케이스 · 낮/밤 표시",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW659801",
+    "name": "Portofino Automatic Day & Night 34",
+    "name_kr": "포르토피노 오토매틱 데이 & 나이트 34",
+    "gender": "Women",
+    "price_krw": 17400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35180",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 24,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Day/Night"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 11300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드 케이스 · 낮/밤 표시",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW659802",
+    "name": "Portofino Automatic Day & Night 34",
+    "name_kr": "포르토피노 오토매틱 데이 & 나이트 34",
+    "gender": "Women",
+    "price_krw": 33900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35180",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 24,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Day/Night"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 22000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "18k 옐로 골드 케이스 · 다이아몬드 세팅",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW459601",
+    "name": "Portofino Automatic Moon Phase 37",
+    "name_kr": "포르토피노 오토매틱 문 페이즈 37",
+    "gender": "Men",
+    "price_krw": 13700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 11.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35800",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "문 페이즈 기능을 갖춘 낭만적인 드레스워치."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "IWC 문페이즈의 아름다운 표현."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "문페이즈 다이얼의 낭만은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW459604",
+    "name": "Portofino Automatic Moon Phase 37 Year of the Snake",
+    "name_kr": "포르토피노 오토매틱 문 페이즈 37 뱀의 해 에디션",
+    "gender": "Men",
+    "price_krw": 14700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 11.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35800",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2025,
+    "resale_krw_est": 9600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "뱀의 해(2025) 한정판",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "문 페이즈 기능을 갖춘 낭만적인 드레스워치."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "IWC 문페이즈의 아름다운 표현."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "문페이즈 다이얼의 낭만은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW659601",
+    "name": "Portofino Automatic Moon Phase 37",
+    "name_kr": "포르토피노 오토매틱 문 페이즈 37",
+    "gender": "Women",
+    "price_krw": 21000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 37,
+      "thickness_mm": 11.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35800",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 13700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "문 페이즈 기능을 갖춘 낭만적인 드레스워치."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "IWC 문페이즈의 아름다운 표현."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "문페이즈 다이얼의 낭만은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW659602",
+    "name": "Portofino Automatic Moon Phase 37",
+    "name_kr": "포르토피노 오토매틱 문 페이즈 37",
+    "gender": "Women",
+    "price_krw": 38000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 37,
+      "thickness_mm": 11.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35800",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 24700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "다이아몬드 베젤",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "문 페이즈 기능을 갖춘 낭만적인 드레스워치."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "IWC 문페이즈의 아름다운 표현."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "문페이즈 다이얼의 낭만은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW356501",
+    "name": "Portofino Automatic 40",
+    "name_kr": "포르토피노 오토매틱",
+    "gender": "Men",
+    "price_krw": 8500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Brown",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Brown"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW356504",
+    "name": "Portofino Automatic 40",
+    "name_kr": "포르토피노 오토매틱",
+    "gender": "Men",
+    "price_krw": 21100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 13700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW356505",
+    "name": "Portofino Automatic 40",
+    "name_kr": "포르토피노 오토매틱",
+    "gender": "Men",
+    "price_krw": 8600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW356506",
+    "name": "Portofino Automatic 40",
+    "name_kr": "포르토피노 오토매틱",
+    "gender": "Men",
+    "price_krw": 8600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW356517",
+    "name": "Portofino Automatic 40",
+    "name_kr": "포르토피노 오토매틱",
+    "gender": "Men",
+    "price_krw": 8500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 5500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW356522",
+    "name": "Portofino Automatic 40",
+    "name_kr": "포르토피노 오토매틱",
+    "gender": "Men",
+    "price_krw": 21100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Ardoise",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Ardoise"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 13700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW356523",
+    "name": "Portofino Automatic 40",
+    "name_kr": "포르토피노 오토매틱",
+    "gender": "Men",
+    "price_krw": 8500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 5500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW356527",
+    "name": "Portofino Automatic 40",
+    "name_kr": "포르토피노 오토매틱",
+    "gender": "Men",
+    "price_krw": 8500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Caramel",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Caramel"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 5500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW459403",
+    "name": "Portofino Automatic Moon Phase 40",
+    "name_kr": "포르토피노 오토매틱 문 페이즈",
+    "gender": "Men",
+    "price_krw": 31500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 40,
+      "thickness_mm": 11.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35800",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 20500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "18k 옐로 골드 케이스",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "문 페이즈 기능을 갖춘 낭만적인 드레스워치."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "IWC 문페이즈의 아름다운 표현."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "문페이즈 다이얼의 낭만은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW359201",
+    "name": "Portofino Pointer Date 39",
+    "name_kr": "포르토피노 포인터 데이트",
+    "gender": "Men",
+    "price_krw": 8600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39,
+      "thickness_mm": 10.7,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35160",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date (Pointer Hand)"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 5600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW359202",
+    "name": "Portofino Automatic Pointer Date Laureus",
+    "name_kr": "포르토피노 오토매틱 포인터 데이트 라우레우스",
+    "gender": "Men",
+    "price_krw": 9500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39,
+      "thickness_mm": 10.7,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35160",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date (Pointer Hand)"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 6200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "라우레우스 스포츠 포 굿 재단 에디션",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "얇은 케이스에 Cal.35111을 탑재한 드레스워치. 단순하고 우아한 설계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노는 이탈리아 항구 도시를 모티프로 한 드레스 컬렉션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "로마 숫자 다이얼과 클린한 케이스 라인은 클래식 드레스워치의 정수."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW359001",
+    "name": "Portofino Complete Calendar 41",
+    "name_kr": "포르토피노 컴플리트 캘린더",
+    "gender": "Men",
+    "price_krw": 16300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 11.7,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32150",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Day",
+        "Month",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 10600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "트리플 캘린더 + 문페이즈",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "High Complication",
+        "comment": "퍼페추얼 캘린더 혹은 컴플리트 캘린더를 탑재한 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "드레스워치에 담긴 최고 수준의 기술력."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "복잡한 캘린더 기능은 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW359002",
+    "name": "Portofino Complete Calendar 41",
+    "name_kr": "포르토피노 컴플리트 캘린더",
+    "gender": "Men",
+    "price_krw": 34600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 41,
+      "thickness_mm": 11.7,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32150",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Day",
+        "Month",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 22500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드 케이스 · 트리플 캘린더",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "High Complication",
+        "comment": "퍼페추얼 캘린더 혹은 컴플리트 캘린더를 탑재한 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "드레스워치에 담긴 최고 수준의 기술력."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "복잡한 캘린더 기능은 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391404",
+    "name": "Portofino Chronograph 39",
+    "name_kr": "포르토피노 크로노그래프 39",
+    "gender": "Men",
+    "price_krw": 10700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39,
+      "thickness_mm": 13,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 7000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391405",
+    "name": "Portofino Chronograph 39",
+    "name_kr": "포르토피노 크로노그래프 39",
+    "gender": "Men",
+    "price_krw": 10700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39,
+      "thickness_mm": 13,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 7000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391406",
+    "name": "Portofino Chronograph 39",
+    "name_kr": "포르토피노 크로노그래프 39",
+    "gender": "Men",
+    "price_krw": 10700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39,
+      "thickness_mm": 13,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 7000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391407",
+    "name": "Portofino Chronograph 39",
+    "name_kr": "포르토피노 크로노그래프 39",
+    "gender": "Men",
+    "price_krw": 10700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39,
+      "thickness_mm": 13,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 7000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391502",
+    "name": "Portofino Chronograph 39",
+    "name_kr": "포르토피노 크로노그래프 39",
+    "gender": "Men",
+    "price_krw": 11600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39,
+      "thickness_mm": 13,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 7500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391503",
+    "name": "Portofino Chronograph 39",
+    "name_kr": "포르토피노 크로노그래프 39",
+    "gender": "Men",
+    "price_krw": 13200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39,
+      "thickness_mm": 13,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 8600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391025",
+    "name": "Portofino Chronograph 42",
+    "name_kr": "포르토피노 크로노그래프",
+    "gender": "Men",
+    "price_krw": 29800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79320",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 19400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "18k 골드 케이스",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391027",
+    "name": "Portofino Chronograph 42",
+    "name_kr": "포르토피노 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79320",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 7300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391028",
+    "name": "Portofino Chronograph 42",
+    "name_kr": "포르토피노 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79320",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 7200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391029",
+    "name": "Portofino Chronograph 42",
+    "name_kr": "포르토피노 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79320",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 7300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391030",
+    "name": "Portofino Chronograph 42",
+    "name_kr": "포르토피노 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79320",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 7200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391031",
+    "name": "Portofino Chronograph 42",
+    "name_kr": "포르토피노 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79320",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Ardoise",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Ardoise"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 7300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391035",
+    "name": "Portofino Chronograph 42",
+    "name_kr": "포르토피노 크로노그래프",
+    "gender": "Men",
+    "price_krw": 29800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79320",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 19400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드 케이스",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391036",
+    "name": "Portofino Chronograph 42",
+    "name_kr": "포르토피노 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79320",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Brown",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Brown"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 7300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW391037",
+    "name": "Portofino Chronograph 42",
+    "name_kr": "포르토피노 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79320",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "드레스 감각과 크로노 기능의 결합."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "포르토피노 크로노는 포멀한 세팅에서도 크로노를 착용하게 해준다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "2-카운터 크로노 레이아웃은 영원히 세련된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW510107",
+    "name": "Portofino Hand-Wound Eight Days 45",
+    "name_kr": "포르토피노 핸드 와인드 8 Days",
+    "gender": "Men",
+    "price_krw": 35200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 11.7,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "59210",
+      "power_reserve_hours": 192,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 22900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "수동 무브먼트 · 8일 파워리저브",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "High Complication",
+        "comment": "퍼페추얼 캘린더 혹은 컴플리트 캘린더를 탑재한 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "드레스워치에 담긴 최고 수준의 기술력."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "복잡한 캘린더 기능은 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW516401",
+    "name": "Portofino Hand-Wound Moon Phase 45",
+    "name_kr": "포르토피노 핸드 와인드 문 페이즈",
+    "gender": "Men",
+    "price_krw": 20900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 13.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "59800",
+      "power_reserve_hours": 192,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 13600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "수동 무브먼트 · 문 페이즈",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "문 페이즈 기능을 갖춘 낭만적인 드레스워치."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "IWC 문페이즈의 아름다운 표현."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "문페이즈 다이얼의 낭만은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW516409",
+    "name": "Portofino Hand-Wound Moon Phase 45",
+    "name_kr": "포르토피노 핸드 와인드 문 페이즈",
+    "gender": "Men",
+    "price_krw": 42200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 45,
+      "thickness_mm": 13.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "59800",
+      "power_reserve_hours": 192,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 27400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드 케이스",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "문 페이즈 기능을 갖춘 낭만적인 드레스워치."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "IWC 문페이즈의 아름다운 표현."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "문페이즈 다이얼의 낭만은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW344601",
+    "name": "Portofino Perpetual Calendar 40",
+    "name_kr": "포르토피노 퍼페추얼 캘린더",
+    "gender": "Men",
+    "price_krw": 38000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 12.7,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82650",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 24700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "퍼페추얼 캘린더 · Cal.82650",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "High Complication",
+        "comment": "퍼페추얼 캘린더 혹은 컴플리트 캘린더를 탑재한 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "드레스워치에 담긴 최고 수준의 기술력."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "복잡한 캘린더 기능은 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW344602",
+    "name": "Portofino Perpetual Calendar 40",
+    "name_kr": "포르토피노 퍼페추얼 캘린더",
+    "gender": "Men",
+    "price_krw": 57000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 40,
+      "thickness_mm": 12.7,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82650",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 37100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드 · 퍼페추얼 캘린더",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "High Complication",
+        "comment": "퍼페추얼 캘린더 혹은 컴플리트 캘린더를 탑재한 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "드레스워치에 담긴 최고 수준의 기술력."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "복잡한 캘린더 기능은 시간이 지날수록 가치를 높인다."
+      }
+    }
   }
 ]

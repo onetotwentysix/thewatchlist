@@ -345,5 +345,3644 @@
         "comment": "신색상으로 중고 시장 데이터가 축적 중. 듄 컬러는 베이지 계열로 트렌드에 상대적으로 자유롭다. 독특한 다이얼 피니싱이 장기적으로 희소성을 만들어낼 가능성."
       }
     }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW358303",
+    "name": "Portugieser Automatic 40",
+    "name_kr": "포르투기저 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 11600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "Cal.82200 · 60h · 40mm. 포르투기저의 핵심 DNA를 담은 3-핸드 워치."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "1939년 첫 포르투기저부터 이어지는 역사. IWC 드레스워치의 상징."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "아라비아 숫자 + 가는 핸즈의 클래식한 조합은 영원히 유효하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW358310",
+    "name": "Portugieser Automatic 40",
+    "name_kr": "포르투기저 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 11600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "Cal.82200 · 60h · 40mm. 포르투기저의 핵심 DNA를 담은 3-핸드 워치."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "1939년 첫 포르투기저부터 이어지는 역사. IWC 드레스워치의 상징."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "아라비아 숫자 + 가는 핸즈의 클래식한 조합은 영원히 유효하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW358312",
+    "name": "Portugieser Automatic 40",
+    "name_kr": "포르투기저 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 13200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "Cal.82200 · 60h · 40mm. 포르투기저의 핵심 DNA를 담은 3-핸드 워치."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "1939년 첫 포르투기저부터 이어지는 역사. IWC 드레스워치의 상징."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "아라비아 숫자 + 가는 핸즈의 클래식한 조합은 영원히 유효하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW358313",
+    "name": "Portugieser Automatic 40",
+    "name_kr": "포르투기저 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 11600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "Cal.82200 · 60h · 40mm. 포르투기저의 핵심 DNA를 담은 3-핸드 워치."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "1939년 첫 포르투기저부터 이어지는 역사. IWC 드레스워치의 상징."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "아라비아 숫자 + 가는 핸즈의 클래식한 조합은 영원히 유효하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW358401",
+    "name": "Portugieser Automatic 40",
+    "name_kr": "포르투기저 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 31000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 40,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 20200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "Cal.82200 · 60h · 40mm. 포르투기저의 핵심 DNA를 담은 3-핸드 워치."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "1939년 첫 포르투기저부터 이어지는 역사. IWC 드레스워치의 상징."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "아라비아 숫자 + 가는 핸즈의 클래식한 조합은 영원히 유효하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW358402",
+    "name": "Portugieser Automatic 40",
+    "name_kr": "포르투기저 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 32800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 40,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Ardoise",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Ardoise"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 21300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "Cal.82200 · 60h · 40mm. 포르투기저의 핵심 DNA를 담은 3-핸드 워치."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "1939년 첫 포르투기저부터 이어지는 역사. IWC 드레스워치의 상징."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "아라비아 숫자 + 가는 핸즈의 클래식한 조합은 영원히 유효하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW358404",
+    "name": "Portugieser Automatic 40",
+    "name_kr": "포르투기저 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 31000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 40,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 20200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "Cal.82200 · 60h · 40mm. 포르투기저의 핵심 DNA를 담은 3-핸드 워치."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "1939년 첫 포르투기저부터 이어지는 역사. IWC 드레스워치의 상징."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "아라비아 숫자 + 가는 핸즈의 클래식한 조합은 영원히 유효하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371606",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 13500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Brown",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Brown"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371609",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 13500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371611",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 31500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 20500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371614",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 31500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Ardoise",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Ardoise"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 20500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371615",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 13500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver Plated",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Plated"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371617",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 15000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 9800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371620",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 13500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 8800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371625",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 31500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 20500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371626",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 33500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 21800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371631",
+    "name": "Portugieser Chronograph Ceratanium",
+    "name_kr": "포르투기저 크로노그래프 세라타늄®",
+    "gender": "Men",
+    "price_krw": 22215000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "NATO Strap",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 14400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "세라타늄® 케이스 · 탄소섬유 패턴",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Iconic Chrono",
+        "comment": "Cal.69355 · 46h · 41mm. 포르투기저 크로노는 드레스 크로노의 교과서."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 수십 년간 드레스워치 크로노의 기준점."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "2-카운터 레이아웃과 아라비아 숫자의 조합은 시대를 초월한다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW501701",
+    "name": "Portugieser Automatic 42",
+    "name_kr": "포르투기저 오토매틱 42",
+    "gender": "Men",
+    "price_krw": 21200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 11,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52010",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 57,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 13800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "Cal.52010 · 168h · 42mm. 일주일간 무동작 유지 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르투기저 7데이즈 라인은 대형 케이스 드레스워치의 명작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "파워 리저브 인디케이터가 포인트인 클래식 드레스워치."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW501702",
+    "name": "Portugieser Automatic 42",
+    "name_kr": "포르투기저 오토매틱 42",
+    "gender": "Men",
+    "price_krw": 21200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 11,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52010",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 57,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 13800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "Cal.52010 · 168h · 42mm. 일주일간 무동작 유지 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르투기저 7데이즈 라인은 대형 케이스 드레스워치의 명작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "파워 리저브 인디케이터가 포인트인 클래식 드레스워치."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW501704",
+    "name": "Portugieser Automatic 42",
+    "name_kr": "포르투기저 오토매틱 42",
+    "gender": "Men",
+    "price_krw": 22800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 11,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52010",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 57,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 14800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "Cal.52010 · 168h · 42mm. 일주일간 무동작 유지 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르투기저 7데이즈 라인은 대형 케이스 드레스워치의 명작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "파워 리저브 인디케이터가 포인트인 클래식 드레스워치."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW501705",
+    "name": "Portugieser Automatic 42",
+    "name_kr": "포르투기저 오토매틱 42",
+    "gender": "Men",
+    "price_krw": 21200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 11,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52010",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 57,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 13800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "Cal.52010 · 168h · 42mm. 일주일간 무동작 유지 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르투기저 7데이즈 라인은 대형 케이스 드레스워치의 명작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "파워 리저브 인디케이터가 포인트인 클래식 드레스워치."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW501706",
+    "name": "Portugieser Automatic 42",
+    "name_kr": "포르투기저 오토매틱 42",
+    "gender": "Men",
+    "price_krw": 44800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 11,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52010",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 57,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 29100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "Cal.52010 · 168h · 42mm. 일주일간 무동작 유지 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르투기저 7데이즈 라인은 대형 케이스 드레스워치의 명작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "파워 리저브 인디케이터가 포인트인 클래식 드레스워치."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW501707",
+    "name": "Portugieser Automatic 42",
+    "name_kr": "포르투기저 오토매틱 42",
+    "gender": "Men",
+    "price_krw": 44800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 11,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52010",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 57,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 29100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "Cal.52010 · 168h · 42mm. 일주일간 무동작 유지 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르투기저 7데이즈 라인은 대형 케이스 드레스워치의 명작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "파워 리저브 인디케이터가 포인트인 클래식 드레스워치."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW501708",
+    "name": "Portugieser Automatic 42",
+    "name_kr": "포르투기저 오토매틱 42",
+    "gender": "Men",
+    "price_krw": 46400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 11,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52010",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 57,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Ardoise",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Ardoise"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 30200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "Cal.52010 · 168h · 42mm. 일주일간 무동작 유지 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르투기저 7데이즈 라인은 대형 케이스 드레스워치의 명작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "파워 리저브 인디케이터가 포인트인 클래식 드레스워치."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW501709",
+    "name": "Portugieser Automatic 42 Year of the Horse",
+    "name_kr": "포르투기저 오토매틱 42 말의 해 에디션",
+    "gender": "Men",
+    "price_krw": 23200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 11,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52010",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 57,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2026,
+    "resale_krw_est": 15100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "말의 해(2026) 한정판",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "Cal.52010 · 168h · 42mm. 일주일간 무동작 유지 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르투기저 7데이즈 라인은 대형 케이스 드레스워치의 명작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "파워 리저브 인디케이터가 포인트인 클래식 드레스워치."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW390701",
+    "name": "Portugieser Yacht Club Chronograph",
+    "name_kr": "포르투기저 요트 클럽 크로노그래프",
+    "gender": "Men",
+    "price_krw": 20800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44.6,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89361",
+      "power_reserve_hours": 68,
+      "frequency_vph": 28800,
+      "jewels": 38,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 13500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "요트 클럽 크로노 · 100m 방수",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Yacht Grade",
+        "comment": "Cal.89361 · 44.6mm · 100m. 요트 클럽 전용 기능 + 크로노."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "아메리카스컵 등 요트 레이싱과의 연관성."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스포티-럭셔리의 교차점."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW390702",
+    "name": "Portugieser Yacht Club Chronograph",
+    "name_kr": "포르투기저 요트 클럽 크로노그래프",
+    "gender": "Men",
+    "price_krw": 20800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44.6,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89361",
+      "power_reserve_hours": 68,
+      "frequency_vph": 28800,
+      "jewels": 38,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 13500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "요트 클럽 크로노 · 100m 방수",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Yacht Grade",
+        "comment": "Cal.89361 · 44.6mm · 100m. 요트 클럽 전용 기능 + 크로노."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "아메리카스컵 등 요트 레이싱과의 연관성."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스포티-럭셔리의 교차점."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW390704",
+    "name": "Portugieser Yacht Club Chronograph Oleva Brown",
+    "name_kr": "포르투기저 요트 클럽 크로노그래프 \"올레바 브라운\" 에디션",
+    "gender": "Men",
+    "price_krw": 20000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44.6,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89361",
+      "power_reserve_hours": 68,
+      "frequency_vph": 28800,
+      "jewels": 38,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Brown",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Brown"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 13000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "올레바 브라운 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Yacht Grade",
+        "comment": "Cal.89361 · 44.6mm · 100m. 요트 클럽 전용 기능 + 크로노."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "아메리카스컵 등 요트 레이싱과의 연관성."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스포티-럭셔리의 교차점."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW344001",
+    "name": "Portugieser Yacht Club Moon & Tide",
+    "name_kr": "포르투기저 요트 클럽 문 & 타이드",
+    "gender": "Men",
+    "price_krw": 61000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 44.6,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89801",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase",
+        "Tide",
+        "Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 39700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "문 페이즈 + 조류 표시 · 18k 골드",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW344002",
+    "name": "Portugieser Yacht Club Moon & Tide",
+    "name_kr": "포르투기저 요트 클럽 문 & 타이드",
+    "gender": "Men",
+    "price_krw": 36600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44.6,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89801",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase",
+        "Tide",
+        "Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Natural Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 23800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "문 페이즈 + 조류 표시",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW344202",
+    "name": "Portugieser Perpetual Calendar 42",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 42",
+    "gender": "Men",
+    "price_krw": 59500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82650",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 38700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "18k 옐로 골드",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW344203",
+    "name": "Portugieser Perpetual Calendar 42",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 42",
+    "gender": "Men",
+    "price_krw": 39800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82650",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 25900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW344205",
+    "name": "Portugieser Perpetual Calendar 42",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 42",
+    "gender": "Men",
+    "price_krw": 59500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82650",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 38700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW344207",
+    "name": "Portugieser Perpetual Calendar 42",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 42",
+    "gender": "Men",
+    "price_krw": 39800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82650",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 25900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW503302",
+    "name": "Portugieser Perpetual Calendar",
+    "name_kr": "포르투기저 퍼페추얼 캘린더",
+    "gender": "Men",
+    "price_krw": 74500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82650",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 48400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "클래식 퍼페추얼 캘린더 · 골드",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW503312",
+    "name": "Portugieser Perpetual Calendar",
+    "name_kr": "포르투기저 퍼페추얼 캘린더",
+    "gender": "Men",
+    "price_krw": 74500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82650",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 48400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "클래식 퍼페추얼 캘린더 · 로즈 골드",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW503701",
+    "name": "Portugieser Perpetual Calendar 44",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 44",
+    "gender": "Men",
+    "price_krw": 77000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44.4,
+      "thickness_mm": 15,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 50100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW503702",
+    "name": "Portugieser Perpetual Calendar 44",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 44",
+    "gender": "Men",
+    "price_krw": 77000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44.4,
+      "thickness_mm": 15,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 50100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW503703",
+    "name": "Portugieser Perpetual Calendar 44",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 44",
+    "gender": "Men",
+    "price_krw": 80000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 44.4,
+      "thickness_mm": 15,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 52000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW503704",
+    "name": "Portugieser Perpetual Calendar 44",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 44",
+    "gender": "Men",
+    "price_krw": 80000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 44.4,
+      "thickness_mm": 15,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 52000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "옐로 골드",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "퍼페추얼 캘린더 · 자동 업데이트. 시계 제작의 정점."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "포르투기저 퍼페추얼 캘린더는 IWC 복잡 기능의 대표작."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 캘린더는 시간이 지날수록 가치를 높인다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW545801",
+    "name": "Portugieser Hand-Wound Tourbillon",
+    "name_kr": "포르투기저 핸드 와인드 투르비옹",
+    "gender": "Men",
+    "price_krw": 116000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "98900",
+      "power_reserve_hours": 60,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 75400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "투르비옹 · Cal.98900",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW545901",
+    "name": "Portugieser Hand-Wound Tourbillon Day & Night",
+    "name_kr": "포르투기저 핸드 와인드 투르비옹 데이 & 나이트",
+    "gender": "Men",
+    "price_krw": 180000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "98900",
+      "power_reserve_hours": 60,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 117000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "투르비옹 + 낮/밤 표시 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW394005",
+    "name": "Portugieser Tourbillon Retrograde Chronograph",
+    "name_kr": "포르투기저 투르비옹 레트로그레이드 크로노그래프",
+    "gender": "Men",
+    "price_krw": 200000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Platinum",
+      "diameter_mm": 44,
+      "thickness_mm": 16,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89900",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Retrograde Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 130000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "플래티늄 · 투르비옹 레트로그레이드 크로노 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW394006",
+    "name": "Portugieser Tourbillon Retrograde Chronograph",
+    "name_kr": "포르투기저 투르비옹 레트로그레이드 크로노그래프",
+    "gender": "Men",
+    "price_krw": 200000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44,
+      "thickness_mm": 16,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89900",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Retrograde Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 130000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "투르비옹 레트로그레이드 크로노 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW394007",
+    "name": "Portugieser Tourbillon Retrograde Chronograph",
+    "name_kr": "포르투기저 투르비옹 레트로그레이드 크로노그래프",
+    "gender": "Men",
+    "price_krw": 200000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 44,
+      "thickness_mm": 16,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89900",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Retrograde Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 130000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드 · 투르비옹 레트로그레이드 크로노 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW394009",
+    "name": "Portugieser Tourbillon Retrograde Chronograph",
+    "name_kr": "포르투기저 투르비옹 레트로그레이드 크로노그래프",
+    "gender": "Men",
+    "price_krw": 200000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 44,
+      "thickness_mm": 16,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89900",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Retrograde Chronograph"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 130000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "골드 · 투르비옹 레트로그레이드 크로노 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW377601",
+    "name": "Portugieser Grande Complication",
+    "name_kr": "포르투기저 그랑 컴플리케이션",
+    "gender": "Men",
+    "price_krw": 350000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Platinum",
+      "diameter_mm": 44,
+      "thickness_mm": 16.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "97895",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 67,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Split-Second Chrono",
+        "Perpetual Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 227500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "그랑 컴플리케이션 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW377602",
+    "name": "Portugieser Grande Complication",
+    "name_kr": "포르투기저 그랑 컴플리케이션",
+    "gender": "Men",
+    "price_krw": 350000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 44,
+      "thickness_mm": 16.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "97895",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 67,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Split-Second Chrono",
+        "Perpetual Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 227500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드 그랑 컴플리케이션 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW504504",
+    "name": "Portugieser Perpetual Calendar Tourbillon",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 투르비옹",
+    "gender": "Men",
+    "price_krw": 250000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44.4,
+      "thickness_mm": 16,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "94900",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Tourbillon",
+        "Perpetual Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 162500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "퍼페추얼 캘린더 + 투르비옹 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW504505",
+    "name": "Portugieser Perpetual Calendar Tourbillon",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 투르비옹",
+    "gender": "Men",
+    "price_krw": 250000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 44.4,
+      "thickness_mm": 16,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "94900",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Tourbillon",
+        "Perpetual Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 162500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드 · 퍼페추얼 캘린더 + 투르비옹 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW504506",
+    "name": "Portugieser Perpetual Calendar Tourbillon",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 투르비옹",
+    "gender": "Men",
+    "price_krw": 250000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 44.4,
+      "thickness_mm": 16,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "94900",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 46,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Tourbillon",
+        "Perpetual Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 162500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "골드 · 퍼페추얼 캘린더 + 투르비옹 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW505701",
+    "name": "Portugieser Eternal Calendar",
+    "name_kr": "포르투기저 이터널 캘린더",
+    "gender": "Men",
+    "price_krw": 350000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Platinum",
+      "diameter_mm": 44.2,
+      "thickness_mm": 16,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89900",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 68,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Year",
+        "Moon Phase",
+        "Eternal Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 227500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "이터널 캘린더 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW504101",
+    "name": "Portugieser Siderale Scafusia",
+    "name_kr": "포르투기저 시데럴 스카푸시아",
+    "gender": "Men",
+    "price_krw": 350000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Platinum",
+      "diameter_mm": 46,
+      "thickness_mm": 16,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "98900",
+      "power_reserve_hours": 96,
+      "frequency_vph": 18000,
+      "jewels": 68,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Sidereal Time",
+        "Sky Chart",
+        "Perpetual Calendar",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 227500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "시데럴 스카푸시아 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "투르비옹 혹은 그랑 컴플리케이션. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 최고 복잡 기능의 집약체."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초고급 컴플리케이션의 희소성."
+      }
+    }
   }
 ]

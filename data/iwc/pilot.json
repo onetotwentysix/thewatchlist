@@ -337,5 +337,5182 @@
         "comment": "큰 사이즈는 호불호가 갈리지만 컬렉터 세계에서 빅파일럿의 위상은 확고. 스틸 버전의 중고가는 안정적. 투자보다는 컬렉션의 앵커 피스로서의 가치가 크다."
       }
     }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328203",
+    "name": "Pilot's Watch Mark XX",
+    "name_kr": "파일럿 워치 마크 XX",
+    "gender": "Men",
+    "price_krw": 8900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "40mm · Cal.32111 · 120h · 100m. EasX-CHANGE 스트랩 · 항자기성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마크 XI(1948) 계보. 75년 이상의 파일럿 워치 역사."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 + 삼각형 12시 표식은 파일럿 워치의 클래식."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328204",
+    "name": "Pilot's Watch Mark XX",
+    "name_kr": "파일럿 워치 마크 XX",
+    "gender": "Men",
+    "price_krw": 10500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 6800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "브레이슬릿 버전",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "40mm · Cal.32111 · 120h · 100m. EasX-CHANGE 스트랩 · 항자기성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마크 XI(1948) 계보. 75년 이상의 파일럿 워치 역사."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 + 삼각형 12시 표식은 파일럿 워치의 클래식."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328205",
+    "name": "Pilot's Watch Mark XX",
+    "name_kr": "파일럿 워치 마크 XX",
+    "gender": "Men",
+    "price_krw": 8900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "40mm · Cal.32111 · 120h · 100m. EasX-CHANGE 스트랩 · 항자기성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마크 XI(1948) 계보. 75년 이상의 파일럿 워치 역사."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 + 삼각형 12시 표식은 파일럿 워치의 클래식."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328206",
+    "name": "Pilot's Watch Mark XX",
+    "name_kr": "파일럿 워치 마크 XX",
+    "gender": "Men",
+    "price_krw": 10500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 6800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "그린 브레이슬릿",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "40mm · Cal.32111 · 120h · 100m. EasX-CHANGE 스트랩 · 항자기성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마크 XI(1948) 계보. 75년 이상의 파일럿 워치 역사."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 + 삼각형 12시 표식은 파일럿 워치의 클래식."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328208",
+    "name": "Pilot's Watch Mark XX",
+    "name_kr": "파일럿 워치 마크 XX",
+    "gender": "Men",
+    "price_krw": 10500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver (White)",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver (White)"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 6800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 브레이슬릿",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "40mm · Cal.32111 · 120h · 100m. EasX-CHANGE 스트랩 · 항자기성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마크 XI(1948) 계보. 75년 이상의 파일럿 워치 역사."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 + 삼각형 12시 표식은 파일럿 워치의 클래식."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328209",
+    "name": "Pilot's Watch Mark XX Patrouille Suisse",
+    "name_kr": "파일럿 워치 마크 XX 파트루이유 스위스",
+    "gender": "Men",
+    "price_krw": 11300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 7300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "스위스 에어쇼 팀 파트루이유 스위스 에디션",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "40mm · Cal.32111 · 120h · 100m. EasX-CHANGE 스트랩 · 항자기성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마크 XI(1948) 계보. 75년 이상의 파일럿 워치 역사."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 + 삼각형 12시 표식은 파일럿 워치의 클래식."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328210",
+    "name": "Pilot's Watch Mark XX Mercedes-AMG Petronas F1",
+    "name_kr": "파일럿 워치 마크 XX 메르세데스-AMG 페트로나스 포뮬러 원™ 팀 에디션",
+    "gender": "Men",
+    "price_krw": 10700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 7000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "메르세데스-AMG 페트로나스 에디션",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "40mm · Cal.32111 · 120h · 100m. EasX-CHANGE 스트랩 · 항자기성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마크 XI(1948) 계보. 75년 이상의 파일럿 워치 역사."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 + 삼각형 12시 표식은 파일럿 워치의 클래식."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW324008",
+    "name": "Pilot's Watch Automatic 36",
+    "name_kr": "파일럿 워치 오토매틱 36",
+    "gender": "Men",
+    "price_krw": 8000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 10.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Compact Pilot",
+        "comment": "36mm · Cal.35111 · 소형화된 파일럿 워치."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "마크 계보의 콤팩트 버전."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "작은 손목에도 어울리는 파일럿 스타일."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW324010",
+    "name": "Pilot's Watch Automatic 36",
+    "name_kr": "파일럿 워치 오토매틱 36",
+    "gender": "Men",
+    "price_krw": 9500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 10.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 6200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "브레이슬릿 버전",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Compact Pilot",
+        "comment": "36mm · Cal.35111 · 소형화된 파일럿 워치."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "마크 계보의 콤팩트 버전."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "작은 손목에도 어울리는 파일럿 스타일."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW326906",
+    "name": "Pilot's Watch Automatic 41 TopGun",
+    "name_kr": "파일럿 워치 오토매틱 탑건",
+    "gender": "Men",
+    "price_krw": 10500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 41,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 6800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328104",
+    "name": "Pilot's Watch Automatic 41 TopGun Lake Tahoe",
+    "name_kr": "파일럿 워치 오토매틱 41 탑건 레이크 타호 에디션",
+    "gender": "Men",
+    "price_krw": 13400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 41,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 8700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "레이크 타호 스페셜 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328106",
+    "name": "Pilot's Watch Automatic 41 TopGun Mojave Desert",
+    "name_kr": "파일럿 워치 오토매틱 41 탑건 모하비 데저트",
+    "gender": "Men",
+    "price_krw": 13400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 41,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sand",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Sand"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 8700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "모하비 데저트 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328107",
+    "name": "Pilot's Watch Automatic 41 George Russell",
+    "name_kr": "파일럿 워치 오토매틱 41 조지 러셀",
+    "gender": "Men",
+    "price_krw": 13400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 8700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "F1 드라이버 조지 러셀 에디션",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "40mm · Cal.32111 · 120h · 100m. EasX-CHANGE 스트랩 · 항자기성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마크 XI(1948) 계보. 75년 이상의 파일럿 워치 역사."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 + 삼각형 12시 표식은 파일럿 워치의 클래식."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW329301",
+    "name": "Big Pilot's Watch 43",
+    "name_kr": "빅 파일럿 워치 43",
+    "gender": "Men",
+    "price_krw": 14000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82100",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 22,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 9100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Wearable Big Pilot",
+        "comment": "43mm · Cal.82100 · 착용성이 개선된 빅 파일럿."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빅 파일럿 DNA를 43mm로 현대화한 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "착용감과 존재감의 균형."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW329304",
+    "name": "Big Pilot's Watch 43",
+    "name_kr": "빅 파일럿 워치 43",
+    "gender": "Men",
+    "price_krw": 15600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82100",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 22,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 10100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "브레이슬릿 버전",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Wearable Big Pilot",
+        "comment": "43mm · Cal.82100 · 착용성이 개선된 빅 파일럿."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빅 파일럿 DNA를 43mm로 현대화한 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "착용감과 존재감의 균형."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW329306",
+    "name": "Big Pilot's Watch 43",
+    "name_kr": "빅 파일럿 워치 43",
+    "gender": "Men",
+    "price_krw": 14000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82100",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 22,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 9100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Wearable Big Pilot",
+        "comment": "43mm · Cal.82100 · 착용성이 개선된 빅 파일럿."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빅 파일럿 DNA를 43mm로 현대화한 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "착용감과 존재감의 균형."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW329701",
+    "name": "Big Pilot's Watch 43 Spitfire",
+    "name_kr": "빅 파일럿 워치 43 스핏파이어",
+    "gender": "Men",
+    "price_krw": 15200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82100",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 22,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Brown",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin (Distressed)",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Brown"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 9900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "스핏파이어 복고 에디션",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Wearable Big Pilot",
+        "comment": "43mm · Cal.82100 · 착용성이 개선된 빅 파일럿."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빅 파일럿 DNA를 43mm로 현대화한 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "착용감과 존재감의 균형."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW329702",
+    "name": "Big Pilot's Watch 43 Spitfire",
+    "name_kr": "빅 파일럿 워치 43 스핏파이어",
+    "gender": "Men",
+    "price_krw": 15800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82100",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 22,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Brown",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin (Distressed)",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Brown"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 10300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "스핏파이어 브레이슬릿",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Wearable Big Pilot",
+        "comment": "43mm · Cal.82100 · 착용성이 개선된 빅 파일럿."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빅 파일럿 DNA를 43mm로 현대화한 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "착용감과 존재감의 균형."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW329801",
+    "name": "Big Pilot's Watch 43 TopGun",
+    "name_kr": "빅 파일럿 워치 43 탑건",
+    "gender": "Men",
+    "price_krw": 16400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 43,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82100",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 22,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 10700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "세라믹 케이스 · 탑건",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW329501",
+    "name": "Big Pilot's Watch 43 Tourbillon Le Petit Prince",
+    "name_kr": "빅 파일럿 워치 43 투르비옹 어린 왕자",
+    "gender": "Men",
+    "price_krw": 144500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 15,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "98910",
+      "power_reserve_hours": 72,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 93900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "투르비옹 · 어린 왕자 에디션",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Rare",
+        "comment": "투르비옹 혹은 초복잡 기능. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 파일럿 컬렉션의 정점."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초희소 파일럿 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW329502",
+    "name": "Big Pilot's Watch 43 Tourbillon Le Petit Prince",
+    "name_kr": "빅 파일럿 워치 43 투르비옹 어린 왕자",
+    "gender": "Men",
+    "price_krw": 139000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 15,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "98910",
+      "power_reserve_hours": 72,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 90400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "투르비옹 · 어린 왕자 에디션",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Rare",
+        "comment": "투르비옹 혹은 초복잡 기능. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 파일럿 컬렉션의 정점."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초희소 파일럿 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW378001",
+    "name": "Pilot's Watch Chronograph",
+    "name_kr": "파일럿 워치 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW378002",
+    "name": "Pilot's Watch Chronograph",
+    "name_kr": "파일럿 워치 크로노그래프",
+    "gender": "Men",
+    "price_krw": 13300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW378003",
+    "name": "Pilot's Watch Chronograph",
+    "name_kr": "파일럿 워치 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW378004",
+    "name": "Pilot's Watch Chronograph",
+    "name_kr": "파일럿 워치 크로노그래프",
+    "gender": "Men",
+    "price_krw": 13300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW378005",
+    "name": "Pilot's Watch Chronograph",
+    "name_kr": "파일럿 워치 크로노그래프",
+    "gender": "Men",
+    "price_krw": 11800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW378006",
+    "name": "Pilot's Watch Chronograph",
+    "name_kr": "파일럿 워치 크로노그래프",
+    "gender": "Men",
+    "price_krw": 13300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 8600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW378009",
+    "name": "Pilot's Watch Chronograph APXGP",
+    "name_kr": "파일럿 워치 크로노그래프 APXGP",
+    "gender": "Men",
+    "price_krw": 11800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 7700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "APXGP 스페셜 에디션",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388101",
+    "name": "Pilot's Watch Chronograph 41",
+    "name_kr": "파일럿 워치 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 11400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 7400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388102",
+    "name": "Pilot's Watch Chronograph 41",
+    "name_kr": "파일럿 워치 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 12900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 8400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388103",
+    "name": "Pilot's Watch Chronograph 41",
+    "name_kr": "파일럿 워치 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 11400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 7400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388104",
+    "name": "Pilot's Watch Chronograph 41",
+    "name_kr": "파일럿 워치 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 12900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 8400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388109",
+    "name": "Pilot's Watch Chronograph 41",
+    "name_kr": "파일럿 워치 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 12300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 8000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388110",
+    "name": "Pilot's Watch Chronograph 41",
+    "name_kr": "파일럿 워치 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 37200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Rose Gold",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 24200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 골드 케이스",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388111",
+    "name": "Pilot's Watch Chronograph 41",
+    "name_kr": "파일럿 워치 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 11400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 7400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388113",
+    "name": "Pilot's Watch Chronograph 41",
+    "name_kr": "파일럿 워치 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 12900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 8400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388116",
+    "name": "Pilot's Watch Chronograph 41 APXGP",
+    "name_kr": "파일럿 워치 크로노그래프 41 APXGP",
+    "gender": "Men",
+    "price_krw": 11400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 7400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "APXGP 에디션",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388117",
+    "name": "Pilot's Watch Chronograph 41 APXGP",
+    "name_kr": "파일럿 워치 크로노그래프 41 APXGP",
+    "gender": "Men",
+    "price_krw": 11400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2025,
+    "resale_krw_est": 7400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "APXGP 에디션 2025",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388108",
+    "name": "Pilot's Watch Chronograph 41 Mercedes-AMG Petronas F1",
+    "name_kr": "파일럿 워치 크로노그래프 41 메르세데스-AMG 페트로나스 포뮬러 원™ 팀 에디션",
+    "gender": "Men",
+    "price_krw": 13200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 8600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "메르세데스-AMG 페트로나스 F1 에디션",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388106",
+    "name": "Pilot's Watch Chronograph 41 TopGun Ceratanium",
+    "name_kr": "파일럿 워치 크로노그래프 41 탑건 세라타늄®",
+    "gender": "Men",
+    "price_krw": 20000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 41.9,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 13000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW389401",
+    "name": "Pilot's Watch Chronograph 41 TopGun",
+    "name_kr": "파일럿 워치 크로노그래프 41 탑건",
+    "gender": "Men",
+    "price_krw": 14400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 41.9,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 9400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW389402",
+    "name": "Pilot's Watch Chronograph 41 TopGun Mojave Desert",
+    "name_kr": "파일럿 워치 크로노그래프 41 탑건 모하비 데저트",
+    "gender": "Men",
+    "price_krw": 18700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 41.9,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sand",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Sand"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 12200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "모하비 데저트 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW389404",
+    "name": "Pilot's Watch Chronograph 41 TopGun Oceana",
+    "name_kr": "파일럿 워치 크로노그래프 41 탑건 오세아나",
+    "gender": "Men",
+    "price_krw": 18700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 41.9,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 12200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "오세아나 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW389409",
+    "name": "Pilot's Watch Chronograph 41 TopGun Miramar",
+    "name_kr": "파일럿 워치 크로노그래프 41 탑건 미라마",
+    "gender": "Men",
+    "price_krw": 20500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 41.9,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 13300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "미라마 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW389411",
+    "name": "Pilot's Watch Chronograph 41 George Russell",
+    "name_kr": "파일럿 워치 크로노그래프 41 조지 러셀",
+    "gender": "Men",
+    "price_krw": 18700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 12200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "F1 드라이버 조지 러셀 에디션",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW387901",
+    "name": "Pilot's Watch Chronograph Spitfire",
+    "name_kr": "파일럿 워치 크로노그래프 스핏파이어",
+    "gender": "Men",
+    "price_krw": 11200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 15.3,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin (Distressed)",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "스핏파이어 에디션 · 복고 디자인",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW387902",
+    "name": "Pilot's Watch Chronograph Spitfire",
+    "name_kr": "파일럿 워치 크로노그래프 스핏파이어",
+    "gender": "Men",
+    "price_krw": 12000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 15.3,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Brown",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin (Distressed)",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Brown"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 7800000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "스핏파이어 에디션 브라운",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW389101",
+    "name": "Pilot's Watch Chronograph TopGun",
+    "name_kr": "파일럿 워치 크로노그래프 탑건",
+    "gender": "Men",
+    "price_krw": 14700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 44.5,
+      "thickness_mm": 15.7,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 9600000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW389105",
+    "name": "Pilot's Watch Chronograph TopGun Lake Tahoe",
+    "name_kr": "파일럿 워치 크로노그래프 탑건 \"레이크 타호\" 에디션",
+    "gender": "Men",
+    "price_krw": 18700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 44.5,
+      "thickness_mm": 15.7,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 12200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "레이크 타호 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW389106",
+    "name": "Pilot's Watch Chronograph TopGun Woodland",
+    "name_kr": "파일럿 워치 크로노그래프 탑건 \"우드랜드\" 에디션",
+    "gender": "Men",
+    "price_krw": 18700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 44.5,
+      "thickness_mm": 15.7,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 12200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "우드랜드 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW389112",
+    "name": "Pilot's Watch Chronograph Staffel 11",
+    "name_kr": "파일럿 워치 크로노그래프 슈타펠 11",
+    "gender": "Men",
+    "price_krw": 18400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44.5,
+      "thickness_mm": 15.7,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 12000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "슈타펠 11 에디션",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Pilot Chrono",
+        "comment": "크로노그래프 + 파일럿 워치의 결합. 일상적으로 쓰기 좋은 스포츠워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "파일럿 워치 계보의 크로노 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "클린한 크로노 레이아웃."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388305",
+    "name": "Pilot's Watch Performance Chronograph 41 AMG",
+    "name_kr": "파일럿 워치 퍼포먼스 크로노그래프 41 AMG",
+    "gender": "Men",
+    "price_krw": 15500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 41,
+      "thickness_mm": 14.7,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69385",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Textile",
+      "material": "NATO Strap",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 10100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "티타늄 케이스 · AMG 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "High-Performance Chrono",
+        "comment": "Cal.69385 · 100m · Ti 케이스 · 레이싱/모터스포츠 감각."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "모터스포츠 파트너십과 연관된 퍼포먼스 크로노."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스포티한 설계의 파일럿 크로노."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388304",
+    "name": "Pilot's Watch Performance Chronograph 41 AMG",
+    "name_kr": "파일럿 워치 퍼포먼스 크로노그래프 41 AMG",
+    "gender": "Men",
+    "price_krw": 18700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14.7,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69385",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 12200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "AMG 특별 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "High-Performance Chrono",
+        "comment": "Cal.69385 · 100m · Ti 케이스 · 레이싱/모터스포츠 감각."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "모터스포츠 파트너십과 연관된 퍼포먼스 크로노."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스포티한 설계의 파일럿 크로노."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388306",
+    "name": "Pilot's Watch Performance Chronograph 41 Mercedes-AMG F1",
+    "name_kr": "파일럿 워치 퍼포먼스 크로노그래프 41 메르세데스-AMG 페트로나스 포뮬러 원™ 팀",
+    "gender": "Men",
+    "price_krw": 21500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14.7,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69385",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 14000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "메르세데스-AMG 페트로나스 F1",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "High-Performance Chrono",
+        "comment": "Cal.69385 · 100m · Ti 케이스 · 레이싱/모터스포츠 감각."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "모터스포츠 파트너십과 연관된 퍼포먼스 크로노."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스포티한 설계의 파일럿 크로노."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388308",
+    "name": "Pilot's Watch Performance Chronograph 41 722 Edition",
+    "name_kr": "파일럿 워치 퍼포먼스 크로노그래프 41 722 에디션",
+    "gender": "Men",
+    "price_krw": 30000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14.7,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69385",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 19500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "722 한정 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "High-Performance Chrono",
+        "comment": "Cal.69385 · 100m · Ti 케이스 · 레이싱/모터스포츠 감각."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "모터스포츠 파트너십과 연관된 퍼포먼스 크로노."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스포티한 설계의 파일럿 크로노."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388309",
+    "name": "Pilot's Watch Performance Chronograph 41",
+    "name_kr": "파일럿 워치 퍼포먼스 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 41500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18k Yellow Gold",
+      "diameter_mm": 41,
+      "thickness_mm": 14.7,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69385",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 27000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "18k 옐로 골드 케이스",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "High-Performance Chrono",
+        "comment": "Cal.69385 · 100m · Ti 케이스 · 레이싱/모터스포츠 감각."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "모터스포츠 파트너십과 연관된 퍼포먼스 크로노."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스포티한 설계의 파일럿 크로노."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW371815",
+    "name": "Pilot's Watch Double Chronograph TopGun Ceratanium",
+    "name_kr": "파일럿 워치 더블 크로노그래프 탑건 세라타늄",
+    "gender": "Men",
+    "price_krw": 26600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 44,
+      "thickness_mm": 16.5,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "79420",
+      "power_reserve_hours": 44,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Dual Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 17300000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "더블 크로노그래프 · 세라타늄® 케이스",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW395503",
+    "name": "Pilot's Watch Timezoner Le Petit Prince",
+    "name_kr": "파일럿 워치 타임존 \"어린 왕자\" 에디션",
+    "gender": "Men",
+    "price_krw": 19000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 46,
+      "thickness_mm": 15,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82760",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 22,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Second Time Zone"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 12400000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "어린 왕자 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "World Timer",
+        "comment": "46mm · Cal.82760 · 손목 위의 세계시계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "타임존 변경이 잦은 파일럿을 위한 기능."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여행자를 위한 실용적 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW395505",
+    "name": "Pilot's Watch Timezoner TopGun Ceratanium",
+    "name_kr": "파일럿 워치 타임존 탑건 세라타늄",
+    "gender": "Men",
+    "price_krw": 27700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 46,
+      "thickness_mm": 15,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82760",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 22,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Second Time Zone"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 18000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "탑건 세라타늄® · 타임존",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "World Timer",
+        "comment": "46mm · Cal.82760 · 손목 위의 세계시계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "타임존 변경이 잦은 파일럿을 위한 기능."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여행자를 위한 실용적 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW395601",
+    "name": "Pilot's Watch Timezoner TopGun Woodland",
+    "name_kr": "파일럿 워치 타임존 탑건 우드랜드",
+    "gender": "Men",
+    "price_krw": 27700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 46,
+      "thickness_mm": 15,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82760",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 22,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Second Time Zone"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 18000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "탑건 우드랜드 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "World Timer",
+        "comment": "46mm · Cal.82760 · 손목 위의 세계시계."
+      },
+      "heritage": {
+        "label": "Established",
+        "comment": "타임존 변경이 잦은 파일럿을 위한 기능."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여행자를 위한 실용적 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW501002",
+    "name": "Big Pilot's Watch Le Petit Prince",
+    "name_kr": "빅 파일럿 \"어린 왕자\" 에디션",
+    "gender": "Men",
+    "price_krw": 21500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.6,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52110",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 67,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 14000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "어린 왕자 에디션 · 블루 다이얼",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Statement Piece",
+        "comment": "46.2mm · Cal.52110 · 168h · 큼직한 크라운 가드. 파일럿 워치 아이콘."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1936년 IWC Ref.436 빅 파일럿에서 이어지는 역사. IWC 파일럿의 상징."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "빅 파일럿 실루엣은 컬렉터들에게 지속적으로 인기."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW501015",
+    "name": "Big Pilot's Watch",
+    "name_kr": "빅 파일럿 워치",
+    "gender": "Men",
+    "price_krw": 21500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.6,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52110",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 67,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 14000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Statement Piece",
+        "comment": "46.2mm · Cal.52110 · 168h · 큼직한 크라운 가드. 파일럿 워치 아이콘."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1936년 IWC Ref.436 빅 파일럿에서 이어지는 역사. IWC 파일럿의 상징."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "빅 파일럿 실루엣은 컬렉터들에게 지속적으로 인기."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW506003",
+    "name": "Big Pilot's Watch TopGun Mojave Desert",
+    "name_kr": "빅 파일럿 워치 탑건 \"모하비 데저트\" 에디션",
+    "gender": "Men",
+    "price_krw": 26200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.6,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52110",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 67,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Sand",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Sand"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 17000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "모하비 데저트 에디션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Military Grade",
+        "comment": "세라타늄® 케이스 · 고도의 내충격성 · 탑건 네이비 에어 쇼 링크."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "미해군 비행사 훈련 학교(탑건)와의 연관성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "탑건 에디션의 희소성과 소재 특수성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW501201",
+    "name": "Big Pilot's Watch AMG G 63",
+    "name_kr": "빅 파일럿 워치 AMG G 63",
+    "gender": "Men",
+    "price_krw": 60000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.6,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52110",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 67,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 39000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "메르세데스-AMG G 63 콜라보 · 한정판",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Rare",
+        "comment": "투르비옹 혹은 초복잡 기능. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 파일럿 컬렉션의 정점."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초희소 파일럿 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW506201",
+    "name": "Big Pilot's Watch AMG G 63",
+    "name_kr": "빅 파일럿 워치 AMG G 63",
+    "gender": "Men",
+    "price_krw": 72500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.6,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52110",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 67,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 47100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "세라타늄® · AMG G 63 한정판",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Rare",
+        "comment": "투르비옹 혹은 초복잡 기능. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 파일럿 컬렉션의 정점."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초희소 파일럿 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW503605",
+    "name": "Big Pilot's Watch Perpetual Calendar",
+    "name_kr": "빅 파일럿 워치 퍼페추얼 캘린더",
+    "gender": "Men",
+    "price_krw": 54900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 35700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "퍼페추얼 캘린더 · Cal.52616",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "Cal.52616 · 168h · 퍼페추얼 캘린더 + 빅 파일럿 조합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "파일럿 워치와 그랜드 컴플리케이션의 만남."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "빅 파일럿 퍼페추얼 캘린더의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW503608",
+    "name": "Big Pilot's Watch Perpetual Calendar",
+    "name_kr": "빅 파일럿 워치 퍼페추얼 캘린더",
+    "gender": "Men",
+    "price_krw": 54900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 35700000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "퍼페추얼 캘린더 블랙 다이얼",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "Cal.52616 · 168h · 퍼페추얼 캘린더 + 빅 파일럿 조합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "파일럿 워치와 그랜드 컴플리케이션의 만남."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "빅 파일럿 퍼페추얼 캘린더의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW503001",
+    "name": "Big Pilot's Watch Perpetual Calendar Rodeo Drive",
+    "name_kr": "빅 파일럿 워치 퍼페추얼 캘린더 \"로데오 드라이브\" 에디션",
+    "gender": "Men",
+    "price_krw": 60000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 39000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로데오 드라이브 에디션",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "Cal.52616 · 168h · 퍼페추얼 캘린더 + 빅 파일럿 조합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "파일럿 워치와 그랜드 컴플리케이션의 만남."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "빅 파일럿 퍼페추얼 캘린더의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW503004",
+    "name": "Big Pilot's Watch Perpetual Calendar TopGun Mojave Desert",
+    "name_kr": "빅 파일럿 워치 퍼페추얼 캘린더 탑건 \"모하비 데저트\" 에디션",
+    "gender": "Men",
+    "price_krw": 65900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Sand",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Sand"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 42900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "탑건 모하비 세라타늄",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "Cal.52616 · 168h · 퍼페추얼 캘린더 + 빅 파일럿 조합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "파일럿 워치와 그랜드 컴플리케이션의 만남."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "빅 파일럿 퍼페추얼 캘린더의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW503008",
+    "name": "Big Pilot's Watch Perpetual Calendar TopGun Lake Tahoe",
+    "name_kr": "빅 파일럿 워치 퍼페추얼 캘린더 탑건 레이크 타호",
+    "gender": "Men",
+    "price_krw": 65900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 42900000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "탑건 레이크 타호",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "Cal.52616 · 168h · 퍼페추얼 캘린더 + 빅 파일럿 조합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "파일럿 워치와 그랜드 컴플리케이션의 만남."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "빅 파일럿 퍼페추얼 캘린더의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW503101",
+    "name": "Big Pilot's Watch Perpetual Calendar TopGun Woodland",
+    "name_kr": "빅 파일럿 워치 퍼페추얼 캘린더 탑건 우드랜드",
+    "gender": "Men",
+    "price_krw": 86400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2023,
+    "resale_krw_est": 56200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "탑건 우드랜드 세라타늄",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "Cal.52616 · 168h · 퍼페추얼 캘린더 + 빅 파일럿 조합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "파일럿 워치와 그랜드 컴플리케이션의 만남."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "빅 파일럿 퍼페추얼 캘린더의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW503604",
+    "name": "Big Pilot's Watch Perpetual Calendar TopGun Ceratanium",
+    "name_kr": "빅 파일럿 워치 퍼페추얼 캘린더 탑건 세라타늄",
+    "gender": "Men",
+    "price_krw": 86400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceratanium®",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Year",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 56200000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "탑건 세라타늄 퍼페추얼 캘린더",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "Cal.52616 · 168h · 퍼페추얼 캘린더 + 빅 파일럿 조합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "파일럿 워치와 그랜드 컴플리케이션의 만남."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "빅 파일럿 퍼페추얼 캘린더의 희소성."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW388801",
+    "name": "Pilot's Watch Performance Chronograph Perpetual Calendar",
+    "name_kr": "파일럿 워치 퍼포먼스 크로노그래프 퍼페추얼 캘린더 디지털 데이트-먼스",
+    "gender": "Men",
+    "price_krw": 137000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 44,
+      "thickness_mm": 16,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "88910",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 44,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Perpetual Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Textile",
+      "material": "NATO Strap",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 89100000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "퍼포먼스 크로노 + 퍼페추얼 캘린더 · 티타늄",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Rare",
+        "comment": "투르비옹 혹은 초복잡 기능. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 파일럿 컬렉션의 정점."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초희소 파일럿 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW504901",
+    "name": "Big Pilot's Watch Perpetual Calendar Tourbillon Le Petit Prince",
+    "name_kr": "빅 파일럿 워치 퍼페추얼 캘린더 투르비옹 어린 왕자 에디션",
+    "gender": "Men",
+    "price_krw": 250000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 46.2,
+      "thickness_mm": 16,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "98910",
+      "power_reserve_hours": 72,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 162500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "투르비옹 + 퍼페추얼 캘린더 · 어린 왕자 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Rare",
+        "comment": "투르비옹 혹은 초복잡 기능. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 파일럿 컬렉션의 정점."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초희소 파일럿 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW356201",
+    "name": "Big Pilot's Watch Shock Absorber XPL Toto Wolff",
+    "name_kr": "빅 파일럿 워치 쇼크 업소버 XPL 토토 울프 x 메르세데스-AMG 페트로나스 포뮬러 원™ 팀",
+    "gender": "Men",
+    "price_krw": 151600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 47,
+      "thickness_mm": 15,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52640",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Textile",
+      "material": "NATO Strap",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 98500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "쇼크 업소버 XPL · 토토 울프 에디션 · 한정판",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Rare",
+        "comment": "투르비옹 혹은 초복잡 기능. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 파일럿 컬렉션의 정점."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초희소 파일럿 컴플리케이션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW357701",
+    "name": "Big Pilot's Watch Shock Absorber XPL Tourbillon Skeleton",
+    "name_kr": "빅 파일럿 워치 쇼크 업소버 XPL 투르비옹 스켈레톤",
+    "gender": "Men",
+    "price_krw": 350000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 47,
+      "thickness_mm": 16,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89800",
+      "power_reserve_hours": 72,
+      "frequency_vph": 18000,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon",
+        "Shock Absorber XPL"
+      ]
+    },
+    "dial": {
+      "color": "Skeleton",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Textile",
+      "material": "NATO Strap",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Skeleton"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 227500000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "쇼크 업소버 XPL 투르비옹 스켈레톤 · 가격협의",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Rare",
+        "comment": "투르비옹 혹은 초복잡 기능. 가격 협의."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "IWC 파일럿 컬렉션의 정점."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "초희소 파일럿 컴플리케이션."
+      }
+    }
   }
 ]
