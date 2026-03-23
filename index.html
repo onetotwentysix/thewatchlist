@@ -384,8 +384,8 @@ function verdictTag(overall) {
   return `<span class="verdict-tag ${cls}">${overall}</span>`;
 }
 
-function fmtPrice(p) { return p.toLocaleString('ko-KR'); }
-function fmtPriceFull(p) { return '₩' + p.toLocaleString('ko-KR'); }
+function fmtPrice(p) { return p == null ? '가격 문의' : p.toLocaleString('ko-KR'); }
+function fmtPriceFull(p) { return p == null ? '가격 문의' : '₩' + p.toLocaleString('ko-KR'); }
 
 let currentFilter = "all";
 let currentSearch = "";
@@ -399,6 +399,7 @@ function matchesActiveFilters(w) {
   const f = activeFilters;
   if (f.price) {
     const p = w.price_krw;
+    if (p == null) return false; // 가격 문의 모델은 가격 필터에서 제외
     if (f.price === "0-10"  && p >= 10000000) return false;
     if (f.price === "10-20" && (p < 10000000 || p >= 20000000)) return false;
     if (f.price === "20-30" && (p < 20000000 || p >= 30000000)) return false;
@@ -450,8 +451,8 @@ function getFiltered() {
     return matchBrand && matchSearch && matchesActiveFilters(w);
   });
   data.sort((a,b) => {
-    if (currentSort === "price-asc")      return a.price_krw - b.price_krw;
-    if (currentSort === "price-desc")     return b.price_krw - a.price_krw;
+    if (currentSort === "price-asc")      return (a.price_krw ?? Infinity) - (b.price_krw ?? Infinity);
+    if (currentSort === "price-desc")     return (b.price_krw ?? -1) - (a.price_krw ?? -1);
     if (currentSort === "name-asc")       return a.name.localeCompare(b.name);
     if (currentSort === "size-asc")       return a.case.diameter_mm - b.case.diameter_mm;
     if (currentSort === "thickness-asc")  return (a.case.thickness_mm||99)-(b.case.thickness_mm||99);
@@ -566,7 +567,7 @@ function renderTable() {
       <td>${strapTag(w.strap.type)}</td>
       <td class="td-avail"><span class="avail-dot ${av.cls}" title="${av.label}"></span></td>
       <td>${v.overall ? verdictTag(v.overall) : '—'}</td>
-      <td class="td-price ${w.price_confirmed?'price-confirmed':'price-estimated'}">₩${fmtPrice(w.price_krw)}${w.price_confirmed?'<span class="price-verified-badge" title="공식 홈페이지 확인 완료">공식</span>':''}</td>
+      <td class="td-price ${w.price_confirmed?'price-confirmed':'price-estimated'}">${w.price_krw==null?'가격 문의':'₩'+fmtPrice(w.price_krw)}${w.price_confirmed?'<span class="price-verified-badge" title="공식 홈페이지 확인 완료">공식</span>':''}</td>
     </tr>
     ${expandHtml}`;
   }).join('');
@@ -625,7 +626,7 @@ function renderCards(data) {
       <div class="card-top">
         <div style="display:flex;gap:6px;align-items:center">${collectionTag(w.collection)}<span class="td-brand">${w.brand}</span></div>
         <div style="display:flex;align-items:center;gap:8px">
-          <div class="td-price ${w.price_confirmed?'price-confirmed':'price-estimated'}">₩${fmtPrice(w.price_krw)}</div>
+          <div class="td-price ${w.price_confirmed?'price-confirmed':'price-estimated'}">${w.price_krw==null?'가격 문의':'₩'+fmtPrice(w.price_krw)}</div>
           <span style="font-size:11px;color:var(--subtle);transition:transform 0.2s;display:inline-block;transform:${isExp?'rotate(180deg)':'rotate(0deg)'}"">▾</span>
         </div>
       </div>
