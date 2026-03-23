@@ -211,9 +211,10 @@ let meta = { brands: [], collections: {} };
 
 async function loadData() {
   try {
+    const v = '20260323';
     const [watchRes, metaRes] = await Promise.all([
-      fetch('./watches.json'),
-      fetch('./meta.json')
+      fetch('./watches.json?v=' + v),
+      fetch('./meta.json?v=' + v)
     ]);
     watches = await watchRes.json();
     meta = await metaRes.json();
