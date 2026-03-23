@@ -7,6 +7,7 @@
   "collections": {
     "LUC":        { "collection_kr": "L.U.C",      "bg": "#faf5e8", "text": "#6b4e18" },
     "AlpineEagle":{ "collection_kr": "알파인 이글",  "bg": "#e8f0ea", "text": "#1e3a22" },
-    "MilleMiglia": { "collection_kr": "밀레 밀리아",  "bg": "#faeae8", "text": "#8a2018" }
+    "MilleMiglia": { "collection_kr": "밀레 밀리아",  "bg": "#faeae8", "text": "#8a2018" },
+    "HappySport":  { "collection_kr": "해피 스포트", "bg": "#fce8f4", "text": "#8a1a5a" }
   }
 }

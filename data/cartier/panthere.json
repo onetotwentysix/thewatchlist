@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Cartier",
+    "collection": "Panthere",
+    "collection_kr": "팡테르",
+    "reference": "WSPN0019",
+    "name": "Panthère de Cartier 22mm",
+    "name_kr": "팡테르 드 까르띠에 22mm",
+    "gender": "Women",
+    "price_krw": 4300000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 22,
+      "thickness_mm": 7.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "157",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": ["Hours", "Minutes"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1983,
+    "resale_krw_est": 3200000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "22mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 1983년 론칭 · 다이아나 왕세자빈·엘리자베스 테일러 착용으로 전설화된 레이디스 아이콘 · 삿파이어 카보숑 크라운",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "22mm 쿠션형 케이스에 Cal.157 쿼츠. 일체형 스틸 브레이슬릿이 케이스와 완벽한 연속성을 이룬다. 시·분만의 순수한 다이얼. 드레시한 레이디스 시계의 정점."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1983년 까르띠에의 상징 동물 팡테르(표범)에서 영감받아 탄생. 잔느 투생이 1914년부터 개발한 팡테르 주얼리의 시계 버전. 다이아나 왕세자빈·엘리자베스 테일러가 착용해 럭셔리 레이디스 워치의 아이콘으로 자리잡았다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "40년 이상 동일한 디자인 언어를 유지. 쿠션형 케이스와 일체형 브레이슬릿의 조화는 유행을 초월한다. 레이디스 럭셔리 시계 시장에서 가장 안정적인 수요를 보유한 아이콘 중 하나."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Panthere",
+    "collection_kr": "팡테르",
+    "reference": "WSPN0020",
+    "name": "Panthère de Cartier 27mm",
+    "name_kr": "팡테르 드 까르띠에 27mm",
+    "gender": "Women",
+    "price_krw": 5800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 27,
+      "thickness_mm": 8.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "157",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": ["Hours", "Minutes"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1983,
+    "resale_krw_est": 4400000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "27mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 소형 대비 가시성 향상 · 레이디스 및 유니섹스 포지션",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "27mm 쿠션형 케이스로 22mm 대비 착용감·가독성 향상. Cal.157 쿼츠. 일체형 브레이슬릿 디자인은 동일. 레이디스 착용자에게 가장 많이 선택되는 사이즈."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "팡테르 컬렉션의 핵심 사이즈. 소형과 특대형의 균형을 갖춘 중간 포지션으로 팡테르 판매의 중심축. 1983년 론칭 이래 변하지 않는 디자인 DNA."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "팡테르 컬렉션 내 가장 보편적인 선택. 중간 사이즈는 어떤 손목 비율에도 적합. 40년 이상의 디자인 일관성이 타임리스니스를 보장."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Panthere",
+    "collection_kr": "팡테르",
+    "reference": "WSPN0007",
+    "name": "Panthère de Cartier 35mm",
+    "name_kr": "팡테르 드 까르띠에 35mm",
+    "gender": "Women",
+    "price_krw": 8500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 35,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "157",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": ["Hours", "Minutes"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2017,
+    "resale_krw_est": 6500000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "35mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 2017년 재런칭 시 추가된 엑스트라 라지 사이즈 · 유니섹스 포지션으로 남성 착용도 가능",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "35mm로 팡테르 라인업 중 가장 큰 사이즈. Cal.157 쿼츠. 남녀 모두 착용 가능한 유니섹스 포지션. 2017년 팡테르 재런칭의 핵심 모델 중 하나."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "2017년 재런칭으로 현대 착용자를 위해 추가된 사이즈. 팡테르의 헤리티지 DNA를 유지하면서 더 넓은 손목 착용자를 포용. 아이코닉 디자인의 현대적 확장."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "가장 큰 팡테르로 스테이트먼트 피스로서의 존재감이 강하다. 유니섹스 포지션은 소비층을 넓혀 안정적 수요 유지. 팡테르 특유의 일체형 브레이슬릿 디자인은 세월을 타지 않는다."
+      }
+    }
+  }
+]

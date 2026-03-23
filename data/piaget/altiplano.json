@@ -178,5 +178,65 @@
         "comment": "4.3mm 자동 시계라는 극단적 기록은 영원히 컬렉터의 언급 대상. 다만 케이스=무브먼트 구조상 수리 비용이 매우 높을 수 있다. 작동 원리를 이해하고 소유하는 마니아에게."
       }
     }
+  },
+  {
+    "brand": "Piaget",
+    "collection": "Altiplano",
+    "collection_kr": "알티플라노",
+    "reference": "G0A45114",
+    "name": "Altiplano 34mm",
+    "name_kr": "알티플라노 34",
+    "gender": "Women",
+    "price_krw": 8500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 6.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "430P",
+      "power_reserve_hours": 43,
+      "frequency_vph": 21600,
+      "jewels": 18,
+      "functions": ["Hours", "Minutes"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue", "White"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2015,
+    "resale_krw_est": 6800000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "34mm · 6.4mm · Cal.430P 수동 (두께 2.1mm) · 레이디스 사이즈 알티플라노 · 세계에서 가장 얇은 수동 무브먼트 중 하나 · 시·분만의 극도로 미니멀한 다이얼",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "34mm/6.4mm, Cal.430P 수동(두께 2.1mm). 여성 손목에 완벽한 사이즈. 극도로 얇은 케이스는 어떤 소매 아래에서도 우아하게 드러난다. 시·분 기능만의 미니멀리즘."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "피아제의 울트라 씬 전통이 여성 착용자에게 전달되는 채널. 1957년 창립 이래 '가장 얇게'를 추구해온 피아제 정신이 34mm에 담긴다. 알티플라노 38mm의 레이디스 버전."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "얇고 미니멀한 드레스워치는 시간이 지나도 변하지 않는 포지션. 34mm는 여성 착용자의 가장 보편적인 선호 범위. 피아제 초박형 기술의 접근 가능한 레이디스 버전."
+      }
+    }
   }
 ]

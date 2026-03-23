@@ -9,6 +9,7 @@
     "Tank":       { "collection_kr": "탱크",      "bg": "#faf6ee", "text": "#7a5a18" },
     "BallonBleu": { "collection_kr": "발롱 블루", "bg": "#eef3fb", "text": "#1a3a6b" },
     "Pasha":      { "collection_kr": "파샤",      "bg": "#f0e8ee", "text": "#5a1a3a" },
-    "Drive":      { "collection_kr": "드라이브",  "bg": "#e8e8ec", "text": "#3a3a50" }
+    "Drive":      { "collection_kr": "드라이브",  "bg": "#e8e8ec", "text": "#3a3a50" },
+    "Panthere":   { "collection_kr": "팡테르",   "bg": "#fef5ee", "text": "#6b3a10" }
   }
 }

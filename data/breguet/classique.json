@@ -178,5 +178,65 @@
         "comment": "투르비용은 시계 역사상 가장 상징적인 컴플리케이션. 브레게 투르비용은 그 중에서도 최고의 스토리를 지닌다. 가격 하방은 단단하고, 핵심 컬렉터층의 수요는 시대를 초월한다."
       }
     }
+  },
+  {
+    "brand": "Breguet",
+    "collection": "Classique",
+    "collection_kr": "클래식",
+    "reference": "5287BB/1E/9V6",
+    "name": "Classique Phase de Lune 5287",
+    "name_kr": "클래식 문페이즈 5287",
+    "gender": "Men",
+    "price_krw": 25500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 39,
+      "thickness_mm": 7.45,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "5887BB",
+      "power_reserve_hours": 48,
+      "frequency_vph": 21600,
+      "jewels": 38,
+      "functions": ["Hours", "Minutes", "Seconds", "Date", "Moon Phase", "Day/Night Indicator"]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Breguet Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2005,
+    "resale_krw_est": 20000000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "39mm 화이트 골드 · 7.45mm · Cal. 5887BB 자동 · 문페이즈 + 주야 인디케이터 + 날짜 · 핸드 기요셰 은 다이얼 · 브레게 수자 · 남반구 보정 문페이즈 옵션 존재",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "39mm/7.45mm, Cal. 5887BB 자동 48h, 문페이즈 + 주야 인디케이터 + 날짜. 달의 위상을 표시하는 낭만적 컴플리케이션이 브레게 기요셰 다이얼과 조화를 이룬다. 드레스워치의 정서적 완성도 최고."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Abraham-Louis Breguet는 18세기에 이미 문페이즈를 탑재한 시계를 다수 제작했다. 250년 문페이즈 전통이 현대 칼리버에 담긴다. 브레게 수자와 기요셰 다이얼은 그 언어를 그대로 유지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈는 가장 낭만적이고 시대를 초월하는 컴플리케이션. 브레게 디자인 언어와 결합하면 세대를 넘어 전달 가능한 가치를 지닌다. 헤리테이지 증여를 고려하는 구매자에게 최우선 추천."
+      }
+    }
   }
 ]

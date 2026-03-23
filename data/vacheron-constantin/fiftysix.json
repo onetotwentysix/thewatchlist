@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Vacheron Constantin",
+    "collection": "FiftySix",
+    "collection_kr": "피프티식스",
+    "reference": "4600E/000A-B442",
+    "name": "FiftySix Date",
+    "name_kr": "피프티식스 데이트",
+    "gender": "Men",
+    "price_krw": 16500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.39,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2460 R31L",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["White", "Blue", "Silver"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 13500000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · 10.39mm · Cal.2460 R31L 인하우스 자동 40h · COSC · 스틸 케이스 · VC 컬렉션 중 가장 접근하기 쉬운 입문 모델 · 1956년 빈티지 VC 시계에서 영감 · 브레이슬릿 옵션 존재",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm/10.39mm, Cal.2460 R31L 인하우스 자동 COSC 40h. VC 인하우스 칼리버를 스틸 케이스에 담아 가격 장벽을 낮췄다. 브레이슬릿 옵션으로 스포티-드레시 양면 착용 가능. VC 입문을 위한 현실적 선택."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1956년 VC 아카이브에서 영감받아 2018년 론칭. 이름 '피프티식스'는 탄생 연도 1956년에서 유래. 267년 역사 VC의 디자인 언어를 현대적 스포티함으로 재해석. 브랜드 헤리티지를 더 젊은 착용자에게 전달하는 채널."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스틸 케이스 + 인하우스 무브먼트 + 드레시-스포티 포지션은 안정적 수요를 보장. VC를 처음 소유하는 구매자의 자연스러운 선택. Overseas의 스포티함과 Patrimony의 드레시함 사이 균형점."
+      }
+    }
+  },
+  {
+    "brand": "Vacheron Constantin",
+    "collection": "FiftySix",
+    "collection_kr": "피프티식스",
+    "reference": "4000E/000A-B548",
+    "name": "FiftySix Complete Calendar",
+    "name_kr": "피프티식스 컴플리트 캘린더",
+    "gender": "Men",
+    "price_krw": 27500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42.5,
+      "thickness_mm": 11.95,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2460 QCL/2",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": ["Hours", "Minutes", "Seconds", "Day", "Date", "Month", "Moon Phase"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 22000000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42.5mm · Cal.2460 QCL/2 인하우스 자동 · 컴플리트 캘린더(요일·날짜·월·문페이즈) · 스틸 케이스 · COSC · FiftySix 라인 최고 컴플리케이션 모델",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "42.5mm, Cal.2460 QCL/2 인하우스 자동 COSC 40h, 컴플리트 캘린더 + 문페이즈. 요일·날짜·월·문페이즈를 단일 다이얼에 표시. 스틸 케이스 컴플리케이션 워치 중 드물게 접근 가능한 가격대."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "FiftySix 라인에 VC의 핵심 컴플리케이션 역량을 투입. 스틸 케이스 컴플리케이션 워치는 VC의 새로운 전략. 267년 컴플리케이션 제조 전통을 더 넓은 착용층에게 전달."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "컴플리트 캘린더는 가장 실용적인 컴플리케이션 중 하나. 스틸 케이스 + VC 인하우스 칼리버 + 컴플리케이션의 조합은 장기 가치를 확보. Overseas 크로노 대비 드레스 코드 포지션."
+      }
+    }
+  },
+  {
+    "brand": "Vacheron Constantin",
+    "collection": "FiftySix",
+    "collection_kr": "피프티식스",
+    "reference": "4600T/000A-B487",
+    "name": "FiftySix Tourbillon",
+    "name_kr": "피프티식스 투르비용",
+    "gender": "Men",
+    "price_krw": 95000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 12.32,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2160",
+      "power_reserve_hours": 60,
+      "frequency_vph": 18000,
+      "jewels": 30,
+      "functions": ["Hours", "Minutes", "Tourbillon"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 80000000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · Cal.2160 자동 투르비용 60h · 스틸 케이스 투르비용 · 1분 투르비용 · 에뿔롤 게이지 가시성 · VC 투르비용 중 가장 접근 가능한 (상대적) 가격",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "41mm, Cal.2160 자동 투르비용 60h. 스틸 케이스에 담긴 VC 투르비용은 금 케이스 버전 대비 현실적 가격. 자동 투르비용은 수동 대비 편의성 추가. 1분 투르비용 케이지가 6시 위치에 위치."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "VC는 투르비용 제조의 선구자 중 하나. 1972년 첫 투르비용 손목시계 이후 수십 년의 축적. FiftySix에 투르비용을 담은 것은 '예술을 일상으로'라는 VC의 현대 전략을 상징."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "스틸 케이스 자동 투르비용이라는 극히 드문 조합. VC 투르비용의 역사적 권위와 스틸의 내구성이 결합. 컬렉터 시장에서 영구적 매력. 가격 하방이 단단하고 희소성이 유지됨."
+      }
+    }
+  }
+]

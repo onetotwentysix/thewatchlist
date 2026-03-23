@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Chopard",
+    "collection": "HappySport",
+    "collection_kr": "해피 스포트",
+    "reference": "278573-3044",
+    "name": "Happy Sport 29mm",
+    "name_kr": "해피 스포트 29mm",
+    "gender": "Women",
+    "price_krw": 6500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 29,
+      "thickness_mm": 8.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "ETA 956.112",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["White", "Blue", "Black"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1993,
+    "resale_krw_est": 4800000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "29mm · 5개 부유 다이아몬드 · Cal. ETA 956.112 쿼츠 · 1993년 Caroline Scheufele이 직접 디자인 · 다이얼 안에서 자유롭게 움직이는 다이아몬드가 핵심 아이덴티티 · Chopard 판매 1위 컬렉션",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "29mm 케이스, ETA 쿼츠. 다이얼 내에서 자유롭게 움직이는 5개 다이아몬드가 핵심 디자인 요소. 쿼츠 무브먼트는 기술적 하이라이트보다 '살아있는 다이아몬드'의 움직임에 집중."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1993년 Caroline Scheufele가 직접 착용하고 싶은 스포티한 다이아몬드 시계를 만들며 탄생. 부유 다이아몬드 특허 디자인으로 Chopard의 정체성을 정의. 지난 30년간 Chopard 판매 1위 컬렉션으로 자리잡은 현대 클래식."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "30년 이상 Chopard 아이콘 포지션을 유지. 살아 움직이는 다이아몬드라는 발상은 유행과 무관하게 지속적인 매력을 발산. 레이디스 럭셔리 시계 시장에서 꾸준한 1순위 언급."
+      }
+    }
+  },
+  {
+    "brand": "Chopard",
+    "collection": "HappySport",
+    "collection_kr": "해피 스포트",
+    "reference": "278559-3004",
+    "name": "Happy Sport Automatic 36mm",
+    "name_kr": "해피 스포트 오토매틱 36mm",
+    "gender": "Women",
+    "price_krw": 12500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 9.8,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "09.01-C",
+      "power_reserve_hours": 36,
+      "frequency_vph": 28800,
+      "jewels": 27,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["White", "Blue", "Green"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2004,
+    "resale_krw_est": 9800000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "36mm · Cal.09.01-C 인하우스 자동 36h · 5개 부유 다이아몬드 · 시스루 케이스백 · 50m 방수 · Happy Sport 라인 중 자동 무브먼트 탑재 핵심 모델",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "36mm, Cal.09.01-C 인하우스 자동 36h. 쿼츠 버전 대비 인하우스 무브먼트 탑재로 기술적 가치 상승. 시스루 케이스백으로 무브먼트 감상. 50m 방수로 일상 활용도 높음."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Happy Sport의 부유 다이아몬드 전통에 Chopard 인하우스 자동 무브먼트를 결합. 쿼츠 원형에서 자동화로의 발전이 컬렉션 기술 완성도를 높인 전환점 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "인하우스 무브먼트와 Happy Sport 아이덴티티의 결합은 장기 가치를 지지. 다이아몬드 컬렉션에 기계식 시계를 원하는 구매자의 자연스러운 선택. 리세일도 쿼츠 버전 대비 안정적."
+      }
+    }
+  },
+  {
+    "brand": "Chopard",
+    "collection": "HappySport",
+    "collection_kr": "해피 스포트",
+    "reference": "278582-3001",
+    "name": "Happy Sport Automatic 40mm",
+    "name_kr": "해피 스포트 오토매틱 40mm",
+    "gender": "Women",
+    "price_krw": 15500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "09.01-C",
+      "power_reserve_hours": 36,
+      "frequency_vph": 28800,
+      "jewels": 27,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["White", "Blue"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 12500000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · Cal.09.01-C 인하우스 자동 36h · 7개 부유 다이아몬드 · 시스루 케이스백 · 50m 방수 · 더 큰 케이스로 남녀 공용 착용 가능 · Happy Sport 최대 사이즈",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm, Cal.09.01-C 인하우스 자동 36h, 7개 부유 다이아몬드. 36mm 대비 큰 케이스로 더 강한 존재감. 남녀 모두 착용 가능한 유니섹스 포지션. 50m 방수로 일상 내구성 충분."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Happy Sport의 성장을 보여주는 최대 사이즈. 1993년 탄생 이후 30년간 다양한 사이즈로 확장하며 더 넓은 착용층을 포용. Chopard의 가장 강력한 컬렉션이 진화한 결과물."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "유니섹스 40mm 사이즈는 현대 시계 착용 트렌드와 일치. Happy Sport 아이덴티티를 유지하면서 남성 착용자까지 흡수. 컬렉션 가치와 구매 범위 모두에서 안정적."
+      }
+    }
+  }
+]

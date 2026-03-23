@@ -206,5 +206,65 @@
         "comment": "슬림 드레스 시계는 수십 년 후에도 수요. 문페이즈가 더해진 슬림 감성은 시대를 타지 않는다. 입문 드레스 컴플리케이션으로 JLC의 문 시리즈는 꾸준히 사랑받는다."
       }
     }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Master",
+    "collection_kr": "마스터",
+    "reference": "Q1352420",
+    "name": "Master Grande Ultra Thin Date",
+    "name_kr": "마스터 그랑드 울트라 씬 데이트",
+    "gender": "Men",
+    "price_krw": 11500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 8.26,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "925/3",
+      "power_reserve_hours": 38,
+      "frequency_vph": 28800,
+      "jewels": 19,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2014,
+    "resale_krw_est": 8800000,
+    "source": "JLC 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · 8.26mm · Cal.925/3 자동 (무브먼트 두께 3.3mm) · COSC 인증 · 50m 방수 · Master Ultra Thin 시리즈의 기본 날짜 모델 · 초박형 드레스 자동시계 카테고리의 기준",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40mm/8.26mm, Cal.925/3 자동(무브먼트 두께 3.3mm) COSC 38h. 날짜 기능을 갖추면서도 8mm대 두께를 유지한 엔지니어링. 50m 방수는 드레스워치로 실용적. 슬림 자동 드레스워치 카테고리의 실질적 기준점."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Master 컬렉션의 울트라 씬 라인은 JLC의 무브먼트 제조 노하우를 가장 직접적으로 드러낸다. 1000개 이상의 인하우스 무브먼트를 개발한 제조 역량의 현대적 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "COSC 인증 초박형 자동 드레스워치는 시간이 지나도 변하지 않는 수요. 8mm 이하 두께는 정장 착용 시 최적. Master 컬렉션의 꾸준한 인기가 리세일 안정성을 지지."
+      }
+    }
   }
 ]

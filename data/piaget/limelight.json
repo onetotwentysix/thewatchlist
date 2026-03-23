@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Piaget",
+    "collection": "Limelight",
+    "collection_kr": "라임라이트",
+    "reference": "G0A45164",
+    "name": "Limelight Gala",
+    "name_kr": "라임라이트 갈라",
+    "gender": "Women",
+    "price_krw": 7800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 32,
+      "thickness_mm": 7.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "56P",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": ["Hours", "Minutes"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Satin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black", "White", "Blue"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1999,
+    "resale_krw_est": 5800000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "32mm 쿠션형 케이스 · Cal.56P 쿼츠 · 다이아몬드 세팅 베젤 · 피아제 레이디스 컬렉션의 대표 아이콘 · 갈라(파티)에서의 착용을 위한 드레시한 주얼리 워치",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "32mm 쿠션형 케이스, Cal.56P 쿼츠. 다이아몬드 세팅 베젤이 주얼리적 완성도를 높인다. 시·분만의 단순한 기능은 주얼리 시계로서의 정체성에 집중. 드레스 코드 이벤트를 위한 시계."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1999년 론칭 이래 피아제 레이디스 컬렉션의 핵심. '갈라'는 파티·시사회를 의미하며 드레시한 활용을 명시적으로 선언한다. 피아제의 주얼리 제조 전통과 시계 제조 기술이 결합한 대표작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "레드 카펫·갈라 이벤트 문화가 지속되는 한 라임라이트 갈라의 수요는 유지. 피아제의 가장 페미닌한 디자인 코드로, 럭셔리 레이디스 시계 시장에서 독보적인 포지션."
+      }
+    }
+  },
+  {
+    "brand": "Piaget",
+    "collection": "Limelight",
+    "collection_kr": "라임라이트",
+    "reference": "G0A45165",
+    "name": "Limelight Stella",
+    "name_kr": "라임라이트 스텔라",
+    "gender": "Women",
+    "price_krw": 9500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 9.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1200P",
+      "power_reserve_hours": 44,
+      "frequency_vph": 21600,
+      "jewels": 24,
+      "functions": ["Hours", "Minutes"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Satin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 7500000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "36mm · Cal.1200P 자동 (두께 2.35mm) · 피아제 인하우스 울트라 씬 자동 무브먼트 · 라임라이트 라인 중 기계식 무브먼트 탑재 모델 · 드레시한 레이디스 오토매틱의 정점",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "36mm, Cal.1200P 인하우스 자동(두께 2.35mm) 44h. 피아제 울트라 씬 기술이 레이디스 드레스워치에 적용된 결과. 쿼츠 갈라 대비 기계식 무브먼트로 수집 가치 상승."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "라임라이트 컬렉션에 인하우스 울트라 씬 자동 무브먼트를 탑재. 피아제의 가장 얇은 무브먼트 제조 DNA와 최고급 레이디스 시계 디자인의 결합. 브랜드의 기술력을 여성 착용자에게 직접 전달."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "인하우스 자동 무브먼트 탑재 레이디스 드레스워치는 희소한 카테고리. 피아제 울트라 씬 기술의 장기 가치와 라임라이트 디자인의 드레시함이 결합해 지속적 수요를 지지."
+      }
+    }
+  }
+]

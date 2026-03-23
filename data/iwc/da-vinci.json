@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "IWC",
+    "collection": "DaVinci",
+    "collection_kr": "다빈치",
+    "reference": "IW358307",
+    "name": "Da Vinci Automatic 40",
+    "name_kr": "다빈치 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 9500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 26,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2017,
+    "resale_krw_est": 7500000,
+    "source": "IWC 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · 11.4mm · Cal.82200 자동 60h · 파라크롬 헤어스프링 · 2017년 다빈치 재런칭 세대 · 라운드 케이스로 현대화 · Portofino와 유사하나 더 드레시한 디테일",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40mm, Cal.82200 자동 60h, 파라크롬 헤어스프링. Portofino 40mm와 같은 케이스 직경이나 디자인 언어가 다르다. 60h 파워리저브는 주말 착용 후 월요일 재착용 시에도 여유."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Da Vinci는 1969년 처음 등장, IWC가 레오나르도 다빈치의 이름을 붙인 만큼 기술적 진보를 상징하는 라인. 1985년 永久 달력 탑재로 컴플리케이션 워치의 기준을 세웠다. 2017년 재런칭으로 현대적 포지셔닝."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "Da Vinci 이름이 주는 지적 아우라와 IWC 기술력의 조합. Portugieser의 항해 서사, Pilot의 항공 서사와 차별화되는 지성적 포지션. 드레스워치 시장에서 IWC를 원하는 구매자의 선택."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "DaVinci",
+    "collection_kr": "다빈치",
+    "reference": "IW458312",
+    "name": "Da Vinci Automatic 36",
+    "name_kr": "다빈치 오토매틱 36",
+    "gender": "Women",
+    "price_krw": 8500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35800",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue", "Pink"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2017,
+    "resale_krw_est": 6800000,
+    "source": "IWC 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "36mm · Cal.35800 자동 42h · 2017년 다빈치 재런칭 여성 모델 · IWC 레이디스 라인 중 가장 접근성 높은 드레스워치 포지션",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "36mm, Cal.35800 자동 42h. IWC 레이디스 컬렉션 중 가장 드레시한 포지션. Portofino 37 대비 더 라운드한 케이스 형태. 자동 무브먼트로 실용성과 우아함을 동시에."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Da Vinci 레이디스 모델은 2017년 재런칭의 일환. IWC가 여성 착용자에게 기술력과 헤리티지를 함께 제공하는 라인. Da Vinci 이름의 지적 매력이 여성 구매자에게도 강하게 작용."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "36mm 크기는 여성 착용자의 가장 보편적인 선호 범위. IWC 자동 무브먼트 탑재 레이디스 드레스워치는 장기 가치를 지지. Portofino 레이디스와 함께 IWC 여성 라인의 양대 축."
+      }
+    }
+  }
+]

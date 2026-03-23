@@ -91,6 +91,11 @@
       "bg": "#f0ece4",
       "text": "#3a2810"
     },
+    "TypeXX": {
+      "kr": "타입 XX",
+      "bg": "#e8e4dc",
+      "text": "#3a2a18"
+    },
     "Navitimer": {
       "kr": "나비타이머",
       "bg": "#f0ece4",
@@ -105,6 +110,16 @@
       "kr": "크로노매트",
       "bg": "#eaeaec",
       "text": "#2a2a3c"
+    },
+    "Avenger": {
+      "kr": "어벤저",
+      "bg": "#e4e8ec",
+      "text": "#1a2a3c"
+    },
+    "Premier": {
+      "kr": "프리미어",
+      "bg": "#f0ede6",
+      "text": "#3a2a18"
     },
     "Santos": {
       "kr": "산토스",
@@ -131,6 +146,11 @@
       "bg": "#e8e8ec",
       "text": "#3a3a50"
     },
+    "Panthere": {
+      "kr": "팡테르",
+      "bg": "#fef5ee",
+      "text": "#6b3a10"
+    },
     "LUC": {
       "kr": "L.U.C",
       "bg": "#faf5e8",
@@ -145,6 +165,11 @@
       "kr": "밀레 밀리아",
       "bg": "#faeae8",
       "text": "#8a2018"
+    },
+    "HappySport": {
+      "kr": "해피 스포트",
+      "bg": "#fce8f4",
+      "text": "#8a1a5a"
     },
     "Portugieser": {
       "kr": "포르투기저",
@@ -171,6 +196,11 @@
       "bg": "#e8eef5",
       "text": "#1a2a5a"
     },
+    "DaVinci": {
+      "kr": "다빈치",
+      "bg": "#f5eef8",
+      "text": "#4a1a6a"
+    },
     "Reverso": {
       "kr": "리베르소",
       "bg": "#ece8f5",
@@ -191,6 +221,11 @@
       "bg": "#f5e4ec",
       "text": "#6b1a30"
     },
+    "Geophysic": {
+      "kr": "지오피직",
+      "bg": "#eaeef4",
+      "text": "#2a3a5a"
+    },
     "Altiplano": {
       "kr": "알티플라노",
       "bg": "#f3f0f8",
@@ -200,6 +235,11 @@
       "kr": "폴로",
       "bg": "#e8edf5",
       "text": "#1a2a50"
+    },
+    "Limelight": {
+      "kr": "라임라이트",
+      "bg": "#fdf0f8",
+      "text": "#6b0a3a"
     },
     "Overseas": {
       "kr": "오버시즈",
@@ -215,6 +255,11 @@
       "kr": "트라디셔넬",
       "bg": "#f0ece4",
       "text": "#4a2a10"
+    },
+    "FiftySix": {
+      "kr": "피프티식스",
+      "bg": "#edf0f8",
+      "text": "#1a2040"
     }
   }
 }

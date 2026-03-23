@@ -123,6 +123,126 @@
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
+    "reference": "WSTA0067",
+    "name": "Tank Française Medium",
+    "name_kr": "탱크 프랑세즈 미디엄",
+    "gender": "Women",
+    "price_krw": 9500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 27.4,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "157",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1996,
+    "resale_krw_est": 7200000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 27.4×37.4mm · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 1996년 론칭 · 양 측면 브레이슬릿이 케이스 플랭크와 자연스럽게 연결 · Tank 직선미에 메탈 브레이슬릿 실용성 결합",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "27.4×37.4mm, Cal.157 쿼츠. 가죽 스트랩의 Tank Must와 달리 일체형 스틸 브레이슬릿으로 더 현대적이고 강인한 착용감. 탱크 직선 케이스와 메탈 브레이슬릿의 완벽한 결합."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1996년 론칭으로 Tank 가족 중 가장 현대적. 직선 케이스에 일체형 브레이슬릿을 결합해 Tank 디자인을 스포티하게 재해석. Tank Must의 우아함과 스포츠워치 실용성을 연결하는 포지션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "Tank 디자인 언어에 스틸 브레이슬릿을 더한 조합은 30년 가까이 안정적 수요를 증명. 드레스와 캐주얼 경계를 아우르는 포지션이 구매 범위를 넓힌다."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Tank",
+    "collection_kr": "탱크",
+    "reference": "WSTA0085",
+    "name": "Tank Française Large",
+    "name_kr": "탱크 프랑세즈 라지",
+    "gender": "Men/Women",
+    "price_krw": 17500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 32.3,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1847 MC",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1996,
+    "resale_krw_est": 14000000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 32.3×42.4mm · Cal.1847 MC 자동 42h · 일체형 스틸 브레이슬릿 · 시스루 케이스백 · Tank Française 라인 최고 사양 · 남성 착용에 어울리는 유니섹스 사이즈",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "32.3×42.4mm, Cal.1847 MC 자동 42h. 자동 무브먼트와 날짜 기능으로 실용성 최고. Tank Française 라인에서 남성 착용자가 선택하는 사이즈. 시스루 케이스백으로 무브먼트 감상 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Tank Française의 가장 완성된 표현. 자동 무브먼트 탑재로 Tank 디자인과 현대 워치메이킹 기술의 결합. 1996년 원형에서 30년 가까이 이어온 Cartier 스포츠-엘레강스의 핵심."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "자동 무브먼트와 큰 케이스 사이즈로 남녀 모두 소화 가능. Tank Française의 핵심 포지션에 자리잡아 장기 수요가 안정적. 유니섹스 워치 카테고리에서 가장 권위 있는 선택 중 하나."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Tank",
+    "collection_kr": "탱크",
     "reference": "WSTA0018",
     "name": "Tank Américaine Medium",
     "name_kr": "탱크 아메리케느 미디엄",

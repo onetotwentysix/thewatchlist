@@ -203,5 +203,125 @@
         "comment": "기요셰 다이얼 + 달력 컴플리케이션은 마니아 시장에서 높은 평가. 블랑팡 특유의 수제 장식 철학을 가장 명확히 보여주는 피스로 수집 가치 확고."
       }
     }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "Villeret",
+    "collection_kr": "빌레레",
+    "reference": "6659-3642-55B",
+    "name": "Villeret Quantième Perpétuel 8 Jours",
+    "name_kr": "빌레레 퀀티엠 페르페튀엘 8일",
+    "gender": "Men",
+    "price_krw": 58000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "5954A",
+      "power_reserve_hours": 192,
+      "frequency_vph": 21600,
+      "jewels": 35,
+      "functions": ["Hours", "Minutes", "Seconds", "Perpetual Calendar", "Day", "Date", "Month", "Year", "Moon Phase", "Leap Year", "Power Reserve Indicator"]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2011,
+    "resale_krw_est": 46000000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 11.4mm · Cal. 5954A 수동 8일(192h) 파워리저브 · 퍼페추얼 캘린더 (2100년까지 교정 불필요) + 문페이즈 + 파워리저브 인디케이터 · 핸드 기요셰 은 다이얼",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/11.4mm, Cal. 5954A 수동 192h(8일) PR. 퍼페추얼 캘린더 + 문페이즈 + 파워리저브 인디케이터 세트. 8일 파워리저브는 퍼페추얼 캘린더 드레스워치 중 이례적 스펙. 수동이지만 매주 1회 와인딩으로 충분."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레는 1735년 Jehan-Jacques Blancpain이 설립한 블랑팡의 발상지 마을 이름. 빌레레 컬렉션은 그 정신을 직접 계승한다. 퍼페추얼 캘린더는 블랑팡이 1983년 복원한 이래 핵심 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "퍼페추얼 캘린더 + 8일 파워리저브 + 핸드 기요셰 다이얼의 세 조합은 드레스워치 컬렉터의 최상위 수요를 충족. 가격 대비 희소성과 기술적 완성도가 높아 장기 가치 보존 안정적."
+      }
+    }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "Villeret",
+    "collection_kr": "빌레레",
+    "reference": "6025-1542-55B",
+    "name": "Villeret Tourbillon Carrousel",
+    "name_kr": "빌레레 투르비용 카루셀",
+    "gender": "Men",
+    "price_krw": 130000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Rose Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.55,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "225",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 35,
+      "functions": ["Hours", "Minutes", "Tourbillon", "Carrousel"]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2013,
+    "resale_krw_est": 105000000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm 로즈 골드 · 13.55mm · Cal. 225 수동 168h · 투르비용 + 카루셀 동시 탑재 (세계 최초 구현 브랜드) · 핸드 기요셰 은 다이얼 · 시계 제조 역사상 가장 복잡한 레귤레이팅 오르간 조합",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "Cal. 225는 투르비용과 카루셀을 동시에 구동하는 세계 최초의 무브먼트. 두 레귤레이팅 오르간이 동시에 작동하는 것을 보는 것 자체가 스펙이다. 168h 파워리저브는 수동 시계로서 탁월."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "투르비용 발명(1801)과 카루셀 발명(1892)을 단일 무브먼트에 결합한 최초의 브랜드가 블랑팡. 시계 역사의 두 거대한 발명을 하나로 묶는다는 것은 역사적 선언에 가깝다."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "투르비용 + 카루셀 동시 탑재는 현재도 극소수 브랜드만 구현한다. 희소성과 기술적 의의는 시간이 지나도 감소하지 않는다. 로즈 골드 케이스와 함께 장기 자산 가치로 보유하는 최상위 컬렉터 피스."
+      }
+    }
   }
 ]

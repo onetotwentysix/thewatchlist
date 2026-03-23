@@ -7,6 +7,7 @@
   "collections": {
     "Classique": { "collection_kr": "클래식",   "bg": "#f8f5ed", "text": "#5a4010" },
     "Marine":    { "collection_kr": "마린",     "bg": "#e4ecf5", "text": "#1a2848" },
-    "Tradition": { "collection_kr": "트라디션", "bg": "#f0ece4", "text": "#3a2810" }
+    "Tradition": { "collection_kr": "트라디션", "bg": "#f0ece4", "text": "#3a2810" },
+    "TypeXX":    { "collection_kr": "타입 XX",  "bg": "#e8e4dc", "text": "#3a2a18" }
   }
 }

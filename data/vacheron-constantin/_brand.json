@@ -7,6 +7,7 @@
   "collections": {
     "Overseas":      { "collection_kr": "오버시즈",  "bg": "#e8eff5", "text": "#1a2848" },
     "Patrimony":     { "collection_kr": "패트리모니", "bg": "#f5f0e8", "text": "#5a3a10" },
-    "Traditionnelle":{ "collection_kr": "트라디셔넬", "bg": "#f0ece4", "text": "#4a2a10" }
+    "Traditionnelle":{ "collection_kr": "트라디셔넬", "bg": "#f0ece4", "text": "#4a2a10" },
+    "FiftySix":      { "collection_kr": "피프티식스", "bg": "#edf0f8", "text": "#1a2040" }
   }
 }

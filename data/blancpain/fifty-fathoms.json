@@ -337,5 +337,185 @@
         "comment": "다이버 케이스 + 달력 컴플리케이션은 극히 희소한 조합. 마니아들 사이 수요 확고. 골드 케이스가 장기 가치 지지하나 일상 착용성은 제한적."
       }
     }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-1110-71S",
+    "name": "Fifty Fathoms Bathyscaphe 43",
+    "name_kr": "피프티 패덤즈 바티스카프 43",
+    "gender": "Men",
+    "price_krw": 14500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed, AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Black", "Blue", "Green"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2013,
+    "resale_krw_est": 11500000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "43mm · 13.5mm · Cal. 1315 자동 120h (3배럴) · 300m 방수 · 세라믹 단방향 베젤 · 실리콘 헤어스프링 · 45mm 대비 착용 허들 낮은 바티스카프 라인 주력 사이즈",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "43mm/13.5mm, Cal. 1315 자동 120h. 45mm 대비 케이스가 작아 착용 적합 범위가 넓다. 3배럴 5일 파워리저브와 실리콘 헤어스프링은 동일. 다이버워치 기능과 일상 착용성을 균형있게 갖춘 바티스카프의 핵심 모델."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Bathyscaphe는 1953년 오리지널 FF보다 더 슬림하고 일상적인 다이버워치로 2013년 론칭. 1960년대 Bathyscaphe 포켓워치에서 이름을 가져온 계보. FF 라인 내 가장 대중적 포지션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "43mm 세라믹 베젤 다이버워치는 현재 시장에서 가장 수요가 안정적인 카테고리. Cal. 1315의 5일 파워리저브와 실리콘 헤어스프링은 기술적 노후화 위험이 낮다."
+      }
+    }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0130-O52A",
+    "name": "Fifty Fathoms Bathyscaphe Flyback Chronograph 43",
+    "name_kr": "피프티 패덤즈 바티스카프 플라이백 크로노그래프 43",
+    "gender": "Men",
+    "price_krw": 23000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 15.0,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed, AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F185",
+      "power_reserve_hours": 40,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": ["Hours", "Minutes", "Seconds", "Flyback Chronograph", "Date"]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Blue", "Black"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 18500000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "43mm · 15mm · Cal. F185 자동 플라이백 크로노그래프 · 36,000vph 고주파 · 300m 방수 · 세라믹 베젤 · 다이버워치에 인하우스 플라이백 크로노 탑재한 복합 전문 도구",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Specialist",
+        "comment": "43mm/15mm, Cal. F185 자동 플라이백 크로노 36,000vph. 300m 방수 + 플라이백 크로노 조합은 다이버워치 중 최고 수준 기능 스택. 두께 15mm는 착용 허들. 스쿠버 다이빙과 수중 타이밍 전문가 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "FF의 다이버 전통과 블랑팡 크로노그래프 기술이 결합한 모델. 1953년 세계 최초 현대 다이버워치 DNA에 고주파 플라이백 크로노를 더한 기술적 집대성."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "다이버워치 + 인하우스 플라이백 크로노의 조합은 시장에서 찾기 어렵다. 기능적 복잡성과 헤리티지가 맞닿는 지점에서 컬렉터 가치가 높다. 두께와 가격은 진입 장벽."
+      }
+    }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-1130-52B",
+    "name": "Fifty Fathoms Bicompax Annual Calendar 42",
+    "name_kr": "피프티 패덤즈 바이컴팩스 애뉴얼 캘린더 42",
+    "gender": "Men",
+    "price_krw": 34000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 15.2,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed, AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F185B",
+      "power_reserve_hours": 40,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": ["Hours", "Minutes", "Seconds", "Flyback Chronograph", "Annual Calendar", "Day", "Date", "Month", "Moon Phase"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Black", "Blue"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2014,
+    "resale_krw_est": 27000000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 15.2mm · Cal. F185B · 플라이백 크로노 + 애뉴얼 캘린더(요일·날짜·월) + 문페이즈 · 300m 방수 · 스포츠 다이버 케이스에 그랑 컴플리케이션을 담은 블랑팡의 기술 집약 모델",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/15.2mm, 플라이백 크로노 + 애뉴얼 캘린더 + 문페이즈 + 300m 방수. 이 조합을 하나의 케이스에 담은 시계는 세계적으로 극히 드물다. 두께 15mm는 착용 장벽이나 스펙의 밀도 자체가 독보적."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "피프티 패덤즈 헤리티지에 블랑팡 그랑 컴플리케이션 전통을 결합한 모델. 1953년 다이버워치와 빌레레 드레스워치 양 극단의 블랑팡 정체성이 하나의 시계로 통합된다."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "다이버 + 크로노 + 연간 달력 + 문페이즈의 조합은 수집 목록에서 영원히 화제가 될 구성. 시장 희소성이 가격 하방을 지지. 블랑팡 컬렉터의 최종 목적지 중 하나."
+      }
+    }
   }
 ]

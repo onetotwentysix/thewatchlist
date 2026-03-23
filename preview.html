@@ -209,8 +209,8 @@ footer p span { color:var(--gold); }
 let watches = [];
 let meta = { brands: [], collections: {} };
 
-function loadData() {
-  watches = [
+async function loadData() {
+  const watches = [
   {
     "id": 1,
     "brand": "Blancpain",
@@ -558,6 +558,220 @@ function loadData() {
   {
     "id": 6,
     "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-1110-71S",
+    "name": "Fifty Fathoms Bathyscaphe 43",
+    "name_kr": "피프티 패덤즈 바티스카프 43",
+    "gender": "Men",
+    "price_krw": 14500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed, AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black",
+      "Blue",
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2013,
+    "resale_krw_est": 11500000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "43mm · 13.5mm · Cal. 1315 자동 120h (3배럴) · 300m 방수 · 세라믹 단방향 베젤 · 실리콘 헤어스프링 · 45mm 대비 착용 허들 낮은 바티스카프 라인 주력 사이즈",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "43mm/13.5mm, Cal. 1315 자동 120h. 45mm 대비 케이스가 작아 착용 적합 범위가 넓다. 3배럴 5일 파워리저브와 실리콘 헤어스프링은 동일. 다이버워치 기능과 일상 착용성을 균형있게 갖춘 바티스카프의 핵심 모델."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Bathyscaphe는 1953년 오리지널 FF보다 더 슬림하고 일상적인 다이버워치로 2013년 론칭. 1960년대 Bathyscaphe 포켓워치에서 이름을 가져온 계보. FF 라인 내 가장 대중적 포지션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "43mm 세라믹 베젤 다이버워치는 현재 시장에서 가장 수요가 안정적인 카테고리. Cal. 1315의 5일 파워리저브와 실리콘 헤어스프링은 기술적 노후화 위험이 낮다."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0130-O52A",
+    "name": "Fifty Fathoms Bathyscaphe Flyback Chronograph 43",
+    "name_kr": "피프티 패덤즈 바티스카프 플라이백 크로노그래프 43",
+    "gender": "Men",
+    "price_krw": 23000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 15,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed, AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F185",
+      "power_reserve_hours": 40,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Blue",
+      "Black"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 18500000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "43mm · 15mm · Cal. F185 자동 플라이백 크로노그래프 · 36,000vph 고주파 · 300m 방수 · 세라믹 베젤 · 다이버워치에 인하우스 플라이백 크로노 탑재한 복합 전문 도구",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Specialist",
+        "comment": "43mm/15mm, Cal. F185 자동 플라이백 크로노 36,000vph. 300m 방수 + 플라이백 크로노 조합은 다이버워치 중 최고 수준 기능 스택. 두께 15mm는 착용 허들. 스쿠버 다이빙과 수중 타이밍 전문가 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "FF의 다이버 전통과 블랑팡 크로노그래프 기술이 결합한 모델. 1953년 세계 최초 현대 다이버워치 DNA에 고주파 플라이백 크로노를 더한 기술적 집대성."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "다이버워치 + 인하우스 플라이백 크로노의 조합은 시장에서 찾기 어렵다. 기능적 복잡성과 헤리티지가 맞닿는 지점에서 컬렉터 가치가 높다. 두께와 가격은 진입 장벽."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-1130-52B",
+    "name": "Fifty Fathoms Bicompax Annual Calendar 42",
+    "name_kr": "피프티 패덤즈 바이컴팩스 애뉴얼 캘린더 42",
+    "gender": "Men",
+    "price_krw": 34000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 15.2,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed, AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F185B",
+      "power_reserve_hours": 40,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Annual Calendar",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black",
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2014,
+    "resale_krw_est": 27000000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 15.2mm · Cal. F185B · 플라이백 크로노 + 애뉴얼 캘린더(요일·날짜·월) + 문페이즈 · 300m 방수 · 스포츠 다이버 케이스에 그랑 컴플리케이션을 담은 블랑팡의 기술 집약 모델",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/15.2mm, 플라이백 크로노 + 애뉴얼 캘린더 + 문페이즈 + 300m 방수. 이 조합을 하나의 케이스에 담은 시계는 세계적으로 극히 드물다. 두께 15mm는 착용 장벽이나 스펙의 밀도 자체가 독보적."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "피프티 패덤즈 헤리티지에 블랑팡 그랑 컴플리케이션 전통을 결합한 모델. 1953년 다이버워치와 빌레레 드레스워치 양 극단의 블랑팡 정체성이 하나의 시계로 통합된다."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "다이버 + 크로노 + 연간 달력 + 문페이즈의 조합은 수집 목록에서 영원히 화제가 될 구성. 시장 희소성이 가격 하방을 지지. 블랑팡 컬렉터의 최종 목적지 중 하나."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "brand": "Blancpain",
     "collection": "LEvolution",
     "collection_kr": "L-Evolution",
     "reference": "8805-1134-53B",
@@ -625,7 +839,7 @@ function loadData() {
     }
   },
   {
-    "id": 7,
+    "id": 10,
     "brand": "Blancpain",
     "collection": "Villeret",
     "collection_kr": "빌레레",
@@ -694,7 +908,7 @@ function loadData() {
     }
   },
   {
-    "id": 8,
+    "id": 11,
     "brand": "Blancpain",
     "collection": "Villeret",
     "collection_kr": "빌레레",
@@ -764,7 +978,7 @@ function loadData() {
     }
   },
   {
-    "id": 9,
+    "id": 12,
     "brand": "Blancpain",
     "collection": "Villeret",
     "collection_kr": "빌레레",
@@ -833,7 +1047,150 @@ function loadData() {
     }
   },
   {
-    "id": 10,
+    "id": 13,
+    "brand": "Blancpain",
+    "collection": "Villeret",
+    "collection_kr": "빌레레",
+    "reference": "6659-3642-55B",
+    "name": "Villeret Quantième Perpétuel 8 Jours",
+    "name_kr": "빌레레 퀀티엠 페르페튀엘 8일",
+    "gender": "Men",
+    "price_krw": 58000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "5954A",
+      "power_reserve_hours": 192,
+      "frequency_vph": 21600,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Perpetual Calendar",
+        "Day",
+        "Date",
+        "Month",
+        "Year",
+        "Moon Phase",
+        "Leap Year",
+        "Power Reserve Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2011,
+    "resale_krw_est": 46000000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 11.4mm · Cal. 5954A 수동 8일(192h) 파워리저브 · 퍼페추얼 캘린더 (2100년까지 교정 불필요) + 문페이즈 + 파워리저브 인디케이터 · 핸드 기요셰 은 다이얼",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/11.4mm, Cal. 5954A 수동 192h(8일) PR. 퍼페추얼 캘린더 + 문페이즈 + 파워리저브 인디케이터 세트. 8일 파워리저브는 퍼페추얼 캘린더 드레스워치 중 이례적 스펙. 수동이지만 매주 1회 와인딩으로 충분."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레는 1735년 Jehan-Jacques Blancpain이 설립한 블랑팡의 발상지 마을 이름. 빌레레 컬렉션은 그 정신을 직접 계승한다. 퍼페추얼 캘린더는 블랑팡이 1983년 복원한 이래 핵심 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "퍼페추얼 캘린더 + 8일 파워리저브 + 핸드 기요셰 다이얼의 세 조합은 드레스워치 컬렉터의 최상위 수요를 충족. 가격 대비 희소성과 기술적 완성도가 높아 장기 가치 보존 안정적."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "brand": "Blancpain",
+    "collection": "Villeret",
+    "collection_kr": "빌레레",
+    "reference": "6025-1542-55B",
+    "name": "Villeret Tourbillon Carrousel",
+    "name_kr": "빌레레 투르비용 카루셀",
+    "gender": "Men",
+    "price_krw": 130000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Rose Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.55,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "225",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon",
+        "Carrousel"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2013,
+    "resale_krw_est": 105000000,
+    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm 로즈 골드 · 13.55mm · Cal. 225 수동 168h · 투르비용 + 카루셀 동시 탑재 (세계 최초 구현 브랜드) · 핸드 기요셰 은 다이얼 · 시계 제조 역사상 가장 복잡한 레귤레이팅 오르간 조합",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "Cal. 225는 투르비용과 카루셀을 동시에 구동하는 세계 최초의 무브먼트. 두 레귤레이팅 오르간이 동시에 작동하는 것을 보는 것 자체가 스펙이다. 168h 파워리저브는 수동 시계로서 탁월."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "투르비용 발명(1801)과 카루셀 발명(1892)을 단일 무브먼트에 결합한 최초의 브랜드가 블랑팡. 시계 역사의 두 거대한 발명을 하나로 묶는다는 것은 역사적 선언에 가깝다."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "투르비용 + 카루셀 동시 탑재는 현재도 극소수 브랜드만 구현한다. 희소성과 기술적 의의는 시간이 지나도 감소하지 않는다. 로즈 골드 케이스와 함께 장기 자산 가치로 보유하는 최상위 컬렉터 피스."
+      }
+    }
+  },
+  {
+    "id": 15,
     "brand": "Blancpain",
     "collection": "Woman",
     "collection_kr": "우먼",
@@ -903,7 +1260,7 @@ function loadData() {
     }
   },
   {
-    "id": 11,
+    "id": 16,
     "brand": "Breguet",
     "collection": "Classique",
     "collection_kr": "클래식",
@@ -970,7 +1327,7 @@ function loadData() {
     }
   },
   {
-    "id": 12,
+    "id": 17,
     "brand": "Breguet",
     "collection": "Classique",
     "collection_kr": "클래식",
@@ -1039,7 +1396,7 @@ function loadData() {
     }
   },
   {
-    "id": 13,
+    "id": 18,
     "brand": "Breguet",
     "collection": "Classique",
     "collection_kr": "클래식",
@@ -1106,7 +1463,77 @@ function loadData() {
     }
   },
   {
-    "id": 14,
+    "id": 19,
+    "brand": "Breguet",
+    "collection": "Classique",
+    "collection_kr": "클래식",
+    "reference": "5287BB/1E/9V6",
+    "name": "Classique Phase de Lune 5287",
+    "name_kr": "클래식 문페이즈 5287",
+    "gender": "Men",
+    "price_krw": 25500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 39,
+      "thickness_mm": 7.45,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "5887BB",
+      "power_reserve_hours": 48,
+      "frequency_vph": 21600,
+      "jewels": 38,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Moon Phase",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Breguet Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2005,
+    "resale_krw_est": 20000000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "39mm 화이트 골드 · 7.45mm · Cal. 5887BB 자동 · 문페이즈 + 주야 인디케이터 + 날짜 · 핸드 기요셰 은 다이얼 · 브레게 수자 · 남반구 보정 문페이즈 옵션 존재",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "39mm/7.45mm, Cal. 5887BB 자동 48h, 문페이즈 + 주야 인디케이터 + 날짜. 달의 위상을 표시하는 낭만적 컴플리케이션이 브레게 기요셰 다이얼과 조화를 이룬다. 드레스워치의 정서적 완성도 최고."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Abraham-Louis Breguet는 18세기에 이미 문페이즈를 탑재한 시계를 다수 제작했다. 250년 문페이즈 전통이 현대 칼리버에 담긴다. 브레게 수자와 기요셰 다이얼은 그 언어를 그대로 유지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈는 가장 낭만적이고 시대를 초월하는 컴플리케이션. 브레게 디자인 언어와 결합하면 세대를 넘어 전달 가능한 가치를 지닌다. 헤리테이지 증여를 고려하는 구매자에게 최우선 추천."
+      }
+    }
+  },
+  {
+    "id": 20,
     "brand": "Breguet",
     "collection": "Marine",
     "collection_kr": "마린",
@@ -1175,7 +1602,7 @@ function loadData() {
     }
   },
   {
-    "id": 15,
+    "id": 21,
     "brand": "Breguet",
     "collection": "Marine",
     "collection_kr": "마린",
@@ -1245,7 +1672,7 @@ function loadData() {
     }
   },
   {
-    "id": 16,
+    "id": 22,
     "brand": "Breguet",
     "collection": "Tradition",
     "collection_kr": "트라디션",
@@ -1313,7 +1740,287 @@ function loadData() {
     }
   },
   {
-    "id": 17,
+    "id": 23,
+    "brand": "Breguet",
+    "collection": "TypeXX",
+    "collection_kr": "타입 XX",
+    "reference": "3820ST/H2/9W6",
+    "name": "Type XX Chronographe",
+    "name_kr": "타입 XX 크로노그래프",
+    "gender": "Men",
+    "price_krw": 22000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 14.4,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "728/3",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1954,
+    "resale_krw_est": 18000000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 14.4mm · Cal. 728/3 인하우스 플라이백 크로노 60h · 1954년 프랑스 해군 항공대 공식 지급품 원형 충실 재현 (2022 리런칭) · 항공기 계기판에서 영감받은 퍼 밀리에 베젤 눈금",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/14.4mm, 인하우스 Cal. 728/3 플라이백 크로노 60h. 14mm 이상 두께는 착용 허들. 플라이백 기능은 연속 타이밍 시 재시작 시간을 단축하는 실용 기능. 인하우스 무브먼트와 긴 파워리저브는 이 가격대 강점."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1954년 프랑스 해군 항공대(Aéronavale)의 공식 지급 시계로 탄생. Type XX는 XX세기(20세기)를 의미하며 2차 대전 직후 항공 시계의 표준을 정의했다. 브레게가 군용 시계 제조사로서 갖는 역사적 무게."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "군용 항공 크로노그래프의 원형이라는 서사는 시간이 지나도 퇴색되지 않는다. 2022년 리런칭으로 현대적 인하우스 무브먼트를 장착해 기능적 현재성도 확보. 브레게 입문용으로 드레스 라인보다 접근하기 쉬운 포지션."
+      }
+    }
+  },
+  {
+    "id": 24,
+    "brand": "Breguet",
+    "collection": "TypeXX",
+    "collection_kr": "타입 XX",
+    "reference": "3880ST/H2/9XV6",
+    "name": "Type XXII Chronographe 10 Hz",
+    "name_kr": "타입 XXII 크로노그래프 10Hz",
+    "gender": "Men",
+    "price_krw": 38000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44,
+      "thickness_mm": 16,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "589F",
+      "power_reserve_hours": 48,
+      "frequency_vph": 72000,
+      "jewels": 54,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2010,
+    "resale_krw_est": 30000000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "44mm · 16mm · Cal. 589F · 72,000vph (10Hz) — 1/100초 계측 가능 · 플라이백 크로노 · 실리콘 헤어스프링 · 세계에서 가장 빠른 자동 크로노그래프 무브먼트 중 하나",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "72,000vph(10Hz)는 표준 크로노그래프(28,800vph)의 2.5배 진동수로 1/100초 단위 계측이 가능하다. 44mm/16mm 두꺼운 케이스는 일상 착용에 부담. 이 스펙에 관심 있는 매우 좁은 마니아 층 타깃."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Type XX 항공 크로노그래프 계보를 잇는 기술적 극단 버전. XXII는 22세기를 향하는 의미로, Type XX의 DNA에 극한 기술을 더했다. 브레게가 클래식만이 아닌 극한 기술 분야에서도 선두임을 증명."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "10Hz 자동 크로노그래프는 세계적으로 극소수. 기록적 스펙은 컬렉터 시장에서 영구적 화제. 다만 두꺼운 케이스와 높은 가격은 일반 수요를 제한. 기술 마니아층의 수집 대상."
+      }
+    }
+  },
+  {
+    "id": 25,
+    "brand": "Breitling",
+    "collection": "Avenger",
+    "collection_kr": "어벤저",
+    "reference": "AB0821101C1X1",
+    "name": "Avenger Automatic 42",
+    "name_kr": "어벤저 오토매틱 42",
+    "gender": "Men",
+    "price_krw": 6800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.35,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "17",
+      "power_reserve_hours": 38,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black",
+      "Blue",
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 5200000,
+    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 13.35mm · Cal. 17 COSC 자동 · 300m 방수 · 단방향 회전 베젤 · 스크루다운 크라운 · Avenger 라인 중 가장 접근하기 쉬운 입문 모델 · 밀리터리 항공 스타일",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Versatile",
+        "comment": "42mm/13.35mm, COSC Cal. 17 자동, 300m 방수, 단방향 베젤. 슈퍼오션 44mm 대비 케이스 사이즈 낮춰 착용성 향상. 동일한 방수 스펙에 밀리터리 항공 스타일. COSC 인증 입문 다이버-파일럿 시계."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Avenger는 전문 파일럿과 군사 작전 환경을 위해 설계된 도구 시계 계보. 브레이틀링의 항공 시계 제조 140년 역사 중 가장 견고함을 우선하는 라인. 극한 환경 테스트 통과가 DNA."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "밀리터리 스타일 도구 시계는 패션과 무관하게 꾸준한 수요. COSC 인증 + 300m 방수 + 42mm의 조합은 실용성 최우선 구매자의 반복 선택. 가격 대비 스펙 만족도 높음."
+      }
+    }
+  },
+  {
+    "id": 26,
+    "brand": "Breitling",
+    "collection": "Avenger",
+    "collection_kr": "어벤저",
+    "reference": "AB0147101B1X1",
+    "name": "Avenger B01 Chronograph 44",
+    "name_kr": "어벤저 B01 크로노그래프 44",
+    "gender": "Men",
+    "price_krw": 12000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "B01",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 47,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black",
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 9800000,
+    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "44mm · 15.5mm · Cal. B01 인하우스 COSC 자동 크로노 70h · 300m 방수 · 단방향 세라믹 베젤 · Avenger 라인 최고 사양 · Navitimer B01과 동일 무브먼트 + 300m 방수 우위",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Specialist",
+        "comment": "44mm/15.5mm, Cal. B01 COSC 인하우스 크로노 70h, 300m 방수. Navitimer B01 43mm(30m 방수)보다 방수가 10배 높다. 크로노그래프가 필요한 실전 다이버·파일럿에게 가장 완전한 스펙 패키지."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Avenger 극한 내구성 전통에 브레이틀링 최고급 인하우스 크로노 무브먼트를 결합. 전문 도구 시계의 외관과 파인 워치메이킹 무브먼트의 조합이 이 모델의 핵심 가치 제안."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "B01 인하우스 COSC 크로노 + 300m 방수 조합은 장기 가치를 지지하는 스펙. 비슷한 가격대에서 이 조합을 제공하는 경쟁자가 극히 드물다. 실용성과 기술 완성도 모두에서 합리적 선택."
+      }
+    }
+  },
+  {
+    "id": 27,
     "brand": "Breitling",
     "collection": "Chronomat",
     "collection_kr": "크로노매트",
@@ -1385,7 +2092,7 @@ function loadData() {
     }
   },
   {
-    "id": 18,
+    "id": 28,
     "brand": "Breitling",
     "collection": "Navitimer",
     "collection_kr": "나비타이머",
@@ -1456,7 +2163,7 @@ function loadData() {
     }
   },
   {
-    "id": 19,
+    "id": 29,
     "brand": "Breitling",
     "collection": "Navitimer",
     "collection_kr": "나비타이머",
@@ -1527,7 +2234,7 @@ function loadData() {
     }
   },
   {
-    "id": 20,
+    "id": 30,
     "brand": "Breitling",
     "collection": "Navitimer",
     "collection_kr": "나비타이머",
@@ -1598,7 +2305,79 @@ function loadData() {
     }
   },
   {
-    "id": 21,
+    "id": 31,
+    "brand": "Breitling",
+    "collection": "Premier",
+    "collection_kr": "프리미어",
+    "reference": "AB0118221G1P2",
+    "name": "Premier B01 Chronograph 42",
+    "name_kr": "프리미어 B01 크로노그래프 42",
+    "gender": "Men",
+    "price_krw": 10500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 14.75,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "B01",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 47,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver",
+      "Black",
+      "Blue",
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 8500000,
+    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 14.75mm · Cal. B01 인하우스 COSC 자동 크로노 70h · 드레시한 케이스 라인 + 악어가죽 스트랩 · 1940년대 브레이틀링 프리미어 디자인 오마주 · 항공 계기판보다 비즈니스 미팅에 어울리는 포지션",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "42mm/14.75mm, Cal. B01 COSC 인하우스 크로노 70h. Navitimer·Avenger와 동일 무브먼트이나 케이스 라인이 드레시하다. 악어가죽 스트랩으로 비즈니스 환경 착용성 향상. 브레이틀링에서 가장 정장과 어울리는 크로노."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1940년대 브레이틀링 최초 프리미어 라인 오마주. 전후 황금기 항공 귀족들이 착용하던 드레시한 크로노그래프를 현대적으로 재해석. 밀리터리 도구 시계가 아닌 브레이틀링의 우아한 면을 보여준다."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "비즈니스 크로노그래프는 영원한 수요가 있는 카테고리. 인하우스 B01 COSC 무브먼트의 기술적 완성도는 가격을 정당화한다. Navitimer의 파일럿 감성 없이 브레이틀링 기술력만을 원하는 구매자의 선택."
+      }
+    }
+  },
+  {
+    "id": 32,
     "brand": "Breitling",
     "collection": "Superocean",
     "collection_kr": "슈퍼오션",
@@ -1669,7 +2448,7 @@ function loadData() {
     }
   },
   {
-    "id": 22,
+    "id": 33,
     "brand": "Breitling",
     "collection": "Superocean",
     "collection_kr": "슈퍼오션",
@@ -1740,7 +2519,7 @@ function loadData() {
     }
   },
   {
-    "id": 23,
+    "id": 34,
     "brand": "Cartier",
     "collection": "BallonBleu",
     "collection_kr": "발롱 블루",
@@ -1809,7 +2588,7 @@ function loadData() {
     }
   },
   {
-    "id": 24,
+    "id": 35,
     "brand": "Cartier",
     "collection": "BallonBleu",
     "collection_kr": "발롱 블루",
@@ -1879,7 +2658,7 @@ function loadData() {
     }
   },
   {
-    "id": 25,
+    "id": 36,
     "brand": "Cartier",
     "collection": "BallonBleu",
     "collection_kr": "발롱 블루",
@@ -1948,7 +2727,7 @@ function loadData() {
     }
   },
   {
-    "id": 26,
+    "id": 37,
     "brand": "Cartier",
     "collection": "Drive",
     "collection_kr": "드라이브",
@@ -2017,7 +2796,7 @@ function loadData() {
     }
   },
   {
-    "id": 27,
+    "id": 38,
     "brand": "Cartier",
     "collection": "Drive",
     "collection_kr": "드라이브",
@@ -2083,7 +2862,205 @@ function loadData() {
     }
   },
   {
-    "id": 28,
+    "id": 39,
+    "brand": "Cartier",
+    "collection": "Panthere",
+    "collection_kr": "팡테르",
+    "reference": "WSPN0019",
+    "name": "Panthère de Cartier 22mm",
+    "name_kr": "팡테르 드 까르띠에 22mm",
+    "gender": "Women",
+    "price_krw": 4300000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 22,
+      "thickness_mm": 7.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "157",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1983,
+    "resale_krw_est": 3200000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "22mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 1983년 론칭 · 다이아나 왕세자빈·엘리자베스 테일러 착용으로 전설화된 레이디스 아이콘 · 삿파이어 카보숑 크라운",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "22mm 쿠션형 케이스에 Cal.157 쿼츠. 일체형 스틸 브레이슬릿이 케이스와 완벽한 연속성을 이룬다. 시·분만의 순수한 다이얼. 드레시한 레이디스 시계의 정점."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1983년 까르띠에의 상징 동물 팡테르(표범)에서 영감받아 탄생. 잔느 투생이 1914년부터 개발한 팡테르 주얼리의 시계 버전. 다이아나 왕세자빈·엘리자베스 테일러가 착용해 럭셔리 레이디스 워치의 아이콘으로 자리잡았다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "40년 이상 동일한 디자인 언어를 유지. 쿠션형 케이스와 일체형 브레이슬릿의 조화는 유행을 초월한다. 레이디스 럭셔리 시계 시장에서 가장 안정적인 수요를 보유한 아이콘 중 하나."
+      }
+    }
+  },
+  {
+    "id": 40,
+    "brand": "Cartier",
+    "collection": "Panthere",
+    "collection_kr": "팡테르",
+    "reference": "WSPN0020",
+    "name": "Panthère de Cartier 27mm",
+    "name_kr": "팡테르 드 까르띠에 27mm",
+    "gender": "Women",
+    "price_krw": 5800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 27,
+      "thickness_mm": 8.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "157",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1983,
+    "resale_krw_est": 4400000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "27mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 소형 대비 가시성 향상 · 레이디스 및 유니섹스 포지션",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "27mm 쿠션형 케이스로 22mm 대비 착용감·가독성 향상. Cal.157 쿼츠. 일체형 브레이슬릿 디자인은 동일. 레이디스 착용자에게 가장 많이 선택되는 사이즈."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "팡테르 컬렉션의 핵심 사이즈. 소형과 특대형의 균형을 갖춘 중간 포지션으로 팡테르 판매의 중심축. 1983년 론칭 이래 변하지 않는 디자인 DNA."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "팡테르 컬렉션 내 가장 보편적인 선택. 중간 사이즈는 어떤 손목 비율에도 적합. 40년 이상의 디자인 일관성이 타임리스니스를 보장."
+      }
+    }
+  },
+  {
+    "id": 41,
+    "brand": "Cartier",
+    "collection": "Panthere",
+    "collection_kr": "팡테르",
+    "reference": "WSPN0007",
+    "name": "Panthère de Cartier 35mm",
+    "name_kr": "팡테르 드 까르띠에 35mm",
+    "gender": "Women",
+    "price_krw": 8500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 35,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "157",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2017,
+    "resale_krw_est": 6500000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "35mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 2017년 재런칭 시 추가된 엑스트라 라지 사이즈 · 유니섹스 포지션으로 남성 착용도 가능",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "35mm로 팡테르 라인업 중 가장 큰 사이즈. Cal.157 쿼츠. 남녀 모두 착용 가능한 유니섹스 포지션. 2017년 팡테르 재런칭의 핵심 모델 중 하나."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "2017년 재런칭으로 현대 착용자를 위해 추가된 사이즈. 팡테르의 헤리티지 DNA를 유지하면서 더 넓은 손목 착용자를 포용. 아이코닉 디자인의 현대적 확장."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "가장 큰 팡테르로 스테이트먼트 피스로서의 존재감이 강하다. 유니섹스 포지션은 소비층을 넓혀 안정적 수요 유지. 팡테르 특유의 일체형 브레이슬릿 디자인은 세월을 타지 않는다."
+      }
+    }
+  },
+  {
+    "id": 42,
     "brand": "Cartier",
     "collection": "Pasha",
     "collection_kr": "파샤",
@@ -2153,7 +3130,7 @@ function loadData() {
     }
   },
   {
-    "id": 29,
+    "id": 43,
     "brand": "Cartier",
     "collection": "Pasha",
     "collection_kr": "파샤",
@@ -2223,7 +3200,7 @@ function loadData() {
     }
   },
   {
-    "id": 30,
+    "id": 44,
     "brand": "Cartier",
     "collection": "Santos",
     "collection_kr": "산토스",
@@ -2293,7 +3270,7 @@ function loadData() {
     }
   },
   {
-    "id": 31,
+    "id": 45,
     "brand": "Cartier",
     "collection": "Santos",
     "collection_kr": "산토스",
@@ -2363,7 +3340,7 @@ function loadData() {
     }
   },
   {
-    "id": 32,
+    "id": 46,
     "brand": "Cartier",
     "collection": "Santos",
     "collection_kr": "산토스",
@@ -2433,7 +3410,7 @@ function loadData() {
     }
   },
   {
-    "id": 33,
+    "id": 47,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -2503,7 +3480,7 @@ function loadData() {
     }
   },
   {
-    "id": 34,
+    "id": 48,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -2569,7 +3546,142 @@ function loadData() {
     }
   },
   {
-    "id": 35,
+    "id": 49,
+    "brand": "Cartier",
+    "collection": "Tank",
+    "collection_kr": "탱크",
+    "reference": "WSTA0067",
+    "name": "Tank Française Medium",
+    "name_kr": "탱크 프랑세즈 미디엄",
+    "gender": "Women",
+    "price_krw": 9500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 27.4,
+      "thickness_mm": 9.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "157",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1996,
+    "resale_krw_est": 7200000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 27.4×37.4mm · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 1996년 론칭 · 양 측면 브레이슬릿이 케이스 플랭크와 자연스럽게 연결 · Tank 직선미에 메탈 브레이슬릿 실용성 결합",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "27.4×37.4mm, Cal.157 쿼츠. 가죽 스트랩의 Tank Must와 달리 일체형 스틸 브레이슬릿으로 더 현대적이고 강인한 착용감. 탱크 직선 케이스와 메탈 브레이슬릿의 완벽한 결합."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1996년 론칭으로 Tank 가족 중 가장 현대적. 직선 케이스에 일체형 브레이슬릿을 결합해 Tank 디자인을 스포티하게 재해석. Tank Must의 우아함과 스포츠워치 실용성을 연결하는 포지션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "Tank 디자인 언어에 스틸 브레이슬릿을 더한 조합은 30년 가까이 안정적 수요를 증명. 드레스와 캐주얼 경계를 아우르는 포지션이 구매 범위를 넓힌다."
+      }
+    }
+  },
+  {
+    "id": 50,
+    "brand": "Cartier",
+    "collection": "Tank",
+    "collection_kr": "탱크",
+    "reference": "WSTA0085",
+    "name": "Tank Française Large",
+    "name_kr": "탱크 프랑세즈 라지",
+    "gender": "Men/Women",
+    "price_krw": 17500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 32.3,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1847 MC",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1996,
+    "resale_krw_est": 14000000,
+    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 32.3×42.4mm · Cal.1847 MC 자동 42h · 일체형 스틸 브레이슬릿 · 시스루 케이스백 · Tank Française 라인 최고 사양 · 남성 착용에 어울리는 유니섹스 사이즈",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "32.3×42.4mm, Cal.1847 MC 자동 42h. 자동 무브먼트와 날짜 기능으로 실용성 최고. Tank Française 라인에서 남성 착용자가 선택하는 사이즈. 시스루 케이스백으로 무브먼트 감상 가능."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Tank Française의 가장 완성된 표현. 자동 무브먼트 탑재로 Tank 디자인과 현대 워치메이킹 기술의 결합. 1996년 원형에서 30년 가까이 이어온 Cartier 스포츠-엘레강스의 핵심."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "자동 무브먼트와 큰 케이스 사이즈로 남녀 모두 소화 가능. Tank Française의 핵심 포지션에 자리잡아 장기 수요가 안정적. 유니섹스 워치 카테고리에서 가장 권위 있는 선택 중 하나."
+      }
+    }
+  },
+  {
+    "id": 51,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -2637,7 +3749,7 @@ function loadData() {
     }
   },
   {
-    "id": 36,
+    "id": 52,
     "brand": "Chopard",
     "collection": "AlpineEagle",
     "collection_kr": "알파인 이글",
@@ -2708,7 +3820,7 @@ function loadData() {
     }
   },
   {
-    "id": 37,
+    "id": 53,
     "brand": "Chopard",
     "collection": "AlpineEagle",
     "collection_kr": "알파인 이글",
@@ -2779,7 +3891,215 @@ function loadData() {
     }
   },
   {
-    "id": 38,
+    "id": 54,
+    "brand": "Chopard",
+    "collection": "HappySport",
+    "collection_kr": "해피 스포트",
+    "reference": "278573-3044",
+    "name": "Happy Sport 29mm",
+    "name_kr": "해피 스포트 29mm",
+    "gender": "Women",
+    "price_krw": 6500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 29,
+      "thickness_mm": 8.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "ETA 956.112",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "White",
+      "Blue",
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1993,
+    "resale_krw_est": 4800000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "29mm · 5개 부유 다이아몬드 · Cal. ETA 956.112 쿼츠 · 1993년 Caroline Scheufele이 직접 디자인 · 다이얼 안에서 자유롭게 움직이는 다이아몬드가 핵심 아이덴티티 · Chopard 판매 1위 컬렉션",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "29mm 케이스, ETA 쿼츠. 다이얼 내에서 자유롭게 움직이는 5개 다이아몬드가 핵심 디자인 요소. 쿼츠 무브먼트는 기술적 하이라이트보다 '살아있는 다이아몬드'의 움직임에 집중."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1993년 Caroline Scheufele가 직접 착용하고 싶은 스포티한 다이아몬드 시계를 만들며 탄생. 부유 다이아몬드 특허 디자인으로 Chopard의 정체성을 정의. 지난 30년간 Chopard 판매 1위 컬렉션으로 자리잡은 현대 클래식."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "30년 이상 Chopard 아이콘 포지션을 유지. 살아 움직이는 다이아몬드라는 발상은 유행과 무관하게 지속적인 매력을 발산. 레이디스 럭셔리 시계 시장에서 꾸준한 1순위 언급."
+      }
+    }
+  },
+  {
+    "id": 55,
+    "brand": "Chopard",
+    "collection": "HappySport",
+    "collection_kr": "해피 스포트",
+    "reference": "278559-3004",
+    "name": "Happy Sport Automatic 36mm",
+    "name_kr": "해피 스포트 오토매틱 36mm",
+    "gender": "Women",
+    "price_krw": 12500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 9.8,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "09.01-C",
+      "power_reserve_hours": 36,
+      "frequency_vph": 28800,
+      "jewels": 27,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "White",
+      "Blue",
+      "Green"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2004,
+    "resale_krw_est": 9800000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "36mm · Cal.09.01-C 인하우스 자동 36h · 5개 부유 다이아몬드 · 시스루 케이스백 · 50m 방수 · Happy Sport 라인 중 자동 무브먼트 탑재 핵심 모델",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "36mm, Cal.09.01-C 인하우스 자동 36h. 쿼츠 버전 대비 인하우스 무브먼트 탑재로 기술적 가치 상승. 시스루 케이스백으로 무브먼트 감상. 50m 방수로 일상 활용도 높음."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Happy Sport의 부유 다이아몬드 전통에 Chopard 인하우스 자동 무브먼트를 결합. 쿼츠 원형에서 자동화로의 발전이 컬렉션 기술 완성도를 높인 전환점 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "인하우스 무브먼트와 Happy Sport 아이덴티티의 결합은 장기 가치를 지지. 다이아몬드 컬렉션에 기계식 시계를 원하는 구매자의 자연스러운 선택. 리세일도 쿼츠 버전 대비 안정적."
+      }
+    }
+  },
+  {
+    "id": 56,
+    "brand": "Chopard",
+    "collection": "HappySport",
+    "collection_kr": "해피 스포트",
+    "reference": "278582-3001",
+    "name": "Happy Sport Automatic 40mm",
+    "name_kr": "해피 스포트 오토매틱 40mm",
+    "gender": "Women",
+    "price_krw": 15500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "09.01-C",
+      "power_reserve_hours": 36,
+      "frequency_vph": 28800,
+      "jewels": 27,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "White",
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 12500000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · Cal.09.01-C 인하우스 자동 36h · 7개 부유 다이아몬드 · 시스루 케이스백 · 50m 방수 · 더 큰 케이스로 남녀 공용 착용 가능 · Happy Sport 최대 사이즈",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm, Cal.09.01-C 인하우스 자동 36h, 7개 부유 다이아몬드. 36mm 대비 큰 케이스로 더 강한 존재감. 남녀 모두 착용 가능한 유니섹스 포지션. 50m 방수로 일상 내구성 충분."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Happy Sport의 성장을 보여주는 최대 사이즈. 1993년 탄생 이후 30년간 다양한 사이즈로 확장하며 더 넓은 착용층을 포용. Chopard의 가장 강력한 컬렉션이 진화한 결과물."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "유니섹스 40mm 사이즈는 현대 시계 착용 트렌드와 일치. Happy Sport 아이덴티티를 유지하면서 남성 착용자까지 흡수. 컬렉션 가치와 구매 범위 모두에서 안정적."
+      }
+    }
+  },
+  {
+    "id": 57,
     "brand": "Chopard",
     "collection": "LUC",
     "collection_kr": "L.U.C",
@@ -2849,7 +4169,7 @@ function loadData() {
     }
   },
   {
-    "id": 39,
+    "id": 58,
     "brand": "Chopard",
     "collection": "LUC",
     "collection_kr": "L.U.C",
@@ -2917,7 +4237,7 @@ function loadData() {
     }
   },
   {
-    "id": 40,
+    "id": 59,
     "brand": "Chopard",
     "collection": "LUC",
     "collection_kr": "L.U.C",
@@ -2985,7 +4305,7 @@ function loadData() {
     }
   },
   {
-    "id": 41,
+    "id": 60,
     "brand": "Chopard",
     "collection": "MilleMiglia",
     "collection_kr": "밀레 밀리아",
@@ -3055,7 +4375,7 @@ function loadData() {
     }
   },
   {
-    "id": 42,
+    "id": 61,
     "brand": "Chopard",
     "collection": "MilleMiglia",
     "collection_kr": "밀레 밀리아",
@@ -3126,7 +4446,7 @@ function loadData() {
     }
   },
   {
-    "id": 43,
+    "id": 62,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -3195,7 +4515,7 @@ function loadData() {
     }
   },
   {
-    "id": 44,
+    "id": 63,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -3265,7 +4585,7 @@ function loadData() {
     }
   },
   {
-    "id": 45,
+    "id": 64,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -3333,7 +4653,146 @@ function loadData() {
     }
   },
   {
-    "id": 46,
+    "id": 65,
+    "brand": "IWC",
+    "collection": "DaVinci",
+    "collection_kr": "다빈치",
+    "reference": "IW358307",
+    "name": "Da Vinci Automatic 40",
+    "name_kr": "다빈치 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 9500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 26,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2017,
+    "resale_krw_est": 7500000,
+    "source": "IWC 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · 11.4mm · Cal.82200 자동 60h · 파라크롬 헤어스프링 · 2017년 다빈치 재런칭 세대 · 라운드 케이스로 현대화 · Portofino와 유사하나 더 드레시한 디테일",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40mm, Cal.82200 자동 60h, 파라크롬 헤어스프링. Portofino 40mm와 같은 케이스 직경이나 디자인 언어가 다르다. 60h 파워리저브는 주말 착용 후 월요일 재착용 시에도 여유."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Da Vinci는 1969년 처음 등장, IWC가 레오나르도 다빈치의 이름을 붙인 만큼 기술적 진보를 상징하는 라인. 1985년 永久 달력 탑재로 컴플리케이션 워치의 기준을 세웠다. 2017년 재런칭으로 현대적 포지셔닝."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "Da Vinci 이름이 주는 지적 아우라와 IWC 기술력의 조합. Portugieser의 항해 서사, Pilot의 항공 서사와 차별화되는 지성적 포지션. 드레스워치 시장에서 IWC를 원하는 구매자의 선택."
+      }
+    }
+  },
+  {
+    "id": 66,
+    "brand": "IWC",
+    "collection": "DaVinci",
+    "collection_kr": "다빈치",
+    "reference": "IW458312",
+    "name": "Da Vinci Automatic 36",
+    "name_kr": "다빈치 오토매틱 36",
+    "gender": "Women",
+    "price_krw": 8500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35800",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Blue",
+      "Pink"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2017,
+    "resale_krw_est": 6800000,
+    "source": "IWC 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "36mm · Cal.35800 자동 42h · 2017년 다빈치 재런칭 여성 모델 · IWC 레이디스 라인 중 가장 접근성 높은 드레스워치 포지션",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "36mm, Cal.35800 자동 42h. IWC 레이디스 컬렉션 중 가장 드레시한 포지션. Portofino 37 대비 더 라운드한 케이스 형태. 자동 무브먼트로 실용성과 우아함을 동시에."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Da Vinci 레이디스 모델은 2017년 재런칭의 일환. IWC가 여성 착용자에게 기술력과 헤리티지를 함께 제공하는 라인. Da Vinci 이름의 지적 매력이 여성 구매자에게도 강하게 작용."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "36mm 크기는 여성 착용자의 가장 보편적인 선호 범위. IWC 자동 무브먼트 탑재 레이디스 드레스워치는 장기 가치를 지지. Portofino 레이디스와 함께 IWC 여성 라인의 양대 축."
+      }
+    }
+  },
+  {
+    "id": 67,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -3402,7 +4861,7 @@ function loadData() {
     }
   },
   {
-    "id": 47,
+    "id": 68,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -3470,7 +4929,7 @@ function loadData() {
     }
   },
   {
-    "id": 48,
+    "id": 69,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -3538,7 +4997,7 @@ function loadData() {
     }
   },
   {
-    "id": 49,
+    "id": 70,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -3607,7 +5066,7 @@ function loadData() {
     }
   },
   {
-    "id": 50,
+    "id": 71,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -3675,7 +5134,7 @@ function loadData() {
     }
   },
   {
-    "id": 51,
+    "id": 72,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -3743,7 +5202,7 @@ function loadData() {
     }
   },
   {
-    "id": 52,
+    "id": 73,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -3813,7 +5272,7 @@ function loadData() {
     }
   },
   {
-    "id": 53,
+    "id": 74,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -3882,7 +5341,7 @@ function loadData() {
     }
   },
   {
-    "id": 54,
+    "id": 75,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -3952,7 +5411,7 @@ function loadData() {
     }
   },
   {
-    "id": 55,
+    "id": 76,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -4022,7 +5481,7 @@ function loadData() {
     }
   },
   {
-    "id": 56,
+    "id": 77,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -4091,7 +5550,7 @@ function loadData() {
     }
   },
   {
-    "id": 57,
+    "id": 78,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -4163,7 +5622,7 @@ function loadData() {
     }
   },
   {
-    "id": 58,
+    "id": 79,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -4234,7 +5693,7 @@ function loadData() {
     }
   },
   {
-    "id": 59,
+    "id": 80,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -4305,7 +5764,7 @@ function loadData() {
     }
   },
   {
-    "id": 60,
+    "id": 81,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -4374,7 +5833,7 @@ function loadData() {
     }
   },
   {
-    "id": 61,
+    "id": 82,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -4447,7 +5906,7 @@ function loadData() {
     }
   },
   {
-    "id": 62,
+    "id": 83,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -4516,7 +5975,147 @@ function loadData() {
     }
   },
   {
-    "id": 63,
+    "id": 84,
+    "brand": "JLC",
+    "collection": "Geophysic",
+    "collection_kr": "지오피직",
+    "reference": "Q8108420",
+    "name": "Geophysic True Second",
+    "name_kr": "지오피직 트루 세컨드",
+    "gender": "Men",
+    "price_krw": 9800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38.5,
+      "thickness_mm": 11.7,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "770",
+      "power_reserve_hours": 38,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "True Second",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver",
+      "Blue",
+      "Black"
+    ],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2014,
+    "resale_krw_est": 7800000,
+    "source": "JLC 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "38.5mm · Cal.770 자동 · 데드비트 세컨드(True Second): 초침이 1초 단위로 정확히 점프 · 1958년 오리지널 지오피직 정밀도 계측 전통 계승 · 크로노미터 인증 · 돔형 크리스탈",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "38.5mm, Cal.770 자동 COSC, 데드비트 세컨드 메커니즘. True Second는 일반 스윕 초침이 아닌 1초 단위 점프 기능으로 정밀 계측 가능. 돔형 사파이어 크리스탈이 복고적 외형을 완성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1958년 국제지구물리학년(IGY) 지원용으로 제작된 오리지널 Geophysic의 현대 재해석. 과학적 정밀도 요구에서 탄생한 시계로, 탁상용 시계처럼 정확한 시계를 손목에 올린다는 개념."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "데드비트 세컨드는 시계 마니아가 높이 평가하는 기술. 1초 점프 초침이라는 시각적 특성과 역사적 배경은 컬렉터 수요를 지속적으로 자극. 일반 자동시계와는 다른 카테고리의 가치."
+      }
+    }
+  },
+  {
+    "id": 85,
+    "brand": "JLC",
+    "collection": "Geophysic",
+    "collection_kr": "지오피직",
+    "reference": "Q4102520",
+    "name": "Geophysic Universal Time",
+    "name_kr": "지오피직 유니버설 타임",
+    "gender": "Men",
+    "price_krw": 16500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41.6,
+      "thickness_mm": 12.8,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "775",
+      "power_reserve_hours": 38,
+      "frequency_vph": 28800,
+      "jewels": 43,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "True Second",
+        "Universal Time",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue",
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2014,
+    "resale_krw_est": 13500000,
+    "source": "JLC 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41.6mm · Cal.775 자동 · 세계 시간 표시(24개 시간대 동시 확인) · 데드비트 세컨드 · 주야 인디케이터 · 세계지도 다이얼 · JLC 지오피직 라인 최고 사양",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "41.6mm, Cal.775 자동 COSC, 세계 시간 + 데드비트 세컨드. 24개 시간대를 단일 다이얼에 표시. 세계지도 다이얼이 복잡도를 시각적으로 정당화. 글로벌 비즈니스 환경에서 실용적."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1958년 국제지구물리학년 정신을 세계 시간 기능으로 계승. '지구의 물리'라는 이름에 걸맞은 컴플리케이션. 과학적 계측과 세계적 연결이라는 두 가지 목표를 하나의 시계에 담았다."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "세계 시간 + 데드비트 세컨드의 조합은 기술 마니아층의 지속적 관심 대상. 글로벌 여행이 일상화된 현대에 세계 시간 기능의 실용성도 증가. 희소성이 있어 리세일 감가가 적다."
+      }
+    }
+  },
+  {
+    "id": 86,
     "brand": "JLC",
     "collection": "Master",
     "collection_kr": "마스터",
@@ -4586,7 +6185,7 @@ function loadData() {
     }
   },
   {
-    "id": 64,
+    "id": 87,
     "brand": "JLC",
     "collection": "Master",
     "collection_kr": "마스터",
@@ -4657,7 +6256,7 @@ function loadData() {
     }
   },
   {
-    "id": 65,
+    "id": 88,
     "brand": "JLC",
     "collection": "Master",
     "collection_kr": "마스터",
@@ -4727,7 +6326,76 @@ function loadData() {
     }
   },
   {
-    "id": 66,
+    "id": 89,
+    "brand": "JLC",
+    "collection": "Master",
+    "collection_kr": "마스터",
+    "reference": "Q1352420",
+    "name": "Master Grande Ultra Thin Date",
+    "name_kr": "마스터 그랑드 울트라 씬 데이트",
+    "gender": "Men",
+    "price_krw": 11500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 8.26,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "925/3",
+      "power_reserve_hours": 38,
+      "frequency_vph": 28800,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2014,
+    "resale_krw_est": 8800000,
+    "source": "JLC 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · 8.26mm · Cal.925/3 자동 (무브먼트 두께 3.3mm) · COSC 인증 · 50m 방수 · Master Ultra Thin 시리즈의 기본 날짜 모델 · 초박형 드레스 자동시계 카테고리의 기준",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40mm/8.26mm, Cal.925/3 자동(무브먼트 두께 3.3mm) COSC 38h. 날짜 기능을 갖추면서도 8mm대 두께를 유지한 엔지니어링. 50m 방수는 드레스워치로 실용적. 슬림 자동 드레스워치 카테고리의 실질적 기준점."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Master 컬렉션의 울트라 씬 라인은 JLC의 무브먼트 제조 노하우를 가장 직접적으로 드러낸다. 1000개 이상의 인하우스 무브먼트를 개발한 제조 역량의 현대적 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "COSC 인증 초박형 자동 드레스워치는 시간이 지나도 변하지 않는 수요. 8mm 이하 두께는 정장 착용 시 최적. Master 컬렉션의 꾸준한 인기가 리세일 안정성을 지지."
+      }
+    }
+  },
+  {
+    "id": 90,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -4797,7 +6465,7 @@ function loadData() {
     }
   },
   {
-    "id": 67,
+    "id": 91,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -4867,7 +6535,7 @@ function loadData() {
     }
   },
   {
-    "id": 68,
+    "id": 92,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -4937,7 +6605,7 @@ function loadData() {
     }
   },
   {
-    "id": 69,
+    "id": 93,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -5005,7 +6673,7 @@ function loadData() {
     }
   },
   {
-    "id": 70,
+    "id": 94,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -5073,7 +6741,7 @@ function loadData() {
     }
   },
   {
-    "id": 71,
+    "id": 95,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -5140,7 +6808,7 @@ function loadData() {
     }
   },
   {
-    "id": 72,
+    "id": 96,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -5208,7 +6876,7 @@ function loadData() {
     }
   },
   {
-    "id": 73,
+    "id": 97,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -5276,7 +6944,7 @@ function loadData() {
     }
   },
   {
-    "id": 74,
+    "id": 98,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -5345,7 +7013,7 @@ function loadData() {
     }
   },
   {
-    "id": 75,
+    "id": 99,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -5412,7 +7080,210 @@ function loadData() {
     }
   },
   {
-    "id": 76,
+    "id": 100,
+    "brand": "Piaget",
+    "collection": "Altiplano",
+    "collection_kr": "알티플라노",
+    "reference": "G0A45114",
+    "name": "Altiplano 34mm",
+    "name_kr": "알티플라노 34",
+    "gender": "Women",
+    "price_krw": 8500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 6.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "430P",
+      "power_reserve_hours": 43,
+      "frequency_vph": 21600,
+      "jewels": 18,
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Blue",
+      "White"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2015,
+    "resale_krw_est": 6800000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "34mm · 6.4mm · Cal.430P 수동 (두께 2.1mm) · 레이디스 사이즈 알티플라노 · 세계에서 가장 얇은 수동 무브먼트 중 하나 · 시·분만의 극도로 미니멀한 다이얼",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "34mm/6.4mm, Cal.430P 수동(두께 2.1mm). 여성 손목에 완벽한 사이즈. 극도로 얇은 케이스는 어떤 소매 아래에서도 우아하게 드러난다. 시·분 기능만의 미니멀리즘."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "피아제의 울트라 씬 전통이 여성 착용자에게 전달되는 채널. 1957년 창립 이래 '가장 얇게'를 추구해온 피아제 정신이 34mm에 담긴다. 알티플라노 38mm의 레이디스 버전."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "얇고 미니멀한 드레스워치는 시간이 지나도 변하지 않는 포지션. 34mm는 여성 착용자의 가장 보편적인 선호 범위. 피아제 초박형 기술의 접근 가능한 레이디스 버전."
+      }
+    }
+  },
+  {
+    "id": 101,
+    "brand": "Piaget",
+    "collection": "Limelight",
+    "collection_kr": "라임라이트",
+    "reference": "G0A45164",
+    "name": "Limelight Gala",
+    "name_kr": "라임라이트 갈라",
+    "gender": "Women",
+    "price_krw": 7800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 32,
+      "thickness_mm": 7.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "56P",
+      "power_reserve_hours": 0,
+      "frequency_vph": 32768,
+      "jewels": 0,
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Satin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1999,
+    "resale_krw_est": 5800000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "32mm 쿠션형 케이스 · Cal.56P 쿼츠 · 다이아몬드 세팅 베젤 · 피아제 레이디스 컬렉션의 대표 아이콘 · 갈라(파티)에서의 착용을 위한 드레시한 주얼리 워치",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "32mm 쿠션형 케이스, Cal.56P 쿼츠. 다이아몬드 세팅 베젤이 주얼리적 완성도를 높인다. 시·분만의 단순한 기능은 주얼리 시계로서의 정체성에 집중. 드레스 코드 이벤트를 위한 시계."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1999년 론칭 이래 피아제 레이디스 컬렉션의 핵심. '갈라'는 파티·시사회를 의미하며 드레시한 활용을 명시적으로 선언한다. 피아제의 주얼리 제조 전통과 시계 제조 기술이 결합한 대표작."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "레드 카펫·갈라 이벤트 문화가 지속되는 한 라임라이트 갈라의 수요는 유지. 피아제의 가장 페미닌한 디자인 코드로, 럭셔리 레이디스 시계 시장에서 독보적인 포지션."
+      }
+    }
+  },
+  {
+    "id": 102,
+    "brand": "Piaget",
+    "collection": "Limelight",
+    "collection_kr": "라임라이트",
+    "reference": "G0A45165",
+    "name": "Limelight Stella",
+    "name_kr": "라임라이트 스텔라",
+    "gender": "Women",
+    "price_krw": 9500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 9.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1200P",
+      "power_reserve_hours": 44,
+      "frequency_vph": 21600,
+      "jewels": 24,
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Satin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 7500000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "36mm · Cal.1200P 자동 (두께 2.35mm) · 피아제 인하우스 울트라 씬 자동 무브먼트 · 라임라이트 라인 중 기계식 무브먼트 탑재 모델 · 드레시한 레이디스 오토매틱의 정점",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "36mm, Cal.1200P 인하우스 자동(두께 2.35mm) 44h. 피아제 울트라 씬 기술이 레이디스 드레스워치에 적용된 결과. 쿼츠 갈라 대비 기계식 무브먼트로 수집 가치 상승."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "라임라이트 컬렉션에 인하우스 울트라 씬 자동 무브먼트를 탑재. 피아제의 가장 얇은 무브먼트 제조 DNA와 최고급 레이디스 시계 디자인의 결합. 브랜드의 기술력을 여성 착용자에게 직접 전달."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "인하우스 자동 무브먼트 탑재 레이디스 드레스워치는 희소한 카테고리. 피아제 울트라 씬 기술의 장기 가치와 라임라이트 디자인의 드레시함이 결합해 지속적 수요를 지지."
+      }
+    }
+  },
+  {
+    "id": 103,
     "brand": "Piaget",
     "collection": "Polo",
     "collection_kr": "폴로",
@@ -5482,7 +7353,7 @@ function loadData() {
     }
   },
   {
-    "id": 77,
+    "id": 104,
     "brand": "Piaget",
     "collection": "Polo",
     "collection_kr": "폴로",
@@ -5549,7 +7420,216 @@ function loadData() {
     }
   },
   {
-    "id": 78,
+    "id": 105,
+    "brand": "Vacheron Constantin",
+    "collection": "FiftySix",
+    "collection_kr": "피프티식스",
+    "reference": "4600E/000A-B442",
+    "name": "FiftySix Date",
+    "name_kr": "피프티식스 데이트",
+    "gender": "Men",
+    "price_krw": 16500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.39,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2460 R31L",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "White",
+      "Blue",
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 13500000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · 10.39mm · Cal.2460 R31L 인하우스 자동 40h · COSC · 스틸 케이스 · VC 컬렉션 중 가장 접근하기 쉬운 입문 모델 · 1956년 빈티지 VC 시계에서 영감 · 브레이슬릿 옵션 존재",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm/10.39mm, Cal.2460 R31L 인하우스 자동 COSC 40h. VC 인하우스 칼리버를 스틸 케이스에 담아 가격 장벽을 낮췄다. 브레이슬릿 옵션으로 스포티-드레시 양면 착용 가능. VC 입문을 위한 현실적 선택."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1956년 VC 아카이브에서 영감받아 2018년 론칭. 이름 '피프티식스'는 탄생 연도 1956년에서 유래. 267년 역사 VC의 디자인 언어를 현대적 스포티함으로 재해석. 브랜드 헤리티지를 더 젊은 착용자에게 전달하는 채널."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스틸 케이스 + 인하우스 무브먼트 + 드레시-스포티 포지션은 안정적 수요를 보장. VC를 처음 소유하는 구매자의 자연스러운 선택. Overseas의 스포티함과 Patrimony의 드레시함 사이 균형점."
+      }
+    }
+  },
+  {
+    "id": 106,
+    "brand": "Vacheron Constantin",
+    "collection": "FiftySix",
+    "collection_kr": "피프티식스",
+    "reference": "4000E/000A-B548",
+    "name": "FiftySix Complete Calendar",
+    "name_kr": "피프티식스 컴플리트 캘린더",
+    "gender": "Men",
+    "price_krw": 27500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42.5,
+      "thickness_mm": 11.95,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2460 QCL/2",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 22000000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42.5mm · Cal.2460 QCL/2 인하우스 자동 · 컴플리트 캘린더(요일·날짜·월·문페이즈) · 스틸 케이스 · COSC · FiftySix 라인 최고 컴플리케이션 모델",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "42.5mm, Cal.2460 QCL/2 인하우스 자동 COSC 40h, 컴플리트 캘린더 + 문페이즈. 요일·날짜·월·문페이즈를 단일 다이얼에 표시. 스틸 케이스 컴플리케이션 워치 중 드물게 접근 가능한 가격대."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "FiftySix 라인에 VC의 핵심 컴플리케이션 역량을 투입. 스틸 케이스 컴플리케이션 워치는 VC의 새로운 전략. 267년 컴플리케이션 제조 전통을 더 넓은 착용층에게 전달."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "컴플리트 캘린더는 가장 실용적인 컴플리케이션 중 하나. 스틸 케이스 + VC 인하우스 칼리버 + 컴플리케이션의 조합은 장기 가치를 확보. Overseas 크로노 대비 드레스 코드 포지션."
+      }
+    }
+  },
+  {
+    "id": 107,
+    "brand": "Vacheron Constantin",
+    "collection": "FiftySix",
+    "collection_kr": "피프티식스",
+    "reference": "4600T/000A-B487",
+    "name": "FiftySix Tourbillon",
+    "name_kr": "피프티식스 투르비용",
+    "gender": "Men",
+    "price_krw": 95000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 12.32,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2160",
+      "power_reserve_hours": 60,
+      "frequency_vph": 18000,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 80000000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · Cal.2160 자동 투르비용 60h · 스틸 케이스 투르비용 · 1분 투르비용 · 에뿔롤 게이지 가시성 · VC 투르비용 중 가장 접근 가능한 (상대적) 가격",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "41mm, Cal.2160 자동 투르비용 60h. 스틸 케이스에 담긴 VC 투르비용은 금 케이스 버전 대비 현실적 가격. 자동 투르비용은 수동 대비 편의성 추가. 1분 투르비용 케이지가 6시 위치에 위치."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "VC는 투르비용 제조의 선구자 중 하나. 1972년 첫 투르비용 손목시계 이후 수십 년의 축적. FiftySix에 투르비용을 담은 것은 '예술을 일상으로'라는 VC의 현대 전략을 상징."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "스틸 케이스 자동 투르비용이라는 극히 드문 조합. VC 투르비용의 역사적 권위와 스틸의 내구성이 결합. 컬렉터 시장에서 영구적 매력. 가격 하방이 단단하고 희소성이 유지됨."
+      }
+    }
+  },
+  {
+    "id": 108,
     "brand": "Vacheron Constantin",
     "collection": "Overseas",
     "collection_kr": "오버시즈",
@@ -5620,7 +7700,7 @@ function loadData() {
     }
   },
   {
-    "id": 79,
+    "id": 109,
     "brand": "Vacheron Constantin",
     "collection": "Overseas",
     "collection_kr": "오버시즈",
@@ -5691,7 +7771,7 @@ function loadData() {
     }
   },
   {
-    "id": 80,
+    "id": 110,
     "brand": "Vacheron Constantin",
     "collection": "Overseas",
     "collection_kr": "오버시즈",
@@ -5761,7 +7841,7 @@ function loadData() {
     }
   },
   {
-    "id": 81,
+    "id": 111,
     "brand": "Vacheron Constantin",
     "collection": "Patrimony",
     "collection_kr": "패트리모니",
@@ -5830,7 +7910,7 @@ function loadData() {
     }
   },
   {
-    "id": 82,
+    "id": 112,
     "brand": "Vacheron Constantin",
     "collection": "Patrimony",
     "collection_kr": "패트리모니",
@@ -5905,7 +7985,7 @@ function loadData() {
     }
   },
   {
-    "id": 83,
+    "id": 113,
     "brand": "Vacheron Constantin",
     "collection": "Traditionnelle",
     "collection_kr": "트라디셔넬",
@@ -5979,7 +8059,7 @@ function loadData() {
     }
   }
 ];
-  meta = {
+  const meta = {
   "brands": [
     {
       "key": "Blancpain",
@@ -6072,6 +8152,11 @@ function loadData() {
       "bg": "#f0ece4",
       "text": "#3a2810"
     },
+    "TypeXX": {
+      "kr": "타입 XX",
+      "bg": "#e8e4dc",
+      "text": "#3a2a18"
+    },
     "Navitimer": {
       "kr": "나비타이머",
       "bg": "#f0ece4",
@@ -6086,6 +8171,16 @@ function loadData() {
       "kr": "크로노매트",
       "bg": "#eaeaec",
       "text": "#2a2a3c"
+    },
+    "Avenger": {
+      "kr": "어벤저",
+      "bg": "#e4e8ec",
+      "text": "#1a2a3c"
+    },
+    "Premier": {
+      "kr": "프리미어",
+      "bg": "#f0ede6",
+      "text": "#3a2a18"
     },
     "Santos": {
       "kr": "산토스",
@@ -6112,6 +8207,11 @@ function loadData() {
       "bg": "#e8e8ec",
       "text": "#3a3a50"
     },
+    "Panthere": {
+      "kr": "팡테르",
+      "bg": "#fef5ee",
+      "text": "#6b3a10"
+    },
     "LUC": {
       "kr": "L.U.C",
       "bg": "#faf5e8",
@@ -6126,6 +8226,11 @@ function loadData() {
       "kr": "밀레 밀리아",
       "bg": "#faeae8",
       "text": "#8a2018"
+    },
+    "HappySport": {
+      "kr": "해피 스포트",
+      "bg": "#fce8f4",
+      "text": "#8a1a5a"
     },
     "Portugieser": {
       "kr": "포르투기저",
@@ -6152,6 +8257,11 @@ function loadData() {
       "bg": "#e8eef5",
       "text": "#1a2a5a"
     },
+    "DaVinci": {
+      "kr": "다빈치",
+      "bg": "#f5eef8",
+      "text": "#4a1a6a"
+    },
     "Reverso": {
       "kr": "리베르소",
       "bg": "#ece8f5",
@@ -6172,6 +8282,11 @@ function loadData() {
       "bg": "#f5e4ec",
       "text": "#6b1a30"
     },
+    "Geophysic": {
+      "kr": "지오피직",
+      "bg": "#eaeef4",
+      "text": "#2a3a5a"
+    },
     "Altiplano": {
       "kr": "알티플라노",
       "bg": "#f3f0f8",
@@ -6181,6 +8296,11 @@ function loadData() {
       "kr": "폴로",
       "bg": "#e8edf5",
       "text": "#1a2a50"
+    },
+    "Limelight": {
+      "kr": "라임라이트",
+      "bg": "#fdf0f8",
+      "text": "#6b0a3a"
     },
     "Overseas": {
       "kr": "오버시즈",
@@ -6196,11 +8316,15 @@ function loadData() {
       "kr": "트라디셔넬",
       "bg": "#f0ece4",
       "text": "#4a2a10"
+    },
+    "FiftySix": {
+      "kr": "피프티식스",
+      "bg": "#edf0f8",
+      "text": "#1a2040"
     }
   }
 };
-  initMeta();
-  renderTable();
+  return { watches, meta };
 }
 
 // ─── meta.json 기반 초기화 ───────────────────────────────────

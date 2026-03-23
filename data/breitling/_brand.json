@@ -7,6 +7,8 @@
   "collections": {
     "Navitimer":  { "collection_kr": "나비타이머",  "bg": "#f0ece4", "text": "#4a3010" },
     "Superocean": { "collection_kr": "슈퍼오션",    "bg": "#e4eef8", "text": "#1a3060" },
-    "Chronomat":  { "collection_kr": "크로노매트",  "bg": "#eaeaec", "text": "#2a2a3c" }
+    "Chronomat":  { "collection_kr": "크로노매트",  "bg": "#eaeaec", "text": "#2a2a3c" },
+    "Avenger":    { "collection_kr": "어벤저",     "bg": "#e4e8ec", "text": "#1a2a3c" },
+    "Premier":    { "collection_kr": "프리미어",   "bg": "#f0ede6", "text": "#3a2a18" }
   }
 }
