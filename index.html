@@ -40,7 +40,8 @@ header { background:var(--ink); color:#fff; padding:0 48px; height:64px; display
 .theme-toggle:hover { border-color:#666; color:#fff; }
 
 /* CONTROLS */
-.controls { background:var(--surface); border-bottom:1px solid var(--border); padding:14px 48px; display:flex; gap:12px; align-items:center; flex-wrap:wrap; position:sticky; top:64px; z-index:100; }
+.sticky-bar { position:sticky; top:64px; z-index:100; }
+.controls { background:var(--surface); border-bottom:1px solid var(--border); padding:14px 48px; display:flex; gap:12px; align-items:center; flex-wrap:wrap; }
 .search-wrap { position:relative; flex:1; min-width:220px; max-width:340px; }
 .search-wrap svg { position:absolute; left:12px; top:50%; transform:translateY(-50%); color:var(--subtle); pointer-events:none; }
 .search-wrap input { width:100%; padding:8px 12px 8px 36px; border:1px solid var(--border); background:var(--bg); border-radius:4px; font-family:'DM Sans',sans-serif; font-size:13px; color:var(--ink); outline:none; transition:border-color 0.15s; }
@@ -50,6 +51,24 @@ header { background:var(--ink); color:#fff; padding:0 48px; height:64px; display
 .sort-select { padding:7px 28px 7px 10px; border:1px solid var(--border); background:var(--bg); border-radius:4px; font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.06em; color:var(--muted); cursor:pointer; outline:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%239a9a97'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 8px center; }
 .result-count { margin-left:auto; font-family:'DM Mono',monospace; font-size:10px; color:var(--subtle); white-space:nowrap; }
 .result-count b { color:var(--ink); }
+
+/* FILTER BUTTON */
+.filter-btn { padding:7px 12px; border:1px solid var(--border); background:var(--bg); border-radius:4px; font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.06em; color:var(--muted); cursor:pointer; display:flex; align-items:center; gap:6px; transition:all 0.15s; }
+.filter-btn:hover { border-color:var(--border-strong); color:var(--ink); }
+.filter-btn.active { border-color:var(--ink); color:var(--ink); }
+.filter-badge { background:var(--ink); color:var(--bg); border-radius:2px; font-size:9px; padding:1px 5px; display:none; }
+.filter-badge.visible { display:inline; }
+
+/* FILTER PANEL */
+.filter-panel { background:var(--surface); border-bottom:2px solid var(--border); padding:12px 48px 14px; display:none; flex-direction:column; gap:7px; }
+.filter-panel.open { display:flex; }
+.filter-group { display:flex; align-items:center; gap:7px; flex-wrap:wrap; }
+.filter-group-label { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.1em; color:var(--subtle); width:56px; flex-shrink:0; text-transform:uppercase; }
+.chip { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.04em; padding:4px 9px; border:1px solid var(--border); border-radius:3px; background:transparent; color:var(--muted); cursor:pointer; transition:all 0.12s; white-space:nowrap; }
+.chip:hover { border-color:var(--border-strong); color:var(--ink); }
+.chip.on { background:var(--ink); color:var(--bg); border-color:var(--ink); }
+.filter-reset { font-family:'DM Mono',monospace; font-size:9px; color:var(--subtle); background:none; border:none; cursor:pointer; letter-spacing:0.06em; padding:4px 0; text-decoration:underline; }
+.filter-reset:hover { color:var(--ink); }
 
 /* TABLE */
 main { padding:24px 48px 64px; }
@@ -169,6 +188,7 @@ footer p span { color:var(--gold); }
   </div>
 </header>
 
+<div class="sticky-bar">
 <div class="controls">
   <div class="search-wrap">
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
@@ -185,7 +205,70 @@ footer p span { color:var(--gold); }
     <option value="size-asc">직경 순</option>
     <option value="thickness-asc">두께 얇은 순</option>
   </select>
+  <button class="filter-btn" id="filterToggle">필터 <span class="filter-badge" id="filterBadge"></span></button>
   <div class="result-count"><b id="shownCount">0</b> / <span id="totalCount">0</span> 모델</div>
+</div>
+
+<div class="filter-panel" id="filterPanel">
+  <div class="filter-group">
+    <span class="filter-group-label">가격대</span>
+    <button class="chip" data-filter="price" data-val="0-10">~₩10M</button>
+    <button class="chip" data-filter="price" data-val="10-20">₩10–20M</button>
+    <button class="chip" data-filter="price" data-val="20-30">₩20–30M</button>
+    <button class="chip" data-filter="price" data-val="30-50">₩30–50M</button>
+    <button class="chip" data-filter="price" data-val="50+">₩50M+</button>
+  </div>
+  <div class="filter-group">
+    <span class="filter-group-label">소재</span>
+    <button class="chip" data-filter="material" data-val="steel">스틸</button>
+    <button class="chip" data-filter="material" data-val="titanium">티타늄</button>
+    <button class="chip" data-filter="material" data-val="precious">귀금속</button>
+  </div>
+  <div class="filter-group">
+    <span class="filter-group-label">직경</span>
+    <button class="chip" data-filter="size" data-val="small">≤36mm</button>
+    <button class="chip" data-filter="size" data-val="medium">37–40mm</button>
+    <button class="chip" data-filter="size" data-val="large">41–43.5mm</button>
+    <button class="chip" data-filter="size" data-val="xl">44mm+</button>
+  </div>
+  <div class="filter-group">
+    <span class="filter-group-label">총평</span>
+    <button class="chip" data-filter="verdict" data-val="Definitive">Definitive</button>
+    <button class="chip" data-filter="verdict" data-val="Iconic">Iconic</button>
+    <button class="chip" data-filter="verdict" data-val="Collector's Pick">Collector's Pick</button>
+    <button class="chip" data-filter="verdict" data-val="Versatile">Versatile</button>
+    <button class="chip" data-filter="verdict" data-val="Specialist">Specialist</button>
+  </div>
+  <div class="filter-group">
+    <span class="filter-group-label">구매</span>
+    <button class="chip" data-filter="availability" data-val="easy">구하기 쉬움</button>
+    <button class="chip" data-filter="availability" data-val="medium">보통</button>
+    <button class="chip" data-filter="availability" data-val="hard">어려움</button>
+  </div>
+  <div class="filter-group">
+    <span class="filter-group-label">스트랩</span>
+    <button class="chip" data-filter="strap" data-val="Leather">가죽</button>
+    <button class="chip" data-filter="strap" data-val="Bracelet">브레이슬릿</button>
+    <button class="chip" data-filter="strap" data-val="Rubber">러버</button>
+    <button class="chip" data-filter="strap" data-val="Integrated Bracelet">인티그레이티드</button>
+  </div>
+  <div class="filter-group">
+    <span class="filter-group-label">무브먼트</span>
+    <button class="chip" data-filter="movement" data-val="Automatic">오토매틱</button>
+    <button class="chip" data-filter="movement" data-val="Manual">수동</button>
+    <button class="chip" data-filter="movement" data-val="Quartz">쿼츠</button>
+  </div>
+  <div class="filter-group">
+    <span class="filter-group-label">성별</span>
+    <button class="chip" data-filter="gender" data-val="Men">남성</button>
+    <button class="chip" data-filter="gender" data-val="Women">여성</button>
+    <button class="chip" data-filter="gender" data-val="Men/Women">유니섹스</button>
+  </div>
+  <div class="filter-group" style="margin-top:2px">
+    <span class="filter-group-label"></span>
+    <button class="filter-reset" id="filterReset">전체 초기화</button>
+  </div>
+</div>
 </div>
 
 <main>
@@ -303,6 +386,49 @@ let currentFilter = "all";
 let currentSearch = "";
 let currentSort = "price-asc";
 let expandedId = null;
+let activeFilters = {};
+
+const STEEL_MATS = ["Stainless Steel","Oystersteel","Lucent Steel A223"];
+
+function matchesActiveFilters(w) {
+  const f = activeFilters;
+  if (f.price) {
+    const p = w.price_krw;
+    if (f.price === "0-10"  && p >= 10000000) return false;
+    if (f.price === "10-20" && (p < 10000000 || p >= 20000000)) return false;
+    if (f.price === "20-30" && (p < 20000000 || p >= 30000000)) return false;
+    if (f.price === "30-50" && (p < 30000000 || p >= 50000000)) return false;
+    if (f.price === "50+"   && p < 50000000) return false;
+  }
+  if (f.material) {
+    const m = w.case.material;
+    if (f.material === "steel"    && !STEEL_MATS.includes(m)) return false;
+    if (f.material === "titanium" && m !== "Titanium") return false;
+    if (f.material === "precious" && (STEEL_MATS.includes(m) || m === "Titanium")) return false;
+  }
+  if (f.size) {
+    const d = w.case.diameter_mm;
+    if (f.size === "small"  && d > 36) return false;
+    if (f.size === "medium" && (d < 37 || d > 40)) return false;
+    if (f.size === "large"  && (d < 41 || d > 43.5)) return false;
+    if (f.size === "xl"     && d < 44) return false;
+  }
+  if (f.verdict  && (w.verdict||{}).overall !== f.verdict)  return false;
+  if (f.availability && w.availability !== f.availability)  return false;
+  if (f.strap    && w.strap.type !== f.strap)               return false;
+  if (f.movement && w.movement.type !== f.movement)         return false;
+  if (f.gender   && w.gender !== f.gender)                  return false;
+  return true;
+}
+
+function updateFilterBadge() {
+  const cnt = Object.keys(activeFilters).length;
+  const badge = document.getElementById("filterBadge");
+  const btn = document.getElementById("filterToggle");
+  badge.textContent = cnt;
+  badge.classList.toggle("visible", cnt > 0);
+  btn.classList.toggle("active", cnt > 0);
+}
 
 function getFiltered() {
   let data = watches.filter(w => {
@@ -316,7 +442,7 @@ function getFiltered() {
       (w.collection_kr||"").includes(q) ||
       (w.brand||"").toLowerCase().includes(q) ||
       w.dial.color.toLowerCase().includes(q);
-    return matchBrand && matchSearch;
+    return matchBrand && matchSearch && matchesActiveFilters(w);
   });
   data.sort((a,b) => {
     if (currentSort === "price-asc")      return a.price_krw - b.price_krw;
@@ -512,6 +638,40 @@ document.getElementById("brandSelect").addEventListener("change", e => {
 });
 document.getElementById("sortSelect").addEventListener("change", e => {
   currentSort = e.target.value;
+  renderTable();
+});
+
+// Filter panel toggle
+document.getElementById("filterToggle").addEventListener("click", () => {
+  document.getElementById("filterPanel").classList.toggle("open");
+});
+
+// Chip click — toggle within group (single-select per group)
+document.getElementById("filterPanel").addEventListener("click", e => {
+  const chip = e.target.closest(".chip");
+  if (!chip) return;
+  const key = chip.dataset.filter;
+  const val = chip.dataset.val;
+  const isOn = chip.classList.contains("on");
+
+  // Deactivate siblings
+  document.querySelectorAll(`.chip[data-filter="${key}"]`).forEach(c => c.classList.remove("on"));
+
+  if (isOn) {
+    delete activeFilters[key];
+  } else {
+    chip.classList.add("on");
+    activeFilters[key] = val;
+  }
+  updateFilterBadge();
+  renderTable();
+});
+
+// Reset all filters
+document.getElementById("filterReset").addEventListener("click", () => {
+  activeFilters = {};
+  document.querySelectorAll(".chip.on").forEach(c => c.classList.remove("on"));
+  updateFilterBadge();
   renderTable();
 });
 
