@@ -128,12 +128,17 @@ td { padding:12px 14px; vertical-align:middle; }
 .spec-val { font-weight:400; text-align:right; font-family:'DM Mono',monospace; font-size:11px; }
 .fn-wrap { display:flex; flex-wrap:wrap; gap:3px; margin-top:4px; }
 .fn-chip { font-family:'DM Mono',monospace; font-size:9px; padding:2px 6px; background:var(--bg); border:1px solid var(--border); border-radius:3px; color:var(--muted); }
-.verdict-grid { grid-column:1/-1; display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; }
-.verdict-item { padding:12px 14px; border:1px solid var(--border); border-radius:4px; }
-.verdict-item h5 { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.15em; color:var(--subtle); text-transform:uppercase; margin-bottom:6px; }
-.verdict-comment { font-size:11px; color:var(--muted); line-height:1.6; margin-top:4px; }
-.overall-row { grid-column:1/-1; display:flex; align-items:center; gap:10px; padding:10px 14px; background:var(--bg); border-radius:4px; border:1px solid var(--border); }
-.overall-label { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.15em; color:var(--subtle); text-transform:uppercase; }
+.verdict-grid { grid-column:1/-1; border:1px solid var(--border); border-radius:4px; overflow:hidden; }
+.verdict-overall { padding:12px 16px; background:var(--gold-bg); border-bottom:1px solid var(--border); }
+.verdict-overall-top { display:flex; align-items:center; gap:10px; margin-bottom:6px; }
+.verdict-overall-label { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.2em; color:var(--gold); text-transform:uppercase; }
+.verdict-overall-notes { font-size:11px; color:var(--muted); line-height:1.6; }
+.verdict-item { padding:11px 16px; border-bottom:1px solid var(--border); }
+.verdict-item:last-child { border-bottom:none; }
+.verdict-item-header { display:flex; align-items:center; gap:8px; margin-bottom:5px; }
+.verdict-num { font-family:'DM Mono',monospace; font-size:9px; color:var(--subtle); flex-shrink:0; }
+.verdict-item-title { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.12em; color:var(--ink); text-transform:uppercase; flex:1; }
+.verdict-comment { font-size:11px; color:var(--muted); line-height:1.65; padding-left:26px; }
 .source-line { grid-column:1/-1; font-family:'DM Mono',monospace; font-size:9px; color:var(--subtle); padding-top:6px; border-top:1px solid var(--border); }
 .notes-line { grid-column:1/-1; font-size:11px; color:var(--muted); padding:8px 12px; background:var(--bg); border-radius:4px; border-left:2px solid var(--border-strong); }
 .search-links { grid-column:1/-1; display:flex; gap:6px; margin-top:12px; flex-wrap:wrap; }
@@ -521,22 +526,24 @@ function renderTable() {
             <h4>🔗 스트랩 / 기타</h4>
             <div class="spec-row"><span class="spec-key">타입</span><span class="spec-val">${w.strap.type}</span></div>
             <div class="spec-row"><span class="spec-key">소재</span><span class="spec-val">${w.strap.material}</span></div>
-            <div class="spec-row"><span class="spec-key">클라습</span><span class="spec-val">${w.strap.clasp}</span></div>
+            <div class="spec-row"><span class="spec-key">클라스프</span><span class="spec-val">${w.strap.clasp}</span></div>
             <div class="spec-row"><span class="spec-key">브레이슬릿 옵션</span><span class="spec-val">${w.bracelet_option?'있음':'없음'}</span></div>
             <div class="spec-row"><span class="spec-key">한정판</span><span class="spec-val">${w.limited?'⚑ 한정':'—'}</span></div>
             <div class="spec-row"><span class="spec-key">다이얼 옵션</span><span class="spec-val">${(w.color_variants||[]).join(' / ')}</span></div>
           </div>
           ${v.overall ? `
           <div class="verdict-grid">
-            <div class="overall-row">
-              <span class="overall-label">총평</span>
-              ${verdictTag(v.overall)}
+            <div class="verdict-overall">
+              <div class="verdict-overall-top">
+                <span class="verdict-overall-label">Verdict</span>
+                ${verdictTag(v.overall)}
+              </div>
+              ${w.notes ? `<p class="verdict-overall-notes">${w.notes}</p>` : ''}
             </div>
-            ${v.spec ? `<div class="verdict-item"><h5>Spec &amp; Fit</h5>${verdictTag(v.spec.label)}<p class="verdict-comment">${v.spec.comment}</p></div>` : ''}
-            ${v.heritage ? `<div class="verdict-item"><h5>Heritage &amp; Story</h5>${verdictTag(v.heritage.label)}<p class="verdict-comment">${v.heritage.comment}</p></div>` : ''}
-            ${v.timelessness ? `<div class="verdict-item"><h5>Timelessness &amp; Value</h5>${verdictTag(v.timelessness.label)}<p class="verdict-comment">${v.timelessness.comment}</p></div>` : ''}
+            ${v.spec ? `<div class="verdict-item"><div class="verdict-item-header"><span class="verdict-num">01 ·</span><span class="verdict-item-title">On the Wrist</span>${verdictTag(v.spec.label)}</div><p class="verdict-comment">${v.spec.comment}</p></div>` : ''}
+            ${v.heritage ? `<div class="verdict-item"><div class="verdict-item-header"><span class="verdict-num">02 ·</span><span class="verdict-item-title">The Brand</span>${verdictTag(v.heritage.label)}</div><p class="verdict-comment">${v.heritage.comment}</p></div>` : ''}
+            ${v.timelessness ? `<div class="verdict-item"><div class="verdict-item-header"><span class="verdict-num">03 ·</span><span class="verdict-item-title">The Long Game</span>${verdictTag(v.timelessness.label)}</div><p class="verdict-comment">${v.timelessness.comment}</p></div>` : ''}
           </div>` : ''}
-          ${w.notes ? `<div class="notes-line">📝 ${w.notes}</div>` : ''}
           ${searchLinks(w)}
           <div class="source-line">📌 데이터 출처: ${w.source}</div>
         </div>
@@ -597,12 +604,19 @@ function renderCards(data) {
       ${v.overall ? `
       <div class="card-expand-section">
         <div class="card-expand-title">📋 총평</div>
-        <div style="margin-bottom:8px">${verdictTag(v.overall)}</div>
-        ${v.spec ? `<div class="verdict-item" style="margin-bottom:6px"><h5>Spec &amp; Fit</h5>${verdictTag(v.spec.label)}<p class="verdict-comment">${v.spec.comment}</p></div>` : ''}
-        ${v.heritage ? `<div class="verdict-item" style="margin-bottom:6px"><h5>Heritage &amp; Story</h5>${verdictTag(v.heritage.label)}<p class="verdict-comment">${v.heritage.comment}</p></div>` : ''}
-        ${v.timelessness ? `<div class="verdict-item"><h5>Timelessness &amp; Value</h5>${verdictTag(v.timelessness.label)}<p class="verdict-comment">${v.timelessness.comment}</p></div>` : ''}
+        <div class="verdict-grid">
+          <div class="verdict-overall">
+            <div class="verdict-overall-top">
+              <span class="verdict-overall-label">Verdict</span>
+              ${verdictTag(v.overall)}
+            </div>
+            ${w.notes ? `<p class="verdict-overall-notes">${w.notes}</p>` : ''}
+          </div>
+          ${v.spec ? `<div class="verdict-item"><div class="verdict-item-header"><span class="verdict-num">01 ·</span><span class="verdict-item-title">On the Wrist</span>${verdictTag(v.spec.label)}</div><p class="verdict-comment">${v.spec.comment}</p></div>` : ''}
+          ${v.heritage ? `<div class="verdict-item"><div class="verdict-item-header"><span class="verdict-num">02 ·</span><span class="verdict-item-title">The Brand</span>${verdictTag(v.heritage.label)}</div><p class="verdict-comment">${v.heritage.comment}</p></div>` : ''}
+          ${v.timelessness ? `<div class="verdict-item"><div class="verdict-item-header"><span class="verdict-num">03 ·</span><span class="verdict-item-title">The Long Game</span>${verdictTag(v.timelessness.label)}</div><p class="verdict-comment">${v.timelessness.comment}</p></div>` : ''}
+        </div>
       </div>` : ''}
-      ${w.notes ? `<div class="notes-line">📝 ${w.notes}</div>` : ''}
       ${searchLinks(w)}
       <div class="source-line" style="margin-top:8px">📌 ${w.source}</div>
     </div>` : '';
