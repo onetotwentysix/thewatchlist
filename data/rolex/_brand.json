@@ -1,0 +1,20 @@
+{
+  "brand": "Rolex",
+  "brand_full": "Rolex SA",
+  "country": "Switzerland",
+  "founded": 1905,
+  "official_url": "https://www.rolex.com/ko",
+  "collections": {
+    "OysterPerpetual": { "collection_kr": "오이스터 퍼페추얼", "bg": "#f0f4f0", "text": "#1a3a1a" },
+    "Datejust":        { "collection_kr": "데이저스트",        "bg": "#f8f5e8", "text": "#5a4010" },
+    "DayDate":         { "collection_kr": "데이-데이트",       "bg": "#faf4e0", "text": "#6b4a08" },
+    "Submariner":      { "collection_kr": "서브마리너",        "bg": "#e4edf8", "text": "#0a2040" },
+    "GMTMaster":       { "collection_kr": "GMT 마스터 II",     "bg": "#e8e4f0", "text": "#280a48" },
+    "Daytona":         { "collection_kr": "데이토나",          "bg": "#f0ece8", "text": "#2a1a0a" },
+    "Explorer":        { "collection_kr": "익스플로러",        "bg": "#e8edf2", "text": "#1a2a3a" },
+    "SeaDweller":      { "collection_kr": "씨 드웰러",         "bg": "#e0e8f2", "text": "#0a1a30" },
+    "SkyDweller":      { "collection_kr": "스카이 드웰러",     "bg": "#eaf0f8", "text": "#1a2a4a" },
+    "YachtMaster":     { "collection_kr": "요트 마스터",       "bg": "#f0eef8", "text": "#2a1a50" },
+    "AirKing":         { "collection_kr": "에어킹",            "bg": "#eef2f0", "text": "#1a3a28" }
+  }
+}

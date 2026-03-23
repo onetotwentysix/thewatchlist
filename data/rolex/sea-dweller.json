@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Rolex",
+    "collection": "SeaDweller",
+    "collection_kr": "씨 드웰러",
+    "reference": "126600",
+    "name": "Sea-Dweller 43",
+    "name_kr": "씨 드웰러 43",
+    "gender": "Men",
+    "price_krw": 18500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.8,
+      "water_resistance_m": 1220,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3235",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminous Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Glidelock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black"],
+    "availability": "hard",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2017,
+    "resale_krw_est": 19000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "43mm · Cal.3235 자동 70h · 1220m 방수 · 헬륨 이스케이프 밸브 · 글라이드락 잠금장치 (다이빙 수트 위 착용 조절) · 빨간 날짜 창 · 50주년 기념 모델에서 유래한 레드 날짜",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Sport",
+        "comment": "43mm, Cal.3235 자동 70h, 1220m 방수. 헬륨 이스케이프 밸브는 포화 잠수 시 케이스 내부 헬륨 가스를 배출해 케이스 파손을 방지. 글라이드락으로 잠수복 위 착용 시에도 브레이슬릿 길이 조절 가능."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1967년 로렉스가 상업 잠수부를 위해 개발. Submariner 300m로는 부족한 심해 잠수를 위한 업그레이드. COMEX 잠수 회사와의 협력으로 탄생한 프로 잠수 도구. 빨간 날짜창은 50주년 에디션 DNA."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "Sub보다 덜 알려지지만 더 높은 사양이라는 독보적 포지션. 43mm의 강인한 존재감은 Sub와 차별화된다. 마니아층에서 '진짜를 아는 사람이 선택하는 다이버'로 평가받아 꾸준한 수요."
+      }
+    }
+  }
+]

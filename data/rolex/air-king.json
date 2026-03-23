@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Rolex",
+    "collection": "AirKing",
+    "collection_kr": "에어킹",
+    "reference": "126900",
+    "name": "Air-King 40",
+    "name_kr": "에어킹 40",
+    "gender": "Men",
+    "price_krw": 11000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3230",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterlock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 10500000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · Cal.3230 자동 70h · 블랙 다이얼에 옐로우/그린 아라비아 숫자 · 5분 단위 특대 숫자 + 소형 시 숫자 혼용 · COSC 자성 방지 강화 · 항공기 계기판 디자인 모티프 · 날짜 없는 3침",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm, Cal.3230 자동 70h. 블랙 다이얼에 옐로우/그린 아라비아 숫자가 독특한 항공 계기판 미학. 5분 단위 대형 숫자가 항공 시계 전통에서 유래. 날짜 없는 3침으로 다이얼 레이아웃에 집중."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1945년 영국 공군(RAF) 파일럿을 위해 탄생. '에어킹' 이름은 당시 항공의 왕이라는 의미. 2022년 2세대로 복귀 시 항공 계기판 영감을 더욱 강조. 자성 방지 강화는 항공 환경 요구에 부응."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "롤렉스 라인업 중 가장 독특한 다이얼 디자인. 옐로우-그린 숫자 조합은 호불호가 갈리지만 알고 선택하면 오래 착용 가능. 스포츠 롤렉스 중 상대적으로 구하기 쉬운 편."
+      }
+    }
+  }
+]

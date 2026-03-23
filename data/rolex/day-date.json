@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Rolex",
+    "collection": "DayDate",
+    "collection_kr": "데이-데이트",
+    "reference": "128238",
+    "name": "Day-Date 36",
+    "name_kr": "데이-데이트 36",
+    "gender": "Men",
+    "price_krw": 65000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Yellow Gold",
+      "diameter_mm": 36,
+      "thickness_mm": 12.4,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3235",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Day", "Date"]
+    },
+    "dial": {
+      "color": "Champagne",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Yellow Gold",
+      "clasp": "Crownclasp"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Champagne", "Silver", "Black", "Blue", "Green"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 58000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "36mm · Cal.3235 자동 70h · 18ct 옐로우 골드 · 프레지던트 브레이슬릿 · 풀 골드 구성 · 롤렉스 플래그십 드레스워치 · 70년간 대통령·CEO의 선택 · 요일 전체 철자 표시",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "36mm, Cal.3235 자동 70h, 18ct 옐로우 골드 케이스 + 프레지던트 브레이슬릿. 요일을 전체 철자(MONDAY...)로 표시. 롤렉스 라인업 중 유일하게 전부 귀금속으로만 출시. 극도로 드레시한 플래그십."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1956년 드와이트 아이젠하워 대통령이 착용하며 '대통령의 시계' 별명 획득. 이후 닉슨·레이건·클린턴·오바마 등 역대 미국 대통령 다수가 착용. 세계 권력의 상징으로 70년간 그 자리를 지키고 있다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "권력과 성공의 상징으로서 Day-Date의 위치는 흔들리지 않는다. 골드 소재로만 출시되어 리세일도 금값에 연동. 어떤 롤렉스보다 드레시한 컨텍스트에서 가장 강력한 존재감."
+      }
+    }
+  }
+]

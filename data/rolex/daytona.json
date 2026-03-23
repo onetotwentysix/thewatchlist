@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Rolex",
+    "collection": "Daytona",
+    "collection_kr": "데이토나",
+    "reference": "116500LN",
+    "name": "Cosmograph Daytona",
+    "name_kr": "코스모그래프 데이토나",
+    "gender": "Men",
+    "price_krw": 26000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 40,
+      "thickness_mm": 12.2,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "4130",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 44,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "30min Counter", "12h Counter"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterlock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black", "White"],
+    "availability": "hard",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 60000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · Cal.4130 자동 크로노그래프 72h · 세라크롬 타코미터 베젤 · 컬럼 휠 + 수직 클러치 · 블랙/화이트 다이얼 · 리테일 ₩26M, 실거래 ₩50M+ · 세계에서 구하기 가장 어려운 스틸 시계",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Sport",
+        "comment": "40mm, Cal.4130 자동 크로노그래프 72h. 컬럼 휠 + 수직 클러치의 정밀 크로노 메커니즘. 세라크롬 타코미터 베젤. 리테일 ₩26M이지만 실거래는 ₩50M 이상. 세계에서 구하기 가장 어려운 스틸 시계."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1963년 플로리다 데이토나 레이싱 서킷에서 영감받아 탄생. 폴 뉴먼의 이름이 붙은 빈티지 다이얼로 옥션 기록 경신 ($17.8M). 레이싱·크로노그래프의 종착점. 롤렉스 라인업 중 가장 높은 위상."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스틸 Daytona의 리세일은 리테일의 2~3배. 대기 리스트 5년 이상. 시간이 지날수록 가치가 오르는 희귀 자산. 롤렉스 라인업 최정점에서 절대로 그 자리를 양보하지 않는다."
+      }
+    }
+  }
+]

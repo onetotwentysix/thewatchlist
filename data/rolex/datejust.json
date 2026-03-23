@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Rolex",
+    "collection": "Datejust",
+    "collection_kr": "데이저스트",
+    "reference": "278240",
+    "name": "Datejust 31",
+    "name_kr": "데이저스트 31",
+    "gender": "Women",
+    "price_krw": 11200000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 31,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2236",
+      "power_reserve_hours": 55,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterclasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Silver", "Black", "Blue", "Pink", "Champagne"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 10000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "31mm · Cal.2236 자동 55h · Oyster 또는 Jubilee 브레이슬릿 선택 가능 · 날짜 창 위 사이클롭스 렌즈 2.5배 확대 · Superlative Chronometer · 레이디스 롤렉스 입문 기준",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "31mm, Cal.2236 자동 55h. 날짜창 위 사이클롭스 렌즈가 Datejust의 시각적 아이덴티티. Oyster/Jubilee 브레이슬릿 선택 가능. 다양한 다이얼·베젤 조합으로 나만의 DJ 구성 가능."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1945년 세계 최초 방수 날짜 표시 자동시계로 탄생. 80년 역사 동안 롤렉스 가장 많이 팔린 모델. 처칠부터 현대 정치인까지 착용한 '성공의 상징'. Datejust = 롤렉스라는 공식."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "레이디스 럭셔리 시계 시장에서 가장 강력한 수요. 80년간 같은 디자인 코드 유지. 베젤·다이얼·브레이슬릿 조합 수십 가지로 개인화 가능해 질리지 않는다. 리세일도 안정적."
+      }
+    }
+  },
+  {
+    "brand": "Rolex",
+    "collection": "Datejust",
+    "collection_kr": "데이저스트",
+    "reference": "126200",
+    "name": "Datejust 36",
+    "name_kr": "데이저스트 36",
+    "gender": "Men/Women",
+    "price_krw": 12000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 36,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3235",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterclasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Silver", "Black", "Blue", "Champagne", "White"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 11000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "36mm · Cal.3235 자동 70h · 스무스 베젤 · 남녀 공용 착용 가능한 유니섹스 사이즈 · Jubilee 또는 Oyster 브레이슬릿 · Superlative Chronometer · 100m 방수",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Versatile",
+        "comment": "36mm, Cal.3235 자동 70h. 남녀 모두 착용 가능한 황금 사이즈. 70h 파워리저브로 주말을 넘겨도 여유. 베젤·다이얼·브레이슬릿 조합으로 캐주얼~포멀 모두 커버."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Datejust 오리지널 1945년 사이즈. 70년이 넘는 기간 동안 '워치 업계의 기준'으로 군림. 어떤 시계와 비교해도 Datejust가 기준점이 된다. 가장 많이 팔린 럭셔리 시계 중 하나."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "36mm는 유행을 타지 않는 보편적 사이즈. 수십 년 후에도 같은 외형으로 같은 가치를 가질 시계. 다이얼·베젤 커스터마이제이션으로 세대를 넘겨 이어받을 수 있다."
+      }
+    }
+  },
+  {
+    "brand": "Rolex",
+    "collection": "Datejust",
+    "collection_kr": "데이저스트",
+    "reference": "126300",
+    "name": "Datejust 41",
+    "name_kr": "데이저스트 41",
+    "gender": "Men",
+    "price_krw": 13800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 41,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3235",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterclasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Black", "Silver", "Blue", "Dark Rhodium", "Olive Green"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 12500000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · Cal.3235 자동 70h · 현대 남성 주류 사이즈 · 스무스 베젤 + 풀루티드 베젤 등 다양 · Oyster 또는 Jubilee 브레이슬릿 · Superlative Chronometer · 100m 방수",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Versatile",
+        "comment": "41mm, Cal.3235 자동 70h. 현대 남성 손목에 최적화된 사이즈. 비즈니스 수트부터 캐주얼까지 모든 드레스 코드 커버. Jubilee 브레이슬릿 선택 시 드레시함 극대화."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Datejust 36의 현대적 확장. 41mm로 현대 남성 선호도에 맞춘 업데이트. 동일한 Datejust DNA에 더 강한 존재감. 오늘날 가장 많이 팔리는 롤렉스 사이즈 중 하나."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "41mm 트렌드가 지속되는 한 DJ 41의 포지션은 확고. 베젤·다이얼 조합의 개인화 폭이 넓어 나만의 Datejust 가능. 롤렉스 헤리티지와 현대 착용감의 가장 이상적인 균형."
+      }
+    }
+  }
+]

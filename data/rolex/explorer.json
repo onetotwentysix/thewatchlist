@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Rolex",
+    "collection": "Explorer",
+    "collection_kr": "익스플로러",
+    "reference": "124270",
+    "name": "Explorer 36",
+    "name_kr": "익스플로러 36",
+    "gender": "Men",
+    "price_krw": 11000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 36,
+      "thickness_mm": 11.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3230",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterlock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 10500000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "36mm · Cal.3230 자동 70h · 3·6·9 아라비아 숫자 + 크롬라이트 야광 · 2021년 오리지널 36mm 사이즈로 복귀 · 날짜 없는 순수 3침 · 가장 절제된 롤렉스 스포츠 모델 · 100m 방수",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "36mm, Cal.3230 자동 70h. 3·6·9 아라비아 숫자가 Submariner의 도트 인덱스와 구별되는 아이덴티티. 36mm 크기는 스포츠워치로는 소박하지만 드레스워치로도 착용 가능한 범용성."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 에드먼드 힐러리 경의 에베레스트 초등정 시 착용. 극한 환경 테스트를 통과한 모험가의 시계. 2021년 오리지널 36mm 사이즈로 복귀하며 순수주의자의 사랑을 받았다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "Explorer는 롤렉스 스포츠 라인 중 가장 수수하다. 화려함보다 본질에 집중하는 착용자의 선택. '나는 시계를 안다'는 메시지를 조용하게 전달하는 마니아 픽."
+      }
+    }
+  },
+  {
+    "brand": "Rolex",
+    "collection": "Explorer",
+    "collection_kr": "익스플로러",
+    "reference": "226570",
+    "name": "Explorer II 42",
+    "name_kr": "익스플로러 II 42",
+    "gender": "Men",
+    "price_krw": 14500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 42,
+      "thickness_mm": 12.8,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3285",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Date", "24h Hand"]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterlock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["White", "Black"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 14000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · Cal.3285 자동 70h · 24h 고정 베젤 + 주황 24h 핸드 · 낮/밤 구분 · 동굴 탐험가를 위해 설계 · 화이트/블랙 다이얼 · 빅 아라비아 숫자 · 100m 방수",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Sport",
+        "comment": "42mm, Cal.3285 자동 70h. 24h 고정 베젤과 주황색 24h 핸드로 낮/밤 구분 가능. GMT 핸드를 활용하면 두 번째 시간대 추적도 가능. 화이트 다이얼 + 큰 아라비아 숫자가 강인한 레저빌리티."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1971년 동굴 탐험가(동굴 내부는 24h 주야 구분 불가)를 위해 개발. 자연광 없는 극한 환경에서도 낮/밤을 알 수 있도록 설계. GMT-Master와 다른 맥락의 두 번째 시간 표시 시스템."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "42mm의 강인한 존재감과 실용적 24h 기능. 등산·캠핑·극지 탐험 같은 아웃도어 라이프스타일과 완벽히 부합. Explorer I보다 덜 알려지지만, 알고 선택하는 착용자의 확고한 픽."
+      }
+    }
+  }
+]

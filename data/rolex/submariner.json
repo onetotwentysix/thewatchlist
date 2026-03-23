@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Rolex",
+    "collection": "Submariner",
+    "collection_kr": "서브마리너",
+    "reference": "124060",
+    "name": "Submariner (No Date) 41",
+    "name_kr": "서브마리너 (노 데이트) 41",
+    "gender": "Men",
+    "price_krw": 13800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 41,
+      "thickness_mm": 12.6,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3230",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminous Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterlock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black"],
+    "availability": "hard",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 16000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · Cal.3230 자동 70h · 세라크롬 단방향 회전 베젤 · 300m 방수 · 크롬라이트 야광 · 날짜 없는 순수 다이버 · 롤렉스 다이버 라인업의 기본 · AD 대기 필수",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Sport",
+        "comment": "41mm, Cal.3230 자동 70h, 300m 방수, 세라크롬 단방향 회전 베젤. 날짜 창 없는 순수한 다이버 구성. 크롬라이트 야광은 암흑 속에서도 최대 8시간 발광. Submariner의 정수."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 세계 최초 300m 방수 다이버 워치로 탄생. '다이버 시계' 카테고리를 창조한 원조. 70년간 변하지 않는 디자인 언어가 모든 다이버 워치의 기준. 인류 역사상 가장 많이 팔린 럭셔리 스포츠 시계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "세상이 바뀌어도 Submariner는 바뀌지 않는다. 블랙 다이얼 + 블랙 베젤 + 오이스터 브레이슬릿 조합은 70년 전과 동일. 노 데이트는 더 미니멀하다는 이유로 마니아에게 오히려 높이 평가."
+      }
+    }
+  },
+  {
+    "brand": "Rolex",
+    "collection": "Submariner",
+    "collection_kr": "서브마리너",
+    "reference": "126610LN",
+    "name": "Submariner Date 41",
+    "name_kr": "서브마리너 데이트 41",
+    "gender": "Men",
+    "price_krw": 16500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 41,
+      "thickness_mm": 12.6,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3235",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminous Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterlock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black"],
+    "availability": "hard",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 20000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · Cal.3235 자동 70h · 날짜 창 + 사이클롭스 렌즈 · 300m 방수 · 세라크롬 베젤 · 블랙-블랙 조합이 가장 기본 · 126610LV(그린 베젤 '스타벅스') 도 존재 · AD 대기 1년 이상",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Sport",
+        "comment": "41mm, Cal.3235 자동 70h, 300m 방수. 노 데이트 대비 날짜 기능과 사이클롭스 렌즈 추가. 실용성이 높아 일상 착용자에게 더 적합. 블랙 베젤(LN)과 그린 베젤(LV·'스타벅스') 두 가지 버전."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Sub Date는 1960년대부터 날짜 기능을 추가한 버전. 날짜 표시 Sub는 일상 착용의 현실적 니즈를 충족하면서 Submariner 헤리티지를 그대로 계승. 전 세계에서 가장 많이 위조되는 시계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "Submariner는 롤렉스 중에서도 가장 안정적인 리세일 가치를 보여준다. 특히 LN(블랙-블랙)은 시장에서 항상 리테일 이상에 거래. 스포츠 워치의 세계 표준이자 투자 자산으로도 인정받는다."
+      }
+    }
+  }
+]

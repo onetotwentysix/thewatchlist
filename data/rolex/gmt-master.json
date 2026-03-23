@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Rolex",
+    "collection": "GMTMaster",
+    "collection_kr": "GMT 마스터 II",
+    "reference": "126710BLRO",
+    "name": "GMT-Master II 'Pepsi'",
+    "name_kr": "GMT 마스터 II '펩시'",
+    "gender": "Men",
+    "price_krw": 20000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.7,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3285",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Date", "GMT"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminous Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterlock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black"],
+    "availability": "hard",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 26000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · Cal.3285 자동 70h · 레드/블루 세라크롬 양방향 24h 베젤 ('펩시') · 2시간대 동시 표시 · 쥬빌레 브레이슬릿 · 2018년 Jubilee 브레이슬릿과 함께 재출시 · AD 대기 2년+",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Sport",
+        "comment": "40mm, Cal.3285 자동 70h. 24h 빨간-파란 양방향 회전 베젤로 두 번째 시간대 추적. GMT 핸드(24h)를 제2 시간대에 맞추면 세 시간대까지 동시 확인 가능. 쥬빌레 브레이슬릿이 스포티-드레시 균형을 완성."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1954년 팬아메리카 항공 조종사를 위해 개발. 세계 최초 두 시간대 동시 표시 시계. '펩시' 별명은 레드-블루 콜라 회사 색상에서 유래. 70년간 항공·외교·비즈니스 세계의 필수품."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "레드-블루 펩시 베젤은 시계 역사상 가장 아이코닉한 컬러 조합 중 하나. 시장에서 지속적으로 리테일 이상 프리미엄 거래. 글로벌 여행이 일상화된 시대에 두 시간대 기능의 실용성도 동반 상승."
+      }
+    }
+  },
+  {
+    "brand": "Rolex",
+    "collection": "GMTMaster",
+    "collection_kr": "GMT 마스터 II",
+    "reference": "126710BLNR",
+    "name": "GMT-Master II 'Batman'",
+    "name_kr": "GMT 마스터 II '배트맨'",
+    "gender": "Men",
+    "price_krw": 20000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.7,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3285",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Date", "GMT"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminous Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterlock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black"],
+    "availability": "hard",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 25000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · Cal.3285 자동 70h · 블랙/블루 세라크롬 베젤 ('배트맨') · Jubilee 브레이슬릿 · 2013년 검정-파랑 조합 첫 출시·2019년 Jubilee 업그레이드 · 펩시보다 남성적이고 다크한 분위기",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Sport",
+        "comment": "40mm, Cal.3285 자동 70h. 블랙-블루 베젤은 펩시 대비 더 남성적이고 다크한 분위기. 동일한 GMT 기능에 더 절제된 컬러 팔레트. 쥬빌레 브레이슬릿으로 드레시함도 확보."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "2013년 세라크롬 블랙-블루 베젤로 첫 등장. '배트맨' 별명은 배트맨 슈트의 검정-파란색에서 유래. 펩시의 클래식함과 달리 현대적 감각으로 젊은 층을 흡수. GMT-Master II 라인의 두 번째 아이콘."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "펩시 대비 더 절제된 컬러로 비즈니스 환경에서도 착용 가능. 검정-파랑 조합은 시대를 타지 않는다. 리세일 시장에서 펩시와 함께 GMT 라인의 양대 수요 축으로 안정적."
+      }
+    }
+  }
+]

@@ -49,6 +49,12 @@
       "url": "https://www.piaget.com/ko-kr"
     },
     {
+      "key": "Rolex",
+      "full": "Rolex SA",
+      "founded": 1905,
+      "url": "https://www.rolex.com/ko"
+    },
+    {
       "key": "Vacheron Constantin",
       "full": "Vacheron Constantin SA",
       "founded": 1755,
@@ -240,6 +246,61 @@
       "kr": "라임라이트",
       "bg": "#fdf0f8",
       "text": "#6b0a3a"
+    },
+    "OysterPerpetual": {
+      "kr": "오이스터 퍼페추얼",
+      "bg": "#f0f4f0",
+      "text": "#1a3a1a"
+    },
+    "Datejust": {
+      "kr": "데이저스트",
+      "bg": "#f8f5e8",
+      "text": "#5a4010"
+    },
+    "DayDate": {
+      "kr": "데이-데이트",
+      "bg": "#faf4e0",
+      "text": "#6b4a08"
+    },
+    "Submariner": {
+      "kr": "서브마리너",
+      "bg": "#e4edf8",
+      "text": "#0a2040"
+    },
+    "GMTMaster": {
+      "kr": "GMT 마스터 II",
+      "bg": "#e8e4f0",
+      "text": "#280a48"
+    },
+    "Daytona": {
+      "kr": "데이토나",
+      "bg": "#f0ece8",
+      "text": "#2a1a0a"
+    },
+    "Explorer": {
+      "kr": "익스플로러",
+      "bg": "#e8edf2",
+      "text": "#1a2a3a"
+    },
+    "SeaDweller": {
+      "kr": "씨 드웰러",
+      "bg": "#e0e8f2",
+      "text": "#0a1a30"
+    },
+    "SkyDweller": {
+      "kr": "스카이 드웰러",
+      "bg": "#eaf0f8",
+      "text": "#1a2a4a"
+    },
+    "YachtMaster": {
+      "kr": "요트 마스터",
+      "bg": "#f0eef8",
+      "text": "#2a1a50"
+    },
+    "AirKing": {
+      "kr": "에어킹",
+      "bg": "#eef2f0",
+      "text": "#1a3a28"
     },
     "Overseas": {
       "kr": "오버시즈",

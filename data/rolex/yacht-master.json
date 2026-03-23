@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Rolex",
+    "collection": "YachtMaster",
+    "collection_kr": "요트 마스터",
+    "reference": "126622",
+    "name": "Yacht-Master 40",
+    "name_kr": "요트 마스터 40",
+    "gender": "Men",
+    "price_krw": 21000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Oystersteel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.5,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "3235",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Oystersteel",
+      "clasp": "Oysterlock"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Blue", "Silver"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 19000000,
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · Cal.3235 자동 70h · Oystersteel + 플래티넘 베젤 ('롤레지엄') · 양방향 회전 플래티넘 베젤 · 블루 다이얼 · Submariner 대비 더 럭셔리한 요트 포지션 · 100m 방수",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Sport",
+        "comment": "40mm, Cal.3235 자동 70h. Oystersteel + 플래티넘 베젤 조합('Rolesor'). 양방향 회전 베젤은 Submariner의 단방향과 다른 요트 타이밍 용도. 플래티넘 베젤이 내는 광택감이 Submariner 대비 한 단계 위의 럭셔리."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1992년 롤렉스 레가타 세계 협회와 협력해 출시. 요트 레이싱 문화에서 영감받은 라이프스타일 스포츠 시계. Submariner의 다이빙 DNA와 달리 지중해 항해·요트 문화를 상징."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "Submariner보다 덜 일반적이어서 개성 있는 스포츠 롤렉스를 원하는 구매자에게 매력. 플래티넘 베젤의 고급감은 Sub에는 없는 포지션. 세계적으로 안정적인 수요를 유지."
+      }
+    }
+  }
+]
