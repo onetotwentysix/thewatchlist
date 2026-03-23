@@ -7,8 +7,8 @@
     "name": "Superocean Automatic 44",
     "name_kr": "슈퍼오션 오토매틱 44",
     "gender": "Men",
-    "price_krw": 5500000,
-    "price_confirmed": false,
+    "price_krw": 7820000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 44,
@@ -23,7 +23,12 @@
       "power_reserve_hours": 38,
       "frequency_vph": 28800,
       "jewels": 25,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Blue",
@@ -35,13 +40,18 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Blue", "Black", "Green", "Orange"],
+    "color_variants": [
+      "Blue",
+      "Black",
+      "Green",
+      "Orange"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 4200000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breitling 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "44mm · 13.35mm · Cal. 17 COSC 자동 · 300m 방수 · 단방향 세라믹 베젤 · 루미노바 야광 인덱스 · Breitling 다이버워치 라인업의 핵심 · 내구성 강조한 워크호스 포지션",
     "verdict": {
       "overall": "Versatile",
@@ -56,66 +66,6 @@
       "timelessness": {
         "label": "Strong",
         "comment": "COSC 인증 다이버워치를 5백만대 가격에 제공하는 포지션은 시대를 타지 않는다. 롤렉스 서브마리너를 원하지만 가격 장벽이 있는 구매자의 현실적 대안으로 꾸준한 수요."
-      }
-    }
-  },
-  {
-    "brand": "Breitling",
-    "collection": "Superocean",
-    "collection_kr": "슈퍼오션",
-    "reference": "A10370121B1S1",
-    "name": "Superocean Heritage '57",
-    "name_kr": "슈퍼오션 헤리티지 '57",
-    "gender": "Men",
-    "price_krw": 7800000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42,
-      "thickness_mm": 12.65,
-      "water_resistance_m": 200,
-      "glass": "Sapphire Crystal (AR)",
-      "caseback": "Solid"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "10",
-      "power_reserve_hours": 42,
-      "frequency_vph": 28800,
-      "jewels": 25,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
-    },
-    "dial": {
-      "color": "Blue",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Vintage-style Leather",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": true,
-    "color_variants": ["Blue", "Black", "Green", "Brown"],
-    "availability": "easy",
-    "certification": true,
-    "limited": false,
-    "year_introduced": 2018,
-    "resale_krw_est": 6200000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
-    "notes": "42mm · 12.65mm · Cal. 10 COSC 자동 42h · 1957년 오리지널 슈퍼오션 디자인 오마주 · 돔형 크리스탈 · 빈티지 다이얼 레이아웃 · 헤리티지 다이버워치 장르의 Breitling 최적 선택",
-    "verdict": {
-      "overall": "Definitive",
-      "spec": {
-        "label": "Versatile",
-        "comment": "42mm/12.65mm, COSC 인증 Cal. 10 자동 42h, 200m 방수. 44mm 슈퍼오션 대비 사이즈 다운으로 착용 다용도성 향상. 돔형 크리스탈과 빈티지 레이아웃이 더해진 시각적 매력. 실용성과 스타일의 균형."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "1957년 Breitling 최초 다이버워치를 현대적으로 재해석. '57이라는 연도를 모델명에 새겨 오리지널에 대한 경의를 직접 표명. 빈티지 다이버워치 르네상스 트렌드의 Breitling 버전."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "빈티지 다이버워치 스타일은 지속적인 수요를 유지하는 시장. 42mm의 적당한 케이스와 COSC 인증, 헤리티지 디자인의 조합은 다이버워치 입문과 컬렉터 모두에게 어필."
       }
     }
   }

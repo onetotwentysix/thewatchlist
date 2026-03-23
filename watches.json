@@ -8,8 +8,8 @@
     "name": "Fifty Fathoms Automatique 45 Steel",
     "name_kr": "피프티 패덤즈 오토매틱 45 스틸",
     "gender": "Men",
-    "price_krw": 22500000,
-    "price_confirmed": false,
+    "price_krw": 24520000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 45,
@@ -50,7 +50,7 @@
     "limited": false,
     "year_introduced": 2007,
     "resale_krw_est": 18000000,
-    "source": "Monochrome Watches, Blancpain 공식, WatchCharts",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "1953년 최초 다이버워치의 현대 계승작. 3-배럴 칼리버 1315로 5일 파워리저브. 실리콘 헤어스프링.",
     "verdict": {
       "overall": "Iconic",
@@ -77,8 +77,8 @@
     "name": "Fifty Fathoms Automatique 45 Titanium",
     "name_kr": "피프티 패덤즈 오토매틱 45 티타늄 블루",
     "gender": "Men",
-    "price_krw": 24500000,
-    "price_confirmed": false,
+    "price_krw": 29910000,
+    "price_confirmed": true,
     "case": {
       "material": "Titanium",
       "diameter_mm": 45,
@@ -118,7 +118,7 @@
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 20000000,
-    "source": "Monochrome Watches (CHF 14,700 기준 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "풀 새틴 브러싱 티타늄. 스틸 버전보다 가볍고 블루 다이얼.",
     "verdict": {
       "overall": "Iconic",
@@ -145,8 +145,8 @@
     "name": "Fifty Fathoms Automatique 42 Steel",
     "name_kr": "피프티 패덤즈 오토매틱 42 스틸",
     "gender": "Men",
-    "price_krw": 25000000,
-    "price_confirmed": false,
+    "price_krw": 27130000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42.3,
@@ -186,7 +186,7 @@
     "limited": false,
     "year_introduced": 2025,
     "resale_krw_est": 21000000,
-    "source": "Monochrome Watches 2025 (USD 약 $17,500 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "2025년 신규 42mm 스틸 버전. 45mm보다 착용감 개선.",
     "verdict": {
       "overall": "Definitive",
@@ -213,8 +213,8 @@
     "name": "Fifty Fathoms Bathyscaphe 38",
     "name_kr": "피프티 패덤즈 바티스카프 38",
     "gender": "Men/Women",
-    "price_krw": 15500000,
-    "price_confirmed": false,
+    "price_krw": 15360000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 38,
@@ -256,7 +256,7 @@
     "limited": false,
     "year_introduced": 2015,
     "resale_krw_est": 12000000,
-    "source": "WatchCharts, Chrono24 (USD $8,000~11,000 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "라운드 베젤과 더 얇은 케이스. 유니섹스 가능한 FF 엔트리.",
     "verdict": {
       "overall": "Versatile",
@@ -283,8 +283,8 @@
     "name": "Bathyscaphe Complete Calendar Moonphase",
     "name_kr": "바티스카프 컴플리트 캘린더 문페이즈",
     "gender": "Men",
-    "price_krw": 35000000,
-    "price_confirmed": false,
+    "price_krw": 83340000,
+    "price_confirmed": true,
     "case": {
       "material": "18K Red Gold",
       "diameter_mm": 43.6,
@@ -325,7 +325,7 @@
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 28000000,
-    "source": "WatchCharts (USD $22,000~ 추정), Chrono24",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "다이버 케이스에 컴플리케이션 결합. 18K 레드골드. 문페이즈+컴플리트 캘린더.",
     "verdict": {
       "overall": "Collector's Pick",
@@ -422,8 +422,8 @@
     "name": "Fifty Fathoms Bathyscaphe Flyback Chronograph 43",
     "name_kr": "피프티 패덤즈 바티스카프 플라이백 크로노그래프 43",
     "gender": "Men",
-    "price_krw": 23000000,
-    "price_confirmed": false,
+    "price_krw": 27620000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 43,
@@ -465,7 +465,7 @@
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 18500000,
-    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "43mm · 15mm · Cal. F185 자동 플라이백 크로노그래프 · 36,000vph 고주파 · 300m 방수 · 세라믹 베젤 · 다이버워치에 인하우스 플라이백 크로노 탑재한 복합 전문 도구",
     "verdict": {
       "overall": "Specialist",
@@ -635,8 +635,8 @@
     "name": "Villeret Ultra-Slim Automatic 40",
     "name_kr": "빌레레 울트라슬림 오토매틱 40",
     "gender": "Men",
-    "price_krw": 14800000,
-    "price_confirmed": false,
+    "price_krw": 15860000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -677,7 +677,7 @@
     "limited": false,
     "year_introduced": 2011,
     "resale_krw_est": 11000000,
-    "source": "WatchCharts, Chrono24 (USD $8,500~ 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "블랑팡이 설립된 빌레레 마을 이름의 드레스 컬렉션. 더블 스텝 케이스와 울트라슬림.",
     "verdict": {
       "overall": "Classic",
@@ -704,8 +704,8 @@
     "name": "Villeret Complete Calendar 40",
     "name_kr": "빌레레 컴플리트 캘린더 40",
     "gender": "Men",
-    "price_krw": 21000000,
-    "price_confirmed": false,
+    "price_krw": 24190000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -747,7 +747,7 @@
     "limited": false,
     "year_introduced": 2015,
     "resale_krw_est": 16000000,
-    "source": "WatchCharts, Chrono24 (USD $13,000~ 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "컴플리트 캘린더 + 문페이즈. 블랑팡 드레스 컴플리케이션의 핵심.",
     "verdict": {
       "overall": "Definitive",
@@ -918,8 +918,8 @@
     "name": "Villeret Tourbillon Carrousel",
     "name_kr": "빌레레 투르비용 카루셀",
     "gender": "Men",
-    "price_krw": 130000000,
-    "price_confirmed": false,
+    "price_krw": 190540000,
+    "price_confirmed": true,
     "case": {
       "material": "Rose Gold",
       "diameter_mm": 42,
@@ -959,7 +959,7 @@
     "limited": false,
     "year_introduced": 2013,
     "resale_krw_est": 105000000,
-    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "42mm 로즈 골드 · 13.55mm · Cal. 225 수동 168h · 투르비용 + 카루셀 동시 탑재 (세계 최초 구현 브랜드) · 핸드 기요셰 은 다이얼 · 시계 제조 역사상 가장 복잡한 레귤레이팅 오르간 조합",
     "verdict": {
       "overall": "Collector's Pick",
@@ -986,8 +986,8 @@
     "name": "Ladybird Complete Calendar Moonphase",
     "name_kr": "레이디버드 컴플리트 캘린더 문페이즈",
     "gender": "Women",
-    "price_krw": 26000000,
-    "price_confirmed": false,
+    "price_krw": 30230000,
+    "price_confirmed": true,
     "case": {
       "material": "18K White Gold",
       "diameter_mm": 35,
@@ -1029,7 +1029,7 @@
     "limited": false,
     "year_introduced": 2014,
     "resale_krw_est": 20000000,
-    "source": "Chrono24 (USD $15,000~ 추정)",
+    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03)",
     "notes": "1956년 세계 최소 원형 기계식 시계 레이디버드 계보. 18K 화이트골드.",
     "verdict": {
       "overall": "Collector's Pick",
@@ -1672,82 +1672,12 @@
     "brand": "Breitling",
     "collection": "Avenger",
     "collection_kr": "어벤저",
-    "reference": "AB0821101C1X1",
-    "name": "Avenger Automatic 42",
-    "name_kr": "어벤저 오토매틱 42",
-    "gender": "Men",
-    "price_krw": 6800000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42,
-      "thickness_mm": 13.35,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (AR)",
-      "caseback": "Solid"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "17",
-      "power_reserve_hours": 38,
-      "frequency_vph": 28800,
-      "jewels": 25,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Rubber",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Black",
-      "Blue",
-      "Green"
-    ],
-    "availability": "easy",
-    "certification": true,
-    "limited": false,
-    "year_introduced": 2019,
-    "resale_krw_est": 5200000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
-    "notes": "42mm · 13.35mm · Cal. 17 COSC 자동 · 300m 방수 · 단방향 회전 베젤 · 스크루다운 크라운 · Avenger 라인 중 가장 접근하기 쉬운 입문 모델 · 밀리터리 항공 스타일",
-    "verdict": {
-      "overall": "Versatile",
-      "spec": {
-        "label": "Versatile",
-        "comment": "42mm/13.35mm, COSC Cal. 17 자동, 300m 방수, 단방향 베젤. 슈퍼오션 44mm 대비 케이스 사이즈 낮춰 착용성 향상. 동일한 방수 스펙에 밀리터리 항공 스타일. COSC 인증 입문 다이버-파일럿 시계."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "Avenger는 전문 파일럿과 군사 작전 환경을 위해 설계된 도구 시계 계보. 브레이틀링의 항공 시계 제조 140년 역사 중 가장 견고함을 우선하는 라인. 극한 환경 테스트 통과가 DNA."
-      },
-      "timelessness": {
-        "label": "Strong",
-        "comment": "밀리터리 스타일 도구 시계는 패션과 무관하게 꾸준한 수요. COSC 인증 + 300m 방수 + 42mm의 조합은 실용성 최우선 구매자의 반복 선택. 가격 대비 스펙 만족도 높음."
-      }
-    }
-  },
-  {
-    "id": 26,
-    "brand": "Breitling",
-    "collection": "Avenger",
-    "collection_kr": "어벤저",
     "reference": "AB0147101B1X1",
     "name": "Avenger B01 Chronograph 44",
     "name_kr": "어벤저 B01 크로노그래프 44",
     "gender": "Men",
-    "price_krw": 12000000,
-    "price_confirmed": false,
+    "price_krw": 12120000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 44,
@@ -1789,7 +1719,7 @@
     "limited": false,
     "year_introduced": 2021,
     "resale_krw_est": 9800000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breitling 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "44mm · 15.5mm · Cal. B01 인하우스 COSC 자동 크로노 70h · 300m 방수 · 단방향 세라믹 베젤 · Avenger 라인 최고 사양 · Navitimer B01과 동일 무브먼트 + 300m 방수 우위",
     "verdict": {
       "overall": "Definitive",
@@ -1808,79 +1738,7 @@
     }
   },
   {
-    "id": 27,
-    "brand": "Breitling",
-    "collection": "Chronomat",
-    "collection_kr": "크로노매트",
-    "reference": "AB0134101C1A1",
-    "name": "Chronomat B01 42",
-    "name_kr": "크로노매트 B01 42",
-    "gender": "Men",
-    "price_krw": 11500000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42,
-      "thickness_mm": 15.1,
-      "water_resistance_m": 200,
-      "glass": "Sapphire Crystal (AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "B01",
-      "power_reserve_hours": 70,
-      "frequency_vph": 28800,
-      "jewels": 47,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Chronograph",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Integrated Bracelet",
-      "material": "Stainless Steel",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Black",
-      "Blue",
-      "Silver",
-      "Green"
-    ],
-    "availability": "easy",
-    "certification": true,
-    "limited": false,
-    "year_introduced": 1984,
-    "resale_krw_est": 9500000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
-    "notes": "42mm · 15.1mm · Cal. B01 인하우스 COSC 자동 크로노 70h · 라이더 탭 회전 베젤 · 200m 방수 · 1984년 첫 출시 · Navitimer보다 더 스포티한 포지션의 Breitling 대표 크로노그래프",
-    "verdict": {
-      "overall": "Definitive",
-      "spec": {
-        "label": "Specialist",
-        "comment": "42mm/15.1mm, Cal. B01 COSC 인하우스 크로노 70h, 200m 방수. 두께 15mm 이상은 착용 허들. 라이더 탭 베젤 + 인터그레이티드 브레이슬릿의 스포티한 조합. Navitimer B01과 동일 무브먼트 대비 방수 우위."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "1984년 이탈리아 공군(Frecce Tricolori) 공식 타임피스로 탄생. 군용 항공 크로노그래프에서 민간 스포츠워치로 진화한 40년 계보. 라이더 탭 베젤은 조종사 장갑 착용 시에도 조작 가능한 기능적 설계."
-      },
-      "timelessness": {
-        "label": "Strong",
-        "comment": "Chronomat은 Breitling의 두 번째 아이콘. Navitimer의 파일럿 감성과 달리 더 스포티하고 현대적인 포지션. 40년 이상 이어온 디자인 계보와 인하우스 B01 무브먼트 조합은 장기 가치를 지지한다."
-      }
-    }
-  },
-  {
-    "id": 28,
+    "id": 26,
     "brand": "Breitling",
     "collection": "Navitimer",
     "collection_kr": "나비타이머",
@@ -1888,8 +1746,8 @@
     "name": "Navitimer B01 Chronograph 43",
     "name_kr": "나비타이머 B01 크로노그래프 43",
     "gender": "Men",
-    "price_krw": 11000000,
-    "price_confirmed": false,
+    "price_krw": 13960000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 43,
@@ -1932,7 +1790,7 @@
     "limited": false,
     "year_introduced": 1952,
     "resale_krw_est": 9000000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breitling 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "43mm · 14.55mm · Cal. B01 인하우스 자동 크로노그래프 · COSC 인증 · 70h 파워리저브 · 슬라이드 룰 회전 베젤(항법 계산용) · 1952년 이래 파일럿 크로노그래프의 레퍼런스",
     "verdict": {
       "overall": "Iconic",
@@ -1951,221 +1809,7 @@
     }
   },
   {
-    "id": 29,
-    "brand": "Breitling",
-    "collection": "Navitimer",
-    "collection_kr": "나비타이머",
-    "reference": "AB0139241B1P1",
-    "name": "Navitimer B01 Chronograph 41",
-    "name_kr": "나비타이머 B01 크로노그래프 41",
-    "gender": "Men",
-    "price_krw": 10000000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 41,
-      "thickness_mm": 13.6,
-      "water_resistance_m": 30,
-      "glass": "Sapphire Crystal (AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "B01",
-      "power_reserve_hours": 70,
-      "frequency_vph": 28800,
-      "jewels": 47,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Chronograph",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Silver",
-      "indexes": "Arabic Numerals (Luminous)"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Calfskin",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Silver",
-      "Black",
-      "Blue"
-    ],
-    "availability": "easy",
-    "certification": true,
-    "limited": false,
-    "year_introduced": 2021,
-    "resale_krw_est": 8200000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
-    "notes": "41mm · 13.6mm · Cal. B01 인하우스 COSC · 슬라이드 룰 베젤 · 43mm 대비 착용 허들 낮음 · 손목 둘레 16cm 이상 적합 · Navitimer 라인업 입문 최적 사이즈",
-    "verdict": {
-      "overall": "Definitive",
-      "spec": {
-        "label": "Versatile",
-        "comment": "41mm/13.6mm, 동일 Cal. B01 COSC 자동 크로노 70h. 43mm 대비 케이스 사이즈와 두께 모두 감소로 착용 허들 낮아짐. Navitimer 헤리티지와 B01 무브먼트 품질을 더 넓은 손목 사이즈에 제공."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "Navitimer B01 41mm는 2021년 추가된 최신 사이즈로 헤리티지 연도는 짧다. 그러나 1952년 나비타이머 오리지널의 44.6mm보다 오히려 현대인 손목에 더 적합한 크기. 같은 DNA의 더 접근하기 쉬운 버전."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "41mm는 Navitimer 라인 중 가장 일상 착용에 적합한 중간 지점. B01 무브먼트와 COSC 인증은 장기 가치 보존에 기여. 크로노그래프 시계의 가장 실용적인 사이즈 선택."
-      }
-    }
-  },
-  {
-    "id": 30,
-    "brand": "Breitling",
-    "collection": "Navitimer",
-    "collection_kr": "나비타이머",
-    "reference": "A17395161C1P1",
-    "name": "Navitimer Automatic 41",
-    "name_kr": "나비타이머 오토매틱 41",
-    "gender": "Men",
-    "price_krw": 7500000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 41,
-      "thickness_mm": 12.4,
-      "water_resistance_m": 30,
-      "glass": "Sapphire Crystal (AR)",
-      "caseback": "Solid"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "17",
-      "power_reserve_hours": 38,
-      "frequency_vph": 28800,
-      "jewels": 25,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Arabic Numerals (Luminous)"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Calfskin",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Black",
-      "Silver",
-      "Blue",
-      "Green"
-    ],
-    "availability": "easy",
-    "certification": true,
-    "limited": false,
-    "year_introduced": 2020,
-    "resale_krw_est": 5800000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
-    "notes": "41mm · 12.4mm · Cal. 17 (개량 ETA 2824) COSC 인증 · 크로노그래프 없는 3침 + 날짜 구성 · 슬라이드 룰 베젤 유지 · Navitimer 헤리티지를 가장 가볍고 얇게 경험하는 입문 모델",
-    "verdict": {
-      "overall": "Versatile",
-      "spec": {
-        "label": "Versatile",
-        "comment": "41mm/12.4mm, Cal. 17 COSC 자동 38h. 크로노그래프를 제거해 두께·가격 모두 낮췄다. 슬라이드 룰 베젤은 그대로 유지. Navitimer의 상징적 외관을 일상 드레스워치로 착용하려는 구매자의 선택."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "1952년 Navitimer 오리지널 크로노그래프와 같은 슬라이드 룰 베젤 DNA. 크로노그래프 없이도 Navitimer 헤리티지를 충분히 전달한다. 크로노 기능이 필요 없는 파일럿 헤리티지 팬을 위한 모델."
-      },
-      "timelessness": {
-        "label": "Strong",
-        "comment": "7백만대 초반의 가격, COSC 인증, 슬라이드 룰 베젤의 조합은 브레이틀링 입문으로 가장 추천받는 조합. 크로노그래프 없는 단순한 구성이 일상 착용 내구성에도 유리하다."
-      }
-    }
-  },
-  {
-    "id": 31,
-    "brand": "Breitling",
-    "collection": "Premier",
-    "collection_kr": "프리미어",
-    "reference": "AB0118221G1P2",
-    "name": "Premier B01 Chronograph 42",
-    "name_kr": "프리미어 B01 크로노그래프 42",
-    "gender": "Men",
-    "price_krw": 10500000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42,
-      "thickness_mm": 14.75,
-      "water_resistance_m": 30,
-      "glass": "Sapphire Crystal (AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "B01",
-      "power_reserve_hours": 70,
-      "frequency_vph": 28800,
-      "jewels": 47,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Chronograph",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Silver",
-      "indexes": "Applied Indices"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Alligator",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Silver",
-      "Black",
-      "Blue",
-      "Green"
-    ],
-    "availability": "easy",
-    "certification": true,
-    "limited": false,
-    "year_introduced": 2019,
-    "resale_krw_est": 8500000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
-    "notes": "42mm · 14.75mm · Cal. B01 인하우스 COSC 자동 크로노 70h · 드레시한 케이스 라인 + 악어가죽 스트랩 · 1940년대 브레이틀링 프리미어 디자인 오마주 · 항공 계기판보다 비즈니스 미팅에 어울리는 포지션",
-    "verdict": {
-      "overall": "Definitive",
-      "spec": {
-        "label": "Versatile",
-        "comment": "42mm/14.75mm, Cal. B01 COSC 인하우스 크로노 70h. Navitimer·Avenger와 동일 무브먼트이나 케이스 라인이 드레시하다. 악어가죽 스트랩으로 비즈니스 환경 착용성 향상. 브레이틀링에서 가장 정장과 어울리는 크로노."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "1940년대 브레이틀링 최초 프리미어 라인 오마주. 전후 황금기 항공 귀족들이 착용하던 드레시한 크로노그래프를 현대적으로 재해석. 밀리터리 도구 시계가 아닌 브레이틀링의 우아한 면을 보여준다."
-      },
-      "timelessness": {
-        "label": "Strong",
-        "comment": "비즈니스 크로노그래프는 영원한 수요가 있는 카테고리. 인하우스 B01 COSC 무브먼트의 기술적 완성도는 가격을 정당화한다. Navitimer의 파일럿 감성 없이 브레이틀링 기술력만을 원하는 구매자의 선택."
-      }
-    }
-  },
-  {
-    "id": 32,
+    "id": 27,
     "brand": "Breitling",
     "collection": "Superocean",
     "collection_kr": "슈퍼오션",
@@ -2173,8 +1817,8 @@
     "name": "Superocean Automatic 44",
     "name_kr": "슈퍼오션 오토매틱 44",
     "gender": "Men",
-    "price_krw": 5500000,
-    "price_confirmed": false,
+    "price_krw": 7820000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 44,
@@ -2217,7 +1861,7 @@
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 4200000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breitling 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "44mm · 13.35mm · Cal. 17 COSC 자동 · 300m 방수 · 단방향 세라믹 베젤 · 루미노바 야광 인덱스 · Breitling 다이버워치 라인업의 핵심 · 내구성 강조한 워크호스 포지션",
     "verdict": {
       "overall": "Versatile",
@@ -2236,78 +1880,7 @@
     }
   },
   {
-    "id": 33,
-    "brand": "Breitling",
-    "collection": "Superocean",
-    "collection_kr": "슈퍼오션",
-    "reference": "A10370121B1S1",
-    "name": "Superocean Heritage '57",
-    "name_kr": "슈퍼오션 헤리티지 '57",
-    "gender": "Men",
-    "price_krw": 7800000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42,
-      "thickness_mm": 12.65,
-      "water_resistance_m": 200,
-      "glass": "Sapphire Crystal (AR)",
-      "caseback": "Solid"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "10",
-      "power_reserve_hours": 42,
-      "frequency_vph": 28800,
-      "jewels": 25,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Blue",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Vintage-style Leather",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Blue",
-      "Black",
-      "Green",
-      "Brown"
-    ],
-    "availability": "easy",
-    "certification": true,
-    "limited": false,
-    "year_introduced": 2018,
-    "resale_krw_est": 6200000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
-    "notes": "42mm · 12.65mm · Cal. 10 COSC 자동 42h · 1957년 오리지널 슈퍼오션 디자인 오마주 · 돔형 크리스탈 · 빈티지 다이얼 레이아웃 · 헤리티지 다이버워치 장르의 Breitling 최적 선택",
-    "verdict": {
-      "overall": "Definitive",
-      "spec": {
-        "label": "Versatile",
-        "comment": "42mm/12.65mm, COSC 인증 Cal. 10 자동 42h, 200m 방수. 44mm 슈퍼오션 대비 사이즈 다운으로 착용 다용도성 향상. 돔형 크리스탈과 빈티지 레이아웃이 더해진 시각적 매력. 실용성과 스타일의 균형."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "1957년 Breitling 최초 다이버워치를 현대적으로 재해석. '57이라는 연도를 모델명에 새겨 오리지널에 대한 경의를 직접 표명. 빈티지 다이버워치 르네상스 트렌드의 Breitling 버전."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "빈티지 다이버워치 스타일은 지속적인 수요를 유지하는 시장. 42mm의 적당한 케이스와 COSC 인증, 헤리티지 디자인의 조합은 다이버워치 입문과 컬렉터 모두에게 어필."
-      }
-    }
-  },
-  {
-    "id": 34,
+    "id": 28,
     "brand": "Cartier",
     "collection": "BallonBleu",
     "collection_kr": "발롱 블루",
@@ -2376,7 +1949,7 @@
     }
   },
   {
-    "id": 35,
+    "id": 29,
     "brand": "Cartier",
     "collection": "BallonBleu",
     "collection_kr": "발롱 블루",
@@ -2384,8 +1957,8 @@
     "name": "Ballon Bleu de Cartier 40mm",
     "name_kr": "발롱 블루 드 까르띠에 40",
     "gender": "Men",
-    "price_krw": 9800000,
-    "price_confirmed": false,
+    "price_krw": 12200000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -2427,7 +2000,7 @@
     "limited": false,
     "year_introduced": 2007,
     "resale_krw_est": 8000000,
-    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "Ballon Bleu 남성 메인 사이즈 · Cal.1847 MC 자동",
     "verdict": {
       "overall": "Definitive",
@@ -2446,7 +2019,7 @@
     }
   },
   {
-    "id": 36,
+    "id": 30,
     "brand": "Cartier",
     "collection": "BallonBleu",
     "collection_kr": "발롱 블루",
@@ -2515,7 +2088,7 @@
     }
   },
   {
-    "id": 37,
+    "id": 31,
     "brand": "Cartier",
     "collection": "Drive",
     "collection_kr": "드라이브",
@@ -2584,7 +2157,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 32,
     "brand": "Cartier",
     "collection": "Drive",
     "collection_kr": "드라이브",
@@ -2650,7 +2223,7 @@
     }
   },
   {
-    "id": 39,
+    "id": 33,
     "brand": "Cartier",
     "collection": "Panthere",
     "collection_kr": "팡테르",
@@ -2658,8 +2231,8 @@
     "name": "Panthère de Cartier 22mm",
     "name_kr": "팡테르 드 까르띠에 22mm",
     "gender": "Women",
-    "price_krw": 4300000,
-    "price_confirmed": false,
+    "price_krw": 6550000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 22,
@@ -2697,7 +2270,7 @@
     "limited": false,
     "year_introduced": 1983,
     "resale_krw_est": 3200000,
-    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "22mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 1983년 론칭 · 다이아나 왕세자빈·엘리자베스 테일러 착용으로 전설화된 레이디스 아이콘 · 삿파이어 카보숑 크라운",
     "verdict": {
       "overall": "Iconic",
@@ -2716,7 +2289,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 34,
     "brand": "Cartier",
     "collection": "Panthere",
     "collection_kr": "팡테르",
@@ -2724,8 +2297,8 @@
     "name": "Panthère de Cartier 27mm",
     "name_kr": "팡테르 드 까르띠에 27mm",
     "gender": "Women",
-    "price_krw": 5800000,
-    "price_confirmed": false,
+    "price_krw": 7750000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 27,
@@ -2763,7 +2336,7 @@
     "limited": false,
     "year_introduced": 1983,
     "resale_krw_est": 4400000,
-    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "27mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 소형 대비 가시성 향상 · 레이디스 및 유니섹스 포지션",
     "verdict": {
       "overall": "Iconic",
@@ -2782,7 +2355,7 @@
     }
   },
   {
-    "id": 41,
+    "id": 35,
     "brand": "Cartier",
     "collection": "Panthere",
     "collection_kr": "팡테르",
@@ -2790,8 +2363,8 @@
     "name": "Panthère de Cartier 35mm",
     "name_kr": "팡테르 드 까르띠에 35mm",
     "gender": "Women",
-    "price_krw": 8500000,
-    "price_confirmed": false,
+    "price_krw": 9250000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 35,
@@ -2829,7 +2402,7 @@
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 6500000,
-    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "35mm 쿠션형 케이스 · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 2017년 재런칭 시 추가된 엑스트라 라지 사이즈 · 유니섹스 포지션으로 남성 착용도 가능",
     "verdict": {
       "overall": "Iconic",
@@ -2848,7 +2421,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 36,
     "brand": "Cartier",
     "collection": "Pasha",
     "collection_kr": "파샤",
@@ -2856,8 +2429,8 @@
     "name": "Pasha de Cartier 41mm",
     "name_kr": "파샤 드 까르띠에 41",
     "gender": "Men",
-    "price_krw": 13500000,
-    "price_confirmed": false,
+    "price_krw": 11300000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -2899,7 +2472,7 @@
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 10500000,
-    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "스크루다운 크라운 + 크라운 캡 · COSC 크로노미터 인증 · 100m 방수 · 아라비아 숫자 인덱스로 Cartier 중 가장 스포티한 표정",
     "verdict": {
       "overall": "Definitive",
@@ -2918,7 +2491,7 @@
     }
   },
   {
-    "id": 43,
+    "id": 37,
     "brand": "Cartier",
     "collection": "Pasha",
     "collection_kr": "파샤",
@@ -2988,7 +2561,7 @@
     }
   },
   {
-    "id": 44,
+    "id": 38,
     "brand": "Cartier",
     "collection": "Santos",
     "collection_kr": "산토스",
@@ -2996,8 +2569,8 @@
     "name": "Santos de Cartier Medium",
     "name_kr": "산토스 드 까르띠에 미디엄",
     "gender": "Men/Women",
-    "price_krw": 10200000,
-    "price_confirmed": false,
+    "price_krw": 12600000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 35.1,
@@ -3039,7 +2612,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 8500000,
-    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "케이스 35.1 × 41.9mm · 공구 없이 스트랩 교환 가능한 QuickSwitch 시스템 · 남녀 공용",
     "verdict": {
       "overall": "Definitive",
@@ -3058,7 +2631,7 @@
     }
   },
   {
-    "id": 45,
+    "id": 39,
     "brand": "Cartier",
     "collection": "Santos",
     "collection_kr": "산토스",
@@ -3128,7 +2701,7 @@
     }
   },
   {
-    "id": 46,
+    "id": 40,
     "brand": "Cartier",
     "collection": "Santos",
     "collection_kr": "산토스",
@@ -3136,8 +2709,8 @@
     "name": "Santos de Cartier XL Chronograph",
     "name_kr": "산토스 드 까르띠에 XL 크로노그래프",
     "gender": "Men",
-    "price_krw": 19800000,
-    "price_confirmed": false,
+    "price_krw": 17800000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 43.3,
@@ -3179,7 +2752,7 @@
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 16000000,
-    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "케이스 43.3 × 51.6mm · Cal.1904-CH MC 인하우스 크로노그래프 · 가장 큰 Santos 사이즈",
     "verdict": {
       "overall": "Collector's Pick",
@@ -3198,7 +2771,7 @@
     }
   },
   {
-    "id": 47,
+    "id": 41,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -3268,7 +2841,7 @@
     }
   },
   {
-    "id": 48,
+    "id": 42,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -3334,7 +2907,7 @@
     }
   },
   {
-    "id": 49,
+    "id": 43,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -3342,8 +2915,8 @@
     "name": "Tank Française Medium",
     "name_kr": "탱크 프랑세즈 미디엄",
     "gender": "Women",
-    "price_krw": 9500000,
-    "price_confirmed": false,
+    "price_krw": 10300000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 27.4,
@@ -3382,7 +2955,7 @@
     "limited": false,
     "year_introduced": 1996,
     "resale_krw_est": 7200000,
-    "source": "Cartier 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "케이스 27.4×37.4mm · Cal.157 쿼츠 · 일체형 스틸 브레이슬릿 · 1996년 론칭 · 양 측면 브레이슬릿이 케이스 플랭크와 자연스럽게 연결 · Tank 직선미에 메탈 브레이슬릿 실용성 결합",
     "verdict": {
       "overall": "Definitive",
@@ -3401,7 +2974,7 @@
     }
   },
   {
-    "id": 50,
+    "id": 44,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -3469,7 +3042,7 @@
     }
   },
   {
-    "id": 51,
+    "id": 45,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -3537,7 +3110,7 @@
     }
   },
   {
-    "id": 52,
+    "id": 46,
     "brand": "Chopard",
     "collection": "AlpineEagle",
     "collection_kr": "알파인 이글",
@@ -3608,7 +3181,7 @@
     }
   },
   {
-    "id": 53,
+    "id": 47,
     "brand": "Chopard",
     "collection": "AlpineEagle",
     "collection_kr": "알파인 이글",
@@ -3679,7 +3252,7 @@
     }
   },
   {
-    "id": 54,
+    "id": 48,
     "brand": "Chopard",
     "collection": "HappySport",
     "collection_kr": "해피 스포트",
@@ -3748,7 +3321,7 @@
     }
   },
   {
-    "id": 55,
+    "id": 49,
     "brand": "Chopard",
     "collection": "HappySport",
     "collection_kr": "해피 스포트",
@@ -3818,7 +3391,7 @@
     }
   },
   {
-    "id": 56,
+    "id": 50,
     "brand": "Chopard",
     "collection": "HappySport",
     "collection_kr": "해피 스포트",
@@ -3887,7 +3460,7 @@
     }
   },
   {
-    "id": 57,
+    "id": 51,
     "brand": "Chopard",
     "collection": "LUC",
     "collection_kr": "L.U.C",
@@ -3957,7 +3530,7 @@
     }
   },
   {
-    "id": 58,
+    "id": 52,
     "brand": "Chopard",
     "collection": "LUC",
     "collection_kr": "L.U.C",
@@ -4025,7 +3598,7 @@
     }
   },
   {
-    "id": 59,
+    "id": 53,
     "brand": "Chopard",
     "collection": "LUC",
     "collection_kr": "L.U.C",
@@ -4093,7 +3666,7 @@
     }
   },
   {
-    "id": 60,
+    "id": 54,
     "brand": "Chopard",
     "collection": "MilleMiglia",
     "collection_kr": "밀레 밀리아",
@@ -4163,7 +3736,7 @@
     }
   },
   {
-    "id": 61,
+    "id": 55,
     "brand": "Chopard",
     "collection": "MilleMiglia",
     "collection_kr": "밀레 밀리아",
@@ -4234,7 +3807,7 @@
     }
   },
   {
-    "id": 62,
+    "id": 56,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -4242,8 +3815,8 @@
     "name": "Aquatimer Automatic 42",
     "name_kr": "아쿠아타이머 오토매틱 42",
     "gender": "Men",
-    "price_krw": 10200000,
-    "price_confirmed": false,
+    "price_krw": 11000000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42,
@@ -4284,7 +3857,7 @@
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 7800000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "External SafeDive 베젤 시스템 · 300m 방수",
     "verdict": {
       "overall": "Versatile",
@@ -4303,7 +3876,7 @@
     }
   },
   {
-    "id": 63,
+    "id": 57,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -4311,8 +3884,8 @@
     "name": "Aquatimer Chronograph 44",
     "name_kr": "아쿠아타이머 크로노그래프 44",
     "gender": "Men",
-    "price_krw": 14500000,
-    "price_confirmed": false,
+    "price_krw": 12500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 44,
@@ -4354,7 +3927,7 @@
     "limited": false,
     "year_introduced": 2014,
     "resale_krw_est": 11000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "드라이버 크로노그래프 · 단방향 회전 베젤",
     "verdict": {
       "overall": "Specialist",
@@ -4373,7 +3946,7 @@
     }
   },
   {
-    "id": 64,
+    "id": 58,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -4381,8 +3954,8 @@
     "name": "Aquatimer Automatic 2000",
     "name_kr": "아쿠아타이머 오토매틱 2000",
     "gender": "Men",
-    "price_krw": 17800000,
-    "price_confirmed": false,
+    "price_krw": 18300000,
+    "price_confirmed": true,
     "case": {
       "material": "Titanium",
       "diameter_mm": 44,
@@ -4422,7 +3995,7 @@
     "limited": false,
     "year_introduced": 2014,
     "resale_krw_est": 14000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2000m 방수 · 티타늄 케이스 · 다이빙 프로페셔널",
     "verdict": {
       "overall": "Collector's Pick",
@@ -4441,7 +4014,7 @@
     }
   },
   {
-    "id": 65,
+    "id": 59,
     "brand": "IWC",
     "collection": "DaVinci",
     "collection_kr": "다빈치",
@@ -4510,7 +4083,7 @@
     }
   },
   {
-    "id": 66,
+    "id": 60,
     "brand": "IWC",
     "collection": "DaVinci",
     "collection_kr": "다빈치",
@@ -4580,7 +4153,7 @@
     }
   },
   {
-    "id": 67,
+    "id": 61,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4649,7 +4222,7 @@
     }
   },
   {
-    "id": 68,
+    "id": 62,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4717,7 +4290,7 @@
     }
   },
   {
-    "id": 69,
+    "id": 63,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4725,8 +4298,8 @@
     "name": "Ingenieur Automatic 35",
     "name_kr": "인제니어 오토매틱 35",
     "gender": "Women",
-    "price_krw": 12800000,
-    "price_confirmed": false,
+    "price_krw": 15800000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 35.1,
@@ -4766,7 +4339,7 @@
     "limited": false,
     "year_introduced": 2025,
     "resale_krw_est": 10500000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2025 신규 출시 35mm 버전 · 레이디스/유니섹스",
     "verdict": {
       "overall": "Emerging",
@@ -4785,7 +4358,7 @@
     }
   },
   {
-    "id": 70,
+    "id": 64,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -4793,8 +4366,8 @@
     "name": "Pilot's Watch Mark XX",
     "name_kr": "파일럿 워치 마크 XX",
     "gender": "Men",
-    "price_krw": 7300000,
-    "price_confirmed": false,
+    "price_krw": 8900000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -4835,7 +4408,7 @@
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 5800000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "EasX-CHANGE 스트랩 시스템 · 항자기성 · 마크 XI 계보",
     "verdict": {
       "overall": "Versatile",
@@ -4854,7 +4427,7 @@
     }
   },
   {
-    "id": 71,
+    "id": 65,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -4862,8 +4435,8 @@
     "name": "Pilot's Watch Mark XX Bracelet",
     "name_kr": "파일럿 워치 마크 XX 브레이슬릿",
     "gender": "Men",
-    "price_krw": 8100000,
-    "price_confirmed": false,
+    "price_krw": 10500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -4903,7 +4476,7 @@
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 6500000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "마크 XX 스틸 브레이슬릿 버전",
     "verdict": {
       "overall": "Versatile",
@@ -4922,7 +4495,7 @@
     }
   },
   {
-    "id": 72,
+    "id": 66,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -4930,8 +4503,8 @@
     "name": "Pilot's Watch Mark XX White",
     "name_kr": "파일럿 워치 마크 XX 화이트",
     "gender": "Men",
-    "price_krw": 7300000,
-    "price_confirmed": false,
+    "price_krw": 8900000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -4971,7 +4544,7 @@
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 5800000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "화이트 다이얼 · 블랙 핸즈",
     "verdict": {
       "overall": "Versatile",
@@ -4990,7 +4563,7 @@
     }
   },
   {
-    "id": 73,
+    "id": 67,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -4998,8 +4571,8 @@
     "name": "Pilot's Watch Chronograph 41",
     "name_kr": "파일럿 크로노그래프 41",
     "gender": "Men",
-    "price_krw": 11800000,
-    "price_confirmed": false,
+    "price_krw": 14000000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -5041,7 +4614,7 @@
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 9500000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "IWC 자체 69380 칼리버 · 정시 리셋 크로노",
     "verdict": {
       "overall": "Versatile",
@@ -5060,7 +4633,7 @@
     }
   },
   {
-    "id": 74,
+    "id": 68,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5068,8 +4641,8 @@
     "name": "Big Pilot's Watch",
     "name_kr": "빅 파일럿 워치",
     "gender": "Men",
-    "price_krw": 23500000,
-    "price_confirmed": false,
+    "price_krw": 21500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 46.2,
@@ -5110,7 +4683,7 @@
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 18000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "7일 파워리저브 · 52110 자체 무브먼트 · 46.2mm 대형",
     "verdict": {
       "overall": "Collector's Pick",
@@ -5129,7 +4702,7 @@
     }
   },
   {
-    "id": 75,
+    "id": 69,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -5137,8 +4710,8 @@
     "name": "Portofino Automatic 40",
     "name_kr": "포르토피노 오토매틱 40",
     "gender": "Men",
-    "price_krw": 8400000,
-    "price_confirmed": false,
+    "price_krw": 8500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -5180,7 +4753,7 @@
     "limited": false,
     "year_introduced": 2015,
     "resale_krw_est": 6000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "드레스 워치 · 바 인덱스 + 로만 12/6시",
     "verdict": {
       "overall": "Versatile",
@@ -5199,7 +4772,7 @@
     }
   },
   {
-    "id": 76,
+    "id": 70,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -5207,8 +4780,8 @@
     "name": "Portofino Automatic Moon Phase 40",
     "name_kr": "포르토피노 오토매틱 문페이즈 40",
     "gender": "Men/Women",
-    "price_krw": 12500000,
-    "price_confirmed": false,
+    "price_krw": 11800000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -5250,7 +4823,7 @@
     "limited": false,
     "year_introduced": 2023,
     "resale_krw_est": 9800000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "문페이즈 디스플레이 · Exhibition 케이스백",
     "verdict": {
       "overall": "Versatile",
@@ -5269,7 +4842,7 @@
     }
   },
   {
-    "id": 77,
+    "id": 71,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -5277,8 +4850,8 @@
     "name": "Portofino Automatic 37 Ladies",
     "name_kr": "포르토피노 오토매틱 37 레이디스",
     "gender": "Women",
-    "price_krw": 9200000,
-    "price_confirmed": false,
+    "price_krw": 8100000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 37,
@@ -5319,7 +4892,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 6800000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "레이디스 37mm · 마더오브펄 다이얼",
     "verdict": {
       "overall": "Classic",
@@ -5338,7 +4911,7 @@
     }
   },
   {
-    "id": 78,
+    "id": 72,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -5391,7 +4964,7 @@
     "limited": false,
     "year_introduced": 2024,
     "resale_krw_est": 9500000,
-    "source": "IWC 공식 한국 홈페이지 (직접 확인 · 2026.03)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2024 W&W 신형 케이스 · 더블 박스 글래스",
     "verdict": {
       "overall": "Definitive",
@@ -5410,7 +4983,7 @@
     }
   },
   {
-    "id": 79,
+    "id": 73,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -5418,8 +4991,8 @@
     "name": "Portugieser Automatic 42",
     "name_kr": "포르투기저 오토매틱 42",
     "gender": "Men",
-    "price_krw": 13200000,
-    "price_confirmed": false,
+    "price_krw": 11600000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42,
@@ -5462,7 +5035,7 @@
     "limited": false,
     "year_introduced": 2024,
     "resale_krw_est": 11000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "7일 파워리저브 · 52010 칼리버",
     "verdict": {
       "overall": "Iconic",
@@ -5481,7 +5054,7 @@
     }
   },
   {
-    "id": 80,
+    "id": 74,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -5489,8 +5062,8 @@
     "name": "Portugieser Chronograph",
     "name_kr": "포르투기저 크로노그래프",
     "gender": "Men",
-    "price_krw": 14800000,
-    "price_confirmed": false,
+    "price_krw": 13500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -5533,7 +5106,7 @@
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 12000000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "수직 배열 서브다이얼 · IWC 자체 무브먼트",
     "verdict": {
       "overall": "Definitive",
@@ -5552,7 +5125,7 @@
     }
   },
   {
-    "id": 81,
+    "id": 75,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -5560,8 +5133,8 @@
     "name": "Portugieser Chronograph Blue Dial",
     "name_kr": "포르투기저 크로노그래프 블루",
     "gender": "Men",
-    "price_krw": 14800000,
-    "price_confirmed": false,
+    "price_krw": 13500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -5602,7 +5175,7 @@
     "limited": false,
     "year_introduced": 2024,
     "resale_krw_est": 12500000,
-    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2024 신색상 호라이즌 블루",
     "verdict": {
       "overall": "Iconic",
@@ -5621,7 +5194,7 @@
     }
   },
   {
-    "id": 82,
+    "id": 76,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -5694,7 +5267,7 @@
     }
   },
   {
-    "id": 83,
+    "id": 77,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -5702,8 +5275,8 @@
     "name": "Portugieser Chronograph Dune",
     "name_kr": "포르투기저 크로노그래프 듄",
     "gender": "Men",
-    "price_krw": 14800000,
-    "price_confirmed": false,
+    "price_krw": 13500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -5744,7 +5317,7 @@
     "limited": false,
     "year_introduced": 2024,
     "resale_krw_est": 12800000,
-    "source": "Klocca 한국 (2025.11)",
+    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "60단계 공정 다이얼 · 15겹 투명 래커 · 골드 도금 핸즈",
     "verdict": {
       "overall": "Iconic",
@@ -5763,7 +5336,7 @@
     }
   },
   {
-    "id": 84,
+    "id": 78,
     "brand": "JLC",
     "collection": "Geophysic",
     "collection_kr": "지오피직",
@@ -5833,7 +5406,7 @@
     }
   },
   {
-    "id": 85,
+    "id": 79,
     "brand": "JLC",
     "collection": "Geophysic",
     "collection_kr": "지오피직",
@@ -5903,7 +5476,7 @@
     }
   },
   {
-    "id": 86,
+    "id": 80,
     "brand": "JLC",
     "collection": "Master",
     "collection_kr": "마스터",
@@ -5911,8 +5484,8 @@
     "name": "Master Control Date 40",
     "name_kr": "마스터 컨트롤 데이트 40",
     "gender": "Men",
-    "price_krw": 12500000,
-    "price_confirmed": false,
+    "price_krw": 15100000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -5954,7 +5527,7 @@
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 9500000,
-    "source": "WatchCharts (USD $7,500~ 추정), WatchCrunch 리뷰",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "1992년 마스터 컨트롤 재출시 계보. 1000시간 테스트. Cal.899는 70h 파워리저브.",
     "verdict": {
       "overall": "Versatile",
@@ -5973,7 +5546,7 @@
     }
   },
   {
-    "id": 87,
+    "id": 81,
     "brand": "JLC",
     "collection": "Master",
     "collection_kr": "마스터",
@@ -5981,8 +5554,8 @@
     "name": "Master Control Chronograph Calendar",
     "name_kr": "마스터 컨트롤 크로노그래프 캘린더",
     "gender": "Men",
-    "price_krw": 27000000,
-    "price_confirmed": false,
+    "price_krw": 28600000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42,
@@ -6025,7 +5598,7 @@
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 21000000,
-    "source": "WatchCharts (USD $17,000~ 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "크로노그래프 + 연간 캘린더 + 문페이즈. JLC 마스터 라인 최상위 컴플리케이션.",
     "verdict": {
       "overall": "Collector's Pick",
@@ -6044,7 +5617,7 @@
     }
   },
   {
-    "id": 88,
+    "id": 82,
     "brand": "JLC",
     "collection": "Master",
     "collection_kr": "마스터",
@@ -6052,8 +5625,8 @@
     "name": "Master Ultra Thin Moon 40",
     "name_kr": "마스터 울트라씬 문 40",
     "gender": "Men",
-    "price_krw": 17000000,
-    "price_confirmed": false,
+    "price_krw": 18400000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -6095,7 +5668,7 @@
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 13000000,
-    "source": "Chrono24 (₩14,336,768 중고가 확인), WatchCharts",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "9.9mm 슬림에 문페이즈 내장. 닥터 스트레인지에 등장해 한국 인지도 상승.",
     "verdict": {
       "overall": "Versatile",
@@ -6114,7 +5687,7 @@
     }
   },
   {
-    "id": 89,
+    "id": 83,
     "brand": "JLC",
     "collection": "Master",
     "collection_kr": "마스터",
@@ -6122,8 +5695,8 @@
     "name": "Master Grande Ultra Thin Date",
     "name_kr": "마스터 그랑드 울트라 씬 데이트",
     "gender": "Men",
-    "price_krw": 11500000,
-    "price_confirmed": false,
+    "price_krw": 15100000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -6164,7 +5737,7 @@
     "limited": false,
     "year_introduced": 2014,
     "resale_krw_est": 8800000,
-    "source": "JLC 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "40mm · 8.26mm · Cal.925/3 자동 (무브먼트 두께 3.3mm) · COSC 인증 · 50m 방수 · Master Ultra Thin 시리즈의 기본 날짜 모델 · 초박형 드레스 자동시계 카테고리의 기준",
     "verdict": {
       "overall": "Definitive",
@@ -6183,7 +5756,7 @@
     }
   },
   {
-    "id": 90,
+    "id": 84,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -6191,8 +5764,8 @@
     "name": "Polaris Date 41",
     "name_kr": "폴라리스 데이트 41",
     "gender": "Men",
-    "price_krw": 11500000,
-    "price_confirmed": false,
+    "price_krw": 18200000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -6234,7 +5807,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 9000000,
-    "source": "WatchCharts (USD $7,700 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "1968년 메모복스 폴라리스에서 영감. JLC의 스포츠 라인 엔트리. 200m 방수.",
     "verdict": {
       "overall": "Versatile",
@@ -6253,7 +5826,7 @@
     }
   },
   {
-    "id": 91,
+    "id": 85,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -6261,8 +5834,8 @@
     "name": "Polaris Chronograph 42",
     "name_kr": "폴라리스 크로노그래프 42",
     "gender": "Men",
-    "price_krw": 18500000,
-    "price_confirmed": false,
+    "price_krw": 23500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42,
@@ -6304,7 +5877,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 14500000,
-    "source": "WatchCharts (USD $11,200 추정), Chrono24 (₩20,086,389 새제품 확인)",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "폴라리스 크로노그래프. 65h 파워리저브. 200m 방수 스포츠 크로노.",
     "verdict": {
       "overall": "Versatile",
@@ -6323,7 +5896,7 @@
     }
   },
   {
-    "id": 92,
+    "id": 86,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -6331,8 +5904,8 @@
     "name": "Rendez-Vous Moon 36",
     "name_kr": "랑데부 문 36",
     "gender": "Women",
-    "price_krw": 19500000,
-    "price_confirmed": false,
+    "price_krw": 31500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 36,
@@ -6374,7 +5947,7 @@
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 14000000,
-    "source": "WatchCharts (USD $11,000~ 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "JLC 여성 플래그십 컬렉션. 랑데부 특유의 다이아몬드 인덱스 버전.",
     "verdict": {
       "overall": "Versatile",
@@ -6393,7 +5966,7 @@
     }
   },
   {
-    "id": 93,
+    "id": 87,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -6401,8 +5974,8 @@
     "name": "Reverso Classic Large Small Seconds",
     "name_kr": "리베르소 클래식 라지 스몰 세컨즈",
     "gender": "Men",
-    "price_krw": 13500000,
-    "price_confirmed": false,
+    "price_krw": 16700000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 47,
@@ -6442,7 +6015,7 @@
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 10000000,
-    "source": "WatchCharts (USD $7,500~ 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "1931년 오리지널 리베르소에 가장 가까운 현행 모델. 47x28.3mm 아트데코 직사각형 케이스.",
     "verdict": {
       "overall": "Iconic",
@@ -6461,7 +6034,7 @@
     }
   },
   {
-    "id": 94,
+    "id": 88,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -6469,8 +6042,8 @@
     "name": "Reverso Tribute Duoface",
     "name_kr": "리베르소 트리뷰트 듀오페이스",
     "gender": "Men",
-    "price_krw": 22000000,
-    "price_confirmed": false,
+    "price_krw": 21600000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 47,
@@ -6510,7 +6083,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 17000000,
-    "source": "WatchCharts (USD $13,000~ 추정), Chrono24",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "앞면과 뒷면 각각 다른 시간대를 표시. 듀얼 타임존의 기발한 해법.",
     "verdict": {
       "overall": "Iconic",
@@ -6529,7 +6102,7 @@
     }
   },
   {
-    "id": 95,
+    "id": 89,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -6537,8 +6110,8 @@
     "name": "Reverso Classic Monoface Small Seconds Mid",
     "name_kr": "리베르소 클래식 모노페이스 미드",
     "gender": "Men/Women",
-    "price_krw": 11500000,
-    "price_confirmed": false,
+    "price_krw": 11700000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40.1,
@@ -6577,7 +6150,7 @@
     "limited": false,
     "year_introduced": 2025,
     "resale_krw_est": 9000000,
-    "source": "Monochrome Watches 2025 (EUR 8,000 추정)",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2025 신형 미드사이즈. 유니섹스 착용 가능. 코인 스택 기요셰 다이얼.",
     "verdict": {
       "overall": "Versatile",
@@ -6596,7 +6169,7 @@
     }
   },
   {
-    "id": 96,
+    "id": 90,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -6604,8 +6177,8 @@
     "name": "Reverso Tribute Monoface White",
     "name_kr": "리베르소 트리뷰트 모노페이스 화이트",
     "gender": "Men",
-    "price_krw": 17500000,
-    "price_confirmed": false,
+    "price_krw": 14000000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 47,
@@ -6645,7 +6218,7 @@
     "limited": false,
     "year_introduced": 2025,
     "resale_krw_est": 14000000,
-    "source": "Chrono24 (USD $12,000~ 추정)",
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "2025 출시 트리뷰트 라인 화이트 다이얼. 1930년대 오리지널 리베르소에 오마주.",
     "verdict": {
       "overall": "Iconic",
@@ -6664,7 +6237,7 @@
     }
   },
   {
-    "id": 97,
+    "id": 91,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -6732,7 +6305,7 @@
     }
   },
   {
-    "id": 98,
+    "id": 92,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -6801,7 +6374,7 @@
     }
   },
   {
-    "id": 99,
+    "id": 93,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -6868,7 +6441,7 @@
     }
   },
   {
-    "id": 100,
+    "id": 94,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -6936,7 +6509,7 @@
     }
   },
   {
-    "id": 101,
+    "id": 95,
     "brand": "Piaget",
     "collection": "Limelight",
     "collection_kr": "라임라이트",
@@ -7004,7 +6577,7 @@
     }
   },
   {
-    "id": 102,
+    "id": 96,
     "brand": "Piaget",
     "collection": "Limelight",
     "collection_kr": "라임라이트",
@@ -7071,7 +6644,7 @@
     }
   },
   {
-    "id": 103,
+    "id": 97,
     "brand": "Piaget",
     "collection": "Polo",
     "collection_kr": "폴로",
@@ -7079,8 +6652,8 @@
     "name": "Polo Date",
     "name_kr": "폴로 데이트",
     "gender": "Men",
-    "price_krw": 11500000,
-    "price_confirmed": false,
+    "price_krw": 22400000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42,
@@ -7122,7 +6695,7 @@
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 8800000,
-    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Piaget 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "42mm · 두께 9.4mm · Cal. 1110P 인하우스 자동 50h · 인터그레이티드 브레이슬릿 · 100m 방수 · Piaget의 럭셔리 스포츠 진출 선언",
     "verdict": {
       "overall": "Versatile",
@@ -7141,7 +6714,7 @@
     }
   },
   {
-    "id": 104,
+    "id": 98,
     "brand": "Piaget",
     "collection": "Polo",
     "collection_kr": "폴로",
@@ -7149,8 +6722,8 @@
     "name": "Polo Skeleton",
     "name_kr": "폴로 스켈레톤",
     "gender": "Men",
-    "price_krw": 20000000,
-    "price_confirmed": false,
+    "price_krw": 47500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42,
@@ -7189,7 +6762,7 @@
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 15500000,
-    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Piaget 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "42mm · 9.4mm · 스켈레톤 다이얼 + 시스루 케이스백으로 무브먼트 전면 노출 · Piaget 특유의 인그레이빙 장식 피니싱 · 스포츠 케이스에 하이엔드 마감 결합",
     "verdict": {
       "overall": "Collector's Pick",
@@ -7208,7 +6781,7 @@
     }
   },
   {
-    "id": 105,
+    "id": 99,
     "brand": "Rolex",
     "collection": "AirKing",
     "collection_kr": "에어킹",
@@ -7275,7 +6848,7 @@
     }
   },
   {
-    "id": 106,
+    "id": 100,
     "brand": "Rolex",
     "collection": "Datejust",
     "collection_kr": "데이저스트",
@@ -7347,7 +6920,7 @@
     }
   },
   {
-    "id": 107,
+    "id": 101,
     "brand": "Rolex",
     "collection": "Datejust",
     "collection_kr": "데이저스트",
@@ -7419,7 +6992,7 @@
     }
   },
   {
-    "id": 108,
+    "id": 102,
     "brand": "Rolex",
     "collection": "Datejust",
     "collection_kr": "데이저스트",
@@ -7491,7 +7064,7 @@
     }
   },
   {
-    "id": 109,
+    "id": 103,
     "brand": "Rolex",
     "collection": "DayDate",
     "collection_kr": "데이-데이트",
@@ -7564,7 +7137,7 @@
     }
   },
   {
-    "id": 110,
+    "id": 104,
     "brand": "Rolex",
     "collection": "Daytona",
     "collection_kr": "데이토나",
@@ -7635,7 +7208,7 @@
     }
   },
   {
-    "id": 111,
+    "id": 105,
     "brand": "Rolex",
     "collection": "Explorer",
     "collection_kr": "익스플로러",
@@ -7702,7 +7275,7 @@
     }
   },
   {
-    "id": 112,
+    "id": 106,
     "brand": "Rolex",
     "collection": "Explorer",
     "collection_kr": "익스플로러",
@@ -7772,7 +7345,7 @@
     }
   },
   {
-    "id": 113,
+    "id": 107,
     "brand": "Rolex",
     "collection": "GMTMaster",
     "collection_kr": "GMT 마스터 II",
@@ -7841,7 +7414,7 @@
     }
   },
   {
-    "id": 114,
+    "id": 108,
     "brand": "Rolex",
     "collection": "GMTMaster",
     "collection_kr": "GMT 마스터 II",
@@ -7910,7 +7483,7 @@
     }
   },
   {
-    "id": 115,
+    "id": 109,
     "brand": "Rolex",
     "collection": "OysterPerpetual",
     "collection_kr": "오이스터 퍼페추얼",
@@ -7982,7 +7555,7 @@
     }
   },
   {
-    "id": 116,
+    "id": 110,
     "brand": "Rolex",
     "collection": "OysterPerpetual",
     "collection_kr": "오이스터 퍼페추얼",
@@ -8054,7 +7627,7 @@
     }
   },
   {
-    "id": 117,
+    "id": 111,
     "brand": "Rolex",
     "collection": "SeaDweller",
     "collection_kr": "씨 드웰러",
@@ -8122,7 +7695,7 @@
     }
   },
   {
-    "id": 118,
+    "id": 112,
     "brand": "Rolex",
     "collection": "SkyDweller",
     "collection_kr": "스카이 드웰러",
@@ -8195,7 +7768,7 @@
     }
   },
   {
-    "id": 119,
+    "id": 113,
     "brand": "Rolex",
     "collection": "Submariner",
     "collection_kr": "서브마리너",
@@ -8262,7 +7835,7 @@
     }
   },
   {
-    "id": 120,
+    "id": 114,
     "brand": "Rolex",
     "collection": "Submariner",
     "collection_kr": "서브마리너",
@@ -8330,7 +7903,7 @@
     }
   },
   {
-    "id": 121,
+    "id": 115,
     "brand": "Rolex",
     "collection": "YachtMaster",
     "collection_kr": "요트 마스터",
@@ -8399,7 +7972,7 @@
     }
   },
   {
-    "id": 122,
+    "id": 116,
     "brand": "Vacheron Constantin",
     "collection": "FiftySix",
     "collection_kr": "피프티식스",
@@ -8407,8 +7980,8 @@
     "name": "FiftySix Date",
     "name_kr": "피프티식스 데이트",
     "gender": "Men",
-    "price_krw": 16500000,
-    "price_confirmed": false,
+    "price_krw": 21000000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -8450,7 +8023,7 @@
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 13500000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "40mm · 10.39mm · Cal.2460 R31L 인하우스 자동 40h · COSC · 스틸 케이스 · VC 컬렉션 중 가장 접근하기 쉬운 입문 모델 · 1956년 빈티지 VC 시계에서 영감 · 브레이슬릿 옵션 존재",
     "verdict": {
       "overall": "Definitive",
@@ -8469,7 +8042,7 @@
     }
   },
   {
-    "id": 123,
+    "id": 117,
     "brand": "Vacheron Constantin",
     "collection": "FiftySix",
     "collection_kr": "피프티식스",
@@ -8477,8 +8050,8 @@
     "name": "FiftySix Complete Calendar",
     "name_kr": "피프티식스 컴플리트 캘린더",
     "gender": "Men",
-    "price_krw": 27500000,
-    "price_confirmed": false,
+    "price_krw": 44700000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42.5,
@@ -8522,7 +8095,7 @@
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 22000000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "42.5mm · Cal.2460 QCL/2 인하우스 자동 · 컴플리트 캘린더(요일·날짜·월·문페이즈) · 스틸 케이스 · COSC · FiftySix 라인 최고 컴플리케이션 모델",
     "verdict": {
       "overall": "Definitive",
@@ -8541,7 +8114,7 @@
     }
   },
   {
-    "id": 124,
+    "id": 118,
     "brand": "Vacheron Constantin",
     "collection": "FiftySix",
     "collection_kr": "피프티식스",
@@ -8608,7 +8181,7 @@
     }
   },
   {
-    "id": 125,
+    "id": 119,
     "brand": "Vacheron Constantin",
     "collection": "Overseas",
     "collection_kr": "오버시즈",
@@ -8616,8 +8189,8 @@
     "name": "Overseas 41mm",
     "name_kr": "오버시즈 41",
     "gender": "Men",
-    "price_krw": 16500000,
-    "price_confirmed": false,
+    "price_krw": 42000000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -8660,7 +8233,7 @@
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 14000000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "41mm · 11mm · Cal. 5100 COSC 인증 자동 60h · 교체형 스트랩 3종 동봉 (메탈 브레이슬릿 + 가죽 + 러버) · 말타 십자가 크라운 가드 · 150m 방수 · 세계에서 가장 오래된 시계 메이커(1755~)의 스포츠워치",
     "verdict": {
       "overall": "Iconic",
@@ -8679,7 +8252,7 @@
     }
   },
   {
-    "id": 126,
+    "id": 120,
     "brand": "Vacheron Constantin",
     "collection": "Overseas",
     "collection_kr": "오버시즈",
@@ -8687,8 +8260,8 @@
     "name": "Overseas Dual Time",
     "name_kr": "오버시즈 듀얼 타임",
     "gender": "Men",
-    "price_krw": 22000000,
-    "price_confirmed": false,
+    "price_krw": 51000000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 41,
@@ -8731,7 +8304,7 @@
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 18000000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "41mm · 11.4mm · Cal. 5110 COSC 자동 · 2nd 타임존 + 주야 인디케이터 · 교체형 스트랩 3종 동봉 · 빈번한 해외 출장자에게 최적화된 Overseas의 플래그십 기능 버전",
     "verdict": {
       "overall": "Definitive",
@@ -8750,7 +8323,7 @@
     }
   },
   {
-    "id": 127,
+    "id": 121,
     "brand": "Vacheron Constantin",
     "collection": "Overseas",
     "collection_kr": "오버시즈",
@@ -8758,8 +8331,8 @@
     "name": "Overseas Chronograph",
     "name_kr": "오버시즈 크로노그래프",
     "gender": "Men",
-    "price_krw": 33000000,
-    "price_confirmed": false,
+    "price_krw": 58500000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42.5,
@@ -8801,7 +8374,7 @@
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 26000000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "42.5mm · 13.7mm · Cal. 5200 COSC 인증 · 36,000vph 고주파 (5Hz) · 인하우스 크로노그래프 · 교체형 스트랩 3종 동봉 · 세로형 크로노 레이아웃",
     "verdict": {
       "overall": "Collector's Pick",
@@ -8820,7 +8393,7 @@
     }
   },
   {
-    "id": 128,
+    "id": 122,
     "brand": "Vacheron Constantin",
     "collection": "Patrimony",
     "collection_kr": "패트리모니",
@@ -8828,8 +8401,8 @@
     "name": "Patrimony Automatic",
     "name_kr": "패트리모니 오토매틱",
     "gender": "Men",
-    "price_krw": 17000000,
-    "price_confirmed": false,
+    "price_krw": 36000000,
+    "price_confirmed": true,
     "case": {
       "material": "White Gold",
       "diameter_mm": 40,
@@ -8870,7 +8443,7 @@
     "limited": false,
     "year_introduced": 2004,
     "resale_krw_est": 13500000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "40mm 화이트 골드 · 7.6mm · Cal. 2450Q6 자동 · 말타 십자가 크라운 · 루네트 없는 클린 케이스 · VC 드레스워치의 정수 · 극도로 절제된 다이얼 구성",
     "verdict": {
       "overall": "Iconic",
@@ -8889,7 +8462,7 @@
     }
   },
   {
-    "id": 129,
+    "id": 123,
     "brand": "Vacheron Constantin",
     "collection": "Patrimony",
     "collection_kr": "패트리모니",
@@ -8897,8 +8470,8 @@
     "name": "Patrimony Perpetual Calendar",
     "name_kr": "패트리모니 퍼페추얼 캘린더",
     "gender": "Men",
-    "price_krw": 92000000,
-    "price_confirmed": false,
+    "price_krw": 151000000,
+    "price_confirmed": true,
     "case": {
       "material": "Rose Gold",
       "diameter_mm": 41,
@@ -8945,7 +8518,7 @@
     "limited": false,
     "year_introduced": 2005,
     "resale_krw_est": 75000000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "41mm 로즈 골드 · 8.1mm · Cal. 2460 QCL/1 · 퍼페추얼 캘린더 (연도·월·일·요일·윤년·문페이즈) · Patrimony의 극단적 절제 다이얼에 6가지 달력 정보가 균형있게 배치",
     "verdict": {
       "overall": "Collector's Pick",
@@ -8964,7 +8537,7 @@
     }
   },
   {
-    "id": 130,
+    "id": 124,
     "brand": "Vacheron Constantin",
     "collection": "Traditionnelle",
     "collection_kr": "트라디셔넬",

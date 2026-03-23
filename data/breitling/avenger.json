@@ -3,72 +3,12 @@
     "brand": "Breitling",
     "collection": "Avenger",
     "collection_kr": "어벤저",
-    "reference": "AB0821101C1X1",
-    "name": "Avenger Automatic 42",
-    "name_kr": "어벤저 오토매틱 42",
-    "gender": "Men",
-    "price_krw": 6800000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42,
-      "thickness_mm": 13.35,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (AR)",
-      "caseback": "Solid"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "17",
-      "power_reserve_hours": 38,
-      "frequency_vph": 28800,
-      "jewels": 25,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Rubber",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": ["Black", "Blue", "Green"],
-    "availability": "easy",
-    "certification": true,
-    "limited": false,
-    "year_introduced": 2019,
-    "resale_krw_est": 5200000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
-    "notes": "42mm · 13.35mm · Cal. 17 COSC 자동 · 300m 방수 · 단방향 회전 베젤 · 스크루다운 크라운 · Avenger 라인 중 가장 접근하기 쉬운 입문 모델 · 밀리터리 항공 스타일",
-    "verdict": {
-      "overall": "Versatile",
-      "spec": {
-        "label": "Versatile",
-        "comment": "42mm/13.35mm, COSC Cal. 17 자동, 300m 방수, 단방향 베젤. 슈퍼오션 44mm 대비 케이스 사이즈 낮춰 착용성 향상. 동일한 방수 스펙에 밀리터리 항공 스타일. COSC 인증 입문 다이버-파일럿 시계."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "Avenger는 전문 파일럿과 군사 작전 환경을 위해 설계된 도구 시계 계보. 브레이틀링의 항공 시계 제조 140년 역사 중 가장 견고함을 우선하는 라인. 극한 환경 테스트 통과가 DNA."
-      },
-      "timelessness": {
-        "label": "Strong",
-        "comment": "밀리터리 스타일 도구 시계는 패션과 무관하게 꾸준한 수요. COSC 인증 + 300m 방수 + 42mm의 조합은 실용성 최우선 구매자의 반복 선택. 가격 대비 스펙 만족도 높음."
-      }
-    }
-  },
-  {
-    "brand": "Breitling",
-    "collection": "Avenger",
-    "collection_kr": "어벤저",
     "reference": "AB0147101B1X1",
     "name": "Avenger B01 Chronograph 44",
     "name_kr": "어벤저 B01 크로노그래프 44",
     "gender": "Men",
-    "price_krw": 12000000,
-    "price_confirmed": false,
+    "price_krw": 12120000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 44,
@@ -83,7 +23,13 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 47,
-      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -95,13 +41,16 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Black", "Blue"],
+    "color_variants": [
+      "Black",
+      "Blue"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2021,
     "resale_krw_est": 9800000,
-    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breitling 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "44mm · 15.5mm · Cal. B01 인하우스 COSC 자동 크로노 70h · 300m 방수 · 단방향 세라믹 베젤 · Avenger 라인 최고 사양 · Navitimer B01과 동일 무브먼트 + 300m 방수 우위",
     "verdict": {
       "overall": "Definitive",
