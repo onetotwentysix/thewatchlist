@@ -115,6 +115,12 @@ td { padding:12px 14px; vertical-align:middle; }
 .overall-label { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.15em; color:var(--subtle); text-transform:uppercase; }
 .source-line { grid-column:1/-1; font-family:'DM Mono',monospace; font-size:9px; color:var(--subtle); padding-top:6px; border-top:1px solid var(--border); }
 .notes-line { grid-column:1/-1; font-size:11px; color:var(--muted); padding:8px 12px; background:var(--bg); border-radius:4px; border-left:2px solid var(--border-strong); }
+.search-links { grid-column:1/-1; display:flex; gap:6px; margin-top:12px; flex-wrap:wrap; }
+.search-btn { padding:5px 12px; border-radius:20px; font-size:10px; font-family:'DM Mono',monospace; letter-spacing:0.06em; text-decoration:none; display:inline-flex; align-items:center; transition:opacity 0.15s; }
+.search-btn:hover { opacity:0.75; }
+.search-ig { background:#f5e4f0; color:#8a1a5a; border:1px solid #e0c0d8; }
+.search-google { background:#e8eef8; color:#1a3a6b; border:1px solid #c0d0e8; }
+.search-c24 { background:#faf5e8; color:#6b4a10; border:1px solid #e0d0a8; }
 
 /* EMPTY */
 .empty { text-align:center; padding:64px; color:var(--subtle); }
@@ -327,6 +333,16 @@ function strapTag(type) {
   return `<span class="verdict-tag ${cls}" style="font-size:9px">${type}</span>`;
 }
 
+function searchLinks(w) {
+  const q = encodeURIComponent(w.brand + ' ' + w.reference);
+  const igTag = (w.brand + w.reference).toLowerCase().replace(/[^a-z0-9]/g, '');
+  return `<div class="search-links">
+    <a class="search-btn search-ig" href="https://www.instagram.com/explore/tags/${igTag}/" target="_blank" onclick="event.stopPropagation()">Instagram</a>
+    <a class="search-btn search-google" href="https://www.google.com/search?q=${q}&tbm=isch" target="_blank" onclick="event.stopPropagation()">Google</a>
+    <a class="search-btn search-c24" href="https://www.chrono24.com/search/index.htm?query=${q}" target="_blank" onclick="event.stopPropagation()">Chrono24</a>
+  </div>`;
+}
+
 function renderTable() {
   const data = getFiltered();
   document.getElementById("shownCount").textContent = data.length;
@@ -393,6 +409,7 @@ function renderTable() {
             ${v.timelessness ? `<div class="verdict-item"><h5>Timelessness &amp; Value</h5>${verdictTag(v.timelessness.label)}<p class="verdict-comment">${v.timelessness.comment}</p></div>` : ''}
           </div>` : ''}
           ${w.notes ? `<div class="notes-line">📝 ${w.notes}</div>` : ''}
+          ${searchLinks(w)}
           <div class="source-line">📌 데이터 출처: ${w.source}</div>
         </div>
       </td>
@@ -458,6 +475,7 @@ function renderCards(data) {
         ${v.timelessness ? `<div class="verdict-item"><h5>Timelessness &amp; Value</h5>${verdictTag(v.timelessness.label)}<p class="verdict-comment">${v.timelessness.comment}</p></div>` : ''}
       </div>` : ''}
       ${w.notes ? `<div class="notes-line">📝 ${w.notes}</div>` : ''}
+      ${searchLinks(w)}
       <div class="source-line" style="margin-top:8px">📌 ${w.source}</div>
     </div>` : '';
 
