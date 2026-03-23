@@ -7,8 +7,8 @@
     "name": "Patrimony Automatic",
     "name_kr": "패트리모니 오토매틱",
     "gender": "Men",
-    "price_krw": 17000000,
-    "price_confirmed": false,
+    "price_krw": 36000000,
+    "price_confirmed": true,
     "case": {
       "material": "White Gold",
       "diameter_mm": 40,
@@ -23,7 +23,11 @@
       "power_reserve_hours": 40,
       "frequency_vph": 28800,
       "jewels": 27,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,13 +39,17 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Blue", "Champagne"],
+    "color_variants": [
+      "Silver",
+      "Blue",
+      "Champagne"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2004,
     "resale_krw_est": 13500000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "40mm 화이트 골드 · 7.6mm · Cal. 2450Q6 자동 · 말타 십자가 크라운 · 루네트 없는 클린 케이스 · VC 드레스워치의 정수 · 극도로 절제된 다이얼 구성",
     "verdict": {
       "overall": "Iconic",
@@ -67,8 +75,8 @@
     "name": "Patrimony Perpetual Calendar",
     "name_kr": "패트리모니 퍼페추얼 캘린더",
     "gender": "Men",
-    "price_krw": 92000000,
-    "price_confirmed": false,
+    "price_krw": 151000000,
+    "price_confirmed": true,
     "case": {
       "material": "Rose Gold",
       "diameter_mm": 41,
@@ -83,7 +91,18 @@
       "power_reserve_hours": 40,
       "frequency_vph": 28800,
       "jewels": 35,
-      "functions": ["Hours", "Minutes", "Seconds", "Perpetual Calendar", "Day", "Date", "Month", "Year", "Moon Phase", "Leap Year"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Perpetual Calendar",
+        "Day",
+        "Date",
+        "Month",
+        "Year",
+        "Moon Phase",
+        "Leap Year"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +114,16 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Blue"],
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
     "availability": "hard",
     "certification": false,
     "limited": false,
     "year_introduced": 2005,
     "resale_krw_est": 75000000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "41mm 로즈 골드 · 8.1mm · Cal. 2460 QCL/1 · 퍼페추얼 캘린더 (연도·월·일·요일·윤년·문페이즈) · Patrimony의 극단적 절제 다이얼에 6가지 달력 정보가 균형있게 배치",
     "verdict": {
       "overall": "Collector's Pick",

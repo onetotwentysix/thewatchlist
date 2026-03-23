@@ -7,8 +7,8 @@
     "name": "FiftySix Date",
     "name_kr": "피프티식스 데이트",
     "gender": "Men",
-    "price_krw": 16500000,
-    "price_confirmed": false,
+    "price_krw": 21000000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 40,
@@ -23,7 +23,12 @@
       "power_reserve_hours": 40,
       "frequency_vph": 28800,
       "jewels": 37,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "White",
@@ -35,13 +40,17 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["White", "Blue", "Silver"],
+    "color_variants": [
+      "White",
+      "Blue",
+      "Silver"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 13500000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "40mm · 10.39mm · Cal.2460 R31L 인하우스 자동 40h · COSC · 스틸 케이스 · VC 컬렉션 중 가장 접근하기 쉬운 입문 모델 · 1956년 빈티지 VC 시계에서 영감 · 브레이슬릿 옵션 존재",
     "verdict": {
       "overall": "Definitive",
@@ -67,8 +76,8 @@
     "name": "FiftySix Complete Calendar",
     "name_kr": "피프티식스 컴플리트 캘린더",
     "gender": "Men",
-    "price_krw": 27500000,
-    "price_confirmed": false,
+    "price_krw": 44700000,
+    "price_confirmed": true,
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 42.5,
@@ -83,7 +92,15 @@
       "power_reserve_hours": 40,
       "frequency_vph": 28800,
       "jewels": 37,
-      "functions": ["Hours", "Minutes", "Seconds", "Day", "Date", "Month", "Moon Phase"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +112,16 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Blue"],
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 22000000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "42.5mm · Cal.2460 QCL/2 인하우스 자동 · 컴플리트 캘린더(요일·날짜·월·문페이즈) · 스틸 케이스 · COSC · FiftySix 라인 최고 컴플리케이션 모델",
     "verdict": {
       "overall": "Definitive",
@@ -143,7 +163,11 @@
       "power_reserve_hours": 60,
       "frequency_vph": 18000,
       "jewels": 30,
-      "functions": ["Hours", "Minutes", "Tourbillon"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -155,7 +179,9 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "hard",
     "certification": false,
     "limited": false,
