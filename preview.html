@@ -335,7 +335,7 @@ function strapTag(type) {
 
 function searchLinks(w) {
   const q = encodeURIComponent(w.brand + ' ' + w.reference);
-  const igTag = (w.brand + w.reference).toLowerCase().replace(/[^a-z0-9]/g, '');
+  const igTag = (w.brand + ' ' + w.name).toLowerCase().replace(/[^a-z0-9]/g, '');
   return `<div class="search-links">
     <a class="search-btn search-ig" href="https://www.instagram.com/explore/tags/${igTag}/" target="_blank" onclick="event.stopPropagation()">Instagram</a>
     <a class="search-btn search-google" href="https://www.google.com/search?q=${q}&tbm=isch" target="_blank" onclick="event.stopPropagation()">Google</a>
