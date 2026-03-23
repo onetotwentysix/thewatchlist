@@ -5,10 +5,45 @@
   "founded": 1833,
   "official_url": "https://www.jaeger-lecoultre.com/kr/ko",
   "collections": {
-    "Reverso":    { "collection_kr": "리베르소",  "bg": "#ece8f5", "text": "#3a2a6b" },
-    "Master":     { "collection_kr": "마스터",    "bg": "#e4f0ec", "text": "#1a4428" },
-    "Polaris":    { "collection_kr": "폴라리스",  "bg": "#e4ecf8", "text": "#1a2a6b" },
-    "RendezVous":  { "collection_kr": "랑데부",    "bg": "#f5e4ec", "text": "#6b1a30" },
-    "Geophysic":   { "collection_kr": "지오피직", "bg": "#eaeef4", "text": "#2a3a5a" }
+    "Reverso": {
+      "collection_kr": "리베르소",
+      "bg": "#ece8f5",
+      "text": "#3a2a6b"
+    },
+    "Polaris": {
+      "collection_kr": "폴라리스",
+      "bg": "#e4ecf8",
+      "text": "#1a2a6b"
+    },
+    "RendezVous": {
+      "collection_kr": "랑데부",
+      "bg": "#f5e4ec",
+      "text": "#6b1a30"
+    },
+    "Geophysic": {
+      "collection_kr": "지오피직",
+      "bg": "#eaeef4",
+      "text": "#2a3a5a"
+    },
+    "MasterControl": {
+      "collection_kr": "마스터 컨트롤",
+      "bg": "#e6eef6",
+      "text": "#1a3660"
+    },
+    "MasterUltraThin": {
+      "collection_kr": "마스터 울트라 씬",
+      "bg": "#f0f0ec",
+      "text": "#2a2a1a"
+    },
+    "Duometre": {
+      "collection_kr": "듀오미터",
+      "bg": "#f0ece8",
+      "text": "#4a2a18"
+    },
+    "MasterGrandeTradition": {
+      "collection_kr": "마스터 그랑 트래디션",
+      "bg": "#ece8f0",
+      "text": "#2a1a4a"
+    }
   }
 }

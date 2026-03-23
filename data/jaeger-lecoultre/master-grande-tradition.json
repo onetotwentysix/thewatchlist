@@ -1,0 +1,477 @@
+[
+  {
+    "brand": "JLC",
+    "collection": "MasterGrandeTradition",
+    "collection_kr": "마스터 그랑 트래디션",
+    "reference": "Q5233420",
+    "name": "Master Grande Tradition Calibre 950 White Gold",
+    "name_kr": "마스터 그랑 트래디션 캘리버 950 화이트 골드",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "950",
+      "power_reserve_hours": 50,
+      "frequency_vph": 21600,
+      "jewels": 70,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Gyrotourbillon",
+        "Perpetual Calendar",
+        "World Time"
+      ]
+    },
+    "dial": {
+      "color": "Skeleton / Enamel",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Deployant Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Skeleton"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 400000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "Cal.950 자이로투르비용 3. 지구 자전 모방 3축 회전 자이로투르비용. 극소량 생산.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "JLC 최고 컴플리케이션 라인. 스페리컬 투르비용·자이로투르비용 등 독보적 메커니즘."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1833년 르 상티에 창업 이래 JLC 워치메이킹 최정점. 세계 최정상 수공예."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극소량 생산. 10년 후 더 높은 가치 예상. 영구 컬렉터 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterGrandeTradition",
+    "collection_kr": "마스터 그랑 트래디션",
+    "reference": "Q52334E1",
+    "name": "Master Grande Tradition Calibre 950 White Gold Enamel",
+    "name_kr": "마스터 그랑 트래디션 캘리버 950 에나멜",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "950",
+      "power_reserve_hours": 50,
+      "frequency_vph": 21600,
+      "jewels": 70,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Gyrotourbillon",
+        "Perpetual Calendar",
+        "World Time"
+      ]
+    },
+    "dial": {
+      "color": "Skeleton / Enamel",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Deployant Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Skeleton"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 500000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "에나멜 아트 다이얼 자이로투르비용 950. 에나멜 페인팅 공방의 극한 기술.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "JLC 최고 컴플리케이션 라인. 스페리컬 투르비용·자이로투르비용 등 독보적 메커니즘."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1833년 르 상티에 창업 이래 JLC 워치메이킹 최정점. 세계 최정상 수공예."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극소량 생산. 10년 후 더 높은 가치 예상. 영구 컬렉터 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterGrandeTradition",
+    "collection_kr": "마스터 그랑 트래디션",
+    "reference": "Q5273480",
+    "name": "Master Grande Tradition Calibre 946 White Gold",
+    "name_kr": "마스터 그랑 트래디션 캘리버 946 화이트 골드",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "946",
+      "power_reserve_hours": 50,
+      "frequency_vph": 21600,
+      "jewels": 50,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Flying Tourbillon",
+        "Perpetual Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Skeleton / Enamel",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Deployant Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Skeleton"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 350000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "Cal.946 플라잉 투르비용 + 퍼페추얼 캘린더. WG 케이스.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "JLC 최고 컴플리케이션 라인. 스페리컬 투르비용·자이로투르비용 등 독보적 메커니즘."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1833년 르 상티에 창업 이래 JLC 워치메이킹 최정점. 세계 최정상 수공예."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극소량 생산. 10년 후 더 높은 가치 예상. 영구 컬렉터 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterGrandeTradition",
+    "collection_kr": "마스터 그랑 트래디션",
+    "reference": "Q52824E2",
+    "name": "Master Grande Tradition Calibre 948 White Gold",
+    "name_kr": "마스터 그랑 트래디션 캘리버 948",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "948",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 50,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon",
+        "Perpetual Calendar",
+        "Equation of Time"
+      ]
+    },
+    "dial": {
+      "color": "Skeleton / Enamel",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Deployant Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Skeleton"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 450000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "Cal.948 스페리컬 투르비용. 구형 투르비용이 두 축으로 회전.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "JLC 최고 컴플리케이션 라인. 스페리컬 투르비용·자이로투르비용 등 독보적 메커니즘."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1833년 르 상티에 창업 이래 JLC 워치메이킹 최정점. 세계 최정상 수공예."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극소량 생산. 10년 후 더 높은 가치 예상. 영구 컬렉터 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterGrandeTradition",
+    "collection_kr": "마스터 그랑 트래디션",
+    "reference": "Q5246580",
+    "name": "Master Grande Tradition Calibre 985",
+    "name_kr": "마스터 그랑 트래디션 캘리버 985",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "985",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 70,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Flying Tourbillon",
+        "Perpetual Calendar",
+        "Orrery"
+      ]
+    },
+    "dial": {
+      "color": "Skeleton / Enamel",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Deployant Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Skeleton"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 600000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "Cal.985 하이브리스 메카니카. 태양계 오르러리 기능 포함 극복합 컴플리케이션.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "JLC 최고 컴플리케이션 라인. 스페리컬 투르비용·자이로투르비용 등 독보적 메커니즘."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1833년 르 상티에 창업 이래 JLC 워치메이킹 최정점. 세계 최정상 수공예."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극소량 생산. 10년 후 더 높은 가치 예상. 영구 컬렉터 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterGrandeTradition",
+    "collection_kr": "마스터 그랑 트래디션",
+    "reference": "Q5246508",
+    "name": "Master Grande Tradition Calibre 985",
+    "name_kr": "마스터 그랑 트래디션 캘리버 985",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "985",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 70,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Flying Tourbillon",
+        "Perpetual Calendar",
+        "Orrery"
+      ]
+    },
+    "dial": {
+      "color": "Skeleton / Enamel",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Deployant Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Skeleton"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 700000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "Cal.985 하이브리스 메카니카 변형.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "JLC 최고 컴플리케이션 라인. 스페리컬 투르비용·자이로투르비용 등 독보적 메커니즘."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1833년 르 상티에 창업 이래 JLC 워치메이킹 최정점. 세계 최정상 수공예."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극소량 생산. 10년 후 더 높은 가치 예상. 영구 컬렉터 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterGrandeTradition",
+    "collection_kr": "마스터 그랑 트래디션",
+    "reference": "Q5242461",
+    "name": "Master Grande Tradition Calibre 985",
+    "name_kr": "마스터 그랑 트래디션 캘리버 985",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "985",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 70,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Flying Tourbillon",
+        "Perpetual Calendar",
+        "Orrery"
+      ]
+    },
+    "dial": {
+      "color": "Skeleton / Enamel",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Deployant Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Skeleton"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 650000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "Cal.985 시리즈.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "JLC 최고 컴플리케이션 라인. 스페리컬 투르비용·자이로투르비용 등 독보적 메커니즘."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1833년 르 상티에 창업 이래 JLC 워치메이킹 최정점. 세계 최정상 수공예."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극소량 생산. 10년 후 더 높은 가치 예상. 영구 컬렉터 수요."
+      }
+    }
+  }
+]

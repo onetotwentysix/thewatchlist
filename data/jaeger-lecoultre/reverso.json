@@ -265,5 +265,3059 @@
         "comment": "1931년부터 변하지 않은 디자인 언어. 트렌드 독립성 최고 수준. 수십 년 후에도 리베르소가 존재한다면 이 모델과 같은 형태일 것."
       }
     }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3878520",
+    "name": "Reverso Classic Monoface Origin",
+    "name_kr": "리베르소 클래식 모노페이스 오리진",
+    "gender": "Men/Women",
+    "price_krw": 8600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.1,
+      "thickness_mm": 7.56,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Opaline",
+      "indexes": "Printed Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Opaline"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 6500000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "2023 출시 엔트리 리베르소. 코인 엣지 케이스, 블루 핸즈. 가장 저렴한 현행 리베르소.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "유니섹스 착용 가능한 미드/스몰 사이즈. 가벼운 착용감."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소 DNA 계승. 입문·선물용으로 가장 접근하기 쉬운 사이즈."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "최근 출시 모델. 유니섹스 트렌드와 부합, 장기 수요 기대."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3878120",
+    "name": "Reverso Classic Monoface Origin Blue",
+    "name_kr": "리베르소 클래식 모노페이스 오리진 블루",
+    "gender": "Men/Women",
+    "price_krw": 10000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.1,
+      "thickness_mm": 7.56,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Blue Opaline",
+      "indexes": "Printed Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue Opaline"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 7500000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "2023 출시 블루 다이얼 버전.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "유니섹스 착용 가능한 미드/스몰 사이즈. 가벼운 착용감."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소 DNA 계승. 입문·선물용으로 가장 접근하기 쉬운 사이즈."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "최근 출시 모델. 유니섹스 트렌드와 부합, 장기 수요 기대."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3858523",
+    "name": "Reverso Classic Large Small Seconds",
+    "name_kr": "리베르소 클래식 라지 스몰 세컨즈",
+    "gender": "Men",
+    "price_krw": 16700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 10.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822/2",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Black Lacquered",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black Lacquered"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 10500000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블랙 래커 다이얼 버전. 47×28.3mm. Cal.822/2 수동 42h.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2608440",
+    "name": "Reverso Classic Monoface Small Seconds",
+    "name_kr": "리베르소 클래식 모노페이스 스몰 세컨즈",
+    "gender": "Men/Women",
+    "price_krw": 12500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.1,
+      "thickness_mm": 7.56,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Opaline",
+      "indexes": "Printed Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Opaline"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 9000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "40.1×24.4mm 미드사이즈. 은색 오팔린 다이얼.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "유니섹스 착용 가능한 미드/스몰 사이즈. 가벼운 착용감."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소 DNA 계승. 입문·선물용으로 가장 접근하기 쉬운 사이즈."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "최근 출시 모델. 유니섹스 트렌드와 부합, 장기 수요 기대."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2608140",
+    "name": "Reverso Classic Monoface Small Seconds",
+    "name_kr": "리베르소 클래식 모노페이스 스몰 세컨즈",
+    "gender": "Men/Women",
+    "price_krw": 13900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.1,
+      "thickness_mm": 7.56,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Printed Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Guilloche"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 10000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "기요셰 다이얼 버전.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "유니섹스 착용 가능한 미드/스몰 사이즈. 가벼운 착용감."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소 DNA 계승. 입문·선물용으로 가장 접근하기 쉬운 사이즈."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "최근 출시 모델. 유니섹스 트렌드와 부합, 장기 수요 기대."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2618541",
+    "name": "Reverso Classic Monoface",
+    "name_kr": "리베르소 클래식 모노페이스",
+    "gender": "Women",
+    "price_krw": 11100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.1,
+      "thickness_mm": 7.56,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Opaline",
+      "indexes": "Printed Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Opaline"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 8500000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "캘프스킨 스트랩 버전. 입문 리베르소.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "유니섹스 착용 가능한 미드/스몰 사이즈. 가벼운 착용감."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소 DNA 계승. 입문·선물용으로 가장 접근하기 쉬운 사이즈."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "최근 출시 모델. 유니섹스 트렌드와 부합, 장기 수요 기대."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2618141",
+    "name": "Reverso Classic Monoface",
+    "name_kr": "리베르소 클래식 모노페이스",
+    "gender": "Women",
+    "price_krw": 12500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.1,
+      "thickness_mm": 7.56,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White Opaline",
+      "indexes": "Printed Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White Opaline"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 9200000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 다이얼, 캘프스킨 스트랩.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "유니섹스 착용 가능한 미드/스몰 사이즈. 가벼운 착용감."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소 DNA 계승. 입문·선물용으로 가장 접근하기 쉬운 사이즈."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "최근 출시 모델. 유니섹스 트렌드와 부합, 장기 수요 기대."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2602540",
+    "name": "Reverso Classic Monoface Pink Gold",
+    "name_kr": "리베르소 클래식 모노페이스 핑크 골드",
+    "gender": "Men",
+    "price_krw": 25600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 40.1,
+      "thickness_mm": 7.56,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Opaline",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Opaline"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 20000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 40.1mm. 수동 Cal.822.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q716848J",
+    "name": "Reverso Tribute Monoface",
+    "name_kr": "리베르소 트리뷰트 모노페이스",
+    "gender": "Men",
+    "price_krw": 14000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 9.14,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Black Lacquered",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black Lacquered"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 10500000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블랙 다이얼 트리뷰트 모노페이스. 47mm.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q713842J",
+    "name": "Reverso Tribute Monoface Small Seconds",
+    "name_kr": "리베르소 트리뷰트 모노페이스 스몰 세컨즈",
+    "gender": "Men",
+    "price_krw": 16700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 9.14,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822/2",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Opaline",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Opaline"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 12000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "서브다이얼 추가 버전. 은색 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q713257J",
+    "name": "Reverso Tribute Monoface Small Seconds Pink Gold",
+    "name_kr": "리베르소 트리뷰트 모노페이스 스몰 세컨즈 핑크 골드",
+    "gender": "Men",
+    "price_krw": 37100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 47,
+      "thickness_mm": 9.14,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822/2",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloché",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Guilloché"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 29000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 트리뷰트. 기요셰 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q713256J",
+    "name": "Reverso Tribute Monoface Small Seconds Pink Gold",
+    "name_kr": "리베르소 트리뷰트 모노페이스 스몰 세컨즈 핑크 골드",
+    "gender": "Men",
+    "price_krw": 37100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 47,
+      "thickness_mm": 9.14,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822/2",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Black Lacquered",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black Lacquered"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 29000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드, 블랙 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q7132521",
+    "name": "Reverso Tribute Monoface Small Seconds Pink Gold",
+    "name_kr": "리베르소 트리뷰트 모노페이스 핑크 골드",
+    "gender": "Men",
+    "price_krw": 37100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 47,
+      "thickness_mm": 9.14,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822/2",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Copper Guilloché",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Copper Guilloché"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 29000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "코퍼 색상 기요셰 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q714256J",
+    "name": "Reverso Tribute Monoface Small Seconds Platinum",
+    "name_kr": "리베르소 트리뷰트 모노페이스 플래티넘",
+    "gender": "Men",
+    "price_krw": 55500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Platinum",
+      "diameter_mm": 47,
+      "thickness_mm": 9.14,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822/2",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Slate Guilloché",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Slate Guilloché"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 48000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "플래티넘 케이스. 슬레이트 기요셰 다이얼. 고급 소재의 리베르소.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q713216J",
+    "name": "Reverso Tribute Monoface White Pink Gold",
+    "name_kr": "리베르소 트리뷰트 모노페이스 화이트 핑크 골드",
+    "gender": "Men",
+    "price_krw": 65000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 47,
+      "thickness_mm": 9.14,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White Enamel",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White Enamel"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 55000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 에나멜 다이얼 핑크 골드 케이스.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3988481",
+    "name": "Reverso Tribute Duoface Small Seconds",
+    "name_kr": "리베르소 트리뷰트 듀오페이스 스몰 세컨즈",
+    "gender": "Men",
+    "price_krw": 21600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 12.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "854",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Second Time Zone (Day/Night)"
+      ]
+    },
+    "dial": {
+      "color": "Black / Silver (Reverse)",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black / Silver (Reverse)"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 17000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "2024 트리뷰트 듀오페이스. 앞·뒷면 각각 독립 타임존.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q398847J",
+    "name": "Reverso Tribute Duoface Small Seconds",
+    "name_kr": "리베르소 트리뷰트 듀오페이스 스몰 세컨즈",
+    "gender": "Men",
+    "price_krw": 21600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 12.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "854",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Second Time Zone (Day/Night)"
+      ]
+    },
+    "dial": {
+      "color": "Blue / Silver (Reverse)",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue / Silver (Reverse)"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 17000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블루 다이얼 버전.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3918420",
+    "name": "Reverso Tribute Duoface Calendar",
+    "name_kr": "리베르소 트리뷰트 듀오페이스 캘린더",
+    "gender": "Men",
+    "price_krw": 27700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "879",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 27,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Second Time Zone (Day/Night)",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 22000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "듀얼페이스 + 날짜·듀얼 타임존. Cal.879 수동.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q389848J",
+    "name": "Reverso Tribute Chronograph",
+    "name_kr": "리베르소 트리뷰트 크로노그래프",
+    "gender": "Men",
+    "price_krw": 41200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 16.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "829/3",
+      "power_reserve_hours": 46,
+      "frequency_vph": 18000,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "30-Minute Counter",
+        "12-Hour Counter"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 33000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "수동 크로노그래프. Cal.829/3 18000vph. 47mm.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q389257J",
+    "name": "Reverso Tribute Chronograph Pink Gold",
+    "name_kr": "리베르소 트리뷰트 크로노그래프 핑크 골드",
+    "gender": "Men",
+    "price_krw": 63000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 47,
+      "thickness_mm": 16.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "829/3",
+      "power_reserve_hours": 46,
+      "frequency_vph": 18000,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "30-Minute Counter",
+        "12-Hour Counter"
+      ]
+    },
+    "dial": {
+      "color": "Champagne",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Champagne"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 52000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 케이스 크로노그래프.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q389256J",
+    "name": "Reverso Tribute Chronograph White Gold",
+    "name_kr": "리베르소 트리뷰트 크로노그래프 화이트 골드",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 47,
+      "thickness_mm": 16.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "829/3",
+      "power_reserve_hours": 46,
+      "frequency_vph": 18000,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "30-Minute Counter",
+        "12-Hour Counter"
+      ]
+    },
+    "dial": {
+      "color": "Platinum",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Platinum"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 80000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 골드 한정판 크로노그래프.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q714845J",
+    "name": "Reverso Tribute Geographic",
+    "name_kr": "리베르소 트리뷰트 지오그래픽",
+    "gender": "Men",
+    "price_krw": 33300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 12.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "853",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 25,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "World Time (3 Zones)"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 27000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "3개 타임존 표시. Cal.853 수동 25j. 기능성과 아이코닉 디자인의 결합.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q392845J",
+    "name": "Reverso Tribute Duoface Tourbillon",
+    "name_kr": "리베르소 트리뷰트 듀오페이스 투르비용",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 12.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "847/3",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 43,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 150000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "듀오페이스 + 투르비용. Cal.847/3. JLC 최고 컴플리케이션 리베르소.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "투르비용 + 듀얼 타임존 + 리베르소 케이스. 세 가지 특수성의 결합."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소 DNA에 투르비용을 접목한 JLC 최상위 컬렉터 피스."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극희소 수량. 수십 년 뒤에도 수집 가치 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q392243J",
+    "name": "Reverso Tribute Duoface Tourbillon Pink Gold",
+    "name_kr": "리베르소 트리뷰트 듀오페이스 투르비용 핑크 골드",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 47,
+      "thickness_mm": 12.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "847/3",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 43,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloché",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Guilloché"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 180000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 케이스 투르비용 듀오페이스.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "핑크 골드 + 투르비용 + 듀얼 타임존. 가장 희소한 리베르소."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "JLC 무브먼트 제작 역량의 정점."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극소량 생산. 컬렉터 최상급 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q7122480",
+    "name": "Reverso Tribute Minute Repeater",
+    "name_kr": "리베르소 트리뷰트 미닛 리피터",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "828",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 43,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Minute Repeater"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 200000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "수동 미닛 리피터. Cal.828. 리베르소 케이스 안에서 시·분을 소리로 알림.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "미닛 리피터 + 리베르소 케이스. 청각적 시계예술의 절정."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "워치메이킹 최고 컴플리케이션. JLC 165년 노하우의 집약체."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "세계 최정상급 컬렉터만이 접근 가능한 극희소 피스."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3982590",
+    "name": "Reverso Tribute Duoface Sketch",
+    "name_kr": "리베르소 트리뷰트 듀오페이스 스케치",
+    "gender": "Men",
+    "price_krw": 42000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 12.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "854",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Second Time Zone (Day/Night)"
+      ]
+    },
+    "dial": {
+      "color": "Blue Sketch",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue Sketch"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 34000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "청색 스케치 그래픽 다이얼. 특별 한정 에디션 감성.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3288422",
+    "name": "Reverso Classic Medium Duetto",
+    "name_kr": "리베르소 클래식 미디엄 듀에토",
+    "gender": "Women",
+    "price_krw": 12100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver / Black (Reverse)",
+      "indexes": "Printed Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver / Black (Reverse)"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 9000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "38mm 미디엄 듀에토. 앞뒤 다이얼 각각 독립 타임존. 여성용.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3288121",
+    "name": "Reverso Classic Medium Duetto",
+    "name_kr": "리베르소 클래식 미디엄 듀에토",
+    "gender": "Women",
+    "price_krw": 13500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White / Silver (Reverse)",
+      "indexes": "Printed Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White / Silver (Reverse)"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 10000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 다이얼 버전.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2588422",
+    "name": "Reverso Classic Duetto Stainless Steel Diamonds",
+    "name_kr": "리베르소 클래식 듀에토 다이아몬드",
+    "gender": "Women",
+    "price_krw": 18800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloché",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Guilloché"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 14000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "베젤 다이아몬드 세팅.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2578480",
+    "name": "Reverso Classic Duetto Stainless Steel Diamonds",
+    "name_kr": "리베르소 클래식 듀에토 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 26500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Blue / Silver",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue / Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 20000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블루 다이얼 + 다이아몬드 베젤.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2578181",
+    "name": "Reverso Classic Duetto Stainless Steel Diamonds",
+    "name_kr": "리베르소 클래식 듀에토 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 27900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White / Blue",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White / Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 21000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트·블루 듀얼 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2588120",
+    "name": "Reverso Classic Duetto Stainless Steel Diamonds",
+    "name_kr": "리베르소 클래식 듀에토 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 20200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 15000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "실버 다이얼 다이아몬드 버전.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2668432",
+    "name": "Reverso Classic Duetto Stainless Steel Diamonds",
+    "name_kr": "리베르소 클래식 듀에토 다이아몬드",
+    "gender": "Women",
+    "price_krw": 18200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Rose / Silver",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Rose / Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 14000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "로즈 색감 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2668130",
+    "name": "Reverso Classic Duetto Stainless Steel Diamonds",
+    "name_kr": "리베르소 클래식 듀에토 다이아몬드",
+    "gender": "Women",
+    "price_krw": 19600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Lavender / Silver",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Lavender / Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 15000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "라벤더 색상 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2572570",
+    "name": "Reverso Classic Duetto Pink Gold Diamonds",
+    "name_kr": "리베르소 클래식 듀에토 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": 48300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloché",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Guilloché"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 38000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 + 다이아몬드 베젤.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2662130",
+    "name": "Reverso Classic Duetto Pink Gold Diamonds",
+    "name_kr": "리베르소 클래식 듀에토 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": 62500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White / Pink Gold",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White / Pink Gold"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 50000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드, 풀 다이아몬드 세팅.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q2662530",
+    "name": "Reverso Classic Duetto Pink Gold Diamonds",
+    "name_kr": "리베르소 클래식 듀에토 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": 38500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Blue / Silver",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue / Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 31000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블루 다이얼 핑크 골드.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3292435",
+    "name": "Reverso Classic Medium Duetto Special",
+    "name_kr": "리베르소 클래식 미디엄 듀에토 스페셜",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Special",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Special"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 35000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "특별 한정 에디션 듀에토. 고급 소재 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3292434",
+    "name": "Reverso Classic Medium Duetto Special",
+    "name_kr": "리베르소 클래식 미디엄 듀에토 스페셜",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Special",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Special"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 35000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "특별 에디션 시리즈.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3293433",
+    "name": "Reverso Classic Medium Duetto Special",
+    "name_kr": "리베르소 클래식 미디엄 듀에토 스페셜",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 9.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "825/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Special",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Special"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2022,
+    "resale_krw_est": 35000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "특별 에디션 시리즈.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q334848J",
+    "name": "Reverso One Duetto Stainless Steel Diamonds",
+    "name_kr": "리베르소 원 듀에토 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 22300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.1,
+      "thickness_mm": 11.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "841",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver / Black (Reverse)",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver / Black (Reverse)"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 17000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "40.1mm 원 듀에토. 베젤 다이아몬드. Cal.841.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q334818J",
+    "name": "Reverso One Duetto Stainless Steel Diamonds",
+    "name_kr": "리베르소 원 듀에토 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 24700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.1,
+      "thickness_mm": 11.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "841",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Blue / Silver (Reverse)",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue / Silver (Reverse)"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 19000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블루 다이얼 버전.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q334256J",
+    "name": "Reverso One Duetto Pink Gold Diamonds",
+    "name_kr": "리베르소 원 듀에토 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": 42600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 40.1,
+      "thickness_mm": 11.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "841",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Rose / Ivory (Reverse)",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Rose / Ivory (Reverse)"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 34000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 + 다이아몬드 베젤.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q334216J",
+    "name": "Reverso One Duetto Pink Gold Diamonds",
+    "name_kr": "리베르소 원 듀에토 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": 66500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 40.1,
+      "thickness_mm": 11.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "841",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White / Pink (Reverse)",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White / Pink (Reverse)"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 53000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "풀 다이아몬드 세팅 핑크 골드.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q336247J",
+    "name": "Reverso One Duetto Jewellery Pink Gold Diamonds",
+    "name_kr": "리베르소 원 듀에토 쥬얼리 핑크 골드",
+    "gender": "Women",
+    "price_krw": 80500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 40.1,
+      "thickness_mm": 11.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "841",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Ivory Enamel",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Ivory Enamel"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 65000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "풀 다이아몬드 쥬얼리 버전. 에나멜 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "리베르소 DNA를 그대로 계승한 드레스워치. 아트데코 직사각형 케이스의 완성형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 선수 케이스의 직계 후손. JLC의 상징적 컬렉션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC 최장수 모델."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3912532",
+    "name": "Reverso Tribute Duoface Calendar Pink Gold",
+    "name_kr": "리베르소 트리뷰트 듀오페이스 캘린더 핑크 골드",
+    "gender": "Men",
+    "price_krw": 49600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 47,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "879",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 27,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Second Time Zone (Day/Night)",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Copper Guilloché",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Copper Guilloché"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 40000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 듀오페이스 캘린더. 앞뒤 독립 타임존+날짜.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀오페이스·크로노·지오그래픽 등 고급 컴플리케이션. 컬렉터 타깃."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "리베르소의 역설적 케이스를 활용한 독창적 컴플리케이션 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "기계식 독창성으로 중고 시장 안정적 수요 유지."
+      }
+    }
   }
 ]

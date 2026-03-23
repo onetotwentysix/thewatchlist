@@ -62,7 +62,12 @@ function validate(model, file, index) {
 
   // 필수 필드
   for (const f of REQUIRED_FIELDS) {
-    if (model[f] === undefined || model[f] === null || model[f] === "") {
+    // price_krw는 null 허용 (가격 문의/POA)
+    if (f === "price_krw") {
+      if (model[f] === undefined || model[f] === "") {
+        errors.push(`${loc} 필수 필드 누락: "${f}"`);
+      }
+    } else if (model[f] === undefined || model[f] === null || model[f] === "") {
       errors.push(`${loc} 필수 필드 누락: "${f}"`);
     }
   }

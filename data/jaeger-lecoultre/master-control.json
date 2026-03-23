@@ -1,0 +1,1164 @@
+[
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4018420",
+    "name": "Master Control Date 40",
+    "name_kr": "마스터 컨트롤 데이트 40",
+    "gender": "Men",
+    "price_krw": 15100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 8.78,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "899AC",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 32,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver",
+      "Blue",
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 9500000,
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "1992년 마스터 컨트롤 재출시 계보. 1000시간 테스트. Cal.899는 70h 파워리저브.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm/8.78mm로 수트 소매 아래 완벽히 들어가는 슬림함. Cal.899AC는 70h 파워리저브로 실용적. EasX 스트랩 교환 시스템이 편의성 높임."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1992년 JLC가 자사 무브먼트에 1000시간 컨트롤 테스트를 도입하며 정밀도를 공식화한 컬렉션. 워치메이커의 워치메이커라는 JLC 명성을 소비자에게 직접 전달하는 라인."
+      },
+      "timelessness": {
+        "label": "Classic",
+        "comment": "30년 넘게 지속된 마스터 컨트롤의 절제된 미학은 드레스워치 표준. 포르투기저와 비슷한 포지션이나 더 얇고 더 접근하기 쉬운 가격대. 장기 수요 안정적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q1548420",
+    "name": "Master Control Chronograph Calendar",
+    "name_kr": "마스터 컨트롤 크로노그래프 캘린더",
+    "gender": "Men",
+    "price_krw": 28600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 21000000,
+    "source": "Jaeger Lecoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "크로노그래프 + 연간 캘린더 + 문페이즈. JLC 마스터 라인 최상위 컴플리케이션.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Versatile",
+        "comment": "42mm/13mm에 크로노그래프 + 연간 캘린더 + 문페이즈를 동시 구현. Cal.759는 65h 파워리저브. 이 수준의 트리플 컴플리케이션을 드레스 케이스에서 이 가격에 제공하는 브랜드는 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "JLC의 1000시간 테스트 전통이 최고 복잡도 무브먼트에서도 적용. 파텍, AP 등 상위 브랜드에 무브먼트를 공급하는 JLC가 직접 소비자용으로 제공하는 컴플리케이션의 진수."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "이 가격대에서 트리플 컴플리케이션은 JLC만의 가성비. 마스터 컨트롤의 절제된 드레스 외관이 복잡도를 감추는 매력. 마니아들 사이 가장 합리적인 그랑 컴플리케이션 평가."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4008520",
+    "name": "Master Control Classic",
+    "name_kr": "마스터 컨트롤 클래식",
+    "gender": "Men",
+    "price_krw": 13100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.1,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "899AC",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 32,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Champagne",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Champagne"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 10000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "2020 리뉴얼 마스터 컨트롤 클래식. 날짜 없는 순수 3침. Cal.899AC 70h.",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Sport",
+        "comment": "JLC 마스터 컨트롤. 자동 Cal.899AC 70h PR. 품격 있는 드레스스포츠워치."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "1992년 JLC 1000시간 테스트 통과 기준 마스터 컨트롤 부활. 정밀도의 상징."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "JLC 입문·주력 모델. 중고 시장 안정적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4018421",
+    "name": "Master Control Date Stainless Steel",
+    "name_kr": "마스터 컨트롤 데이트 스테인리스 스틸",
+    "gender": "Men",
+    "price_krw": 15100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.1,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "899AC",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 32,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 11500000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "2022 업데이트 버전. Cal.899AC 70h.",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Sport",
+        "comment": "JLC 마스터 컨트롤. 자동 Cal.899AC 70h PR. 품격 있는 드레스스포츠워치."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "1992년 JLC 1000시간 테스트 통과 기준 마스터 컨트롤 부활. 정밀도의 상징."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "JLC 입문·주력 모델. 중고 시장 안정적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4148450",
+    "name": "Master Control Calendar Stainless Steel",
+    "name_kr": "마스터 컨트롤 캘린더 스테인리스 스틸",
+    "gender": "Men",
+    "price_krw": 23800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.1,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759/1",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver Moon",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Moon"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 18000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "애뉴얼 캘린더 + 문페이즈. Cal.759/1 65h. 크로노 없는 버전.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4148421",
+    "name": "Master Control Calendar Stainless Steel",
+    "name_kr": "마스터 컨트롤 캘린더 스테인리스 스틸",
+    "gender": "Men",
+    "price_krw": 23800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.1,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759/1",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Blue Moon",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue Moon"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 18000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블루 다이얼 버전.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4148120",
+    "name": "Master Control Calendar Stainless Steel",
+    "name_kr": "마스터 컨트롤 캘린더 스테인리스 스틸",
+    "gender": "Men",
+    "price_krw": 26300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.1,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759/1",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Black Moon",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black Moon"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 20000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블랙 다이얼. 메탈 브레이슬릿 포함.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4142520",
+    "name": "Master Control Calendar Pink Gold",
+    "name_kr": "마스터 컨트롤 캘린더 핑크 골드",
+    "gender": "Men",
+    "price_krw": 49200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 40,
+      "thickness_mm": 10.1,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759/1",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Champagne Moon",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Champagne Moon"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 39000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 캘린더 + 문페이즈.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4138480",
+    "name": "Master Control Chronograph Calendar Stainless Steel",
+    "name_kr": "마스터 컨트롤 크로노그래프 캘린더 SS",
+    "gender": "Men",
+    "price_krw": 28600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 22000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "크로노 + 애뉴얼 캘린더 + 문페이즈. 42mm. Cal.759.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4138431",
+    "name": "Master Control Chronograph Calendar Stainless Steel",
+    "name_kr": "마스터 컨트롤 크로노그래프 캘린더 SS",
+    "gender": "Men",
+    "price_krw": 28600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 22000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블루 다이얼 버전.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4138130",
+    "name": "Master Control Chronograph Calendar Stainless Steel",
+    "name_kr": "마스터 컨트롤 크로노그래프 캘린더 SS",
+    "gender": "Men",
+    "price_krw": 31000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 24000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블랙 다이얼.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4138180",
+    "name": "Master Control Chronograph Calendar Stainless Steel",
+    "name_kr": "마스터 컨트롤 크로노그래프 캘린더 SS",
+    "gender": "Men",
+    "price_krw": 31000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloché",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Guilloché"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 24000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "기요셰 다이얼 버전.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q413257J",
+    "name": "Master Control Chronograph Calendar Pink Gold",
+    "name_kr": "마스터 컨트롤 크로노그래프 캘린더 핑크 골드",
+    "gender": "Men",
+    "price_krw": 54000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Champagne",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Champagne"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 43000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 크로노 캘린더.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4132530",
+    "name": "Master Control Chronograph Calendar Pink Gold",
+    "name_kr": "마스터 컨트롤 크로노그래프 캘린더 핑크 골드",
+    "gender": "Men",
+    "price_krw": 54000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 13.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "759",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Annual Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 43000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 블루 다이얼.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4128421",
+    "name": "Master Control Geographic Stainless Steel",
+    "name_kr": "마스터 컨트롤 지오그래픽 스테인리스 스틸",
+    "gender": "Men",
+    "price_krw": 23800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "763/2",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "World Time (3 Zones)"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 18000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "3개 타임존 + 날짜. Cal.763/2 자동.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q4122520",
+    "name": "Master Control Geographic Pink Gold",
+    "name_kr": "마스터 컨트롤 지오그래픽 핑크 골드",
+    "gender": "Men",
+    "price_krw": 47500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "763/2",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "World Time (3 Zones)"
+      ]
+    },
+    "dial": {
+      "color": "Champagne",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Champagne"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 38000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 지오그래픽.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "MasterControl",
+    "collection_kr": "마스터 컨트롤",
+    "reference": "Q411843J",
+    "name": "Master Control Memovox Stainless Steel",
+    "name_kr": "마스터 컨트롤 메모복스 스테인리스 스틸",
+    "gender": "Men",
+    "price_krw": 23100000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.5,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "956/3",
+      "power_reserve_hours": 50,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Alarm"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Baton"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 18000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "알람 기능. Cal.956/3 자동. JLC 메모복스 전통 계승.",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "크로노·퍼페추얼 등 고급 컴플리케이션. JLC 기술력의 마스터 컨트롤 버전."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "마스터 컨트롤 정밀성 유산 + 최고급 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼·크로노 조합 희소. 중고가 안정."
+      }
+    }
+  }
+]

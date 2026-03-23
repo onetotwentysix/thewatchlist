@@ -212,11 +212,6 @@
       "bg": "#ece8f5",
       "text": "#3a2a6b"
     },
-    "Master": {
-      "kr": "마스터",
-      "bg": "#e4f0ec",
-      "text": "#1a4428"
-    },
     "Polaris": {
       "kr": "폴라리스",
       "bg": "#e4ecf8",
@@ -231,6 +226,26 @@
       "kr": "지오피직",
       "bg": "#eaeef4",
       "text": "#2a3a5a"
+    },
+    "MasterControl": {
+      "kr": "마스터 컨트롤",
+      "bg": "#e6eef6",
+      "text": "#1a3660"
+    },
+    "MasterUltraThin": {
+      "kr": "마스터 울트라 씬",
+      "bg": "#f0f0ec",
+      "text": "#2a2a1a"
+    },
+    "Duometre": {
+      "kr": "듀오미터",
+      "bg": "#f0ece8",
+      "text": "#4a2a18"
+    },
+    "MasterGrandeTradition": {
+      "kr": "마스터 그랑 트래디션",
+      "bg": "#ece8f0",
+      "text": "#2a1a4a"
     },
     "Altiplano": {
       "kr": "알티플라노",

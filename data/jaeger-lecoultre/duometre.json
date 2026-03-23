@@ -1,0 +1,209 @@
+[
+  {
+    "brand": "JLC",
+    "collection": "Duometre",
+    "collection_kr": "듀오미터",
+    "reference": "Q604848J",
+    "name": "Duometre Chronograph Moon Stainless Steel",
+    "name_kr": "듀오미터 크로노그래프 문 스테인리스 스틸",
+    "gender": "Men",
+    "price_krw": 72500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 16.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "381",
+      "power_reserve_hours": 50,
+      "frequency_vph": 28800,
+      "jewels": 50,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Moon Phase",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 57000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "듀얼 윙 콘셉트. 두 배럴이 독립적으로 크로노와 타임피스 동력 공급. Cal.381 수동 50h.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀얼 윙 콘셉트: 두 개의 독립 배럴이 타임키핑과 크로노를 각각 담당."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "2007년 듀오미터 컨셉 발명. JLC의 가장 독창적인 기술 혁신."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "독보적 크로노그래프 철학. 컬렉터 지속 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Duometre",
+    "collection_kr": "듀오미터",
+    "reference": "Q622252J",
+    "name": "Duometre Chronograph Moon Pink Gold",
+    "name_kr": "듀오미터 크로노그래프 문 핑크 골드",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 42,
+      "thickness_mm": 16.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "381",
+      "power_reserve_hours": 50,
+      "frequency_vph": 28800,
+      "jewels": 50,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Moon Phase",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloché",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 110000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 듀오미터 크로노 문페이즈.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀얼 윙 콘셉트: 두 개의 독립 배럴이 타임키핑과 크로노를 각각 담당."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "2007년 듀오미터 컨셉 발명. JLC의 가장 독창적인 기술 혁신."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "독보적 크로노그래프 철학. 컬렉터 지속 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Duometre",
+    "collection_kr": "듀오미터",
+    "reference": "Q622656J",
+    "name": "Duometre Chronograph Moon Platinum",
+    "name_kr": "듀오미터 크로노그래프 문 플래티넘",
+    "gender": "Men",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Platinum",
+      "diameter_mm": 42,
+      "thickness_mm": 16.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "381",
+      "power_reserve_hours": 50,
+      "frequency_vph": 28800,
+      "jewels": 50,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Moon Phase",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Platinum Guilloché",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Platinum"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 150000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "플래티넘 케이스. 가장 귀한 소재의 듀오미터.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "듀얼 윙 콘셉트: 두 개의 독립 배럴이 타임키핑과 크로노를 각각 담당."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "2007년 듀오미터 컨셉 발명. JLC의 가장 독창적인 기술 혁신."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "독보적 크로노그래프 철학. 컬렉터 지속 수요."
+      }
+    }
+  }
+]

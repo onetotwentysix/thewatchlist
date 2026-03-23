@@ -67,5 +67,2079 @@
         "comment": "문페이즈 + MOP 다이얼은 여성 드레스워치의 정통 조합. JLC의 기계식 정밀도와 결합해 시간을 초월한 수요 유지."
       }
     }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3408531",
+    "name": "Rendez-Vous Classic Date Stainless Steel Diamonds",
+    "name_kr": "랑데부 클래식 데이트 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 13900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 10.6,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloché",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Guilloché"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 10500000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "37mm 클래식 데이트. 베젤 다이아몬드 세팅.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3408130",
+    "name": "Rendez-Vous Classic Date Stainless Steel Diamonds",
+    "name_kr": "랑데부 클래식 데이트 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 15300000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 10.6,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "White Guilloché",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White Guilloché"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 11500000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 기요셰 다이얼.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3468110",
+    "name": "Rendez-Vous Classic Night and Day Stainless Steel Diamonds",
+    "name_kr": "랑데부 클래식 나이트앤데이 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 19800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 10.6,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 15000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "37mm. 주야 표시기. 베젤 다이아몬드.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3468430",
+    "name": "Rendez-Vous Classic Night and Day Stainless Steel Diamonds",
+    "name_kr": "랑데부 클래식 나이트앤데이 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 25200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 10.6,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Copper",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Copper"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 19000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "코퍼 다이얼.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3468410",
+    "name": "Rendez-Vous Classic Night and Day Stainless Steel Diamonds",
+    "name_kr": "랑데부 클래식 나이트앤데이 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 18400000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 10.6,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 14000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블루 다이얼.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3468130",
+    "name": "Rendez-Vous Classic Night and Day Stainless Steel Diamonds",
+    "name_kr": "랑데부 클래식 나이트앤데이 SS 다이아몬드",
+    "gender": "Women",
+    "price_krw": 26600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 10.6,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 20000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 다이얼 다이아몬드.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3462430",
+    "name": "Rendez-Vous Classic Night and Day Pink Gold Diamonds",
+    "name_kr": "랑데부 클래식 나이트앤데이 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": 41500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 37,
+      "thickness_mm": 10.6,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Rose Guilloché",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Rose Guilloché"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 33000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 케이스 나이트앤데이.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3462130",
+    "name": "Rendez-Vous Classic Night and Day Pink Gold Diamonds",
+    "name_kr": "랑데부 클래식 나이트앤데이 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": 63500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 37,
+      "thickness_mm": 10.6,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "White Enamel",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White Enamel"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 51000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "에나멜 다이얼 풀세팅 핑크 골드.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3448111",
+    "name": "Rendez-Vous Night and Day Stainless Steel",
+    "name_kr": "랑데부 나이트앤데이 스테인리스 스틸",
+    "gender": "Women",
+    "price_krw": 21200000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 16000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "34mm 나이트앤데이.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3448431",
+    "name": "Rendez-Vous Night and Day Stainless Steel",
+    "name_kr": "랑데부 나이트앤데이 스테인리스 스틸",
+    "gender": "Women",
+    "price_krw": 27500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 21000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블루 다이얼 + 다이아몬드.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3448132",
+    "name": "Rendez-Vous Night and Day Stainless Steel",
+    "name_kr": "랑데부 나이트앤데이 스테인리스 스틸",
+    "gender": "Women",
+    "price_krw": 30000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Champagne",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Champagne"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 23000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "샴페인 다이얼 + 브레이슬릿.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3448411",
+    "name": "Rendez-Vous Night and Day Stainless Steel",
+    "name_kr": "랑데부 나이트앤데이 스테인리스 스틸",
+    "gender": "Women",
+    "price_krw": 18800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 14500000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 다이얼 34mm.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3442441",
+    "name": "Rendez-Vous Night and Day Pink Gold",
+    "name_kr": "랑데부 나이트앤데이 핑크 골드",
+    "gender": "Women",
+    "price_krw": 45900000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Rose",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Rose"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 37000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 34mm 나이트앤데이.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3578431",
+    "name": "Rendez-Vous Moon Stainless Steel",
+    "name_kr": "랑데부 문 스테인리스 스틸",
+    "gender": "Women",
+    "price_krw": 31500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver Moon",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver Moon"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 25000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "36mm 문페이즈. Cal.898/1 30j 40h.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3578131",
+    "name": "Rendez-Vous Moon Stainless Steel",
+    "name_kr": "랑데부 문 스테인리스 스틸",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "White Moon",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White Moon"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 45000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "다이아몬드 세팅 버전.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3572131",
+    "name": "Rendez-Vous Moon Pink Gold",
+    "name_kr": "랑데부 문 핑크 골드",
+    "gender": "Women",
+    "price_krw": 72000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 36,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Rose Guilloché",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Rose Guilloché"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 57000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 문페이즈. 기요셰 다이얼.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3572431",
+    "name": "Rendez-Vous Moon Pink Gold",
+    "name_kr": "랑데부 문 핑크 골드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 36,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Ivory Enamel",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Ivory Enamel"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 80000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "에나멜 다이얼 핑크 골드.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "JLC 여성 컬렉션. 자동 무브먼트 + 우아한 디자인."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "2012년 출시. JLC 여성 시계의 현대적 해석."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "중고 시장 형성 중. 여성 럭셔리 워치 수요 성장."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q1242502",
+    "name": "Rendez-Vous Moon Pink Gold Diamonds",
+    "name_kr": "랑데부 문 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": 45700000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 36,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Champagne",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Champagne"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 37000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "풀 다이아몬드 세팅. 36mm PG.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3433570",
+    "name": "Rendez-Vous Dazzling Night and Day White Gold Diamonds",
+    "name_kr": "랑데부 다즐링 나이트앤데이 화이트 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "White Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 110000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 골드 풀 다이아몬드 나이트앤데이.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3432570",
+    "name": "Rendez-Vous Dazzling Night and Day Pink Gold Diamonds",
+    "name_kr": "랑데부 다즐링 나이트앤데이 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Pink Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Pink Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 110000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 풀 다이아몬드.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3432472",
+    "name": "Rendez-Vous Dazzling Night and Day",
+    "name_kr": "랑데부 다즐링 나이트앤데이",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Dial Art",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Dial Art"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 90000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "다즐링 시리즈.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q343247J",
+    "name": "Rendez-Vous Dazzling Night and Day",
+    "name_kr": "랑데부 다즐링 나이트앤데이",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Champagne Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Champagne Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 90000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "다즐링 시리즈 샴페인.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q364247J",
+    "name": "Rendez-Vous Dazzling Star Pink Gold Diamonds",
+    "name_kr": "랑데부 다즐링 스타 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Day/Night Indicator"
+      ]
+    },
+    "dial": {
+      "color": "Star Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Star Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 100000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "별 형태 다이아몬드 장식.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3523570",
+    "name": "Rendez-Vous Dazzling Moon White Gold Diamonds",
+    "name_kr": "랑데부 다즐링 문 화이트 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Moon Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Moon Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 120000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 골드 다이아몬드 문페이즈.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3523490",
+    "name": "Rendez-Vous Jewellery Moon White Gold Diamonds",
+    "name_kr": "랑데부 쥬얼리 문 화이트 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 130000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "쥬얼리 라인 문페이즈 WG.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3522480",
+    "name": "Rendez-Vous Jewellery Moon Pink Gold Diamonds",
+    "name_kr": "랑데부 쥬얼리 문 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Pink Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Pink Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 130000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "쥬얼리 라인 문페이즈 PG.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3413480",
+    "name": "Rendez-Vous Jewellery Tourbillon White Gold Diamonds",
+    "name_kr": "랑데부 쥬얼리 투르비용 화이트 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/3",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "White Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 200000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "화이트 골드 쥬얼리 투르비용. 여성 시계 최고 컴플리케이션.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3412410",
+    "name": "Rendez-Vous Jewellery Tourbillon Pink Gold Diamonds",
+    "name_kr": "랑데부 쥬얼리 투르비용 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/3",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Pink Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Pink Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 200000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 쥬얼리 투르비용.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3412480",
+    "name": "Rendez-Vous Jewellery Tourbillon Pink Gold Diamonds",
+    "name_kr": "랑데부 쥬얼리 투르비용 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/3",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "White Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 200000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "핑크 골드 쥬얼리 투르비용 WH다이얼.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q36424C2",
+    "name": "Rendez-Vous Jewellery Shooting Star Pink Gold Diamonds",
+    "name_kr": "랑데부 쥬얼리 슈팅스타 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Star Dial",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Star Dial"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 150000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "유성 모티브 풀다이아몬드 세팅.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q36423C3",
+    "name": "Rendez-Vous Jewellery Shooting Star Pink Gold Diamonds",
+    "name_kr": "랑데부 쥬얼리 슈팅스타 핑크 골드 다이아몬드",
+    "gender": "Women",
+    "price_krw": null,
+    "price_confirmed": false,
+    "case": {
+      "material": "Pink Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid Caseback"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "849/1",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Shooting Star Pavé",
+      "indexes": "Applied Index"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Shooting Star Pavé"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 150000000,
+    "source": "Jaeger-LeCoultre 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "유성 다이아몬드 장식 버전.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "다이아몬드·토르비용 등 하이주얼리 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Classic",
+        "comment": "JLC 여성 워치메이킹의 정점. 시계와 주얼리의 경계."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "하이주얼리 + 고급 컴플리케이션 조합. 희소성 영구적."
+      }
+    }
   }
 ]
