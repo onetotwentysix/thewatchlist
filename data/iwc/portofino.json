@@ -50,7 +50,7 @@
     "limited": false,
     "year_introduced": 2015,
     "resale_krw_est": 6000000,
-    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "드레스 워치 · 바 인덱스 + 로만 12/6시",
     "verdict": {
       "overall": "Versatile",
@@ -119,7 +119,7 @@
     "limited": false,
     "year_introduced": 2023,
     "resale_krw_est": 9800000,
-    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
     "notes": "문페이즈 디스플레이 · Exhibition 케이스백",
     "verdict": {
       "overall": "Versatile",
@@ -134,74 +134,6 @@
       "timelessness": {
         "label": "Enduring",
         "comment": "문페이즈 컴플리케이션은 시대를 초월한 수요를 유지한다. 남/여 구분 없이 착용 가능한 40mm 사이즈로 기프트 및 커플 워치로도 인기."
-      }
-    }
-  },
-  {
-    "brand": "IWC",
-    "collection": "Portofino",
-    "collection_kr": "포르토피노",
-    "reference": "IW357405",
-    "name": "Portofino Automatic 37 Ladies",
-    "name_kr": "포르토피노 오토매틱 37 레이디스",
-    "gender": "Women",
-    "price_krw": 8100000,
-    "price_confirmed": true,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 37,
-      "thickness_mm": 9.8,
-      "water_resistance_m": 30,
-      "glass": "Sapphire Crystal",
-      "caseback": "Solid"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "35111",
-      "power_reserve_hours": 42,
-      "frequency_vph": 28800,
-      "jewels": 21,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Mother of Pearl",
-      "indexes": "Roman Numerals"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Alligator",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Mother of Pearl",
-      "Silver"
-    ],
-    "availability": "easy",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2018,
-    "resale_krw_est": 6800000,
-    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
-    "notes": "레이디스 37mm · 마더오브펄 다이얼",
-    "verdict": {
-      "overall": "Classic",
-      "spec": {
-        "label": "Dressy",
-        "comment": "37mm/9.8mm의 이상적인 레이디스 드레스워치 사이즈. Cal.35111의 42h 파워리저브는 실용적. 마더오브펄 다이얼은 빛에 따라 변하는 광택이 드레스워치의 화룡점정."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "포르토피노 레이디스 라인은 1984년 론칭 이후 IWC 여성 컬렉션의 대표 모델. 단순하고 우아한 디자인 코드가 수십 년간 유지되어 왔다."
-      },
-      "timelessness": {
-        "label": "Classic",
-        "comment": "마더오브펄 + 로만 숫자는 시간이 지나도 흔들리지 않는 드레스워치의 공식. 여성 럭셔리 워치 입문 및 기프트로 강력히 추천되는 포지션."
       }
     }
   }

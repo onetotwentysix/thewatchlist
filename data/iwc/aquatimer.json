@@ -3,7 +3,7 @@
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
-    "reference": "IW329001",
+    "reference": "IW328801",
     "name": "Aquatimer Automatic 42",
     "name_kr": "아쿠아타이머 오토매틱 42",
     "gender": "Men",
@@ -31,7 +31,7 @@
       ]
     },
     "dial": {
-      "color": "Black",
+      "color": "Blue",
       "indexes": "Arabic Numerals (Luminous)"
     },
     "strap": {
@@ -47,10 +47,10 @@
     "availability": "easy",
     "certification": false,
     "limited": false,
-    "year_introduced": 2022,
+    "year_introduced": 2024,
     "resale_krw_est": 7800000,
-    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
-    "notes": "External SafeDive 베젤 시스템 · 300m 방수",
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "SafeDive 내부 회전 베젤 · 300m 방수 · Cal.32111 120h 파워리저브",
     "verdict": {
       "overall": "Versatile",
       "spec": {
@@ -59,11 +59,11 @@
       },
       "heritage": {
         "label": "Strong",
-        "comment": "1967년 첫 출시 이후 IWC 다이버의 계보를 이어온 모델. 쿠스토 소사이어티, 다윈 재단과의 파트너십으로 해양 보존 메시지를 담은 라인."
+        "comment": "1967년 첫 출시 이후 IWC 다이버의 계보를 이어온 모델. 해양 보존 파트너십을 통해 브랜드 정체성을 강화해온 라인."
       },
       "timelessness": {
         "label": "Enduring",
-        "comment": "다이버워치는 기능적 수요가 항상 존재해 시장에서 안정적. 경쟁 모델(롤렉스 서브마리너 등) 대비 인지도는 낮지만 실용성과 가성비는 인정받는다."
+        "comment": "다이버워치는 기능적 수요가 항상 존재해 시장에서 안정적. 롤렉스 서브마리너 대비 인지도는 낮지만 실용성과 가성비로 인정받는다."
       }
     }
   },
@@ -71,7 +71,7 @@
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
-    "reference": "IW376901",
+    "reference": "IW376806",
     "name": "Aquatimer Chronograph 44",
     "name_kr": "아쿠아타이머 크로노그래프 44",
     "gender": "Men",
@@ -80,33 +80,34 @@
     "case": {
       "material": "Stainless Steel",
       "diameter_mm": 44,
-      "thickness_mm": 16.3,
+      "thickness_mm": 16.5,
       "water_resistance_m": 300,
       "glass": "Sapphire Crystal",
       "caseback": "Exhibition"
     },
     "movement": {
       "type": "Automatic",
-      "caliber": "89365",
+      "caliber": "69375",
       "power_reserve_hours": 68,
       "frequency_vph": 28800,
-      "jewels": 35,
+      "jewels": 37,
       "functions": [
         "Hours",
         "Minutes",
-        "Small Seconds",
-        "Chronograph",
-        "Date"
+        "Seconds",
+        "Date",
+        "Chronograph"
       ]
     },
     "dial": {
-      "color": "Black",
+      "color": "Blue",
       "indexes": "Arabic Numerals (Luminous)"
     },
     "strap": {
       "type": "Rubber",
       "material": "Natural Rubber",
-      "clasp": "Pin Buckle"
+      "clasp": "Pin Buckle",
+      "notes": "Quick-Change System"
     },
     "bracelet_option": false,
     "color_variants": [
@@ -116,90 +117,23 @@
     "availability": "easy",
     "certification": false,
     "limited": false,
-    "year_introduced": 2014,
-    "resale_krw_est": 11000000,
-    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
-    "notes": "드라이버 크로노그래프 · 단방향 회전 베젤",
+    "year_introduced": 2024,
+    "resale_krw_est": 9000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "SafeDive 내부 회전 베젤 · 300m 방수 · 퀵체인지 스트랩 시스템",
     "verdict": {
-      "overall": "Specialist",
+      "overall": "Versatile",
       "spec": {
-        "label": "Specialist",
-        "comment": "44mm/16.3mm로 큰 편. Cal.89365는 68h 파워리저브에 플라이백 크로노그래프. 다이빙과 타이밍 기능의 결합. 그러나 사이즈와 두께가 일상 착용의 장벽."
+        "label": "Tool-grade",
+        "comment": "44mm 크로노그래프에 300m 방수. Cal.69375 68h 파워리저브. 퀵체인지 스트랩 시스템으로 러버/브레이슬릿 전환 가능."
       },
       "heritage": {
         "label": "Strong",
-        "comment": "아쿠아타이머 라인에서 기술적으로 가장 복잡한 모델. 다이버 크로노그래프라는 특수 장르에서 IWC가 오랫동안 유지해온 포지션."
+        "comment": "아쿠아타이머 계보의 크로노그래프 버전. 스포티한 다이버 크로노로 IWC 라인업에서 독보적인 위치."
       },
       "timelessness": {
-        "label": "Specialist",
-        "comment": "다이버 크로노그래프는 니치 카테고리. 수요층이 명확한 대신 넓지 않다. 브라이틀링 수퍼오션 크로노 등과 경쟁하며 포지션 유지."
-      }
-    }
-  },
-  {
-    "brand": "IWC",
-    "collection": "Aquatimer",
-    "collection_kr": "아쿠아타이머",
-    "reference": "IW356802",
-    "name": "Aquatimer Automatic 2000",
-    "name_kr": "아쿠아타이머 오토매틱 2000",
-    "gender": "Men",
-    "price_krw": 18300000,
-    "price_confirmed": true,
-    "case": {
-      "material": "Titanium",
-      "diameter_mm": 44,
-      "thickness_mm": 17.7,
-      "water_resistance_m": 2000,
-      "glass": "Sapphire Crystal",
-      "caseback": "Solid"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "80110",
-      "power_reserve_hours": 42,
-      "frequency_vph": 28800,
-      "jewels": 21,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Arabic Numerals (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Vulcanized Rubber",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Black"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2014,
-    "resale_krw_est": 14000000,
-    "source": "Iwc 공식 한국 홈페이지 (확인 · 2026.03)",
-    "notes": "2000m 방수 · 티타늄 케이스 · 다이빙 프로페셔널",
-    "verdict": {
-      "overall": "Collector's Pick",
-      "spec": {
-        "label": "Specialist",
-        "comment": "2000m 방수 — 프로 다이버 수준의 방수 스펙. 티타늄 케이스로 무게를 낮췄지만 44mm/17.7mm는 상당한 존재감. 실제 포화 잠수 환경에서도 사용 가능한 스펙."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "제임스 카메론의 마리아나 해구 잠수 프로젝트와 연관된 극한 다이버워치. IWC가 아쿠아타이머 라인에서 기술적 한계를 가장 멀리 밀어붙인 피스."
-      },
-      "timelessness": {
-        "label": "Collector's Pick",
-        "comment": "2000m 방수는 실용성보다 상징성. 티타늄 다이버워치 시장에서 독보적 스펙으로 포지션 확보. 수집 가치는 있으나 일상 착용보다 컬렉션의 기술 쇼피스 역할에 더 적합."
+        "label": "Enduring",
+        "comment": "다이버 크로노그래프는 스포츠 시계 중에서도 수요가 안정적인 카테고리. 이 가격대에서 300m 방수 크로노는 경쟁력 있는 포지션."
       }
     }
   }
