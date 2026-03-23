@@ -65,5 +65,763 @@
         "comment": "출시 초기로 시장 반응 축적 중. 인제니어 자체의 포지션 정립이 선행되어야 레이디스 모델도 가치를 인정받을 수 있다. 잠재력은 있지만 증명이 필요한 단계."
       }
     }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW328901",
+    "name": "Ingenieur Automatic 40",
+    "name_kr": "인제니어 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 18000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 11.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black",
+      "Silver",
+      "Aqua",
+      "Blue",
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 13000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "2023년 젠타 오리지널 리이슈 · 오각형 케이스 · Cal.32111 120h",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Refined",
+        "comment": "40mm/10mm대 슬림 프로파일에 SS 인터그럴 브레이슬릿. 블랙 다이얼로 젠타 오리지널의 오각형 케이스 라인을 계승한 2023년 리디자인. Cal.32111 120h 파워리저브."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "제랄드 젠타가 1976년 디자인한 인제니어 SL의 직계 후손. IWC의 아이코닉 스포츠 라인으로 2023년 대대적 리뉴얼을 통해 현대적 감각을 더했다."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "젠타 DNA를 가진 인티그럴 브레이슬릿 스포츠 워치는 오데마 피게 로열 오크, 파텍 노틸러스와 같은 계보. 가격 대비 브랜드 파워와 헤리티지는 충분하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW328902",
+    "name": "Ingenieur Automatic 40 Silver",
+    "name_kr": "인제니어 오토매틱 40 실버",
+    "gender": "Men",
+    "price_krw": 18000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 11.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black",
+      "Silver",
+      "Aqua",
+      "Blue",
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 13000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "실버 도금 다이얼 · 2023 리뉴얼 라인업",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Refined",
+        "comment": "40mm/10mm대 슬림 프로파일에 SS 인터그럴 브레이슬릿. 실버 다이얼로 젠타 오리지널의 오각형 케이스 라인을 계승한 2023년 리디자인. Cal.32111 120h 파워리저브."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "제랄드 젠타가 1976년 디자인한 인제니어 SL의 직계 후손. IWC의 아이코닉 스포츠 라인으로 2023년 대대적 리뉴얼을 통해 현대적 감각을 더했다."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "젠타 DNA를 가진 인티그럴 브레이슬릿 스포츠 워치는 오데마 피게 로열 오크, 파텍 노틸러스와 같은 계보. 가격 대비 브랜드 파워와 헤리티지는 충분하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW328903",
+    "name": "Ingenieur Automatic 40 Aqua",
+    "name_kr": "인제니어 오토매틱 40 아쿠아",
+    "gender": "Men",
+    "price_krw": 18000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 11.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Aqua",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black",
+      "Silver",
+      "Aqua",
+      "Blue",
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 13000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "아쿠아 다이얼 · 2023 리뉴얼 라인업",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Refined",
+        "comment": "40mm/10mm대 슬림 프로파일에 SS 인터그럴 브레이슬릿. 아쿠아 다이얼로 젠타 오리지널의 오각형 케이스 라인을 계승한 2023년 리디자인. Cal.32111 120h 파워리저브."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "제랄드 젠타가 1976년 디자인한 인제니어 SL의 직계 후손. IWC의 아이코닉 스포츠 라인으로 2023년 대대적 리뉴얼을 통해 현대적 감각을 더했다."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "젠타 DNA를 가진 인티그럴 브레이슬릿 스포츠 워치는 오데마 피게 로열 오크, 파텍 노틸러스와 같은 계보. 가격 대비 브랜드 파워와 헤리티지는 충분하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW328907",
+    "name": "Ingenieur Automatic 40 Blue",
+    "name_kr": "인제니어 오토매틱 40 블루",
+    "gender": "Men",
+    "price_krw": 18000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 11.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black",
+      "Silver",
+      "Aqua",
+      "Blue",
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 13000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "블루 다이얼 · 2023 리뉴얼 라인업",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Refined",
+        "comment": "40mm/10mm대 슬림 프로파일에 SS 인터그럴 브레이슬릿. 블루 다이얼로 젠타 오리지널의 오각형 케이스 라인을 계승한 2023년 리디자인. Cal.32111 120h 파워리저브."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "제랄드 젠타가 1976년 디자인한 인제니어 SL의 직계 후손. IWC의 아이코닉 스포츠 라인으로 2023년 대대적 리뉴얼을 통해 현대적 감각을 더했다."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "젠타 DNA를 가진 인티그럴 브레이슬릿 스포츠 워치는 오데마 피게 로열 오크, 파텍 노틸러스와 같은 계보. 가격 대비 브랜드 파워와 헤리티지는 충분하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW328908",
+    "name": "Ingenieur Automatic 40 Green",
+    "name_kr": "인제니어 오토매틱 40 그린",
+    "gender": "Men",
+    "price_krw": 20000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 11.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 14000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "그린 다이얼 · 2023 리뉴얼 라인업 · 컬러 프리미엄",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Refined",
+        "comment": "40mm/10mm대 슬림 프로파일에 SS 인터그럴 브레이슬릿. 그린 다이얼로 젠타 오리지널의 오각형 케이스 라인을 계승한 2023년 리디자인. Cal.32111 120h 파워리저브."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "제랄드 젠타가 1976년 디자인한 인제니어 SL의 직계 후손. IWC의 아이코닉 스포츠 라인으로 2023년 대대적 리뉴얼을 통해 현대적 감각을 더했다."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "젠타 DNA를 가진 인티그럴 브레이슬릿 스포츠 워치는 오데마 피게 로열 오크, 파텍 노틸러스와 같은 계보. 가격 대비 브랜드 파워와 헤리티지는 충분하다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW328904",
+    "name": "Ingenieur Automatic 40 Titanium",
+    "name_kr": "인제니어 오토매틱 40 티타늄",
+    "gender": "Men",
+    "price_krw": 22500000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 40,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 11.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Grey",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Titanium",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Grey"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 16000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "티타늄 케이스+브레이슬릿 · SS 대비 경량 · 그레이 다이얼",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Refined",
+        "comment": "티타늄 케이스와 브레이슬릿으로 SS 대비 30% 가볍다. 40mm이지만 착용감은 훨씬 쾌적. Cal.32111 120h 파워리저브."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "젠타 DNA의 인제니어 2023 리뉴얼. 티타늄 소재는 IWC의 기술 지향적 브랜드 이미지와 잘 맞아떨어진다."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "티타늄 인티그럴 브레이슬릿은 스포츠 럭셔리 워치 시장에서 희소성 있는 포지션. 장기 보유 시 SS보다 차별화 포인트가 된다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW328702",
+    "name": "Ingenieur Automatic 40 Red Gold",
+    "name_kr": "인제니어 오토매틱 40 레드 골드",
+    "gender": "Men",
+    "price_krw": 72000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 40,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 11.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "18K Red Gold",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 52000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "18K 레드 골드 케이스+브레이슬릿 · 젠타 디자인의 프레셔스 메탈 버전",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "18K 레드 골드 인티그럴 브레이슬릿. 동일한 Cal.32111 무브먼트지만 소재만으로 가격이 4배. 스포츠 워치+귀금속 조합의 전형."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "젠타 오리지널의 귀금속 버전. 로열 오크, 노틸러스의 골드 버전과 같은 포지셔닝. IWC 라인업에서 가장 하이엔드 인제니어."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "귀금속 스포츠 워치는 희소성으로 장기적 가치가 안정적. 다만 IWC의 이 포지션에서 경쟁 브랜드 대비 리세일은 다소 낮다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW338903",
+    "name": "Ingenieur Automatic 42 Ceramic",
+    "name_kr": "인제니어 오토매틱 42 세라믹",
+    "gender": "Men",
+    "price_krw": 30000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 42,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 12.8
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Ceramic",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 21000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "세라믹 케이스+브레이슬릿 · 42mm · 내스크래치성 탁월",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Technical",
+        "comment": "세라믹 케이스+브레이슬릿으로 스크래치 내성이 뛰어나다. 42mm로 SS 버전(40mm) 대비 존재감 있는 사이즈. Cal.32111 120h 파워리저브."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "세라믹 소재로 인제니어의 기술적 이미지를 극대화한 버전. 블랙 모노크롬 미학으로 현대적인 스포츠 럭셔리 룩."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "세라믹 스포츠 워치는 소재 희소성으로 차별화. 오메가 플래닛 오션 세라믹 등 경쟁 모델 대비 인지도는 낮지만 스펙 대비 가성비가 좋다."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW344903",
+    "name": "Ingenieur Perpetual Calendar 41",
+    "name_kr": "인제니어 퍼페추얼 캘린더 41",
+    "gender": "Men",
+    "price_krw": 58000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41.6,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 14.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "89100",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Perpetual Calendar",
+        "Moon Phase",
+        "Day",
+        "Date",
+        "Month",
+        "Year"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 40000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "퍼페추얼 캘린더 + 문페이즈 · Cal.89100 · 젠타 케이스에 컴플리케이션 탑재",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Impressive",
+        "comment": "41.6mm SS 케이스에 퍼페추얼 캘린더+문페이즈. Cal.89100은 IWC의 자체 퍼페추얼 무브먼트로 2100년까지 교정 불필요. 컴플리케이션 입문으로 적합."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "인제니어의 스포티한 케이스에 IWC 하이 컴플리케이션을 접목한 모델. 5만원대에 퍼페추얼 캘린더를 구현하는 몇 안 되는 선택지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "퍼페추얼 캘린더 컴플리케이션은 전통적으로 시계 가치 보존력이 높다. 젠타 케이스 디자인과의 조합은 수집가들에게 매력적인 포지션."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW324903",
+    "name": "Ingenieur Automatic 35 Red Gold",
+    "name_kr": "인제니어 오토매틱 35 레드 골드",
+    "gender": "Women",
+    "price_krw": 62000000,
+    "price_confirmed": true,
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 35.1,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 9.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Gold",
+      "indexes": "Index"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "18K Red Gold",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Gold"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 44000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "18K 레드 골드 · 35mm 여성용 · 젠타 디자인의 레이디스 버전",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "35.1mm 18K 레드 골드 케이스+브레이슬릿. 여성용 스포츠 럭셔리 워치로 착용감이 우수하며 골드 다이얼과의 소재 통일감이 뛰어나다."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "젠타 인제니어 SL의 여성용 해석. 남성 모델과 동일한 디자인 언어를 35mm로 축소해 귀금속으로 구현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "귀금속 여성 스포츠 워치는 희소 카테고리. 로열 오크 쿼츠 등과 동일한 세그먼트에서 IWC의 포지션은 가격 대비 합리적."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Ingenieur",
+    "collection_kr": "인제니어",
+    "reference": "IW324906",
+    "name": "Ingenieur Automatic 35",
+    "name_kr": "인제니어 오토매틱 35",
+    "gender": "Women",
+    "price_krw": 15800000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 35.1,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition",
+      "thickness_mm": 9.0
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Index (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 11000000,
+    "source": "IWC 공식 한국 홈페이지 (확인 · 2026.03)",
+    "notes": "35mm 여성용 SS · 젠타 디자인의 레이디스 엔트리 모델",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Refined",
+        "comment": "35.1mm SS로 여성 손목에 이상적인 사이즈. 젠타 오리지널의 오각형 케이스 라인을 여성용으로 계승. Cal.35111 42h 파워리저브."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "인제니어 SL 디자인을 여성용 35mm로 구현. 남성 40mm 모델과 동일한 디자인 언어를 공유해 커플 워치로도 인기."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "젠타 DNA를 가진 인티그럴 브레이슬릿 여성용 스포츠 워치는 희소한 포지션. 동가격대 경쟁 모델 대비 헤리티지와 디자인이 차별화된다."
+      }
+    }
   }
 ]
