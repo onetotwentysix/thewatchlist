@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Cartier",
+    "collection": "Pasha",
+    "collection_kr": "파샤",
+    "reference": "WSPA0013",
+    "name": "Pasha de Cartier 41mm",
+    "name_kr": "파샤 드 까르띠에 41",
+    "gender": "Men",
+    "price_krw": 13500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 10.9,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1847 MC",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Black", "Blue"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 10500000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "스크루다운 크라운 + 크라운 캡 · COSC 크로노미터 인증 · 100m 방수 · 아라비아 숫자 인덱스로 Cartier 중 가장 스포티한 표정",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "41mm/10.9mm, Cal.1847 MC 자동 42h. 100m 방수와 COSC 인증은 이 가격대 Cartier에서 이례적. 스크루다운 크라운으로 스포티 워치의 실용성 확보."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1943년 마라케시 파샤에게 헌정된 역사. 스크루다운 크라운 설계로 당시로서는 혁신적인 방수 구조를 선보였다. 2020년 리런칭으로 클래식 비율을 현대적 감각으로 재해석."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 인덱스와 둥근 케이스는 Cartier 라인업 중 가장 스포티한 포지션. Tank·Santos와 차별화되는 개성으로 Cartier 세컨드 워치로 높은 수요."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Pasha",
+    "collection_kr": "파샤",
+    "reference": "WSPA0026",
+    "name": "Pasha de Cartier 41mm Chronograph",
+    "name_kr": "파샤 드 까르띠에 41 크로노그래프",
+    "gender": "Men",
+    "price_krw": 19500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.7,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1904-CH MC",
+      "power_reserve_hours": 48,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Black"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 15500000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm/13.7mm · Cal.1904-CH MC 인하우스 크로노그래프 · COSC 인증 · 100m 방수 · Pasha 라인업 플래그십",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "41mm이지만 두께 13.7mm로 착용 허들 존재. Cal.1904-CH MC 인하우스 크로노, COSC 인증, 100m 방수의 3관왕. Cartier 스포츠 크로노그래프의 정점."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Pasha의 스포티한 헤리티지에 인하우스 크로노그래프를 결합. 기계적 완성도와 역사적 캐릭터를 동시에 갖춘 Pasha 라인의 최고봉."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "COSC 인증 인하우스 크로노그래프는 컬렉터 관점에서 가치 있는 스펙. 두꺼운 케이스는 일상 착용 허들이지만 Cartier 마니아층에서 꾸준한 수요."
+      }
+    }
+  }
+]

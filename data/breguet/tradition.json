@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Breguet",
+    "collection": "Tradition",
+    "collection_kr": "트라디션",
+    "reference": "7057BB/11/9W6",
+    "name": "Tradition Automatique 7057",
+    "name_kr": "트라디션 오토매틱 7057",
+    "gender": "Men",
+    "price_krw": 43000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 41,
+      "thickness_mm": 12.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "505SR1",
+      "power_reserve_hours": 50,
+      "frequency_vph": 21600,
+      "jewels": 35,
+      "functions": ["Hours", "Minutes", "Seconds", "Power Reserve Indicator"]
+    },
+    "dial": {
+      "color": "Skeleton",
+      "indexes": "Breguet Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Skeleton"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2005,
+    "resale_krw_est": 33000000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm 화이트 골드 · 12mm · Cal. 505SR1 · 무브먼트 전면 노출 (솔라 에스케이프먼트와 직선형 헤어스프링 가시화) · 18세기 포켓워치 구조를 현대 손목시계로 직역 · 파워리저브 인디케이터",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "41mm/12mm, Cal. 505SR1 자동 50h. 무브먼트가 그대로 다이얼이 되는 구조. 에스케이프먼트와 헤어스프링이 시각적으로 완전히 노출된다. 시계 메커니즘을 보는 즐거움이 최고조."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "18세기 Abraham-Louis Breguet 포켓워치의 구조를 그대로 손목시계에 옮긴 것이 Tradition 컬렉션의 철학. 무브먼트를 숨기지 않고 전면 배치한 포켓워치 전통의 직역."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "Classique와 정반대 방향의 브레게 — 아방가르드한 시각적 구성이지만 250년 전 포켓워치에 근거한 역설적 전통성. 시계 역사를 아는 컬렉터일수록 더 강하게 끌리는 모델."
+      }
+    }
+  }
+]

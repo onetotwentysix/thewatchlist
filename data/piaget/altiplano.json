@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Piaget",
+    "collection": "Altiplano",
+    "collection_kr": "알티플라노",
+    "reference": "G0A43120",
+    "name": "Altiplano 38mm Manual",
+    "name_kr": "알티플라노 38 수동",
+    "gender": "Men",
+    "price_krw": 10500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 5.25,
+      "water_resistance_m": 20,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "430P",
+      "power_reserve_hours": 43,
+      "frequency_vph": 21600,
+      "jewels": 20,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Black"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1957,
+    "resale_krw_est": 7800000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "38mm · 두께 5.25mm · Cal. 430P 수동 (2.1mm 무브먼트 두께) · Altiplano 라인의 입문 모델 · 1957년 초박형 시계 개발 전통의 직계 후손",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "38mm/5.25mm, Cal. 430P(2.1mm 두께) 수동 무브먼트. 와인딩의 직접적 감촉이 드레스워치에 어울린다. 초박형 구조상 20m 방수는 필연적 트레이드오프. 슬림한 드레스워치 입문으로 최적."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1957년 세계 최박형 시계 Cal. 9P(2mm) 발표로 시작된 Piaget 초박형 전통의 출발점. 70년 가까운 '얼마나 얇게 만들 수 있나'라는 집착의 역사가 이 모델에 담겨 있다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "초박형 드레스워치는 패션과 무관하게 수트 아래 언제나 적합하다. 수동 무브먼트와 38mm 케이스는 고전적 드레스워치 공식 그 자체. 감가 폭도 안정적."
+      }
+    }
+  },
+  {
+    "brand": "Piaget",
+    "collection": "Altiplano",
+    "collection_kr": "알티플라노",
+    "reference": "G0A45001",
+    "name": "Altiplano 38mm Automatic",
+    "name_kr": "알티플라노 38 오토매틱",
+    "gender": "Men",
+    "price_krw": 14500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 5.34,
+      "water_resistance_m": 20,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1200P",
+      "power_reserve_hours": 44,
+      "frequency_vph": 21600,
+      "jewels": 26,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Black", "Blue"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2013,
+    "resale_krw_est": 11000000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "38mm · 총 두께 5.34mm · Cal. 1200P (출시 당시 세계 최박형 자동 무브먼트 2.35mm) · 로터가 무브먼트 위에 겹치지 않는 편심 로터 구조로 초박형 실현",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "38mm/5.34mm — 자동 무브먼트 탑재 시계로는 경쟁자가 거의 없는 두께. Cal. 1200P의 2.35mm 무브먼트 높이는 출시 당시 기록이었다. 편심 로터 구조로 초박형을 실현한 공학적 성취."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "초박형 자동 무브먼트 개발 경쟁에서 Piaget가 달성한 이정표. Cal. 1200P의 등장은 '자동 무브먼트는 두꺼울 수밖에 없다'는 통념을 깼다. Altiplano 라인의 기술적 절정."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "세계 최박형 자동 시계 타이틀을 한때 보유했다는 사실은 컬렉터 관점에서 영구적 가치. 자동 와인딩의 편리함과 극단적 박형을 동시에 원하는 드레스워치 구매자의 정답."
+      }
+    }
+  },
+  {
+    "brand": "Piaget",
+    "collection": "Altiplano",
+    "collection_kr": "알티플라노",
+    "reference": "G0A46001",
+    "name": "Altiplano Ultimate Automatic",
+    "name_kr": "알티플라노 얼티밋 오토매틱",
+    "gender": "Men",
+    "price_krw": 38000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 4.3,
+      "water_resistance_m": 20,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1200S",
+      "power_reserve_hours": 44,
+      "frequency_vph": 21600,
+      "jewels": 12,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 31000000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · 총 두께 4.3mm · Cal. 1200S — 케이스 케이스백이 무브먼트 메인플레이트로 기능하는 통합 구조 · 출시 당시 세계 최박형 자동 시계 기록 · 주얼 12개만 사용",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "41mm/4.3mm. Cal. 1200S는 케이스 케이스백이 곧 무브먼트 베이스플레이트인 혁신 구조. 자동 시계 4.3mm는 2018년 세계 기록. 주얼 12개의 미니멀리즘과 기술적 극한이 공존."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "초박형 자동 시계라는 Piaget의 70년 집착이 도달한 현재의 정점. 케이스와 무브먼트의 경계를 허문 구조 혁신은 시계 제조 역사에서 중요한 챕터로 기록된다."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "4.3mm 자동 시계라는 극단적 기록은 영원히 컬렉터의 언급 대상. 다만 케이스=무브먼트 구조상 수리 비용이 매우 높을 수 있다. 작동 원리를 이해하고 소유하는 마니아에게."
+      }
+    }
+  }
+]

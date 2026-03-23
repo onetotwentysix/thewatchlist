@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Cartier",
+    "collection": "BallonBleu",
+    "collection_kr": "발롱 블루",
+    "reference": "W69011Z4",
+    "name": "Ballon Bleu de Cartier 36mm",
+    "name_kr": "발롱 블루 드 까르띠에 36",
+    "gender": "Men/Women",
+    "price_krw": 8200000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "690P",
+      "power_reserve_hours": 0,
+      "frequency_vph": 0,
+      "jewels": 7,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue", "Pink"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2007,
+    "resale_krw_est": 6500000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "블루 스피넬 카보숑 크라운 가드 · Cartier 현행 라인업 최다 판매 모델 · 쿼츠 버전",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Versatile",
+        "comment": "36mm 라운드 케이스는 남녀 모두 소화 가능한 유니섹스 사이즈. Cal.690P 쿼츠로 유지보수 부담이 낮다. 블루 카보숑 크라운이 Cartier 특유의 아이덴티티를 형성."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "2007년 론칭한 비교적 신생 Cartier 컬렉션이지만 단 18년 만에 브랜드 대표 라인이 됐다. 라운드 케이스에 크라운을 숨기는 설계는 Cartier 디자인 역사의 재해석."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "현행 럭셔리 워치 시장에서 가장 인지도 높은 Cartier 모델. 부드러운 쿠션형 라운드 디자인은 트렌드를 초월. 20대부터 50대까지 가장 폭넓은 수요층."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "BallonBleu",
+    "collection_kr": "발롱 블루",
+    "reference": "W69016Z4",
+    "name": "Ballon Bleu de Cartier 40mm",
+    "name_kr": "발롱 블루 드 까르띠에 40",
+    "gender": "Men",
+    "price_krw": 9800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.45,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1847 MC",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue", "Black"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2007,
+    "resale_krw_est": 8000000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "Ballon Bleu 남성 메인 사이즈 · Cal.1847 MC 자동",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm/11.45mm의 균형잡힌 남성 메인 사이즈. Cal.1847 MC 자동 42h. 30m 방수는 드레스워치 기준에 충분. 쿠션형 라운드 케이스로 착용감 우수."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "2007년 론칭 이후 Cartier 남성 라인업의 핵심 모델. Rolex Datejust에 비견되는 럭셔리 드레스워치 포지션을 단 20년 만에 확보. 자동식 선택으로 기계식 경험 제공."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "Ballon Bleu 40mm는 현재 Cartier 중고 시장에서 가장 많이 거래되는 모델. 라운드 케이스의 보편성과 Cartier 감성이 결합된 최다 수요 조합."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "BallonBleu",
+    "collection_kr": "발롱 블루",
+    "reference": "W7100014",
+    "name": "Ballon Bleu de Cartier 44mm Chronograph",
+    "name_kr": "발롱 블루 드 까르띠에 44 크로노그래프",
+    "gender": "Men",
+    "price_krw": 16200000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44,
+      "thickness_mm": 14.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1904-CH MC",
+      "power_reserve_hours": 48,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2010,
+    "resale_krw_est": 13000000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "44mm/14.5mm · Cal.1904-CH MC 인하우스 크로노그래프 · 드레스 크로노그래프",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Specialist",
+        "comment": "44mm/14.5mm로 Ballon Bleu 최대 사이즈. Cal.1904-CH MC 인하우스 크로노그래프, 48h 파워리저브. 드레스워치 스타일의 크로노그래프라는 독특한 포지션."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Ballon Bleu의 유려한 감성에 크로노그래프를 결합. 스포티한 크로노그래프 시장에서 Cartier만의 드레시한 접근으로 차별화."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "드레스 크로노그래프는 틈새 시장이며 큰 사이즈가 일상 착용 허들. 그러나 인하우스 무브먼트 탑재로 기술적 완성도는 높으며 Cartier 마니아층 수요는 꾸준."
+      }
+    }
+  }
+]

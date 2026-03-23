@@ -1,0 +1,13 @@
+{
+  "brand": "JLC",
+  "brand_full": "Jaeger-LeCoultre",
+  "country": "Switzerland",
+  "founded": 1833,
+  "official_url": "https://www.jaeger-lecoultre.com/kr/ko",
+  "collections": {
+    "Reverso":    { "collection_kr": "리베르소",  "bg": "#ece8f5", "text": "#3a2a6b" },
+    "Master":     { "collection_kr": "마스터",    "bg": "#e4f0ec", "text": "#1a4428" },
+    "Polaris":    { "collection_kr": "폴라리스",  "bg": "#e4ecf8", "text": "#1a2a6b" },
+    "RendezVous": { "collection_kr": "랑데부",    "bg": "#f5e4ec", "text": "#6b1a30" }
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Piaget",
+    "collection": "Polo",
+    "collection_kr": "폴로",
+    "reference": "G0A45016",
+    "name": "Polo Date",
+    "name_kr": "폴로 데이트",
+    "gender": "Men",
+    "price_krw": 11500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1110P",
+      "power_reserve_hours": 50,
+      "frequency_vph": 28800,
+      "jewels": 27,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Integrated Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Silver", "Blue", "Black"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 8800000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 두께 9.4mm · Cal. 1110P 인하우스 자동 50h · 인터그레이티드 브레이슬릿 · 100m 방수 · Piaget의 럭셔리 스포츠 진출 선언",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Versatile",
+        "comment": "42mm/9.4mm, 인하우스 Cal. 1110P 자동 50h, 100m 방수, 인터그레이티드 브레이슬릿. 럭셔리 스포츠 시계의 표준 패키지를 충실히 갖췄다. Piaget 라인업에서 가장 일상적인 선택."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Polo 컬렉션의 기원은 1979년. 당시 인터그레이티드 브레이슬릿 스포츠워치 트렌드에 Piaget도 동참한 것. 2019년 리런칭으로 현대적으로 재해석됐지만 40년 이상의 역사."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "인터그레이티드 브레이슬릿 럭셔리 스포츠 시계 장르는 AP, PP가 독점했던 영역. Piaget Polo는 동급 대비 합리적 가격으로 같은 장르 진입을 가능하게 한다."
+      }
+    }
+  },
+  {
+    "brand": "Piaget",
+    "collection": "Polo",
+    "collection_kr": "폴로",
+    "reference": "G0A45009",
+    "name": "Polo Skeleton",
+    "name_kr": "폴로 스켈레톤",
+    "gender": "Men",
+    "price_krw": 20000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 9.4,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1200S1",
+      "power_reserve_hours": 44,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Skeleton",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Integrated Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Skeleton"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 15500000,
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 9.4mm · 스켈레톤 다이얼 + 시스루 케이스백으로 무브먼트 전면 노출 · Piaget 특유의 인그레이빙 장식 피니싱 · 스포츠 케이스에 하이엔드 마감 결합",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/9.4mm, 스켈레톤 처리된 Cal. 1200S1. 무브먼트를 정면과 케이스백에서 모두 감상 가능. Piaget 장인이 직접 시행하는 인그레이빙은 스포츠 시계에서 이례적."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Piaget는 1960년대부터 스켈레톤 처리 시계를 선보여 왔다. 보석상 출신 브랜드의 마감·장식 노하우가 스포츠 케이스와 결합된 독특한 교점. 스켈레톤 워치의 정통 계보."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "스켈레톤 다이얼은 무브먼트 감상이라는 시계 고유의 즐거움을 극대화한다. 인그레이빙 마감은 생산 수량을 제한하여 희소성을 높인다. 시간이 지나도 감가폭이 비교적 낮다."
+      }
+    }
+  }
+]

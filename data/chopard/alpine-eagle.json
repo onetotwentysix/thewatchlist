@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Chopard",
+    "collection": "AlpineEagle",
+    "collection_kr": "알파인 이글",
+    "reference": "298600-3001",
+    "name": "Alpine Eagle 41",
+    "name_kr": "알파인 이글 41",
+    "gender": "Men",
+    "price_krw": 13500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Lucent Steel A223",
+      "diameter_mm": 41,
+      "thickness_mm": 9.6,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "01.01-C",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Green",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Integrated Bracelet",
+      "material": "Lucent Steel A223",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Green", "Blue", "Silver", "Black"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 10500000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "Lucent Steel A223 (자체 개발 합금) · COSC 인증 Cal. 01.01-C · 독수리 발톱 모티프 인터그레이티드 브레이슬릿 · 100m 방수 · 환경친화적 스틸 소재",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "41mm/9.6mm, 자체 개발 Lucent Steel A223 적용. COSC 인증 Cal. 01.01-C, 60h PR, 100m 방수. 인터그레이티드 브레이슬릿으로 스포티한 완성도. 전 방향 만능 착용감."
+      },
+      "heritage": {
+        "label": "Emerging",
+        "comment": "2019년 론칭한 신생 컬렉션이지만, 1980년대 Chopard St. Moritz의 정신적 후계자로 설계됐다. 알파인·스위스 자연에서 모티프를 따온 디자인 정체성은 명확."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "럭셔리 스포츠 시계 장르에서 Chopard의 진지한 포지셔닝. AP 로열 오크, PP 노틸러스의 대안을 원하는 구매자에게 가성비 관점에서 인기. 그린 다이얼은 현시점 가장 인기 컬러."
+      }
+    }
+  },
+  {
+    "brand": "Chopard",
+    "collection": "AlpineEagle",
+    "collection_kr": "알파인 이글",
+    "reference": "298609-3001",
+    "name": "Alpine Eagle Large",
+    "name_kr": "알파인 이글 라지",
+    "gender": "Men",
+    "price_krw": 15000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Lucent Steel A223",
+      "diameter_mm": 44,
+      "thickness_mm": 10.2,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "01.01-C",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Integrated Bracelet",
+      "material": "Lucent Steel A223",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Blue", "Green", "Silver", "Black"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 11500000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "44mm 빅 케이스 · Lucent Steel A223 · COSC 인증 Cal. 01.01-C · 손목 둘레 18cm 이상 최적 · Alpine Eagle 41mm와 동일 무브먼트",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Versatile",
+        "comment": "44mm/10.2mm 빅 케이스. Alpine Eagle 41mm와 동일 Cal. 01.01-C 탑재. 큰 손목에 맞는 착용감, 가독성 향상. 스펙 대비 추가 비용은 케이스 사이즈 선택."
+      },
+      "heritage": {
+        "label": "Emerging",
+        "comment": "Alpine Eagle 41mm와 동일한 2019년 출발점. 대형 케이스 선호 트렌드를 반영한 라지 버전. 헤리티지는 공유하되 더 강렬한 존재감을 원하는 구매자 타깃."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "44mm 럭셔리 스포츠워치는 현재 트렌드에 최적화. 추후 대형 케이스 트렌드 퇴조 시 상대적으로 빠른 감가 가능성 있음. 현재 시장에서는 높은 수요."
+      }
+    }
+  }
+]

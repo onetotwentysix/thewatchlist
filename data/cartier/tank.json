@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Cartier",
+    "collection": "Tank",
+    "collection_kr": "탱크",
+    "reference": "WSTA0041",
+    "name": "Tank Must SolarBeat",
+    "name_kr": "탱크 머스트 솔라비트",
+    "gender": "Men/Women",
+    "price_krw": 5500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 28.2,
+      "thickness_mm": 6.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Quartz",
+      "caliber": "SolarBeat PHC",
+      "power_reserve_hours": 0,
+      "frequency_vph": 0,
+      "jewels": 0,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Black", "Green", "Champagne"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 4000000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 28.2 × 38.5mm · SolarBeat PHC: 태양광·실내조명 충전 쿼츠 · 충전 시 파워리저브 사실상 무제한 · Cartier 드레스워치 입문 모델",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "28.2 × 38.5mm의 클래식 탱크 비율, 두께 6.6mm. SolarBeat PHC는 실내 조명으로도 충전되어 사실상 영구 파워리저브. 얇은 두께와 직선 케이스는 수트 소매에 최적."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1917년 WWI 탱크에서 영감받아 탄생한 Tank는 시계 역사에서 가장 많이 복제된 직선형 디자인. Must 라인은 1977년 서민적 럭셔리 포지션으로 시작해 Cartier 아카이브의 핵심으로 자리잡았다."
+      },
+      "timelessness": {
+        "label": "Classic",
+        "comment": "Tank 디자인은 100년이 지나도 흔들리지 않는 코드. 앤디 워홀, 재클린 케네디, 다이애나 왕세자비가 착용한 역사적 레퍼런스. 드레스워치 시장의 기준점."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Tank",
+    "collection_kr": "탱크",
+    "reference": "WGTA0009",
+    "name": "Tank Louis Cartier Medium",
+    "name_kr": "탱크 루이 까르띠에 미디엄",
+    "gender": "Men/Women",
+    "price_krw": 13500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Yellow Gold Plated Steel",
+      "diameter_mm": 25.5,
+      "thickness_mm": 6.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "430 MC",
+      "power_reserve_hours": 20,
+      "frequency_vph": 21600,
+      "jewels": 18,
+      "functions": ["Hours", "Minutes"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 10500000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 25.5 × 33.7mm · Cal.430 MC 초박형 수동 무브먼트 (두께 1.7mm) · 옐로우 골드 PVD 코팅 스틸 · 20h PR은 매일 와인딩 권장",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "25.5 × 33.7mm, 두께 6.5mm. Cal.430 MC는 두께 1.7mm의 초박형 수동 무브먼트로 완성. 20h 파워리저브는 짧지만 드레스워치 애호가에게 매일 와인딩하는 루틴 자체가 의식. 시/분만의 시인성이 최대 우아함."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Tank Louis Cartier는 1922년 Louis Cartier 이름을 딴 가장 순수한 Tank. 1917년 오리지널의 비율을 가장 충실히 계승. 전통적인 수동 무브먼트 탑재로 Cartier 드레스워치의 정수로 평가받는다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "100년의 디자인 연속성이 증명하는 타임리스니스. 수트와 클래식 의상에 가장 어울리는 드레스워치 중 하나. 여성 착용자에게도 강한 수요."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Tank",
+    "collection_kr": "탱크",
+    "reference": "WSTA0018",
+    "name": "Tank Américaine Medium",
+    "name_kr": "탱크 아메리케느 미디엄",
+    "gender": "Men",
+    "price_krw": 18500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34.7,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1847 MC",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 15000000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 21.3 × 45.1mm · 극도로 세장한 커브드 케이스 · Tank 특유의 직선미를 극단까지 구현",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "21.3 × 45.1mm의 극도로 세장한 케이스는 독특한 비율. Cal.1847 MC 자동 42h. 케이스가 손목의 곡률을 따라 커브드 처리된 설계로 착용감이 독특."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1989년 Tank Américaine는 기존 Tank의 직선을 극단까지 늘려 미국적 다이나미즘을 표현. 세장한 비율로 현행 Tank 라인업 중 가장 독보적인 실루엣."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "극단적 비율로 호불호가 갈리지만 Cartier 컬렉터에게 독보적 포지션. 표준 Tank 대비 상당한 개성을 주장. 희소성으로 중고 시장에서 안정적 수요."
+      }
+    }
+  }
+]

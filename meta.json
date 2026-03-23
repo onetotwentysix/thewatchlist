@@ -1,0 +1,220 @@
+{
+  "brands": [
+    {
+      "key": "Blancpain",
+      "full": "Blancpain SA",
+      "founded": 1735,
+      "url": "https://www.blancpain.com/ko"
+    },
+    {
+      "key": "Breguet",
+      "full": "Montres Breguet SA",
+      "founded": 1775,
+      "url": "https://www.breguet.com/ko"
+    },
+    {
+      "key": "Breitling",
+      "full": "Breitling SA",
+      "founded": 1884,
+      "url": "https://www.breitling.com/ko-ko"
+    },
+    {
+      "key": "Cartier",
+      "full": "Cartier SA",
+      "founded": 1847,
+      "url": "https://www.cartier.com/ko-kr"
+    },
+    {
+      "key": "Chopard",
+      "full": "Chopard & Cie SA",
+      "founded": 1860,
+      "url": "https://www.chopard.com/ko-kr"
+    },
+    {
+      "key": "IWC",
+      "full": "IWC Schaffhausen",
+      "founded": 1868,
+      "url": "https://www.iwc.com/ko/ko"
+    },
+    {
+      "key": "JLC",
+      "full": "Jaeger-LeCoultre",
+      "founded": 1833,
+      "url": "https://www.jaeger-lecoultre.com/kr/ko"
+    },
+    {
+      "key": "Piaget",
+      "full": "Piaget SA",
+      "founded": 1874,
+      "url": "https://www.piaget.com/ko-kr"
+    },
+    {
+      "key": "Vacheron Constantin",
+      "full": "Vacheron Constantin SA",
+      "founded": 1755,
+      "url": "https://www.vacheron-constantin.com/ko/ko"
+    }
+  ],
+  "collections": {
+    "FiftyFathoms": {
+      "kr": "피프티 패덤스",
+      "bg": "#e4eef8",
+      "text": "#1a3a6b"
+    },
+    "Villeret": {
+      "kr": "빌레레",
+      "bg": "#f0ede6",
+      "text": "#5a4a28"
+    },
+    "LEvolution": {
+      "kr": "L-에볼루션",
+      "bg": "#e4ece0",
+      "text": "#304828"
+    },
+    "Woman": {
+      "kr": "우먼",
+      "bg": "#f8e4ec",
+      "text": "#7a1830"
+    },
+    "Classique": {
+      "kr": "클래식",
+      "bg": "#f8f5ed",
+      "text": "#5a4010"
+    },
+    "Marine": {
+      "kr": "마린",
+      "bg": "#e4ecf5",
+      "text": "#1a2848"
+    },
+    "Tradition": {
+      "kr": "트라디션",
+      "bg": "#f0ece4",
+      "text": "#3a2810"
+    },
+    "Navitimer": {
+      "kr": "나비타이머",
+      "bg": "#f0ece4",
+      "text": "#4a3010"
+    },
+    "Superocean": {
+      "kr": "슈퍼오션",
+      "bg": "#e4eef8",
+      "text": "#1a3060"
+    },
+    "Chronomat": {
+      "kr": "크로노매트",
+      "bg": "#eaeaec",
+      "text": "#2a2a3c"
+    },
+    "Santos": {
+      "kr": "산토스",
+      "bg": "#fceef0",
+      "text": "#8a1a28"
+    },
+    "Tank": {
+      "kr": "탱크",
+      "bg": "#faf6ee",
+      "text": "#7a5a18"
+    },
+    "BallonBleu": {
+      "kr": "발롱 블루",
+      "bg": "#eef3fb",
+      "text": "#1a3a6b"
+    },
+    "Pasha": {
+      "kr": "파샤",
+      "bg": "#f0e8ee",
+      "text": "#5a1a3a"
+    },
+    "Drive": {
+      "kr": "드라이브",
+      "bg": "#e8e8ec",
+      "text": "#3a3a50"
+    },
+    "LUC": {
+      "kr": "L.U.C",
+      "bg": "#faf5e8",
+      "text": "#6b4e18"
+    },
+    "AlpineEagle": {
+      "kr": "알파인 이글",
+      "bg": "#e8f0ea",
+      "text": "#1e3a22"
+    },
+    "MilleMiglia": {
+      "kr": "밀레 밀리아",
+      "bg": "#faeae8",
+      "text": "#8a2018"
+    },
+    "Portugieser": {
+      "kr": "포르투기저",
+      "bg": "#f5f0e8",
+      "text": "#7a6540"
+    },
+    "Pilot": {
+      "kr": "파일럿",
+      "bg": "#eef3fb",
+      "text": "#1a3a6b"
+    },
+    "Portofino": {
+      "kr": "포르토피노",
+      "bg": "#fceef0",
+      "text": "#8a1a28"
+    },
+    "Ingenieur": {
+      "kr": "인제니어",
+      "bg": "#eef6ee",
+      "text": "#1a4a20"
+    },
+    "Aquatimer": {
+      "kr": "아쿠아타이머",
+      "bg": "#e8eef5",
+      "text": "#1a2a5a"
+    },
+    "Reverso": {
+      "kr": "리베르소",
+      "bg": "#ece8f5",
+      "text": "#3a2a6b"
+    },
+    "Master": {
+      "kr": "마스터",
+      "bg": "#e4f0ec",
+      "text": "#1a4428"
+    },
+    "Polaris": {
+      "kr": "폴라리스",
+      "bg": "#e4ecf8",
+      "text": "#1a2a6b"
+    },
+    "RendezVous": {
+      "kr": "랑데부",
+      "bg": "#f5e4ec",
+      "text": "#6b1a30"
+    },
+    "Altiplano": {
+      "kr": "알티플라노",
+      "bg": "#f3f0f8",
+      "text": "#4a2a70"
+    },
+    "Polo": {
+      "kr": "폴로",
+      "bg": "#e8edf5",
+      "text": "#1a2a50"
+    },
+    "Overseas": {
+      "kr": "오버시즈",
+      "bg": "#e8eff5",
+      "text": "#1a2848"
+    },
+    "Patrimony": {
+      "kr": "패트리모니",
+      "bg": "#f5f0e8",
+      "text": "#5a3a10"
+    },
+    "Traditionnelle": {
+      "kr": "트라디셔넬",
+      "bg": "#f0ece4",
+      "text": "#4a2a10"
+    }
+  }
+}

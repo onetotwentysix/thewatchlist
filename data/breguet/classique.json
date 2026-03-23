@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Breguet",
+    "collection": "Classique",
+    "collection_kr": "클래식",
+    "reference": "5177ST/12/9V6",
+    "name": "Classique Extraplat 5177",
+    "name_kr": "클래식 엑스트라플랫 5177",
+    "gender": "Men",
+    "price_krw": 22000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 5.45,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "777Q",
+      "power_reserve_hours": 64,
+      "frequency_vph": 21600,
+      "jewels": 25,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Breguet Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2005,
+    "resale_krw_est": 17000000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "38mm · 5.45mm · Cal. 777Q 수동 (무브먼트 높이 1.8mm) · 핸드 기요셰 은(argent) 다이얼 · 브레게 아라비아 숫자 · 브레게 핸즈 · 시계 역사상 가장 우아한 드레스워치 중 하나로 평가",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "38mm/5.45mm, Cal. 777Q 수동(무브먼트 높이 1.8mm). 초박형 수동 무브먼트의 정점. 손으로 직접 새긴(핸드 기요셰) 은 다이얼은 공산품이 아닌 공예품의 영역. 20m 방수는 순수 드레스워치 포지션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1775년 창립 이래 250년의 역사. 브레게 수자(Breguet numerals), 브레게 핸즈, 기요셰 다이얼은 Abraham-Louis Breguet가 직접 고안한 디자인 언어로, 이를 현대에 가장 충실히 계승한 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "19세기 나폴레옹·마리 앙투아네트가 주문한 시계와 같은 디자인 어휘. 250년의 일관성은 유행과 무관하다. 중고 시장에서도 꾸준한 수요를 유지하는 드레스워치의 표준."
+      }
+    }
+  },
+  {
+    "brand": "Breguet",
+    "collection": "Classique",
+    "collection_kr": "클래식",
+    "reference": "5157ST/11/9V6",
+    "name": "Classique 5157",
+    "name_kr": "클래식 5157",
+    "gender": "Men",
+    "price_krw": 18500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 6.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "591DRL",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 27,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Breguet Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 1999,
+    "resale_krw_est": 14000000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "38mm · 6.8mm · Cal. 591DRL 자동 · 핸드 기요셰 다이얼 · 브레게 수자 · 날짜 표시 · Classique 라인 중 가장 실용적인 일상 착용 모델",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "38mm/6.8mm, Cal. 591DRL 자동 45h. 날짜 기능 추가로 실용성 확보. 핸드 기요셰 다이얼과 브레게 수자는 5177과 동일. 수동과 자동 사이에서 일상 착용 편의를 선택한 Classique."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Classique 5157은 브레게 디자인 철학의 가장 접근하기 쉬운 표현. 기요셰 다이얼, 브레게 수자, 시스루 케이스백 — 브레게를 처음 소유하는 사람의 전형적인 선택."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "자동 무브먼트와 날짜 기능은 드레스워치에 일상성을 부여한다. 브레게 디자인 언어의 변하지 않는 매력과 실용적 편의의 균형점. 첫 번째 브레게로 항상 추천받는 모델."
+      }
+    }
+  },
+  {
+    "brand": "Breguet",
+    "collection": "Classique",
+    "collection_kr": "클래식",
+    "reference": "5377ST/12/9VU",
+    "name": "Classique Tourbillon Extraplat Automatique 5377",
+    "name_kr": "클래식 투르비용 엑스트라플랫 오토매틱 5377",
+    "gender": "Men",
+    "price_krw": 120000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 7.45,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "581",
+      "power_reserve_hours": 50,
+      "frequency_vph": 18000,
+      "jewels": 25,
+      "functions": ["Hours", "Minutes", "Tourbillon"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Breguet Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2015,
+    "resale_krw_est": 95000000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 7.45mm · Cal. 581 자동 투르비용 (무브먼트 두께 3mm) · 1801년 Abraham-Louis Breguet가 특허 취득한 투르비용을 현대적으로 계승 · 편심 로터 + 초박형 자동 투르비용의 기술적 절정",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/7.45mm에 자동 투르비용 탑재. Cal. 581은 무브먼트 두께 3mm로 자동 투르비용으로는 극도로 얇다. 투르비용 발명자 후손의 투르비용이라는 역사적 정통성이 기술 스펙과 동등한 가치를 지닌다."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1801년 Abraham-Louis Breguet가 특허 취득한 투르비용의 현대적 계승. '투르비용의 발명자가 만든 투르비용'이라는 명제는 시계 역사에서 가장 강력한 헤리티지 서사다. 이 모델에는 그 250년의 무게가 담겨 있다."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "투르비용은 시계 역사상 가장 상징적인 컴플리케이션. 브레게 투르비용은 그 중에서도 최고의 스토리를 지닌다. 가격 하방은 단단하고, 핵심 컬렉터층의 수요는 시대를 초월한다."
+      }
+    }
+  }
+]

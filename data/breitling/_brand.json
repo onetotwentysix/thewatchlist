@@ -1,0 +1,12 @@
+{
+  "brand": "Breitling",
+  "brand_full": "Breitling SA",
+  "country": "Switzerland",
+  "founded": 1884,
+  "official_url": "https://www.breitling.com/ko-ko",
+  "collections": {
+    "Navitimer":  { "collection_kr": "나비타이머",  "bg": "#f0ece4", "text": "#4a3010" },
+    "Superocean": { "collection_kr": "슈퍼오션",    "bg": "#e4eef8", "text": "#1a3060" },
+    "Chronomat":  { "collection_kr": "크로노매트",  "bg": "#eaeaec", "text": "#2a2a3c" }
+  }
+}

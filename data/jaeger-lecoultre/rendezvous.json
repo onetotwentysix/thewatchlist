@@ -1,0 +1,71 @@
+[
+  {
+    "brand": "JLC",
+    "collection": "RendezVous",
+    "collection_kr": "랑데부",
+    "reference": "Q3568590",
+    "name": "Rendez-Vous Moon 36",
+    "name_kr": "랑데부 문 36",
+    "gender": "Women",
+    "price_krw": 19500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "898/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver / Mother of Pearl",
+      "indexes": "Applied Diamond Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver MOP",
+      "Opaline"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 14000000,
+    "source": "WatchCharts (USD $11,000~ 추정), Chrono24",
+    "notes": "JLC 여성 플래그십 컬렉션. 랑데부 특유의 다이아몬드 인덱스 버전.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "36mm/11.4mm로 레이디스 착용에 최적. Cal.898/1은 문페이즈 + 요일 + 자동감기를 40h 파워리저브로 구동. 마더오브펄 다이얼이 문페이즈 테마와 완벽히 어우러짐."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "JLC의 여성 워치 철학 — 기계식 컴플리케이션의 정밀도와 주얼리의 감성 결합. 아뜰리에 외부 제작이 아닌 인하우스 무브먼트를 여성 케이스에 넣는 JLC의 고집."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + MOP 다이얼은 여성 드레스워치의 정통 조합. JLC의 기계식 정밀도와 결합해 시간을 초월한 수요 유지."
+      }
+    }
+  }
+]

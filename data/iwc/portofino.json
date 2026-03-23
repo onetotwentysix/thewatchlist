@@ -1,0 +1,208 @@
+[
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW356502",
+    "name": "Portofino Automatic 40",
+    "name_kr": "포르토피노 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 8400000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black",
+      "Silver",
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2015,
+    "resale_krw_est": 6000000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "드레스 워치 · 바 인덱스 + 로만 12/6시",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40mm/10.5mm의 슬림한 드레스워치. Cal.35111은 42h 파워리저브로 평범하지만 충분. 방수 30m은 드레스워치 기준에 적합. 얇은 두께 덕분에 수트 소매 안으로 자연스럽게 들어간다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1984년 이탈리아 리비에라의 우아함에서 영감을 받아 탄생. IWC의 드레스워치 정체성을 담당하는 컬렉션."
+      },
+      "timelessness": {
+        "label": "Classic",
+        "comment": "로만 숫자 인덱스와 바 인덱스의 조합은 수십 년 후에도 통용될 클래식 코드. 포르토피노는 IWC 내에서 가장 트렌드 비의존적인 라인."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW459401",
+    "name": "Portofino Automatic Moon Phase 40",
+    "name_kr": "포르토피노 오토매틱 문페이즈 40",
+    "gender": "Men/Women",
+    "price_krw": 12500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35800",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2023,
+    "resale_krw_est": 9800000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "문페이즈 디스플레이 · Exhibition 케이스백",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40mm/11.2mm에 문페이즈 컴플리케이션. Cal.35800은 42h 파워리저브. 로맨틱한 문페이즈 디스플레이가 드레스워치 감성을 극대화."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르토피노 라인에서 가장 감성적인 컴플리케이션. 문페이즈는 IWC 역사상 꾸준히 등장한 요소이며, 포르토피노 특유의 미니멀한 다이얼과 조화를 이룬다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 컴플리케이션은 시대를 초월한 수요를 유지한다. 남/여 구분 없이 착용 가능한 40mm 사이즈로 기프트 및 커플 워치로도 인기."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portofino",
+    "collection_kr": "포르토피노",
+    "reference": "IW357405",
+    "name": "Portofino Automatic 37 Ladies",
+    "name_kr": "포르토피노 오토매틱 37 레이디스",
+    "gender": "Women",
+    "price_krw": 9200000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 37,
+      "thickness_mm": 9.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "35111",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Mother of Pearl",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Mother of Pearl",
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 6800000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "레이디스 37mm · 마더오브펄 다이얼",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "37mm/9.8mm의 이상적인 레이디스 드레스워치 사이즈. Cal.35111의 42h 파워리저브는 실용적. 마더오브펄 다이얼은 빛에 따라 변하는 광택이 드레스워치의 화룡점정."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "포르토피노 레이디스 라인은 1984년 론칭 이후 IWC 여성 컬렉션의 대표 모델. 단순하고 우아한 디자인 코드가 수십 년간 유지되어 왔다."
+      },
+      "timelessness": {
+        "label": "Classic",
+        "comment": "마더오브펄 + 로만 숫자는 시간이 지나도 흔들리지 않는 드레스워치의 공식. 여성 럭셔리 워치 입문 및 기프트로 강력히 추천되는 포지션."
+      }
+    }
+  }
+]

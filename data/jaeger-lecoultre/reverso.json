@@ -1,0 +1,269 @@
+[
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3858522",
+    "name": "Reverso Classic Large Small Seconds",
+    "name_kr": "리베르소 클래식 라지 스몰 세컨즈",
+    "gender": "Men",
+    "price_krw": 13500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 10,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822/2",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2017,
+    "resale_krw_est": 10000000,
+    "source": "WatchCharts (USD $7,500~ 추정), Chrono24",
+    "notes": "1931년 오리지널 리베르소에 가장 가까운 현행 모델. 47x28.3mm 아트데코 직사각형 케이스.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "47x28.3mm 직사각형 — 원형 시계와 전혀 다른 착용감. Cal.822는 수동감기로 42h 파워리저브. 스펙보다 디자인 아이콘으로서의 가치가 압도적."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 인도 폴로 선수들을 위해 설계된 뒤집히는 케이스의 직계 후손. 아트데코 미학의 완성형. 시계 역사상 가장 독창적인 케이스 메커니즘."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "90년 이상 단 한 번도 단종되지 않은 JLC의 상징. 직사각형 시계 시장에서 경쟁자가 없는 독보적 포지션. 중고 시장 수요 매우 안정적."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3988482",
+    "name": "Reverso Tribute Duoface",
+    "name_kr": "리베르소 트리뷰트 듀오페이스",
+    "gender": "Men",
+    "price_krw": 22000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 12.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Second Dial)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "854",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Second Time Zone (Day/Night)"
+      ]
+    },
+    "dial": {
+      "color": "Black / Silver (Reverse)",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black (Front) / Silver (Back)"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 17000000,
+    "source": "WatchCharts (USD $13,000~ 추정), Chrono24",
+    "notes": "앞면과 뒷면 각각 다른 시간대를 표시. 듀얼 타임존의 기발한 해법.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Versatile",
+        "comment": "Cal.854는 뒤집힌 다이얼의 시간을 독립적으로 조정 가능. 두 타임존을 물리적 뒤집기로 해결하는 독창성. 42h 파워리저브는 짧지만 수동감기의 의례적 즐거움 제공."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1931년 폴로 케이스의 뒤집는다는 아이디어를 듀얼 타임존으로 진화시킨 걸작. 리베르소 정체성의 핵심 기능을 실용적 컴플리케이션으로 승화."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "물리적 메커니즘으로 듀얼 타임존을 해결하는 유일한 방식. 시계 역사에서 독보적 아이디어로 영속성 확고. 여행자와 컬렉터 모두에게 지속적 수요."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q3868520",
+    "name": "Reverso Classic Monoface Small Seconds Mid",
+    "name_kr": "리베르소 클래식 모노페이스 미드",
+    "gender": "Men/Women",
+    "price_krw": 11500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.1,
+      "thickness_mm": 7.56,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Printed Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin (Fagliano)",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2025,
+    "resale_krw_est": 9000000,
+    "source": "Monochrome Watches 2025 (EUR 8,000 추정)",
+    "notes": "2025 신형 미드사이즈. 유니섹스 착용 가능. 코인 스택 기요셰 다이얼.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40.1x24.4mm/7.56mm — 리베르소 라인 중 가장 슬림하고 유니섹스 착용에 최적. Cal.822 수동감기는 의례적 즐거움 제공. 2025 신형 코인스택 기요셰 다이얼이 차별점."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "2025년 출시했지만 1931년 오리지널 DNA를 가장 순수하게 계승. 미드사이즈라는 현대적 수요에 응답하면서도 아트데코 원형 훼손 없음."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "2025 신규 출시로 중고 데이터 미축적. 유니섹스 38~40mm 트렌드와 완벽히 부합. 리베르소 입문 모델로서 장기 수요 기대."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Reverso",
+    "collection_kr": "리베르소",
+    "reference": "Q7168420",
+    "name": "Reverso Tribute Monoface White",
+    "name_kr": "리베르소 트리뷰트 모노페이스 화이트",
+    "gender": "Men",
+    "price_krw": 17500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 47,
+      "thickness_mm": 9.14,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Reversible (Plain)"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "822",
+      "power_reserve_hours": 42,
+      "frequency_vph": 21600,
+      "jewels": 19,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White",
+      "Silver"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2025,
+    "resale_krw_est": 14000000,
+    "source": "Chrono24 (USD $12,000~ 추정)",
+    "notes": "2025 출시 트리뷰트 라인 화이트 다이얼. 1930년대 오리지널 리베르소에 오마주.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "47mm이지만 9.14mm의 극도로 슬림한 두께로 착용감 부담 없음. 화이트 다이얼은 1930년대 오리지널 리베르소의 정확한 재현. 수동감기의 얇음이 강점."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "트리뷰트 라인은 JLC가 리베르소 탄생 역사에 직접 헌사하는 컬렉션. 화이트 다이얼 + 블루 핸즈 조합은 1930년대 원본과 가장 가까운 현행 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "1931년부터 변하지 않은 디자인 언어. 트렌드 독립성 최고 수준. 수십 년 후에도 리베르소가 존재한다면 이 모델과 같은 형태일 것."
+      }
+    }
+  }
+]

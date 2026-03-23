@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Cartier",
+    "collection": "Santos",
+    "collection_kr": "산토스",
+    "reference": "WSSA0029",
+    "name": "Santos de Cartier Medium",
+    "name_kr": "산토스 드 까르띠에 미디엄",
+    "gender": "Men/Women",
+    "price_krw": 10200000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 35.1,
+      "thickness_mm": 8.83,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1847 MC",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals (Blue)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp (QuickSwitch)"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Silver", "Black", "Green"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 8500000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 35.1 × 41.9mm · 공구 없이 스트랩 교환 가능한 QuickSwitch 시스템 · 남녀 공용",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "35.1 × 41.9mm 스퀘어 케이스, 두께 8.83mm로 남녀 모두 소화 가능한 유니섹스 비율. Cal.1847 MC 자동, 42h 파워리저브. 100m 방수는 Cartier 드레스워치 기준 이례적으로 높다. QuickSwitch로 브레이슬릿↔가죽 교환이 공구 없이 즉시 가능."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1904년 Louis Cartier가 비행사 Alberto Santos-Dumont의 의뢰로 제작. 회중시계 시대에 파일럿을 위해 탄생한 세계 최초의 현대적 손목시계로 기록. 현행 Santos는 2018년 리런칭으로 클래식 비율을 계승하면서 현대적 편의성을 더했다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "120년이 지나도 스퀘어 케이스, 노출 나사, 로만 인덱스의 DNA가 변하지 않았다. 럭셔리 워치 시장에서 가장 폭넓은 연령대와 성별에 걸쳐 수요를 유지하는 Cartier의 기함 컬렉션."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Santos",
+    "collection_kr": "산토스",
+    "reference": "WSSA0030",
+    "name": "Santos de Cartier Large",
+    "name_kr": "산토스 드 까르띠에 라지",
+    "gender": "Men",
+    "price_krw": 11400000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39.8,
+      "thickness_mm": 9.08,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1847 MC",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals (Blue)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp (QuickSwitch)"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Silver", "Black", "Green"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 9500000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 39.8 × 47.5mm · 미디엄 대비 강한 남성적 비율 · 그린 다이얼 바리에이션 주목",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Versatile",
+        "comment": "39.8 × 47.5mm 스퀘어 케이스, 두께 9.08mm. Cal.1847 MC 42h. 미디엄 대비 더 강한 존재감이지만 두께 9mm 미만으로 드레스워치에 가까운 착용감은 유지."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "미디엄과 동일한 1904 헤리티지를 공유하면서 라지 케이스 특유의 스포티함이 더해진 포지션. Santos 라인업에서 손목 둘레 17cm 이상에게 적합한 메인 사이즈."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스퀘어 케이스의 비율은 어느 시대에도 통용되는 코드. 라지 사이즈는 미디엄 대비 개성이 더 강하며 컬렉터보다 일상 착용자에게 더 매력적인 옵션."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Santos",
+    "collection_kr": "산토스",
+    "reference": "WSSA0017",
+    "name": "Santos de Cartier XL Chronograph",
+    "name_kr": "산토스 드 까르띠에 XL 크로노그래프",
+    "gender": "Men",
+    "price_krw": 19800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43.3,
+      "thickness_mm": 13.0,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1904-CH MC",
+      "power_reserve_hours": 48,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals (Blue)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp (QuickSwitch)"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Silver", "Black"],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2019,
+    "resale_krw_est": 16000000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "케이스 43.3 × 51.6mm · Cal.1904-CH MC 인하우스 크로노그래프 · 가장 큰 Santos 사이즈",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "43.3mm 스퀘어 케이스에 두께 13mm. 착용 허들 있음. Cal.1904-CH MC 인하우스 크로노그래프는 48h 파워리저브로 실용적. 가격 대비 기술적 완성도 높다."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Santos XL은 파일럿 시계 헤리티지를 가장 직접적으로 계승하는 포지션. 1904년 비행사를 위한 시계에 크로노그래프를 결합한 논리적 진화."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "Cartier 인하우스 크로노그래프는 수집 가치 있는 기술 자산. 그러나 큰 사이즈와 두께로 일상 착용 허들이 존재. 마니아층 수요는 안정적."
+      }
+    }
+  }
+]

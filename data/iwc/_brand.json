@@ -1,0 +1,14 @@
+{
+  "brand": "IWC",
+  "brand_full": "IWC Schaffhausen",
+  "country": "Switzerland",
+  "founded": 1868,
+  "official_url": "https://www.iwc.com/ko/ko",
+  "collections": {
+    "Portugieser": { "collection_kr": "포르투기저",   "bg": "#f5f0e8", "text": "#7a6540" },
+    "Pilot":       { "collection_kr": "파일럿",       "bg": "#eef3fb", "text": "#1a3a6b" },
+    "Portofino":   { "collection_kr": "포르토피노",   "bg": "#fceef0", "text": "#8a1a28" },
+    "Ingenieur":   { "collection_kr": "인제니어",     "bg": "#eef6ee", "text": "#1a4a20" },
+    "Aquatimer":   { "collection_kr": "아쿠아타이머", "bg": "#e8eef5", "text": "#1a2a5a" }
+  }
+}

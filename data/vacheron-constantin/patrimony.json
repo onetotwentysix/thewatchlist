@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Vacheron Constantin",
+    "collection": "Patrimony",
+    "collection_kr": "패트리모니",
+    "reference": "81180/000G-9117",
+    "name": "Patrimony Automatic",
+    "name_kr": "패트리모니 오토매틱",
+    "gender": "Men",
+    "price_krw": 17000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 40,
+      "thickness_mm": 7.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2450Q6",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 27,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue", "Champagne"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2004,
+    "resale_krw_est": 13500000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm 화이트 골드 · 7.6mm · Cal. 2450Q6 자동 · 말타 십자가 크라운 · 루네트 없는 클린 케이스 · VC 드레스워치의 정수 · 극도로 절제된 다이얼 구성",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40mm/7.6mm, Cal. 2450Q6 자동 40h. 화이트 골드 케이스의 적절한 무게감. 루네트(베젤)가 없는 간결한 케이스 형태. 인덱스, 크라운, 케이스백 — 모든 요소가 최소화된 극단적 절제미."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Patrimony는 '유산'을 뜻하는 VC의 역사 자체를 담은 컬렉션명. 270년 역사 중 가장 정수를 담은 디자인 언어만을 선별해 현대에 재해석한 VC의 자화상 같은 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "드레스워치 중 가장 빛나는 포지션 중 하나. 루네트 없는 케이스, 슬림한 러그, 최소화된 다이얼은 어떤 시대에도 통하는 미학. 화이트 골드의 내구성과 가치 보존도 장점."
+      }
+    }
+  },
+  {
+    "brand": "Vacheron Constantin",
+    "collection": "Patrimony",
+    "collection_kr": "패트리모니",
+    "reference": "43175/000R-9687",
+    "name": "Patrimony Perpetual Calendar",
+    "name_kr": "패트리모니 퍼페추얼 캘린더",
+    "gender": "Men",
+    "price_krw": 92000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Rose Gold",
+      "diameter_mm": 41,
+      "thickness_mm": 8.1,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2460 QCL/1",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": ["Hours", "Minutes", "Seconds", "Perpetual Calendar", "Day", "Date", "Month", "Year", "Moon Phase", "Leap Year"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue"],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2005,
+    "resale_krw_est": 75000000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm 로즈 골드 · 8.1mm · Cal. 2460 QCL/1 · 퍼페추얼 캘린더 (연도·월·일·요일·윤년·문페이즈) · Patrimony의 극단적 절제 다이얼에 6가지 달력 정보가 균형있게 배치",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "41mm/8.1mm, Cal. 2460 QCL/1 자동 퍼페추얼 캘린더. 연도·월·일·요일·윤년·문페이즈 전부를 8mm 두께에 담았다. 퍼페추얼 캘린더를 Patrimony의 미니멀 미학 안에 구현한 것이 이 모델의 핵심 성취."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "세계 최고령 시계 메이커가 만드는 퍼페추얼 캘린더. 2100년까지 수동 교정이 필요 없는 달력을 극도로 절제된 다이얼에 담는 것 — 270년 기술 축적의 현재형 표현."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "퍼페추얼 캘린더 + VC 헤리티지 + Patrimony 미학의 삼중 조합은 컬렉터 시장에서 최상위 수요를 유지한다. 로즈 골드 케이스는 감가보다 가치 보존 방향으로 움직이는 경향."
+      }
+    }
+  }
+]

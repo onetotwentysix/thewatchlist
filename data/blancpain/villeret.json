@@ -1,0 +1,207 @@
+[
+  {
+    "brand": "Blancpain",
+    "collection": "Villeret",
+    "collection_kr": "빌레레",
+    "reference": "6651-1127-55B",
+    "name": "Villeret Ultra-Slim Automatic 40",
+    "name_kr": "빌레레 울트라슬림 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 14800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 8.14,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Domed)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1151",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 23,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "White"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2011,
+    "resale_krw_est": 11000000,
+    "source": "WatchCharts, Chrono24 (USD $8,500~ 추정)",
+    "notes": "블랑팡이 설립된 빌레레 마을 이름의 드레스 컬렉션. 더블 스텝 케이스와 울트라슬림.",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40mm/8.14mm의 인상적인 슬림함. Cal.1151은 72h 파워리저브. 더블 도밍 사파이어 크리스탈이 시각적 깊이감 형성. 방수 30m으로 순수 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡 창업지 빌레레 마을의 이름을 딴 대표 드레스 컬렉션. 더블 스텝 케이스는 1735년 블랑팡 창업 이후 유지되어온 디자인 코드."
+      },
+      "timelessness": {
+        "label": "Classic",
+        "comment": "로만 숫자 + 더블 스텝 케이스 + 울트라슬림은 수십 년 후에도 통용되는 클래식 코드. 포르토피노, 마스터 컨트롤과 경쟁하는 드레스워치 입문 포지션."
+      }
+    }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "Villeret",
+    "collection_kr": "빌레레",
+    "reference": "6654-1127-55B",
+    "name": "Villeret Complete Calendar 40",
+    "name_kr": "빌레레 컴플리트 캘린더 40",
+    "gender": "Men",
+    "price_krw": 21000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Domed)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "5954",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "White"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2015,
+    "resale_krw_est": 16000000,
+    "source": "WatchCharts, Chrono24 (USD $13,000~ 추정)",
+    "notes": "컴플리트 캘린더 + 문페이즈. 블랑팡 드레스 컴플리케이션의 핵심.",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40mm/11.2mm로 컴플리케이션 포함 착용감 양호. Cal.5954는 컴플리트 캘린더와 문페이즈를 72h 파워리저브로 구동. 전통적 드레스 컴플리케이션의 모범 사례."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 컬렉션의 핵심 모델. 블랑팡의 컴플리케이션 역량과 드레스워치 정체성을 가장 균형있게 보여주는 피스. 수십 년의 컴플리케이션 제작 전통 집약."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "컴플리트 캘린더는 드레스워치 컴플리케이션 중 가장 실용적인 정보를 제공. 문페이즈와의 조합은 시간을 초월한 수요. 중고 시장에서 꾸준히 거래."
+      }
+    }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "Villeret",
+    "collection_kr": "빌레레",
+    "reference": "6595-3542-55B",
+    "name": "Villeret Triple Calendar Moonphase 42",
+    "name_kr": "빌레레 트리플 캘린더 문페이즈 42",
+    "gender": "Men",
+    "price_krw": 28000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 12.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Domed)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6763",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 39,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Triple Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Silver Guilloche",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 23000000,
+    "source": "Chrono24 (USD $16,000~ 추정), WatchCharts",
+    "notes": "기요셰 다이얼 + 트리플 캘린더. 빌레레 컴플리케이션 라인의 중상위.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "42mm로 컴플리트 캘린더 40mm보다 크지만 더 풍성한 다이얼 레이아웃. 기요셰 다이얼은 손목에서의 시각적 존재감이 탁월. 72h 파워리저브로 실용적."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레의 전통적 컴플리케이션 정신을 기요셰 다이얼로 표현. 블랑팡이 자랑하는 수작업 기요셰 기법이 다이얼 전체에 적용되는 몇 안 되는 현행 모델."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "기요셰 다이얼 + 달력 컴플리케이션은 마니아 시장에서 높은 평가. 블랑팡 특유의 수제 장식 철학을 가장 명확히 보여주는 피스로 수집 가치 확고."
+      }
+    }
+  }
+]

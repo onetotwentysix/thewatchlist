@@ -1,0 +1,14 @@
+{
+  "brand": "Cartier",
+  "brand_full": "Cartier SA",
+  "country": "France",
+  "founded": 1847,
+  "official_url": "https://www.cartier.com/ko-kr",
+  "collections": {
+    "Santos":     { "collection_kr": "산토스",   "bg": "#fceef0", "text": "#8a1a28" },
+    "Tank":       { "collection_kr": "탱크",      "bg": "#faf6ee", "text": "#7a5a18" },
+    "BallonBleu": { "collection_kr": "발롱 블루", "bg": "#eef3fb", "text": "#1a3a6b" },
+    "Pasha":      { "collection_kr": "파샤",      "bg": "#f0e8ee", "text": "#5a1a3a" },
+    "Drive":      { "collection_kr": "드라이브",  "bg": "#e8e8ec", "text": "#3a3a50" }
+  }
+}

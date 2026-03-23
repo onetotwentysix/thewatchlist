@@ -1,0 +1,11 @@
+{
+  "brand": "Piaget",
+  "brand_full": "Piaget SA",
+  "country": "Switzerland",
+  "founded": 1874,
+  "official_url": "https://www.piaget.com/ko-kr",
+  "collections": {
+    "Altiplano": { "collection_kr": "알티플라노", "bg": "#f3f0f8", "text": "#4a2a70" },
+    "Polo":      { "collection_kr": "폴로",      "bg": "#e8edf5", "text": "#1a2a50" }
+  }
+}

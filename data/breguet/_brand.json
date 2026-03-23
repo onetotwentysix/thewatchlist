@@ -1,0 +1,12 @@
+{
+  "brand": "Breguet",
+  "brand_full": "Montres Breguet SA",
+  "country": "Switzerland",
+  "founded": 1775,
+  "official_url": "https://www.breguet.com/ko",
+  "collections": {
+    "Classique": { "collection_kr": "클래식",   "bg": "#f8f5ed", "text": "#5a4010" },
+    "Marine":    { "collection_kr": "마린",     "bg": "#e4ecf5", "text": "#1a2848" },
+    "Tradition": { "collection_kr": "트라디션", "bg": "#f0ece4", "text": "#3a2810" }
+  }
+}

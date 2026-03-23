@@ -1,0 +1,341 @@
+[
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5015-1130-52A",
+    "name": "Fifty Fathoms Automatique 45 Steel",
+    "name_kr": "피프티 패덤즈 오토매틱 45 스틸",
+    "gender": "Men",
+    "price_krw": 22500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed, AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Sailcloth",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black",
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2007,
+    "resale_krw_est": 18000000,
+    "source": "Monochrome Watches, Blancpain 공식, WatchCharts",
+    "notes": "1953년 최초 다이버워치의 현대 계승작. 3-배럴 칼리버 1315로 5일 파워리저브. 실리콘 헤어스프링.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Specialist",
+        "comment": "45mm/15.4mm는 상당한 사이즈. 그러나 120h 파워리저브와 실리콘 헤어스프링, 300m 방수는 하이엔드 다이버워치 중 최상위 스펙. 손목 둘레 18cm 이상 권장."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 롤렉스 서브마리너보다 먼저 출시된 세계 최초의 현대 다이버워치. 미해군 네이비실에 납품되었으며 근대 다이버워치의 원형."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "70년 이상의 역사를 가진 다이버워치 중 가장 정통성 있는 라인. 롤렉스 서브마리너의 진지한 대안. 수집 가치와 중고 시장 안정성 높음."
+      }
+    }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5015-12B40-O52A",
+    "name": "Fifty Fathoms Automatique 45 Titanium",
+    "name_kr": "피프티 패덤즈 오토매틱 45 티타늄 블루",
+    "gender": "Men",
+    "price_krw": 24500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 45,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed, AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Sailcloth / NATO",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2017,
+    "resale_krw_est": 20000000,
+    "source": "Monochrome Watches (CHF 14,700 기준 추정)",
+    "notes": "풀 새틴 브러싱 티타늄. 스틸 버전보다 가볍고 블루 다이얼.",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Specialist",
+        "comment": "스틸 버전과 동일 스펙에 티타늄으로 무게를 낮춤. 풀 새틴 브러싱은 도구적 성격 강조. 블루 다이얼과 티타늄 조합은 하이엔드 다이버워치 시장에서 희소."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "스틸 버전과 동일한 1953년 FF 헤리티지 공유. 티타늄 버전은 2017년 출시로 더 툴워치에 가까운 성격. 전문 다이버들의 실용 수요를 반영."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "티타늄 다이버워치는 틈새 시장이지만 확고한 수요. 블루 다이얼의 트렌드 친화성과 티타늄의 내구성이 장기 가치를 지지."
+      }
+    }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010-1130-71S",
+    "name": "Fifty Fathoms Automatique 42 Steel",
+    "name_kr": "피프티 패덤즈 오토매틱 42 스틸",
+    "gender": "Men",
+    "price_krw": 25000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42.3,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed, AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2025,
+    "resale_krw_est": 21000000,
+    "source": "Monochrome Watches 2025 (USD 약 $17,500 추정)",
+    "notes": "2025년 신규 42mm 스틸 버전. 45mm보다 착용감 개선.",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "42mm/14.3mm로 FF 라인 중 가장 일상 착용하기 좋은 사이즈. 동일한 Cal.1315의 120h 파워리저브. 스틸 브레이슬릿으로 데일리 워치 완성도 높음."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "2025년 트렌드에 맞게 소형화한 FF. 원래 42mm로 시작한 FF의 뿌리로 돌아간 의미. 보다 컴팩트한 사이즈 요구에 대한 블랑팡의 공식 응답."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "42mm 다이버워치는 가장 범용적인 사이즈. 롤렉스 서브마리너 대비 스펙과 헤리티지 모두 우위. 2025 출시로 중고 데이터는 아직 축적 중이나 장기 전망 밝음."
+      }
+    }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5100-1140-O52A",
+    "name": "Fifty Fathoms Bathyscaphe 38",
+    "name_kr": "피프티 패덤즈 바티스카프 38",
+    "gender": "Men/Women",
+    "price_krw": 15500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (Domed)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Vulcanized Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Blue",
+      "Black",
+      "Grey"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2015,
+    "resale_krw_est": 12000000,
+    "source": "WatchCharts, Chrono24 (USD $8,000~11,000 추정)",
+    "notes": "라운드 베젤과 더 얇은 케이스. 유니섹스 가능한 FF 엔트리.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Versatile",
+        "comment": "38mm/13.4mm로 유니섹스 착용 가능한 사이즈. Cal.1315로 120h 파워리저브 동일. 바티스카프만의 라운드 베젤이 덜 스포티하고 더 캐주얼한 느낌."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1956년 해저 탐사선 바티스카프에서 이름을 딴 서브라인. FF의 실용적 DNA를 더 접근하기 쉬운 사이즈로 계승. 블랑팡의 해양 보존 파트너십을 상징."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "더 작고 가벼운 다이버워치 트렌드에 잘 맞는 모델. FF 라인 중 입문 포지션으로 수요 안정적. 남녀 모두 착용 가능해 활용도 높음."
+      }
+    }
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-3640-O52B",
+    "name": "Bathyscaphe Complete Calendar Moonphase",
+    "name_kr": "바티스카프 컴플리트 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 35000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (Domed)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6654",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Slate Blue",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Slate Blue"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 28000000,
+    "source": "WatchCharts (USD $22,000~ 추정), Chrono24",
+    "notes": "다이버 케이스에 컴플리케이션 결합. 18K 레드골드. 문페이즈+컴플리트 캘린더.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "43.6mm이지만 골드 케이스 덕분에 드레스워치로도 통용. Cal.6654는 72h 파워리저브. 다이버 실루엣에 달력과 문페이즈의 드레시한 조합이 독특."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 두 정체성 — 다이버워치(FF)와 컴플리케이션(빌레레) — 을 한 케이스에서 구현한 독특한 피스. 해양과 전통 워치메이킹의 교차점."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "다이버 케이스 + 달력 컴플리케이션은 극히 희소한 조합. 마니아들 사이 수요 확고. 골드 케이스가 장기 가치 지지하나 일상 착용성은 제한적."
+      }
+    }
+  }
+]

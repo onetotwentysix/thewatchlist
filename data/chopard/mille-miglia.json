@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Chopard",
+    "collection": "MilleMiglia",
+    "collection_kr": "밀레 밀리아",
+    "reference": "168566-3002",
+    "name": "Mille Miglia GTS Power Control",
+    "name_kr": "밀레 밀리아 GTS 파워 컨트롤",
+    "gender": "Men",
+    "price_krw": 10500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.6,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "03.05-M",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": ["Hours", "Minutes", "Seconds", "Date", "Power Reserve Indicator"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Black", "Green"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 8000000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm · 파워리저브 인디케이터 내장 · COSC 인증 Cal. 03.05-M · 100m 방수 · Mille Miglia 클래식 카 레이스(1927~) 공식 타임키퍼 · 러버 스트랩",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm/11.6mm, COSC 인증 Cal. 03.05-M, 60h PR, 파워리저브 인디케이터까지. 100m 방수에 러버 스트랩으로 스포츠 착용성 확보. 이 가격대 스포츠 시계에서 COSC 인증은 강점."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1927년 시작된 이탈리아 밀레 밀리아 클래식 카 레이스의 공식 타임키퍼. Chopard는 1988년부터 파트너십을 유지 중. 자동차 문화와 시계의 교점에서 독보적 위치."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "스포츠카 문화와 연계된 헤리티지는 시대를 타지 않는다. 파워리저브 인디케이터라는 실용적 기능과 COSC 인증의 조합. 클래식카 팬과 시계 마니아 모두에게 어필."
+      }
+    }
+  },
+  {
+    "brand": "Chopard",
+    "collection": "MilleMiglia",
+    "collection_kr": "밀레 밀리아",
+    "reference": "168588-3047",
+    "name": "Mille Miglia Classic Chronograph",
+    "name_kr": "밀레 밀리아 클래식 크로노그래프",
+    "gender": "Men",
+    "price_krw": 16500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 14.2,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "03.01-M",
+      "power_reserve_hours": 54,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date", "Tachymeter"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Black"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 12500000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 두께 14.2mm · 인하우스 Cal. 03.01-M 자동 크로노그래프 · 타키미터 베젤 · 빈티지 카 레이스 계기판 스타일 다이얼 · 클래식카 쇼 한정판 라인 포함",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/14.2mm 두꺼운 케이스는 착용 허들. 인하우스 Cal. 03.01-M 자동 크로노그래프 + 타키미터 베젤의 레이싱 패키지. 두께 감수하면 기능과 스타일 모두 충실."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "밀레 밀리아 공식 파트너십 30년 이상 역사에서 가장 직접적인 표현. 빈티지 카 계기판에서 영감받은 다이얼, 타키미터 베젤은 레이싱 크로노그래프의 정석 구성."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "자동차-시계 컬렉터의 교집합에서 높은 수요. 클래식카 경주 공식 타임키퍼의 크로노그래프는 수집 스토리가 강하다. 두꺼운 케이스와 중고 시세 하락폭은 고려 사항."
+      }
+    }
+  }
+]

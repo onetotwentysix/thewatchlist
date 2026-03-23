@@ -1,0 +1,421 @@
+[
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW358304",
+    "name": "Portugieser Automatic 40",
+    "name_kr": "포르투기저 오토매틱 40",
+    "gender": "Men",
+    "price_krw": 11600000,
+    "price_confirmed": true,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "82200",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Horizon Blue",
+      "Obsidian",
+      "Dune",
+      "Silver Moon"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 9500000,
+    "source": "IWC 공식 한국 홈페이지 (직접 확인 · 2026.03)",
+    "notes": "2024 W&W 신형 케이스 · 더블 박스 글래스",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm/10.8mm의 균형잡힌 사이즈. Cal.82200은 60h 파워리저브와 더블 박스 사파이어 글래스가 특징. 방수 30m는 드레스워치 기준에 적합하며 5가지 다이얼 컬러 옵션이 폭넓은 수요를 커버."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1939년 포르투갈 상인의 주문으로 탄생한 포켓워치 스케일 손목시계의 직계 후손. IWC의 아이덴티티를 가장 강하게 대변하는 컬렉션 — Fratello Watches."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "아라비아 숫자 + 심플한 다이얼 구조는 수십 년 후에도 통용될 클래식 코드. 중고 시장에서 가장 안정적인 IWC 모델 중 하나."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW358305",
+    "name": "Portugieser Automatic 42",
+    "name_kr": "포르투기저 오토매틱 42",
+    "gender": "Men",
+    "price_krw": 13200000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 11,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52010",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 57,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Horizon Blue",
+      "Obsidian"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 11000000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "7일 파워리저브 · 52010 칼리버",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/11mm에 7일(168h) 파워리저브. Cal.52010은 IWC의 자체 개발 로터리 컬럼휠 크로노그래프 기술의 집약. 파워리저브 디스플레이가 실용성을 더함."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 라인 내에서 7일 파워리저브를 최초로 탑재한 모델 계보. 장시간 항해를 위한 항법 시계의 정신적 계승자."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "7일 파워리저브는 주말에 시계를 벗어도 월요일 아침에 살아있는 실용성. 컬렉터들 사이에서 가장 기억에 남는 IWC 스펙 중 하나."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371604",
+    "name": "Portugieser Chronograph",
+    "name_kr": "포르투기저 크로노그래프",
+    "gender": "Men",
+    "price_krw": 14800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver Plated",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Silver",
+      "Dune",
+      "Obsidian"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 12000000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "수직 배열 서브다이얼 · IWC 자체 무브먼트",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "41mm/13.3mm에 Cal.69355 인하우스 크로노그래프. 수직 배열 서브다이얼이 포르투기저 고유의 미학. 46h 파워리저브는 평범하지만 가격 대비 무브먼트 품질은 우수."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "포르투기저 크로노그래프는 IWC가 자체 크로노그래프 무브먼트를 내재화한 이정표 모델. 2020년 리디자인으로 더 간결해진 다이얼이 호평."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "크로노그래프는 영원한 수요. 포르투기저의 아트데코 감성이 크로노그래프 기능과 조화를 이룬 시계 역사의 고전적 조합."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371605",
+    "name": "Portugieser Chronograph Blue Dial",
+    "name_kr": "포르투기저 크로노그래프 블루",
+    "gender": "Men",
+    "price_krw": 14800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Horizon Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Horizon Blue"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 12500000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "2024 신색상 호라이즌 블루",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Versatile",
+        "comment": "IW371604와 동일 스펙. 호라이즌 블루 선버스트 다이얼이 광원에 따라 다른 표정을 연출. 블루 계열 시계 수요가 높은 현재 시장에서 경쟁력 있는 선택."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "2024 Watches & Wonders에서 선보인 신색상. 포르투갈 리스본의 타호 강을 연상시키는 블루 다이얼로 포르투기저의 어원과 색상이 연결되는 스토리텔링."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "블루 다이얼 시계는 지난 10년간 꾸준히 성장한 카테고리. 포르투기저의 클래식 폼과 블루의 조합은 장기적으로 안정적인 수요."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW503406",
+    "name": "Portugieser Perpetual Calendar 44",
+    "name_kr": "포르투기저 퍼페추얼 캘린더 44",
+    "gender": "Men",
+    "price_krw": 49000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 44,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (Double Box)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52616",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 71,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Perpetual Calendar",
+        "Moon Phase",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Horizon Blue",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Horizon Blue",
+      "Dune",
+      "Obsidian",
+      "Silver Moon"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 42000000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "2024 신형 케이스 · 그레고리력 윤년 자동 계산",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "44mm/15.4mm로 퍼페추얼 캘린더 치고 착용 허들 있음. Cal.52616은 168h 파워리저브에 문페이즈, 퍼페추얼 캘린더 동시 구현. 그레고리력 윤년을 3999년까지 자동 계산하는 기술적 정점."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "2024년 IWC의 기술적 야심을 집약한 모델. 400년 이상 윤년을 자동 계산이라는 과제에 대한 IWC의 응답이자 Eternal Calendar 철학의 현행 최고점."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "컴플리케이션 기술 자체는 타임리스하지만 44mm 케이스는 시대에 따라 호불호 갈릴 수 있음. 투자보다는 기술 감상과 유산 보존의 성격이 강한 피스."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Portugieser",
+    "collection_kr": "포르투기저",
+    "reference": "IW371624",
+    "name": "Portugieser Chronograph Dune",
+    "name_kr": "포르투기저 크로노그래프 듄",
+    "gender": "Men",
+    "price_krw": 14800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69355",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Dune (60-step lacquer)",
+      "indexes": "Arabic Numerals (Gold)"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Dune"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2024,
+    "resale_krw_est": 12800000,
+    "source": "Klocca 한국 (2025.11)",
+    "notes": "60단계 공정 다이얼 · 15겹 투명 래커 · 골드 도금 핸즈",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Versatile",
+        "comment": "IW371604와 동일 스펙. 60단계 공정 다이얼 제작 — 15겹 투명 래커와 황금빛 핸즈의 조합이 이 가격대에서 가장 정교한 다이얼 피니싱 중 하나."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "듄(Dune) 다이얼은 2024 W&W의 영원에 대한 헌사 테마의 핵심. 사막의 모래결처럼 보이는 래커 텍스처는 포르투기저 크로노그래프에 새로운 디자인 정체성을 부여."
+      },
+      "timelessness": {
+        "label": "Emerging",
+        "comment": "신색상으로 중고 시장 데이터가 축적 중. 듄 컬러는 베이지 계열로 트렌드에 상대적으로 자유롭다. 독특한 다이얼 피니싱이 장기적으로 희소성을 만들어낼 가능성."
+      }
+    }
+  }
+]

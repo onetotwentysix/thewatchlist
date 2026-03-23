@@ -1,0 +1,70 @@
+[
+  {
+    "brand": "Blancpain",
+    "collection": "LEvolution",
+    "collection_kr": "L-Evolution",
+    "reference": "8805-1134-53B",
+    "name": "L-Evolution Flyback Chronograph",
+    "name_kr": "L-에볼루션 플라이백 크로노그래프",
+    "gender": "Men",
+    "price_krw": 38000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 43.5,
+      "thickness_mm": 15.1,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F185",
+      "power_reserve_hours": 72,
+      "frequency_vph": 36000,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Vulcanized Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2013,
+    "resale_krw_est": 30000000,
+    "source": "WatchCharts, Chrono24 (USD $22,000~ 추정)",
+    "notes": "블랑팡의 스포츠/테크 라인. 5Hz 고주파 플라이백 무브먼트.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "5Hz(36,000vph) 고주파 플라이백 크로노그래프. 측정 정밀도가 탁월. 43.5mm/15.1mm로 스포츠 크로노그래프에 걸맞는 크기. 100m 방수로 실용성도 확보."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "L-에볼루션 라인은 블랑팡의 기술적 도전을 담은 스포츠 컬렉션. FF가 다이버의 역사를 담는다면 L-에볼루션은 블랑팡의 무브먼트 기술력을 스포츠 케이스로 표현."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "스포츠 테크 시계 마니아층에서 꾸준한 수요. 그러나 L-에볼루션의 인지도는 FF와 빌레레에 비해 낮아 폭넓은 시장 수요는 제한적. 기술 수집가의 선택."
+      }
+    }
+  }
+]

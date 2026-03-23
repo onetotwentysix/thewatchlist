@@ -1,0 +1,140 @@
+[
+  {
+    "brand": "JLC",
+    "collection": "Polaris",
+    "collection_kr": "폴라리스",
+    "reference": "Q9008170",
+    "name": "Polaris Date 41",
+    "name_kr": "폴라리스 데이트 41",
+    "gender": "Men",
+    "price_krw": 11500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 11,
+      "water_resistance_m": 200,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "899AC",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 32,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Blue",
+      "Black",
+      "Green"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 9000000,
+    "source": "WatchCharts (USD $7,700 추정), Chrono24",
+    "notes": "1968년 메모복스 폴라리스에서 영감. JLC의 스포츠 라인 엔트리. 200m 방수.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "41mm/11mm에 200m 방수. Cal.899AC로 70h 파워리저브. 고무 스트랩과 브레이슬릿 옵션 모두 제공. JLC 라인 중 가장 스포티하고 일상 착용에 최적화."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1968년 JLC 메모복스 폴라리스(다이버 알람 시계)에서 이름과 스포츠 정체성 계승. 폴라리스 오리지널은 빈티지 시장에서 매우 희귀."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "JLC 드레스 이미지를 깨고 스포츠 시장에 진출한 선언적 모델. 블루/블랙/그린 컬러 옵션이 트렌드 변화에 유연하게 대응."
+      }
+    }
+  },
+  {
+    "brand": "JLC",
+    "collection": "Polaris",
+    "collection_kr": "폴라리스",
+    "reference": "Q902843J",
+    "name": "Polaris Chronograph 42",
+    "name_kr": "폴라리스 크로노그래프 42",
+    "gender": "Men",
+    "price_krw": 18500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 13.5,
+      "water_resistance_m": 200,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "751H",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black",
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 14500000,
+    "source": "WatchCharts (USD $11,200 추정), Chrono24 (₩20,086,389 새제품 확인)",
+    "notes": "폴라리스 크로노그래프. 65h 파워리저브. 200m 방수 스포츠 크로노.",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "42mm/13.5mm에 크로노그래프와 200m 방수. Cal.751H는 65h 파워리저브. 스포츠 크로노그래프로서 가격 대비 스펙이 뛰어나며 JLC의 무브먼트 기술력이 스포츠 케이스에서도 빛남."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "폴라리스 크로노는 JLC가 스포츠 시장에 보내는 진지한 메시지. 태그호이어, 브라이틀링 등 스포츠 크로노 전문 브랜드와의 경쟁에서 JLC 무브먼트 품질을 내세운다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "스포츠 크로노그래프는 영원한 수요. JLC 브랜드 파워와 합리적인 가격의 조합으로 중고 시장에서도 꾸준히 거래. 태그호이어 까레라의 진지한 대안으로 거론."
+      }
+    }
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Cartier",
+    "collection": "Drive",
+    "collection_kr": "드라이브",
+    "reference": "WSNM0004",
+    "name": "Drive de Cartier",
+    "name_kr": "드라이브 드 까르띠에",
+    "gender": "Men",
+    "price_krw": 13500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1847 MC",
+      "power_reserve_hours": 42,
+      "frequency_vph": 28800,
+      "jewels": 21,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+      },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Black"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 10000000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "쿠션형 직사각 케이스 40 × 38mm · 시스루 케이스백 · Cartier 남성 드레스워치 중 가장 독창적인 케이스 형태",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "40 × 38mm 쿠션 직사각 케이스, 두께 11mm. Cal.1847 MC 자동 42h. 시스루 케이스백으로 무브먼트 감상 가능. 30m 방수는 드레스워치 기준."
+      },
+      "heritage": {
+        "label": "Emerging",
+        "comment": "2016년 론칭한 가장 신생 Cartier 컬렉션. 자동차 인스트루먼트 패널에서 영감받은 쿠션 케이스. 헤리티지는 짧지만 디자인 철학은 명확."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "Tank·Santos·Ballon Bleu와 전혀 다른 케이스 형태로 Cartier 컬렉터에게 독보적 포지션. 대중 인지도는 낮지만 드레스워치 애호가 사이 컬트적 수요."
+      }
+    }
+  },
+  {
+    "brand": "Cartier",
+    "collection": "Drive",
+    "collection_kr": "드라이브",
+    "reference": "WSNM0019",
+    "name": "Drive de Cartier Extra-Flat",
+    "name_kr": "드라이브 드 까르띠에 엑스트라 플랫",
+    "gender": "Men",
+    "price_krw": 19800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 7.9,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "430 MC",
+      "power_reserve_hours": 48,
+      "frequency_vph": 21600,
+      "jewels": 23,
+      "functions": ["Hours", "Minutes"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2018,
+    "resale_krw_est": 15000000,
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "notes": "40 × 38mm · 두께 7.9mm · Cal.430 MC 초박형 자동 무브먼트 · 시/분 표시만으로 극도의 절제미 · 시스루 케이스백",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Dressy",
+        "comment": "두께 7.9mm의 초박형 쿠션 케이스. Cal.430 MC는 Cartier 인하우스 초박형 자동 무브먼트, 48h 파워리저브. 시/분만의 미니멀 다이얼이 극도의 절제미를 표현."
+      },
+      "heritage": {
+        "label": "Emerging",
+        "comment": "Drive 컬렉션의 기술적 정점. 초박형 자동 무브먼트를 탑재한 드레스워치 영역에서 Cartier 기술력을 증명. 신생 컬렉션이지만 무브먼트 완성도는 최고 수준."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "초박형 드레스워치는 매우 좁은 틈새 시장. 그러나 해당 장르에서 Cartier만의 케이스 형태와 기술력이 결합된 유일무이한 선택지. 마니아층 수요는 견고."
+      }
+    }
+  }
+]

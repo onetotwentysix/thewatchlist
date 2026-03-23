@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Breitling",
+    "collection": "Chronomat",
+    "collection_kr": "크로노매트",
+    "reference": "AB0134101C1A1",
+    "name": "Chronomat B01 42",
+    "name_kr": "크로노매트 B01 42",
+    "gender": "Men",
+    "price_krw": 11500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42,
+      "thickness_mm": 15.1,
+      "water_resistance_m": 200,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "B01",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 47,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Integrated Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Black", "Blue", "Silver", "Green"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 1984,
+    "resale_krw_est": 9500000,
+    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42mm · 15.1mm · Cal. B01 인하우스 COSC 자동 크로노 70h · 라이더 탭 회전 베젤 · 200m 방수 · 1984년 첫 출시 · Navitimer보다 더 스포티한 포지션의 Breitling 대표 크로노그래프",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42mm/15.1mm, Cal. B01 COSC 인하우스 크로노 70h, 200m 방수. 두께 15mm 이상은 착용 허들. 라이더 탭 베젤 + 인터그레이티드 브레이슬릿의 스포티한 조합. Navitimer B01과 동일 무브먼트 대비 방수 우위."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1984년 이탈리아 공군(Frecce Tricolori) 공식 타임피스로 탄생. 군용 항공 크로노그래프에서 민간 스포츠워치로 진화한 40년 계보. 라이더 탭 베젤은 조종사 장갑 착용 시에도 조작 가능한 기능적 설계."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "Chronomat은 Breitling의 두 번째 아이콘. Navitimer의 파일럿 감성과 달리 더 스포티하고 현대적인 포지션. 40년 이상 이어온 디자인 계보와 인하우스 B01 무브먼트 조합은 장기 가치를 지지한다."
+      }
+    }
+  }
+]

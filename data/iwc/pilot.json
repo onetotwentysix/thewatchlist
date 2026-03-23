@@ -1,0 +1,341 @@
+[
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328201",
+    "name": "Pilot's Watch Mark XX",
+    "name_kr": "파일럿 워치 마크 XX",
+    "gender": "Men",
+    "price_krw": 7300000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black",
+      "White (Silver)"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5800000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "EasX-CHANGE 스트랩 시스템 · 항자기성 · 마크 XI 계보",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "40mm/11mm로 매일 착용하기 최적의 사이즈. Cal.32111은 120h 파워리저브로 파일럿 컬렉션 최고 수준. 기압 변화에도 분리되지 않는 강화 글래스 고정, 100m 방수."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1948년 영국 공군용 Mark XI에서 이어지는 75년 이상의 계보. 툴워치 DNA를 가장 순수하게 유지하는 현행 IWC 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "극도로 단순한 다이얼 덕분에 유행을 타지 않는다. 실용성과 역사성의 균형이 가장 좋은 IWC 입문 모델. 중고가 안정적."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328202",
+    "name": "Pilot's Watch Mark XX Bracelet",
+    "name_kr": "파일럿 워치 마크 XX 브레이슬릿",
+    "gender": "Men",
+    "price_krw": 8100000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 6500000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "마크 XX 스틸 브레이슬릿 버전",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "마크 XX와 동일한 Cal.32111에 스틸 브레이슬릿 추가. 브레이슬릿 버전은 착용감이 더 스포티하고 안정적. 가죽 스트랩 버전 대비 약 80만원 높은 가격은 합리적."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마크 XX와 동일한 헤리티지를 공유. 브레이슬릿 옵션은 드레스/캐주얼 모두 커버하는 범용성을 극대화한 구성."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "브레이슬릿의 내구성이 장기 착용에 유리. 스틸 브레이슬릿은 교체 비용 부담도 낮다. 레더 스트랩 버전보다 데일리 워치로서의 장기 가치가 높다는 평가."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW328207",
+    "name": "Pilot's Watch Mark XX White",
+    "name_kr": "파일럿 워치 마크 XX 화이트",
+    "gender": "Men",
+    "price_krw": 7300000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 11,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "32111",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Silver (White)",
+      "indexes": "Arabic Numerals + Triangle 12H"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": [
+      "Silver White"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 5800000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "화이트 다이얼 · 블랙 핸즈",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "블랙 다이얼 마크 XX와 동일 스펙이지만 화이트/실버 다이얼로 드레스워치에 가까운 인상. 블랙 핸즈와의 대비가 가독성을 살리며 오피스 착용에 최적화."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1948년 Mark XI의 화이트 다이얼 버전에서 영감을 받은 레이아웃. 가장 오리지널에 가까운 마크 시리즈의 디자인 코드를 현대적으로 계승한 모델."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "화이트 다이얼은 클래식 팔레트로 수십 년 후에도 통용될 디자인. 블랙 다이얼 대비 희소성이 있어 개성 표현에 유리."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW329303",
+    "name": "Pilot's Watch Chronograph 41",
+    "name_kr": "파일럿 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 11800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 14,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "69380",
+      "power_reserve_hours": 46,
+      "frequency_vph": 28800,
+      "jewels": 31,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black",
+      "Blue"
+    ],
+    "availability": "easy",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2022,
+    "resale_krw_est": 9500000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "IWC 자체 69380 칼리버 · 정시 리셋 크로노",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Tool-grade",
+        "comment": "41mm/14mm로 크로노그래프 기능을 갖추면서도 일상 착용 가능한 두께. Cal.69380은 IWC 자체 제작으로 46h 파워리저브. 기압 변화 대응 강화 글래스 고정이 파일럿 워치의 정체성을 유지."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "IWC 파일럿 크로노그래프 라인의 핵심. 탑건, 스핏파이어 등 파생 라인업의 기반이 되는 레퍼런스. 현행 모델은 2022년 리디자인으로 더 깔끔해진 케이스를 채용."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "파일럿 크로노그래프의 정석적 디자인으로 유행 영향이 적음. 경쟁 모델(브라이틀링 네비타이머, 오메가 스피드마스터) 대비 포지션 차별화가 필요. 장기적으로 안정적인 수요."
+      }
+    }
+  },
+  {
+    "brand": "IWC",
+    "collection": "Pilot",
+    "collection_kr": "파일럿",
+    "reference": "IW501001",
+    "name": "Big Pilot's Watch",
+    "name_kr": "빅 파일럿 워치",
+    "gender": "Men",
+    "price_krw": 23500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 46.2,
+      "thickness_mm": 15.6,
+      "water_resistance_m": 60,
+      "glass": "Sapphire Crystal (Pressurized)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "52110",
+      "power_reserve_hours": 168,
+      "frequency_vph": 21600,
+      "jewels": 67,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Power Reserve"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "Black"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 18000000,
+    "source": "IWC 공식 한국 홈페이지 (추정가)",
+    "notes": "7일 파워리저브 · 52110 자체 무브먼트 · 46.2mm 대형",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "46.2mm/15.6mm — 손목 둘레 18cm 이상 권장. 7일(168h) 파워리저브의 Cal.52110은 인상적이나 대형 케이스가 일상 착용의 허들. 파일럿 워치 컬렉션에서 가장 묵직한 존재감."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1940년대 항법 계기판 시계의 직접적 후계자. IWC 파일럿 라인에서 최고위 상징 모델. Big Pilot이라는 이름 자체가 장르를 정의하는 수준."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "큰 사이즈는 호불호가 갈리지만 컬렉터 세계에서 빅파일럿의 위상은 확고. 스틸 버전의 중고가는 안정적. 투자보다는 컬렉션의 앵커 피스로서의 가치가 크다."
+      }
+    }
+  }
+]

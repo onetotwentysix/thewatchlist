@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>THE WATCH LIST · 한국 공식가 기준</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@300;400;500&family=Noto+Sans+KR:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f9f9f8; --surface: #ffffff;
+  --border: #e4e4e2; --border-strong: #c8c8c5;
+  --ink: #111110; --muted: #6b6b68; --subtle: #9a9a97;
+  --gold: #b8953c; --gold-bg: #faf6ee;
+  --blue-bg: #eef3fb; --blue-text: #1a3a6b;
+  --green-bg: #eef6ee; --green-text: #1a4a20;
+  --navy-bg: #e8eef5; --navy-text: #1a2a5a;
+  --red-bg: #fceef0; --red-text: #8a1a28;
+}
+.dark {
+  --bg: #111111; --surface: #1a1a1a;
+  --border: #2a2a2a; --border-strong: #3a3a3a;
+  --ink: #ededed; --muted: #888884; --subtle: #555550;
+  --gold-bg: #1f1c14;
+  --blue-bg: #111822; --blue-text: #7aa3d4;
+  --green-bg: #111811; --green-text: #6aaa6a;
+  --navy-bg: #111520; --navy-text: #6a8aaa;
+  --red-bg: #1f1115; --red-text: #d47a88;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:var(--bg); color:var(--ink); font-family:'DM Sans',sans-serif; font-size:14px; min-height:100vh; transition:background 0.2s,color 0.2s; }
+
+/* HEADER */
+header { background:var(--ink); color:#fff; padding:0 48px; height:64px; display:flex; align-items:center; justify-content:space-between; position:sticky; top:0; z-index:200; }
+.logo { font-size:15px; font-weight:400; letter-spacing:0.15em; text-transform:uppercase; }
+.logo-dot { color:var(--gold); margin:0 8px; }
+.header-right { display:flex; align-items:center; gap:16px; }
+.header-meta { font-family:'DM Mono',monospace; font-size:10px; color:#888; letter-spacing:0.08em; text-align:right; line-height:1.7; }
+.theme-toggle { background:none; border:1px solid #333; color:#aaa; padding:4px 10px; border-radius:3px; font-family:'DM Mono',monospace; font-size:10px; cursor:pointer; letter-spacing:0.1em; transition:all 0.2s; }
+.theme-toggle:hover { border-color:#666; color:#fff; }
+
+/* CONTROLS */
+.controls { background:var(--surface); border-bottom:1px solid var(--border); padding:14px 48px; display:flex; gap:12px; align-items:center; flex-wrap:wrap; position:sticky; top:64px; z-index:100; }
+.search-wrap { position:relative; flex:1; min-width:220px; max-width:340px; }
+.search-wrap svg { position:absolute; left:12px; top:50%; transform:translateY(-50%); color:var(--subtle); pointer-events:none; }
+.search-wrap input { width:100%; padding:8px 12px 8px 36px; border:1px solid var(--border); background:var(--bg); border-radius:4px; font-family:'DM Sans',sans-serif; font-size:13px; color:var(--ink); outline:none; transition:border-color 0.15s; }
+.search-wrap input:focus { border-color:var(--border-strong); }
+.search-wrap input::placeholder { color:var(--subtle); }
+
+.sort-select { padding:7px 28px 7px 10px; border:1px solid var(--border); background:var(--bg); border-radius:4px; font-family:'DM Mono',monospace; font-size:10px; letter-spacing:0.06em; color:var(--muted); cursor:pointer; outline:none; appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%239a9a97'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 8px center; }
+.result-count { margin-left:auto; font-family:'DM Mono',monospace; font-size:10px; color:var(--subtle); white-space:nowrap; }
+.result-count b { color:var(--ink); }
+
+/* TABLE */
+main { padding:24px 48px 64px; }
+.table-wrap { border:1px solid var(--border); border-radius:6px; overflow-x:auto; background:var(--surface); }
+table { width:100%; border-collapse:collapse; font-size:13px; }
+thead { background:var(--ink); }
+thead th { padding:11px 14px; text-align:left; font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.18em; color:#aaa; font-weight:400; text-transform:uppercase; white-space:nowrap; }
+thead th:last-child { text-align:right; }
+tbody tr { border-bottom:1px solid var(--border); cursor:pointer; transition:background 0.1s; }
+tbody tr:last-child { border-bottom:none; }
+tbody tr:hover { background:var(--bg); }
+tbody tr.expanded { background:var(--bg); }
+td { padding:12px 14px; vertical-align:middle; }
+
+.collection-tag { display:inline-block; padding:2px 7px; border-radius:3px; font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.06em; white-space:nowrap; }
+/* 컬렉션 태그 색상은 meta.json에서 동적으로 주입됩니다 */
+
+.td-brand { font-family:'DM Mono',monospace; font-size:9px; color:var(--subtle); letter-spacing:0.08em; white-space:nowrap; }
+.td-ref { font-family:'DM Mono',monospace; font-size:11px; color:var(--muted); }
+.td-name { font-weight:400; }
+.td-name small { display:block; font-size:11px; color:var(--muted); font-weight:300; margin-top:1px; }
+.td-spec { font-size:12px; color:var(--muted); white-space:nowrap; }
+.td-price { font-family:'DM Mono',monospace; font-size:13px; text-align:right; white-space:nowrap; }
+.price-confirmed { color:var(--ink); }
+.price-estimated { color:var(--muted); }
+.price-estimated::after { content:'~'; font-size:10px; margin-left:1px; }
+.td-avail { text-align:center; }
+.avail-dot { display:inline-block; width:7px; height:7px; border-radius:50%; }
+.avail-easy { background:#4caf6a; }
+.avail-medium { background:#f5a623; }
+.avail-hard { background:#e53e3e; }
+
+/* VERDICT TAGS */
+.verdict-tag { display:inline-block; padding:2px 7px; border-radius:3px; font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.06em; white-space:nowrap; }
+.verdict-definitive { background:#111; color:#eee; }
+.verdict-iconic { background:#1a2a5a; color:#a0bfe0; }
+.verdict-versatile { background:#1a4028; color:#7ac89a; }
+.verdict-collector { background:#5a3a10; color:#d4a450; }
+.verdict-classic { background:#3a3a3a; color:#bbb; }
+.verdict-challenger { background:#5a3020; color:#d4947a; }
+.verdict-specialist { background:#2a2a3a; color:#9a9ab8; }
+.verdict-emerging { background:#2a3a2a; color:#8ab87a; }
+.dark .verdict-definitive { background:#ddd; color:#111; }
+
+/* EXPAND */
+.expand-row { display:none; }
+.expand-row.open { display:table-row; }
+.expand-cell { padding:0 !important; border-bottom:2px solid var(--gold) !important; }
+.expand-inner { padding:20px 28px; display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:20px; animation:fadeIn 0.15s ease; }
+@keyframes fadeIn { from{opacity:0;transform:translateY(-4px)} to{opacity:1;transform:translateY(0)} }
+.spec-group h4 { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.2em; color:var(--gold); text-transform:uppercase; margin-bottom:8px; padding-bottom:5px; border-bottom:1px solid var(--border); }
+.spec-row { display:flex; justify-content:space-between; align-items:baseline; gap:8px; padding:3px 0; border-bottom:1px solid var(--border); font-size:12px; }
+.spec-row:last-child { border-bottom:none; }
+.spec-key { color:var(--muted); flex-shrink:0; }
+.spec-val { font-weight:400; text-align:right; font-family:'DM Mono',monospace; font-size:11px; }
+.fn-wrap { display:flex; flex-wrap:wrap; gap:3px; margin-top:4px; }
+.fn-chip { font-family:'DM Mono',monospace; font-size:9px; padding:2px 6px; background:var(--bg); border:1px solid var(--border); border-radius:3px; color:var(--muted); }
+.verdict-grid { grid-column:1/-1; display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; }
+.verdict-item { padding:12px 14px; border:1px solid var(--border); border-radius:4px; }
+.verdict-item h5 { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.15em; color:var(--subtle); text-transform:uppercase; margin-bottom:6px; }
+.verdict-comment { font-size:11px; color:var(--muted); line-height:1.6; margin-top:4px; }
+.overall-row { grid-column:1/-1; display:flex; align-items:center; gap:10px; padding:10px 14px; background:var(--bg); border-radius:4px; border:1px solid var(--border); }
+.overall-label { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.15em; color:var(--subtle); text-transform:uppercase; }
+.source-line { grid-column:1/-1; font-family:'DM Mono',monospace; font-size:9px; color:var(--subtle); padding-top:6px; border-top:1px solid var(--border); }
+.notes-line { grid-column:1/-1; font-size:11px; color:var(--muted); padding:8px 12px; background:var(--bg); border-radius:4px; border-left:2px solid var(--border-strong); }
+
+/* EMPTY */
+.empty { text-align:center; padding:64px; color:var(--subtle); }
+
+/* FOOTER */
+footer { background:var(--ink); padding:20px 48px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; }
+footer p { font-family:'DM Mono',monospace; font-size:10px; color:#555; letter-spacing:0.08em; line-height:1.8; }
+footer p span { color:var(--gold); }
+
+/* SCROLLBAR */
+::-webkit-scrollbar { width:4px; height:4px; }
+::-webkit-scrollbar-track { background:transparent; }
+::-webkit-scrollbar-thumb { background:var(--border-strong); border-radius:2px; }
+
+/* RESPONSIVE */
+@media (max-width:900px) {
+  header, .controls, main, footer { padding-left:20px; padding-right:20px; }
+  .controls { top:56px; }
+  header { height:56px; }
+}
+@media (max-width:680px) {
+  .table-wrap { display:none; }
+  .card-list { display:block !important; }
+  .controls { flex-wrap:wrap; }
+}
+.card-list { display:none; }
+.card { border:1px solid var(--border); border-radius:6px; background:var(--surface); padding:14px; margin-bottom:8px; cursor:pointer; transition:background 0.15s; }
+.card:hover { background:var(--bg); }
+.card-expanded { border-color:var(--gold); }
+.card-top { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:6px; }
+.card-name { font-weight:500; margin-bottom:2px; }
+.card-ref { font-family:'DM Mono',monospace; font-size:11px; color:var(--muted); }
+.card-expand { margin-top:12px; padding-top:12px; border-top:1px solid var(--border); display:flex; flex-direction:column; gap:12px; }
+.card-expand-section { display:flex; flex-direction:column; gap:2px; }
+.card-expand-title { font-family:'DM Mono',monospace; font-size:9px; letter-spacing:0.18em; color:var(--gold); text-transform:uppercase; margin-bottom:6px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">THE WATCH LIST</div>
+  <div class="header-right">
+    <div class="header-meta">한국 공식가 기준<br>데이터 기준: 2026.03</div>
+    <button class="theme-toggle" id="themeToggle">Dark</button>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search-wrap">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input type="text" id="searchInput" placeholder="모델명, 레퍼런스, 칼리버 검색...">
+  </div>
+  <select class="sort-select" id="brandSelect">
+    <option value="all">전체 브랜드</option>
+    <!-- meta.json에서 동적 생성 -->
+  </select>
+  <select class="sort-select" id="sortSelect">
+    <option value="price-asc">가격 낮은 순</option>
+    <option value="price-desc">가격 높은 순</option>
+    <option value="name-asc">모델명 A→Z</option>
+    <option value="size-asc">직경 순</option>
+    <option value="thickness-asc">두께 얇은 순</option>
+  </select>
+  <div class="result-count"><b id="shownCount">0</b> / <span id="totalCount">0</span> 모델</div>
+</div>
+
+<main>
+  <div class="table-wrap">
+    <table id="watchTable">
+      <thead>
+        <tr>
+          <th>브랜드</th><th>컬렉션</th><th>레퍼런스</th><th>모델명</th>
+          <th>다이얼</th><th>케이스</th><th>직경</th><th>두께</th>
+          <th>무브먼트</th><th>파워리저브</th><th>방수</th><th>스트랩</th>
+          <th>구매</th><th>총평</th><th style="text-align:right">한국 공식가 (₩)</th>
+        </tr>
+      </thead>
+      <tbody id="watchTbody"></tbody>
+    </table>
+    <div class="empty" id="emptyState" style="display:none">
+      <p>검색 결과가 없습니다</p>
+    </div>
+  </div>
+  <div class="card-list" id="cardList"></div>
+</main>
+
+<footer>
+  <p><span>THE WATCH LIST</span> · 한국 공식 소비자가 기준 (세금 포함)<br>데이터 출처: IWC / Blancpain / JLC 공식, WatchCharts, Chrono24, Monochrome Watches · 수집일: 2026년 3월</p>
+  <p>가격은 공식 부티크에서 변동될 수 있습니다 · <span>~</span> 표시는 추정가 · 정확한 가격은 공식 부티크 확인 권장</p>
+</footer>
+
+<script>
+let watches = [];
+let meta = { brands: [], collections: {} };
+
+async function loadData() {
+  try {
+    const [watchRes, metaRes] = await Promise.all([
+      fetch('./watches.json'),
+      fetch('./meta.json')
+    ]);
+    watches = await watchRes.json();
+    meta = await metaRes.json();
+    initMeta();
+    renderTable();
+  } catch(e) {
+    document.getElementById("emptyState").style.display = "block";
+    document.getElementById("emptyState").innerHTML = "<p>⚠️ watches.json 또는 meta.json을 불러올 수 없습니다.<br>node build.js를 먼저 실행해주세요.</p>";
+    console.error("데이터 로드 실패:", e);
+  }
+}
+
+// ─── meta.json 기반 초기화 ───────────────────────────────────
+function initMeta() {
+  // 1) 컬렉션 태그 CSS 동적 주입
+  let css = "";
+  for (const [key, col] of Object.entries(meta.collections)) {
+    const cls = "ctag-" + key.toLowerCase().replace(/[^a-z0-9]/g, "");
+    css += `.${cls} { background:${col.bg}; color:${col.text}; }\n`;
+    // 다크모드: 배경을 어둡게, 텍스트를 밝게 자동 조정
+    const darkBg = col.bg.replace(/#([0-9a-f]{2})([0-9a-f]{2})([0-9a-f]{2})/i, (_, r, g, b) => {
+      return "#" + [r,g,b].map(h => Math.max(0, Math.round(parseInt(h,16)*0.25)).toString(16).padStart(2,"0")).join("");
+    });
+    const darkText = col.text.replace(/#([0-9a-f]{2})([0-9a-f]{2})([0-9a-f]{2})/i, (_, r, g, b) => {
+      return "#" + [r,g,b].map(h => Math.min(255, Math.round(parseInt(h,16)*1.6)).toString(16).padStart(2,"0")).join("");
+    });
+    css += `.dark .${cls} { background:${darkBg}; color:${darkText}; }\n`;
+  }
+  const style = document.createElement("style");
+  style.textContent = css;
+  document.head.appendChild(style);
+
+  // 2) 브랜드 드롭다운 생성
+  const select = document.getElementById("brandSelect");
+  const brandCounts = {};
+  for (const w of watches) brandCounts[w.brand] = (brandCounts[w.brand] || 0) + 1;
+  select.innerHTML = `<option value="all">전체 브랜드 (${watches.length})</option>`;
+  for (const b of meta.brands) {
+    const cnt = brandCounts[b.key] || 0;
+    if (cnt > 0) select.innerHTML += `<option value="${b.key}">${b.key} (${cnt})</option>`;
+  }
+  // 전체 모델 수 업데이트
+  document.getElementById("totalCount").textContent = watches.length;
+}
+
+const availMap = {
+  easy:   {label:"구매 가능", cls:"avail-easy"},
+  medium: {label:"일반 대기", cls:"avail-medium"},
+  hard:   {label:"웨이팅",   cls:"avail-hard"}
+};
+
+function collectionTag(c) {
+  const col = meta.collections[c];
+  const cls = "ctag-" + c.toLowerCase().replace(/[^a-z0-9]/g, "");
+  const label = col ? col.kr : c;
+  return `<span class="collection-tag ${cls}">${label}</span>`;
+}
+
+function verdictTag(overall) {
+  const map = {
+    "Definitive":"verdict-definitive",
+    "Iconic":"verdict-iconic",
+    "Versatile":"verdict-versatile",
+    "Collector's Pick":"verdict-collector",
+    "Classic":"verdict-classic",
+    "Challenger":"verdict-challenger",
+    "Specialist":"verdict-specialist",
+    "Emerging":"verdict-emerging",
+  };
+  const cls = map[overall] || "verdict-specialist";
+  return `<span class="verdict-tag ${cls}">${overall}</span>`;
+}
+
+function fmtPrice(p) { return p.toLocaleString('ko-KR'); }
+function fmtPriceFull(p) { return '₩' + p.toLocaleString('ko-KR'); }
+
+let currentFilter = "all";
+let currentSearch = "";
+let currentSort = "price-asc";
+let expandedId = null;
+
+function getFiltered() {
+  let data = watches.filter(w => {
+    const matchBrand = currentFilter === "all" || w.brand === currentFilter;
+    const q = currentSearch.toLowerCase();
+    const matchSearch = !q ||
+      w.name.toLowerCase().includes(q) ||
+      w.name_kr.includes(q) ||
+      w.reference.toLowerCase().includes(q) ||
+      w.movement.caliber.toLowerCase().includes(q) ||
+      (w.collection_kr||"").includes(q) ||
+      (w.brand||"").toLowerCase().includes(q) ||
+      w.dial.color.toLowerCase().includes(q);
+    return matchBrand && matchSearch;
+  });
+  data.sort((a,b) => {
+    if (currentSort === "price-asc")      return a.price_krw - b.price_krw;
+    if (currentSort === "price-desc")     return b.price_krw - a.price_krw;
+    if (currentSort === "name-asc")       return a.name.localeCompare(b.name);
+    if (currentSort === "size-asc")       return a.case.diameter_mm - b.case.diameter_mm;
+    if (currentSort === "thickness-asc")  return (a.case.thickness_mm||99)-(b.case.thickness_mm||99);
+    return 0;
+  });
+  return data;
+}
+
+function strapTag(type) {
+  const m = {"Bracelet":"verdict-iconic","Leather":"verdict-challenger","Rubber":"verdict-versatile"};
+  const cls = m[type] || "verdict-specialist";
+  return `<span class="verdict-tag ${cls}" style="font-size:9px">${type}</span>`;
+}
+
+function renderTable() {
+  const data = getFiltered();
+  document.getElementById("shownCount").textContent = data.length;
+  const tbody = document.getElementById("watchTbody");
+  const empty = document.getElementById("emptyState");
+
+  if (!data.length) { tbody.innerHTML = ""; empty.style.display = "block"; renderCards(data); return; }
+  empty.style.display = "none";
+
+  tbody.innerHTML = data.map(w => {
+    const av = availMap[w.availability];
+    const isExp = expandedId === w.id;
+    const v = w.verdict || {};
+
+    const expandHtml = isExp ? `
+    <tr class="expand-row open" data-expand="${w.id}">
+      <td class="expand-cell" colspan="15">
+        <div class="expand-inner">
+          <div class="spec-group">
+            <h4>💰 가격 정보</h4>
+            <div class="spec-row"><span class="spec-key">한국 공식가</span><span class="spec-val">${fmtPriceFull(w.price_krw)} ${w.price_confirmed?'':'(추정)'}</span></div>
+            <div class="spec-row"><span class="spec-key">중고 시세 (추정)</span><span class="spec-val">${fmtPriceFull(w.resale_krw_est)}</span></div>
+            <div class="spec-row"><span class="spec-key">구매 난이도</span><span class="spec-val">${av.label}</span></div>
+            <div class="spec-row"><span class="spec-key">출시 연도</span><span class="spec-val">${w.year_introduced}</span></div>
+          </div>
+          <div class="spec-group">
+            <h4>⌚ 케이스</h4>
+            <div class="spec-row"><span class="spec-key">소재</span><span class="spec-val">${w.case.material}</span></div>
+            <div class="spec-row"><span class="spec-key">직경</span><span class="spec-val">${w.case.diameter_mm} mm</span></div>
+            <div class="spec-row"><span class="spec-key">두께</span><span class="spec-val">${w.case.thickness_mm||"–"} mm</span></div>
+            <div class="spec-row"><span class="spec-key">방수</span><span class="spec-val">${w.case.water_resistance_m} m</span></div>
+            <div class="spec-row"><span class="spec-key">유리</span><span class="spec-val">${w.case.glass}</span></div>
+            <div class="spec-row"><span class="spec-key">케이스백</span><span class="spec-val">${w.case.caseback}</span></div>
+            <div class="spec-row"><span class="spec-key">다이얼 컬러</span><span class="spec-val">${w.dial.color}</span></div>
+            <div class="spec-row"><span class="spec-key">인덱스</span><span class="spec-val">${w.dial.indexes}</span></div>
+          </div>
+          <div class="spec-group">
+            <h4>⚙ 무브먼트</h4>
+            <div class="spec-row"><span class="spec-key">타입</span><span class="spec-val">${w.movement.type}</span></div>
+            <div class="spec-row"><span class="spec-key">칼리버</span><span class="spec-val">${w.movement.caliber}</span></div>
+            <div class="spec-row"><span class="spec-key">파워리저브</span><span class="spec-val">${w.movement.power_reserve_hours}h (${Math.round(w.movement.power_reserve_hours/24)}일)</span></div>
+            <div class="spec-row"><span class="spec-key">주파수</span><span class="spec-val">${(w.movement.frequency_vph/3600).toFixed(1)} Hz</span></div>
+            <div class="spec-row"><span class="spec-key">보석수</span><span class="spec-val">${w.movement.jewels}개</span></div>
+            <div class="spec-row"><span class="spec-key">COSC</span><span class="spec-val">${w.certification?'✓ 인증':'—'}</span></div>
+            <div class="fn-wrap">${w.movement.functions.map(f=>`<span class="fn-chip">${f}</span>`).join('')}</div>
+          </div>
+          <div class="spec-group">
+            <h4>🔗 스트랩 / 기타</h4>
+            <div class="spec-row"><span class="spec-key">타입</span><span class="spec-val">${w.strap.type}</span></div>
+            <div class="spec-row"><span class="spec-key">소재</span><span class="spec-val">${w.strap.material}</span></div>
+            <div class="spec-row"><span class="spec-key">클라습</span><span class="spec-val">${w.strap.clasp}</span></div>
+            <div class="spec-row"><span class="spec-key">브레이슬릿 옵션</span><span class="spec-val">${w.bracelet_option?'있음':'없음'}</span></div>
+            <div class="spec-row"><span class="spec-key">한정판</span><span class="spec-val">${w.limited?'⚑ 한정':'—'}</span></div>
+            <div class="spec-row"><span class="spec-key">다이얼 옵션</span><span class="spec-val">${(w.color_variants||[]).join(' / ')}</span></div>
+          </div>
+          ${v.overall ? `
+          <div class="verdict-grid">
+            <div class="overall-row">
+              <span class="overall-label">총평</span>
+              ${verdictTag(v.overall)}
+            </div>
+            ${v.spec ? `<div class="verdict-item"><h5>Spec &amp; Fit</h5>${verdictTag(v.spec.label)}<p class="verdict-comment">${v.spec.comment}</p></div>` : ''}
+            ${v.heritage ? `<div class="verdict-item"><h5>Heritage &amp; Story</h5>${verdictTag(v.heritage.label)}<p class="verdict-comment">${v.heritage.comment}</p></div>` : ''}
+            ${v.timelessness ? `<div class="verdict-item"><h5>Timelessness &amp; Value</h5>${verdictTag(v.timelessness.label)}<p class="verdict-comment">${v.timelessness.comment}</p></div>` : ''}
+          </div>` : ''}
+          ${w.notes ? `<div class="notes-line">📝 ${w.notes}</div>` : ''}
+          <div class="source-line">📌 데이터 출처: ${w.source}</div>
+        </div>
+      </td>
+    </tr>` : '';
+
+    return `
+    <tr data-id="${w.id}" class="${isExp?'expanded':''}" onclick="toggleExpand(${w.id})">
+      <td class="td-brand">${w.brand}</td>
+      <td>${collectionTag(w.collection)}</td>
+      <td class="td-ref">${w.reference}</td>
+      <td class="td-name">${w.name_kr}<small>${w.name}</small></td>
+      <td class="td-spec">${w.dial.color}</td>
+      <td class="td-spec">${w.case.material}</td>
+      <td class="td-spec">${w.case.diameter_mm}mm</td>
+      <td class="td-spec">${w.case.thickness_mm||'–'}mm</td>
+      <td class="td-spec">${w.movement.caliber}</td>
+      <td class="td-spec">${w.movement.power_reserve_hours}h</td>
+      <td class="td-spec">${w.case.water_resistance_m}m</td>
+      <td>${strapTag(w.strap.type)}</td>
+      <td class="td-avail"><span class="avail-dot ${av.cls}" title="${av.label}"></span></td>
+      <td>${v.overall ? verdictTag(v.overall) : '—'}</td>
+      <td class="td-price ${w.price_confirmed?'price-confirmed':'price-estimated'}">₩${fmtPrice(w.price_krw)}</td>
+    </tr>
+    ${expandHtml}`;
+  }).join('');
+
+  renderCards(data);
+}
+
+function renderCards(data) {
+  const cardList = document.getElementById("cardList");
+  cardList.innerHTML = data.map(w => {
+    const v = w.verdict || {};
+    const av = availMap[w.availability];
+    const isExp = expandedId === w.id;
+
+    const expandHtml = isExp ? `
+    <div class="card-expand">
+      <div class="card-expand-section">
+        <div class="card-expand-title">💰 가격 정보</div>
+        <div class="spec-row"><span class="spec-key">한국 공식가</span><span class="spec-val">${fmtPriceFull(w.price_krw)} ${w.price_confirmed?'':'(추정)'}</span></div>
+        <div class="spec-row"><span class="spec-key">중고 시세 (추정)</span><span class="spec-val">${fmtPriceFull(w.resale_krw_est)}</span></div>
+        <div class="spec-row"><span class="spec-key">구매 난이도</span><span class="spec-val">${av.label}</span></div>
+        <div class="spec-row"><span class="spec-key">출시 연도</span><span class="spec-val">${w.year_introduced}</span></div>
+      </div>
+      <div class="card-expand-section">
+        <div class="card-expand-title">⌚ 케이스 &amp; 무브먼트</div>
+        <div class="spec-row"><span class="spec-key">소재</span><span class="spec-val">${w.case.material}</span></div>
+        <div class="spec-row"><span class="spec-key">직경 / 두께</span><span class="spec-val">${w.case.diameter_mm}mm / ${w.case.thickness_mm||'–'}mm</span></div>
+        <div class="spec-row"><span class="spec-key">방수</span><span class="spec-val">${w.case.water_resistance_m}m</span></div>
+        <div class="spec-row"><span class="spec-key">케이스백</span><span class="spec-val">${w.case.caseback}</span></div>
+        <div class="spec-row"><span class="spec-key">칼리버</span><span class="spec-val">${w.movement.caliber} (${w.movement.type})</span></div>
+        <div class="spec-row"><span class="spec-key">파워리저브</span><span class="spec-val">${w.movement.power_reserve_hours}h (${Math.round(w.movement.power_reserve_hours/24)}일)</span></div>
+        <div class="spec-row"><span class="spec-key">스트랩</span><span class="spec-val">${w.strap.type} · ${w.strap.material}</span></div>
+        <div class="fn-wrap" style="margin-top:6px">${w.movement.functions.map(f=>`<span class="fn-chip">${f}</span>`).join('')}</div>
+      </div>
+      ${v.overall ? `
+      <div class="card-expand-section">
+        <div class="card-expand-title">📋 총평</div>
+        <div style="margin-bottom:8px">${verdictTag(v.overall)}</div>
+        ${v.spec ? `<div class="verdict-item" style="margin-bottom:6px"><h5>Spec &amp; Fit</h5>${verdictTag(v.spec.label)}<p class="verdict-comment">${v.spec.comment}</p></div>` : ''}
+        ${v.heritage ? `<div class="verdict-item" style="margin-bottom:6px"><h5>Heritage &amp; Story</h5>${verdictTag(v.heritage.label)}<p class="verdict-comment">${v.heritage.comment}</p></div>` : ''}
+        ${v.timelessness ? `<div class="verdict-item"><h5>Timelessness &amp; Value</h5>${verdictTag(v.timelessness.label)}<p class="verdict-comment">${v.timelessness.comment}</p></div>` : ''}
+      </div>` : ''}
+      ${w.notes ? `<div class="notes-line">📝 ${w.notes}</div>` : ''}
+      <div class="source-line" style="margin-top:8px">📌 ${w.source}</div>
+    </div>` : '';
+
+    return `<div class="card ${isExp?'card-expanded':''}" onclick="toggleExpand(${w.id})">
+      <div class="card-top">
+        <div style="display:flex;gap:6px;align-items:center">${collectionTag(w.collection)}<span class="td-brand">${w.brand}</span></div>
+        <div style="display:flex;align-items:center;gap:8px">
+          <div class="td-price ${w.price_confirmed?'price-confirmed':'price-estimated'}">₩${fmtPrice(w.price_krw)}</div>
+          <span style="font-size:11px;color:var(--subtle);transition:transform 0.2s;display:inline-block;transform:${isExp?'rotate(180deg)':'rotate(0deg)'}"">▾</span>
+        </div>
+      </div>
+      <div class="card-name">${w.name_kr}</div>
+      <div class="card-ref">${w.reference} · ${w.case.diameter_mm}mm · ${w.case.thickness_mm||'–'}mm</div>
+      ${v.overall ? `<div style="margin-top:6px">${verdictTag(v.overall)}</div>` : ''}
+      ${expandHtml}
+    </div>`;
+  }).join('');
+}
+
+function toggleExpand(id) {
+  expandedId = expandedId === id ? null : id;
+  renderTable();
+}
+
+document.getElementById("searchInput").addEventListener("input", e => {
+  currentSearch = e.target.value;
+  renderTable();
+});
+document.getElementById("brandSelect").addEventListener("change", e => {
+  currentFilter = e.target.value;
+  renderTable();
+});
+document.getElementById("sortSelect").addEventListener("change", e => {
+  currentSort = e.target.value;
+  renderTable();
+});
+
+const root = document.documentElement;
+const toggle = document.getElementById("themeToggle");
+if (localStorage.getItem("theme") === "dark") {
+  root.classList.add("dark");
+  toggle.textContent = "Light";
+}
+toggle.addEventListener("click", () => {
+  const isDark = root.classList.toggle("dark");
+  toggle.textContent = isDark ? "Light" : "Dark";
+  localStorage.setItem("theme", isDark ? "dark" : "light");
+});
+
+loadData();
+</script>
+</body>
+</html>

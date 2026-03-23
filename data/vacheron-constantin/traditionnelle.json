@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "Vacheron Constantin",
+    "collection": "Traditionnelle",
+    "collection_kr": "트라디셔넬",
+    "reference": "6606W/000G-B517",
+    "name": "Traditionnelle Complete Calendar",
+    "name_kr": "트라디셔넬 컴플리트 캘린더",
+    "gender": "Men",
+    "price_krw": 38000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "White Gold",
+      "diameter_mm": 38,
+      "thickness_mm": 8.7,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2460 QCL",
+      "power_reserve_hours": 40,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": ["Hours", "Minutes", "Seconds", "Annual Calendar", "Day", "Date", "Month", "Moon Phase", "Week"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Breguet-style Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Blue"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2012,
+    "resale_krw_est": 30000000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "38mm 화이트 골드 · 8.7mm · Cal. 2460 QCL 자동 애뉴얼 캘린더 · 요일·날짜·월·주차·문페이즈 · 기요셰 다이얼 · 로마 숫자 인덱스 · Traditionnelle 라인 중 가격 접근성 높은 컴플리케이션",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Specialist",
+        "comment": "38mm/8.7mm, Cal. 2460 QCL 자동 애뉴얼 캘린더. 퍼페추얼 캘린더보다 한 단계 아래지만 연 1회(2월 말) 교정으로 일상적 사용 가능. 문페이즈·주차 포함 5가지 달력 정보를 기요셰 다이얼에 균형있게 배치."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Traditionnelle 컬렉션은 VC가 18세기 전통 시계 제조 방식을 현대적으로 계승한 라인. 기요셰 다이얼, 로마 숫자, 시스루 케이스백 — 고전적 시계 제조의 문법을 가장 충실히 따른다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "애뉴얼 캘린더는 퍼페추얼의 복잡성과 단순 날짜 표시의 실용성 사이 최적점. VC 헤리티지 + 전통적 달력 컴플리케이션은 시대를 타지 않는 조합. 화이트 골드 케이스의 가치 보존도 안정적."
+      }
+    }
+  }
+]

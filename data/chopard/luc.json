@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Chopard",
+    "collection": "LUC",
+    "collection_kr": "L.U.C",
+    "reference": "161242-5001",
+    "name": "L.U.C XPS",
+    "name_kr": "L.U.C XPS",
+    "gender": "Men",
+    "price_krw": 12500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 39.5,
+      "thickness_mm": 7.13,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "L.U.C 96.01-L",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 23,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Black", "Blue"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 1996,
+    "resale_krw_est": 9500000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "39.5mm · 두께 7.13mm · Cal. L.U.C 96.01-L · COSC + 제네바 씰(Poinçon de Genève) 더블 인증 · Chopard L.U.C 라인의 상징적 입문작",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Dressy",
+        "comment": "39.5mm/7.13mm의 우아한 비율. Cal. L.U.C 96.01-L은 COSC + Poinçon de Genève 더블 인증으로 기계적 정밀도와 마감 모두 최상위 수준. 65h 파워리저브도 충분."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1996년 탄생한 L.U.C 라인의 첫 번째 인하우스 칼리버 탑재작. 보석상 출신 Chopard가 진지한 시계 제조사로 전환하는 이정표가 된 모델. 30년 가까운 계보."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "미니멀한 드레스워치 형태에 더블 인증 무브먼트 조합은 시간이 지나도 가치가 퇴색되지 않는다. IWC 포르투기저, A. Lange Saxonia의 대안으로 평가받는 포지션."
+      }
+    }
+  },
+  {
+    "brand": "Chopard",
+    "collection": "LUC",
+    "collection_kr": "L.U.C",
+    "reference": "168581-3003",
+    "name": "L.U.C Quattro",
+    "name_kr": "L.U.C 콰트로",
+    "gender": "Men",
+    "price_krw": 35000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40,
+      "thickness_mm": 9.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "L.U.C 98.06-L",
+      "power_reserve_hours": 216,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": ["Hours", "Minutes", "Seconds", "Power Reserve Indicator"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Applied Indices"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 1997,
+    "resale_krw_est": 26000000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "4개의 스프링 배럴 직렬 배치 · 216h(9일) 파워리저브 · Cal. L.U.C 98.06-L · COSC + Poinçon de Genève 더블 인증 · 파워리저브 인디케이터 내장",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "4개의 스프링 배럴로 216h(9일) 파워리저브는 수동 드레스워치 중 독보적. Cal. L.U.C 98.06-L은 COSC + Poinçon de Genève 더블 인증. 다이얼의 파워리저브 인디케이터가 실용성 보완."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "L.U.C 라인의 기술적 이정표. 4배럴 직렬 구조는 1997년 당시 독창적 설계로, 이후 Chopard 고급 시계 기술력의 상징이 됐다. 30년 가까운 업그레이드 계보."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "9일 파워리저브라는 극단적 스펙은 모든 시대에서 수집 가치를 유지한다. 더블 인증 + 4배럴 + 파워리저브 인디케이터 조합은 유사 가격대에서 찾기 어렵다."
+      }
+    }
+  },
+  {
+    "brand": "Chopard",
+    "collection": "LUC",
+    "collection_kr": "L.U.C",
+    "reference": "161902-5001",
+    "name": "L.U.C XPS 1860",
+    "name_kr": "L.U.C XPS 1860",
+    "gender": "Men",
+    "price_krw": 9800000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 6.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Manual",
+      "caliber": "L.U.C 96.01-L",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 23,
+      "functions": ["Hours", "Minutes", "Seconds"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "color_variants": ["Silver", "Champagne"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2010,
+    "resale_krw_est": 7500000,
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "38mm · 두께 6.8mm · 수동 Cal. L.U.C 96.01-L · Chopard 창립 연도 1860 헌정 모델 · L.U.C 라인 최소형 · 아라비아 숫자 인덱스로 빈티지 감성",
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "38mm/6.8mm의 고전적 드레스워치 비율. 수동 무브먼트로 시계와의 관계를 더 직접적으로 느낄 수 있다. COSC + Poinçon de Genève 더블 인증 동일 적용."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Chopard 1860년 창립을 기념하는 모델로 브랜드 헤리티지를 가장 직접적으로 담는다. 아라비아 숫자 다이얼은 초기 포켓워치 시대를 연상시키는 클래식 표현."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "38mm 드레스워치는 패션과 무관하게 항상 적합한 선택. 헌정 모델 특성상 수집 가치도 높다. XPS보다 작고 더 클래식한 포지션으로 차별화."
+      }
+    }
+  }
+]

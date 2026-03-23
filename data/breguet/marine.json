@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Breguet",
+    "collection": "Marine",
+    "collection_kr": "마린",
+    "reference": "5517TI/12/9ZU",
+    "name": "Marine Automatique 5517",
+    "name_kr": "마린 오토매틱 5517",
+    "gender": "Men",
+    "price_krw": 24000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 40,
+      "thickness_mm": 11.7,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "777Q",
+      "power_reserve_hours": 45,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Blue", "Silver"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2004,
+    "resale_krw_est": 18500000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "40mm 티타늄 · 11.7mm · 300m 방수 · Cal. 777Q 자동 · 웨이브 패턴 다이얼 · 브레게 핸즈 · Louis XVIII 항해 장비 납품 역사에서 비롯된 마린 전통",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "40mm 티타늄/11.7mm, Cal. 777Q 자동, 300m 방수. 브레게 중 유일하게 진지한 다이버 스펙. 티타늄 케이스로 착용감 개선. 웨이브 패턴 다이얼은 브레게 고유 미학이 스포츠에 녹아든 결과."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1815년 프랑스 루이 18세가 브레게에 해군 시계기사(Horloger de la Marine Royale) 직위를 부여한 역사에서 출발. 드레스 브랜드 브레게가 해양 시계에 진지하게 임하는 역사적 근거."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "브레게 마린은 스포츠 시계 시장에서 독특한 포지션 — 브레게 디자인 언어(핸즈, 다이얼 장식)를 유지한 채 스포츠 기능을 갖춘다. 다른 브레게 모델과 대비되는 착용 다양성."
+      }
+    }
+  },
+  {
+    "brand": "Breguet",
+    "collection": "Marine",
+    "collection_kr": "마린",
+    "reference": "5527TI/12/9ZU",
+    "name": "Marine Chronograph 5527",
+    "name_kr": "마린 크로노그래프 5527",
+    "gender": "Men",
+    "price_krw": 38000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 44,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 100,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "728",
+      "power_reserve_hours": 48,
+      "frequency_vph": 28800,
+      "jewels": 33,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Blue", "Silver"],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2011,
+    "resale_krw_est": 30000000,
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "44mm 티타늄 · 14.3mm · Cal. 728 인하우스 크로노그래프 · 100m 방수 · 웨이브 기요셰 다이얼 · 브레게 크로노그래프의 플래그십 · 세라믹 베젤 옵션",
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Specialist",
+        "comment": "44mm/14.3mm 두꺼운 케이스. Cal. 728 인하우스 크로노그래프 48h PR. 100m 방수. 기요셰 다이얼에 크로노그래프 서브다이얼의 조화. 두꺼운 두께는 착용 허들이지만 브레게 크로노 기술력의 정점."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "마린 크로노그래프는 해양 타임피스로서의 정밀 계시 전통을 가장 복합적으로 구현. 항법 크로노미터의 현대적 해석이라는 내러티브가 설득력 있다."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "44mm 크로노그래프는 특정 취향의 구매자에게 최선의 선택. 브레게 디자인 언어를 유지한 스포츠 크로노그래프는 시장에서 거의 유일한 포지션. 수요층은 좁지만 충성도가 높다."
+      }
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Breitling",
+    "collection": "Navitimer",
+    "collection_kr": "나비타이머",
+    "reference": "AB0138241B1P1",
+    "name": "Navitimer B01 Chronograph 43",
+    "name_kr": "나비타이머 B01 크로노그래프 43",
+    "gender": "Men",
+    "price_krw": 11000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.55,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "B01",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 47,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Black", "Silver", "Blue"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 1952,
+    "resale_krw_est": 9000000,
+    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "43mm · 14.55mm · Cal. B01 인하우스 자동 크로노그래프 · COSC 인증 · 70h 파워리저브 · 슬라이드 룰 회전 베젤(항법 계산용) · 1952년 이래 파일럿 크로노그래프의 레퍼런스",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Specialist",
+        "comment": "43mm/14.55mm, 인하우스 Cal. B01 COSC 자동 크로노, 70h PR. 14mm 이상 두께는 착용 허들. 슬라이드 룰 베젤은 실제 항법 계산이 가능한 기능적 요소. 크로노그래프 무브먼트 품질은 이 가격대 최고 수준."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1952년 AOPA(미 항공기 오너-파일럿 협회) 의뢰로 탄생. 70년 이상 변함없는 슬라이드 룰 베젤 + 파일럿 크로노 구성. 항공 역사와 함께한 시계로 Navitimer라는 이름 자체가 항공 시계의 대명사."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "슬라이드 룰 베젤은 디지털 시대에 실용성을 잃었지만 아이코닉한 디자인 요소로 자리잡았다. 70년 이상 한결같은 다이얼 구성은 트렌드 무관. 항공 문화 팬들의 영원한 선택."
+      }
+    }
+  },
+  {
+    "brand": "Breitling",
+    "collection": "Navitimer",
+    "collection_kr": "나비타이머",
+    "reference": "AB0139241B1P1",
+    "name": "Navitimer B01 Chronograph 41",
+    "name_kr": "나비타이머 B01 크로노그래프 41",
+    "gender": "Men",
+    "price_krw": 10000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 13.6,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "B01",
+      "power_reserve_hours": 70,
+      "frequency_vph": 28800,
+      "jewels": 47,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+    },
+    "dial": {
+      "color": "Silver",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Silver", "Black", "Blue"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2021,
+    "resale_krw_est": 8200000,
+    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · 13.6mm · Cal. B01 인하우스 COSC · 슬라이드 룰 베젤 · 43mm 대비 착용 허들 낮음 · 손목 둘레 16cm 이상 적합 · Navitimer 라인업 입문 최적 사이즈",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "41mm/13.6mm, 동일 Cal. B01 COSC 자동 크로노 70h. 43mm 대비 케이스 사이즈와 두께 모두 감소로 착용 허들 낮아짐. Navitimer 헤리티지와 B01 무브먼트 품질을 더 넓은 손목 사이즈에 제공."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Navitimer B01 41mm는 2021년 추가된 최신 사이즈로 헤리티지 연도는 짧다. 그러나 1952년 나비타이머 오리지널의 44.6mm보다 오히려 현대인 손목에 더 적합한 크기. 같은 DNA의 더 접근하기 쉬운 버전."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "41mm는 Navitimer 라인 중 가장 일상 착용에 적합한 중간 지점. B01 무브먼트와 COSC 인증은 장기 가치 보존에 기여. 크로노그래프 시계의 가장 실용적인 사이즈 선택."
+      }
+    }
+  },
+  {
+    "brand": "Breitling",
+    "collection": "Navitimer",
+    "collection_kr": "나비타이머",
+    "reference": "A17395161C1P1",
+    "name": "Navitimer Automatic 41",
+    "name_kr": "나비타이머 오토매틱 41",
+    "gender": "Men",
+    "price_krw": 7500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 12.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal (AR)",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "17",
+      "power_reserve_hours": 38,
+      "frequency_vph": 28800,
+      "jewels": 25,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Arabic Numerals (Luminous)"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Black", "Silver", "Blue", "Green"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2020,
+    "resale_krw_est": 5800000,
+    "source": "Breitling 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · 12.4mm · Cal. 17 (개량 ETA 2824) COSC 인증 · 크로노그래프 없는 3침 + 날짜 구성 · 슬라이드 룰 베젤 유지 · Navitimer 헤리티지를 가장 가볍고 얇게 경험하는 입문 모델",
+    "verdict": {
+      "overall": "Versatile",
+      "spec": {
+        "label": "Versatile",
+        "comment": "41mm/12.4mm, Cal. 17 COSC 자동 38h. 크로노그래프를 제거해 두께·가격 모두 낮췄다. 슬라이드 룰 베젤은 그대로 유지. Navitimer의 상징적 외관을 일상 드레스워치로 착용하려는 구매자의 선택."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "1952년 Navitimer 오리지널 크로노그래프와 같은 슬라이드 룰 베젤 DNA. 크로노그래프 없이도 Navitimer 헤리티지를 충분히 전달한다. 크로노 기능이 필요 없는 파일럿 헤리티지 팬을 위한 모델."
+      },
+      "timelessness": {
+        "label": "Strong",
+        "comment": "7백만대 초반의 가격, COSC 인증, 슬라이드 룰 베젤의 조합은 브레이틀링 입문으로 가장 추천받는 조합. 크로노그래프 없는 단순한 구성이 일상 착용 내구성에도 유리하다."
+      }
+    }
+  }
+]

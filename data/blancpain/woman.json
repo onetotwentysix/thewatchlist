@@ -1,0 +1,71 @@
+[
+  {
+    "brand": "Blancpain",
+    "collection": "Woman",
+    "collection_kr": "우먼",
+    "reference": "3663A-4654-55B",
+    "name": "Ladybird Complete Calendar Moonphase",
+    "name_kr": "레이디버드 컴플리트 캘린더 문페이즈",
+    "gender": "Women",
+    "price_krw": 26000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 35,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "5954",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Applied Roman Numerals"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "color_variants": [
+      "White",
+      "Mother of Pearl"
+    ],
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": 2014,
+    "resale_krw_est": 20000000,
+    "source": "Chrono24 (USD $15,000~ 추정)",
+    "notes": "1956년 세계 최소 원형 기계식 시계 레이디버드 계보. 18K 화이트골드.",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Dressy",
+        "comment": "35mm의 레이디스 사이즈에 컴플리트 캘린더와 문페이즈 동시 구현. Cal.5954는 동일. 18K 화이트골드가 귀금속 가치를 더함."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1956년 세계 최소 원형 기계식 시계 레이디버드의 현대 계보. 여성 럭셔리 워치 역사에서 블랑팡의 아이콘. 기술력과 감성 모두 최상위."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "여성 하이컴플리케이션 워치 시장은 틈새지만 확고. 블랑팡 레이디버드 계보는 수집 가치 매우 높음. 귀금속 케이스가 장기 내재 가치 지지."
+      }
+    }
+  }
+]

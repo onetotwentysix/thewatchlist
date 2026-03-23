@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Vacheron Constantin",
+    "collection": "Overseas",
+    "collection_kr": "오버시즈",
+    "reference": "4500V/110A-B483",
+    "name": "Overseas 41mm",
+    "name_kr": "오버시즈 41",
+    "gender": "Men",
+    "price_krw": 16500000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 11.0,
+      "water_resistance_m": 150,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "5100",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 36,
+      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Integrated Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Blue", "Silver", "Green", "Black"],
+    "availability": "easy",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 14000000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · 11mm · Cal. 5100 COSC 인증 자동 60h · 교체형 스트랩 3종 동봉 (메탈 브레이슬릿 + 가죽 + 러버) · 말타 십자가 크라운 가드 · 150m 방수 · 세계에서 가장 오래된 시계 메이커(1755~)의 스포츠워치",
+    "verdict": {
+      "overall": "Iconic",
+      "spec": {
+        "label": "Versatile",
+        "comment": "41mm/11mm, COSC 인증 Cal. 5100 자동 60h, 150m 방수. 구매 시 메탈·가죽·러버 스트랩 3종 동봉으로 착용 범용성 최상. 럭셔리 스포츠 시계 중 스트랩 유연성이 가장 높은 모델."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1755년 창립, 단 한 번도 생산을 중단하지 않은 세계에서 가장 오래된 시계 메이커. Overseas는 그 이름처럼 '바다 건너'에서도 언제나 작동하는 글로벌 컴패니언. 브랜드 헤리티지가 모델에 직접 투영된다."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "AP 로열 오크, PP 노틸러스와 함께 럭셔리 스포츠 인터그레이티드 브레이슬릿 3대장으로 불린다. 상대적으로 합리적 가격, 3종 스트랩 동봉으로 실용성까지 갖춘 포지션."
+      }
+    }
+  },
+  {
+    "brand": "Vacheron Constantin",
+    "collection": "Overseas",
+    "collection_kr": "오버시즈",
+    "reference": "5500V/110A-B481",
+    "name": "Overseas Dual Time",
+    "name_kr": "오버시즈 듀얼 타임",
+    "gender": "Men",
+    "price_krw": 22000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 41,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 150,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "5110",
+      "power_reserve_hours": 60,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": ["Hours", "Minutes", "Seconds", "Date", "Second Time Zone", "Day/Night Indicator"]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Integrated Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Blue", "Silver"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 18000000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "41mm · 11.4mm · Cal. 5110 COSC 자동 · 2nd 타임존 + 주야 인디케이터 · 교체형 스트랩 3종 동봉 · 빈번한 해외 출장자에게 최적화된 Overseas의 플래그십 기능 버전",
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Versatile",
+        "comment": "41mm, COSC 인증 Cal. 5110 자동, 2nd 타임존 + 주야 인디케이터. 출장·여행 빈도가 높은 사용자에게 실용 가치 극대화. 기본 Overseas 대비 약 5mm 두께 증가는 무시할 수준."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "'바다 건너'라는 이름값을 기능으로 직접 구현. 2nd 타임존은 Overseas의 정체성과 가장 잘 맞는 컴플리케이션. 1755년 이래 글로벌 비즈니스맨을 위한 시계를 만들어온 VC의 DNA."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "GMT 기능은 시대를 초월한 실용적 컴플리케이션. Overseas 41mm 기본형보다 중고 가격 방어가 더 강한 편. 기능과 헤리티지 두 축 모두에서 컬렉터 가치를 유지한다."
+      }
+    }
+  },
+  {
+    "brand": "Vacheron Constantin",
+    "collection": "Overseas",
+    "collection_kr": "오버시즈",
+    "reference": "5200V/110A-B483",
+    "name": "Overseas Chronograph",
+    "name_kr": "오버시즈 크로노그래프",
+    "gender": "Men",
+    "price_krw": 33000000,
+    "price_confirmed": false,
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42.5,
+      "thickness_mm": 13.7,
+      "water_resistance_m": 150,
+      "glass": "Sapphire Crystal (AR both sides)",
+      "caseback": "Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "5200",
+      "power_reserve_hours": 52,
+      "frequency_vph": 36000,
+      "jewels": 40,
+      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+    },
+    "dial": {
+      "color": "Blue",
+      "indexes": "Applied Indices (Luminous)"
+    },
+    "strap": {
+      "type": "Integrated Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "color_variants": ["Blue", "Silver"],
+    "availability": "medium",
+    "certification": true,
+    "limited": false,
+    "year_introduced": 2016,
+    "resale_krw_est": 26000000,
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "notes": "42.5mm · 13.7mm · Cal. 5200 COSC 인증 · 36,000vph 고주파 (5Hz) · 인하우스 크로노그래프 · 교체형 스트랩 3종 동봉 · 세로형 크로노 레이아웃",
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Specialist",
+        "comment": "42.5mm/13.7mm, COSC 인증 Cal. 5200 자동 크로노, 36,000vph 고주파(5Hz). 고주파 크로노그래프는 1/10초 단위 계측 가능. 두꺼운 케이스는 착용 허들이지만 기술 스펙은 이 가격대 최상위."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "Overseas 컬렉션의 기술적 정점. 세계 최고령 시계 메이커가 만드는 인하우스 COSC 크로노그래프는 브랜드 기술력의 종합적 표현. 고주파 칼리버의 역사적 의미도 상당하다."
+      },
+      "timelessness": {
+        "label": "Collector's Pick",
+        "comment": "Overseas 크로노그래프는 PP, AP 대비 가격 경쟁력과 VC 헤리티지를 동시에 갖는다. COSC 고주파 인하우스 크로노라는 스펙은 컬렉터 시장에서 지속적으로 인정받는다."
+      }
+    }
+  }
+]
