@@ -82,6 +82,16 @@
       "bg": "#f8e4ec",
       "text": "#7a1830"
     },
+    "Ladybird": {
+      "kr": "레이디버드",
+      "bg": "#fce8f0",
+      "text": "#8b1a4a"
+    },
+    "AirCommand": {
+      "kr": "에어 커맨드",
+      "bg": "#e8f0fc",
+      "text": "#1a3a7a"
+    },
     "Classique": {
       "kr": "클래식",
       "bg": "#f8f5ed",

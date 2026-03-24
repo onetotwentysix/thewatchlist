@@ -8,6 +8,8 @@
     "FiftyFathoms": { "collection_kr": "피프티 패덤스", "bg": "#e4eef8", "text": "#1a3a6b" },
     "Villeret":     { "collection_kr": "빌레레",         "bg": "#f0ede6", "text": "#5a4a28" },
     "LEvolution":   { "collection_kr": "L-에볼루션",     "bg": "#e4ece0", "text": "#304828" },
-    "Woman":        { "collection_kr": "우먼",            "bg": "#f8e4ec", "text": "#7a1830" }
+    "Woman":        { "collection_kr": "우먼",            "bg": "#f8e4ec", "text": "#7a1830" },
+    "Ladybird":     { "collection_kr": "레이디버드",      "bg": "#fce8f0", "text": "#8b1a4a" },
+    "AirCommand":   { "collection_kr": "에어 커맨드",     "bg": "#e8f0fc", "text": "#1a3a7a" }
   }
 }
