@@ -23,7 +23,11 @@
       "power_reserve_hours": 43,
       "frequency_vph": 21600,
       "jewels": 20,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,13 +39,16 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Black"],
+    "color_variants": [
+      "Silver",
+      "Black"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 1957,
     "resale_krw_est": 7800000,
-    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "38mm · 두께 5.25mm · Cal. 430P 수동 (2.1mm 무브먼트 두께) · Altiplano 라인의 입문 모델 · 1957년 초박형 시계 개발 전통의 직계 후손",
     "verdict": {
       "overall": "Definitive",
@@ -83,7 +90,11 @@
       "power_reserve_hours": 44,
       "frequency_vph": 21600,
       "jewels": 26,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +106,17 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Black", "Blue"],
+    "color_variants": [
+      "Silver",
+      "Black",
+      "Blue"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2013,
     "resale_krw_est": 11000000,
-    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "38mm · 총 두께 5.34mm · Cal. 1200P (출시 당시 세계 최박형 자동 무브먼트 2.35mm) · 로터가 무브먼트 위에 겹치지 않는 편심 로터 구조로 초박형 실현",
     "verdict": {
       "overall": "Iconic",
@@ -143,7 +158,11 @@
       "power_reserve_hours": 44,
       "frequency_vph": 21600,
       "jewels": 12,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -155,13 +174,15 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "hard",
     "certification": false,
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 31000000,
-    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "41mm · 총 두께 4.3mm · Cal. 1200S — 케이스 케이스백이 무브먼트 메인플레이트로 기능하는 통합 구조 · 출시 당시 세계 최박형 자동 시계 기록 · 주얼 12개만 사용",
     "verdict": {
       "overall": "Collector's Pick",
@@ -203,7 +224,10 @@
       "power_reserve_hours": 43,
       "frequency_vph": 21600,
       "jewels": 18,
-      "functions": ["Hours", "Minutes"]
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -215,13 +239,17 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Blue", "White"],
+    "color_variants": [
+      "Silver",
+      "Blue",
+      "White"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
     "year_introduced": 2015,
     "resale_krw_est": 6800000,
-    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "34mm · 6.4mm · Cal.430P 수동 (두께 2.1mm) · 레이디스 사이즈 알티플라노 · 세계에서 가장 얇은 수동 무브먼트 중 하나 · 시·분만의 극도로 미니멀한 다이얼",
     "verdict": {
       "overall": "Definitive",

@@ -23,7 +23,13 @@
       "power_reserve_hours": 60,
       "frequency_vph": 28800,
       "jewels": 35,
-      "functions": ["Hours", "Minutes", "Seconds", "Date", "Power Reserve Indicator"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Power Reserve Indicator"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -35,13 +41,16 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Black", "Green"],
+    "color_variants": [
+      "Black",
+      "Green"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 8000000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "40mm · 파워리저브 인디케이터 내장 · COSC 인증 Cal. 03.05-M · 100m 방수 · Mille Miglia 클래식 카 레이스(1927~) 공식 타임키퍼 · 러버 스트랩",
     "verdict": {
       "overall": "Versatile",
@@ -83,7 +92,14 @@
       "power_reserve_hours": 54,
       "frequency_vph": 28800,
       "jewels": 37,
-      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date", "Tachymeter"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date",
+        "Tachymeter"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +111,16 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Black"],
+    "color_variants": [
+      "Silver",
+      "Black"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 12500000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "42mm · 두께 14.2mm · 인하우스 Cal. 03.01-M 자동 크로노그래프 · 타키미터 베젤 · 빈티지 카 레이스 계기판 스타일 다이얼 · 클래식카 쇼 한정판 라인 포함",
     "verdict": {
       "overall": "Collector's Pick",

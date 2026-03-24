@@ -23,25 +23,33 @@
       "power_reserve_hours": 42,
       "frequency_vph": 28800,
       "jewels": 21,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
       "indexes": "Roman Numerals"
-      },
+    },
     "strap": {
       "type": "Leather",
       "material": "Alligator",
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Black"],
+    "color_variants": [
+      "Silver",
+      "Black"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 10000000,
-    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03.24)",
     "notes": "쿠션형 직사각 케이스 40 × 38mm · 시스루 케이스백 · Cartier 남성 드레스워치 중 가장 독창적인 케이스 형태",
     "verdict": {
       "overall": "Collector's Pick",
@@ -83,7 +91,10 @@
       "power_reserve_hours": 48,
       "frequency_vph": 21600,
       "jewels": 23,
-      "functions": ["Hours", "Minutes"]
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +106,15 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2018,
     "resale_krw_est": 15000000,
-    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03)",
+    "source": "Cartier 공식 한국 홈페이지 (추정가 · 2026.03.24)",
     "notes": "40 × 38mm · 두께 7.9mm · Cal.430 MC 초박형 자동 무브먼트 · 시/분 표시만으로 극도의 절제미 · 시스루 케이스백",
     "verdict": {
       "overall": "Specialist",

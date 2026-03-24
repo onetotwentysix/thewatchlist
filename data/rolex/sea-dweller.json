@@ -23,7 +23,12 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -35,13 +40,15 @@
       "clasp": "Glidelock"
     },
     "bracelet_option": false,
-    "color_variants": ["Black"],
+    "color_variants": [
+      "Black"
+    ],
     "availability": "hard",
     "certification": true,
     "limited": false,
     "year_introduced": 2017,
     "resale_krw_est": 19000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "43mm · Cal.3235 자동 70h · 1220m 방수 · 헬륨 이스케이프 밸브 · 글라이드락 잠금장치 (다이빙 수트 위 착용 조절) · 빨간 날짜 창 · 50주년 기념 모델에서 유래한 레드 날짜",
     "verdict": {
       "overall": "Definitive",

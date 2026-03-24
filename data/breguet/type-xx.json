@@ -23,7 +23,13 @@
       "power_reserve_hours": 60,
       "frequency_vph": 28800,
       "jewels": 37,
-      "functions": ["Hours", "Minutes", "Seconds", "Flyback Chronograph", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -35,13 +41,17 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": true,
-    "color_variants": ["Black", "Silver", "Blue"],
+    "color_variants": [
+      "Black",
+      "Silver",
+      "Blue"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 1954,
     "resale_krw_est": 18000000,
-    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "42mm · 14.4mm · Cal. 728/3 인하우스 플라이백 크로노 60h · 1954년 프랑스 해군 항공대 공식 지급품 원형 충실 재현 (2022 리런칭) · 항공기 계기판에서 영감받은 퍼 밀리에 베젤 눈금",
     "verdict": {
       "overall": "Iconic",
@@ -83,7 +93,13 @@
       "power_reserve_hours": 48,
       "frequency_vph": 72000,
       "jewels": 54,
-      "functions": ["Hours", "Minutes", "Seconds", "Flyback Chronograph", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -95,13 +111,15 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Black"],
+    "color_variants": [
+      "Black"
+    ],
     "availability": "hard",
     "certification": false,
     "limited": false,
     "year_introduced": 2010,
     "resale_krw_est": 30000000,
-    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "44mm · 16mm · Cal. 589F · 72,000vph (10Hz) — 1/100초 계측 가능 · 플라이백 크로노 · 실리콘 헤어스프링 · 세계에서 가장 빠른 자동 크로노그래프 무브먼트 중 하나",
     "verdict": {
       "overall": "Collector's Pick",

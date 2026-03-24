@@ -23,7 +23,14 @@
       "power_reserve_hours": 72,
       "frequency_vph": 28800,
       "jewels": 44,
-      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "30min Counter", "12h Counter"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "30min Counter",
+        "12h Counter"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -35,13 +42,16 @@
       "clasp": "Oysterlock"
     },
     "bracelet_option": false,
-    "color_variants": ["Black", "White"],
+    "color_variants": [
+      "Black",
+      "White"
+    ],
     "availability": "hard",
     "certification": true,
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 60000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "40mm · Cal.4130 자동 크로노그래프 72h · 세라크롬 타코미터 베젤 · 컬럼 휠 + 수직 클러치 · 블랙/화이트 다이얼 · 리테일 ₩26M, 실거래 ₩50M+ · 세계에서 구하기 가장 어려운 스틸 시계",
     "verdict": {
       "overall": "Iconic",

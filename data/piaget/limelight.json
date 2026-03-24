@@ -23,7 +23,10 @@
       "power_reserve_hours": 0,
       "frequency_vph": 32768,
       "jewels": 0,
-      "functions": ["Hours", "Minutes"]
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -35,13 +38,17 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Black", "White", "Blue"],
+    "color_variants": [
+      "Black",
+      "White",
+      "Blue"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
     "year_introduced": 1999,
     "resale_krw_est": 5800000,
-    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "32mm 쿠션형 케이스 · Cal.56P 쿼츠 · 다이아몬드 세팅 베젤 · 피아제 레이디스 컬렉션의 대표 아이콘 · 갈라(파티)에서의 착용을 위한 드레시한 주얼리 워치",
     "verdict": {
       "overall": "Iconic",
@@ -83,7 +90,10 @@
       "power_reserve_hours": 44,
       "frequency_vph": 21600,
       "jewels": 24,
-      "functions": ["Hours", "Minutes"]
+      "functions": [
+        "Hours",
+        "Minutes"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +105,16 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Blue"],
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 7500000,
-    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Piaget 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "36mm · Cal.1200P 자동 (두께 2.35mm) · 피아제 인하우스 울트라 씬 자동 무브먼트 · 라임라이트 라인 중 기계식 무브먼트 탑재 모델 · 드레시한 레이디스 오토매틱의 정점",
     "verdict": {
       "overall": "Definitive",

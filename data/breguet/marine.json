@@ -23,7 +23,12 @@
       "power_reserve_hours": 45,
       "frequency_vph": 21600,
       "jewels": 28,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Blue",
@@ -35,13 +40,16 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Blue", "Silver"],
+    "color_variants": [
+      "Blue",
+      "Silver"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2004,
     "resale_krw_est": 18500000,
-    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "40mm 티타늄 · 11.7mm · 300m 방수 · Cal. 777Q 자동 · 웨이브 패턴 다이얼 · 브레게 핸즈 · Louis XVIII 항해 장비 납품 역사에서 비롯된 마린 전통",
     "verdict": {
       "overall": "Definitive",
@@ -83,7 +91,13 @@
       "power_reserve_hours": 48,
       "frequency_vph": 28800,
       "jewels": 33,
-      "functions": ["Hours", "Minutes", "Seconds", "Chronograph", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Chronograph",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Blue",
@@ -95,13 +109,16 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Blue", "Silver"],
+    "color_variants": [
+      "Blue",
+      "Silver"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2011,
     "resale_krw_est": 30000000,
-    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "44mm 티타늄 · 14.3mm · Cal. 728 인하우스 크로노그래프 · 100m 방수 · 웨이브 기요셰 다이얼 · 브레게 크로노그래프의 플래그십 · 세라믹 베젤 옵션",
     "verdict": {
       "overall": "Specialist",

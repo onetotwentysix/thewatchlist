@@ -23,7 +23,11 @@
       "power_reserve_hours": 0,
       "frequency_vph": 32768,
       "jewels": 0,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "White",
@@ -35,13 +39,17 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["White", "Blue", "Black"],
+    "color_variants": [
+      "White",
+      "Blue",
+      "Black"
+    ],
     "availability": "easy",
     "certification": false,
     "limited": false,
     "year_introduced": 1993,
     "resale_krw_est": 4800000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "29mm · 5개 부유 다이아몬드 · Cal. ETA 956.112 쿼츠 · 1993년 Caroline Scheufele이 직접 디자인 · 다이얼 안에서 자유롭게 움직이는 다이아몬드가 핵심 아이덴티티 · Chopard 판매 1위 컬렉션",
     "verdict": {
       "overall": "Iconic",
@@ -83,7 +91,12 @@
       "power_reserve_hours": 36,
       "frequency_vph": 28800,
       "jewels": 27,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "White",
@@ -95,13 +108,17 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["White", "Blue", "Green"],
+    "color_variants": [
+      "White",
+      "Blue",
+      "Green"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2004,
     "resale_krw_est": 9800000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "36mm · Cal.09.01-C 인하우스 자동 36h · 5개 부유 다이아몬드 · 시스루 케이스백 · 50m 방수 · Happy Sport 라인 중 자동 무브먼트 탑재 핵심 모델",
     "verdict": {
       "overall": "Definitive",
@@ -143,7 +160,12 @@
       "power_reserve_hours": 36,
       "frequency_vph": 28800,
       "jewels": 27,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "White",
@@ -155,13 +177,16 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["White", "Blue"],
+    "color_variants": [
+      "White",
+      "Blue"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 12500000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "40mm · Cal.09.01-C 인하우스 자동 36h · 7개 부유 다이아몬드 · 시스루 케이스백 · 50m 방수 · 더 큰 케이스로 남녀 공용 착용 가능 · Happy Sport 최대 사이즈",
     "verdict": {
       "overall": "Definitive",

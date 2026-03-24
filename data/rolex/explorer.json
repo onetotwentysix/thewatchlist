@@ -23,7 +23,11 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -35,13 +39,15 @@
       "clasp": "Oysterlock"
     },
     "bracelet_option": false,
-    "color_variants": ["Black"],
+    "color_variants": [
+      "Black"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2021,
     "resale_krw_est": 10500000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "36mm · Cal.3230 자동 70h · 3·6·9 아라비아 숫자 + 크롬라이트 야광 · 2021년 오리지널 36mm 사이즈로 복귀 · 날짜 없는 순수 3침 · 가장 절제된 롤렉스 스포츠 모델 · 100m 방수",
     "verdict": {
       "overall": "Definitive",
@@ -83,7 +89,13 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds", "Date", "24h Hand"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "24h Hand"
+      ]
     },
     "dial": {
       "color": "White",
@@ -95,13 +107,16 @@
       "clasp": "Oysterlock"
     },
     "bracelet_option": false,
-    "color_variants": ["White", "Black"],
+    "color_variants": [
+      "White",
+      "Black"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2021,
     "resale_krw_est": 14000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "42mm · Cal.3285 자동 70h · 24h 고정 베젤 + 주황 24h 핸드 · 낮/밤 구분 · 동굴 탐험가를 위해 설계 · 화이트/블랙 다이얼 · 빅 아라비아 숫자 · 100m 방수",
     "verdict": {
       "overall": "Definitive",

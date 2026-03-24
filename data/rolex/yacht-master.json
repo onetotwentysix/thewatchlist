@@ -23,7 +23,12 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Blue",
@@ -35,13 +40,16 @@
       "clasp": "Oysterlock"
     },
     "bracelet_option": false,
-    "color_variants": ["Blue", "Silver"],
+    "color_variants": [
+      "Blue",
+      "Silver"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 19000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "40mm · Cal.3235 자동 70h · Oystersteel + 플래티넘 베젤 ('롤레지엄') · 양방향 회전 플래티넘 베젤 · 블루 다이얼 · Submariner 대비 더 럭셔리한 요트 포지션 · 100m 방수",
     "verdict": {
       "overall": "Definitive",

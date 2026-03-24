@@ -23,7 +23,17 @@
       "power_reserve_hours": 40,
       "frequency_vph": 28800,
       "jewels": 35,
-      "functions": ["Hours", "Minutes", "Seconds", "Annual Calendar", "Day", "Date", "Month", "Moon Phase", "Week"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Annual Calendar",
+        "Day",
+        "Date",
+        "Month",
+        "Moon Phase",
+        "Week"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,13 +45,16 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Blue"],
+    "color_variants": [
+      "Silver",
+      "Blue"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2012,
     "resale_krw_est": 30000000,
-    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Vacheron Constantin 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "38mm 화이트 골드 · 8.7mm · Cal. 2460 QCL 자동 애뉴얼 캘린더 · 요일·날짜·월·주차·문페이즈 · 기요셰 다이얼 · 로마 숫자 인덱스 · Traditionnelle 라인 중 가격 접근성 높은 컴플리케이션",
     "verdict": {
       "overall": "Definitive",

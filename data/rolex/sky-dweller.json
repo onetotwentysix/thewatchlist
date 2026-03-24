@@ -23,7 +23,15 @@
       "power_reserve_hours": 72,
       "frequency_vph": 28800,
       "jewels": 40,
-      "functions": ["Hours", "Minutes", "Seconds", "Date", "Month", "Annual Calendar", "GMT"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date",
+        "Month",
+        "Annual Calendar",
+        "GMT"
+      ]
     },
     "dial": {
       "color": "Blue",
@@ -35,13 +43,17 @@
       "clasp": "Oysterlock"
     },
     "bracelet_option": false,
-    "color_variants": ["Blue", "Black", "Champagne"],
+    "color_variants": [
+      "Blue",
+      "Black",
+      "Champagne"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2023,
     "resale_krw_est": 34000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "42mm · Cal.9001 자동 72h · 연간 달력 + Ring Command 제2시간대 · 연간 달력: 2월 제외 매달 날짜 자동 조정 · Ring Command 베젤로 3가지 기능 조작 · 롤렉스 가장 복잡한 인하우스 무브먼트",
     "verdict": {
       "overall": "Collector's Pick",

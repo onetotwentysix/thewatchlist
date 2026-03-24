@@ -23,7 +23,12 @@
       "power_reserve_hours": 60,
       "frequency_vph": 28800,
       "jewels": 35,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Green",
@@ -35,13 +40,18 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Green", "Blue", "Silver", "Black"],
+    "color_variants": [
+      "Green",
+      "Blue",
+      "Silver",
+      "Black"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 10500000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "Lucent Steel A223 (자체 개발 합금) · COSC 인증 Cal. 01.01-C · 독수리 발톱 모티프 인터그레이티드 브레이슬릿 · 100m 방수 · 환경친화적 스틸 소재",
     "verdict": {
       "overall": "Definitive",
@@ -83,7 +93,12 @@
       "power_reserve_hours": 60,
       "frequency_vph": 28800,
       "jewels": 35,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Blue",
@@ -95,13 +110,18 @@
       "clasp": "Folding Clasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Blue", "Green", "Silver", "Black"],
+    "color_variants": [
+      "Blue",
+      "Green",
+      "Silver",
+      "Black"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 11500000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "44mm 빅 케이스 · Lucent Steel A223 · COSC 인증 Cal. 01.01-C · 손목 둘레 18cm 이상 최적 · Alpine Eagle 41mm와 동일 무브먼트",
     "verdict": {
       "overall": "Versatile",

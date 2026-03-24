@@ -23,7 +23,11 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -35,13 +39,15 @@
       "clasp": "Oysterlock"
     },
     "bracelet_option": false,
-    "color_variants": ["Black"],
+    "color_variants": [
+      "Black"
+    ],
     "availability": "hard",
     "certification": true,
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 16000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "41mm · Cal.3230 자동 70h · 세라크롬 단방향 회전 베젤 · 300m 방수 · 크롬라이트 야광 · 날짜 없는 순수 다이버 · 롤렉스 다이버 라인업의 기본 · AD 대기 필수",
     "verdict": {
       "overall": "Iconic",
@@ -83,7 +89,12 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -95,13 +106,15 @@
       "clasp": "Oysterlock"
     },
     "bracelet_option": false,
-    "color_variants": ["Black"],
+    "color_variants": [
+      "Black"
+    ],
     "availability": "hard",
     "certification": true,
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 20000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "41mm · Cal.3235 자동 70h · 날짜 창 + 사이클롭스 렌즈 · 300m 방수 · 세라크롬 베젤 · 블랙-블랙 조합이 가장 기본 · 126610LV(그린 베젤 '스타벅스') 도 존재 · AD 대기 1년 이상",
     "verdict": {
       "overall": "Iconic",

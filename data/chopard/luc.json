@@ -23,7 +23,12 @@
       "power_reserve_hours": 65,
       "frequency_vph": 28800,
       "jewels": 23,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,13 +40,17 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Black", "Blue"],
+    "color_variants": [
+      "Silver",
+      "Black",
+      "Blue"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 1996,
     "resale_krw_est": 9500000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "39.5mm · 두께 7.13mm · Cal. L.U.C 96.01-L · COSC + 제네바 씰(Poinçon de Genève) 더블 인증 · Chopard L.U.C 라인의 상징적 입문작",
     "verdict": {
       "overall": "Definitive",
@@ -83,7 +92,12 @@
       "power_reserve_hours": 216,
       "frequency_vph": 21600,
       "jewels": 29,
-      "functions": ["Hours", "Minutes", "Seconds", "Power Reserve Indicator"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Power Reserve Indicator"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +109,15 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver"],
+    "color_variants": [
+      "Silver"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 1997,
     "resale_krw_est": 26000000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "4개의 스프링 배럴 직렬 배치 · 216h(9일) 파워리저브 · Cal. L.U.C 98.06-L · COSC + Poinçon de Genève 더블 인증 · 파워리저브 인디케이터 내장",
     "verdict": {
       "overall": "Collector's Pick",
@@ -143,7 +159,11 @@
       "power_reserve_hours": 65,
       "frequency_vph": 28800,
       "jewels": 23,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -155,13 +175,16 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Champagne"],
+    "color_variants": [
+      "Silver",
+      "Champagne"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2010,
     "resale_krw_est": 7500000,
-    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Chopard 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "38mm · 두께 6.8mm · 수동 Cal. L.U.C 96.01-L · Chopard 창립 연도 1860 헌정 모델 · L.U.C 라인 최소형 · 아라비아 숫자 인덱스로 빈티지 감성",
     "verdict": {
       "overall": "Classic",

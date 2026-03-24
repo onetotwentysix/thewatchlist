@@ -23,7 +23,12 @@
       "power_reserve_hours": 55,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,13 +40,19 @@
       "clasp": "Oysterclasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Silver", "Black", "Blue", "Pink", "Champagne"],
+    "color_variants": [
+      "Silver",
+      "Black",
+      "Blue",
+      "Pink",
+      "Champagne"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 10000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "31mm · Cal.2236 자동 55h · Oyster 또는 Jubilee 브레이슬릿 선택 가능 · 날짜 창 위 사이클롭스 렌즈 2.5배 확대 · Superlative Chronometer · 레이디스 롤렉스 입문 기준",
     "verdict": {
       "overall": "Iconic",
@@ -83,7 +94,12 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -95,13 +111,19 @@
       "clasp": "Oysterclasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Silver", "Black", "Blue", "Champagne", "White"],
+    "color_variants": [
+      "Silver",
+      "Black",
+      "Blue",
+      "Champagne",
+      "White"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 11000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "36mm · Cal.3235 자동 70h · 스무스 베젤 · 남녀 공용 착용 가능한 유니섹스 사이즈 · Jubilee 또는 Oyster 브레이슬릿 · Superlative Chronometer · 100m 방수",
     "verdict": {
       "overall": "Iconic",
@@ -143,7 +165,12 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -155,13 +182,19 @@
       "clasp": "Oysterclasp"
     },
     "bracelet_option": true,
-    "color_variants": ["Black", "Silver", "Blue", "Dark Rhodium", "Olive Green"],
+    "color_variants": [
+      "Black",
+      "Silver",
+      "Blue",
+      "Dark Rhodium",
+      "Olive Green"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2016,
     "resale_krw_est": 12500000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "41mm · Cal.3235 자동 70h · 현대 남성 주류 사이즈 · 스무스 베젤 + 풀루티드 베젤 등 다양 · Oyster 또는 Jubilee 브레이슬릿 · Superlative Chronometer · 100m 방수",
     "verdict": {
       "overall": "Iconic",

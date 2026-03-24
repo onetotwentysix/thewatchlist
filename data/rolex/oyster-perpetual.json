@@ -23,7 +23,11 @@
       "power_reserve_hours": 55,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,13 +39,20 @@
       "clasp": "Oysterclasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Silver", "Black", "Blue", "Pink", "Coral Red", "Turquoise"],
+    "color_variants": [
+      "Silver",
+      "Black",
+      "Blue",
+      "Pink",
+      "Coral Red",
+      "Turquoise"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 6500000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "28mm · 10.4mm · Cal.2236 자동 55h · Syloxi 헤어스프링 · Superlative Chronometer (-2/+2 sec/day) · 롤렉스 라인업 최소 사이즈 · 다채로운 다이얼 컬러로 유명 · 100m 방수",
     "verdict": {
       "overall": "Definitive",
@@ -83,7 +94,11 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -95,13 +110,20 @@
       "clasp": "Oysterclasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Black", "Blue", "Silver", "Yellow", "Coral Red", "Olive Green"],
+    "color_variants": [
+      "Black",
+      "Blue",
+      "Silver",
+      "Yellow",
+      "Coral Red",
+      "Olive Green"
+    ],
     "availability": "easy",
     "certification": true,
     "limited": false,
     "year_introduced": 2020,
     "resale_krw_est": 9000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "41mm · 11.5mm · Cal.3230 자동 70h · 날짜 없는 순수 3침 · Superlative Chronometer · 컬러 다이얼 6종 이상 · 롤렉스 입문 남성 모델 · 100m 방수",
     "verdict": {
       "overall": "Definitive",

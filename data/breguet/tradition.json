@@ -23,7 +23,12 @@
       "power_reserve_hours": 50,
       "frequency_vph": 21600,
       "jewels": 35,
-      "functions": ["Hours", "Minutes", "Seconds", "Power Reserve Indicator"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Power Reserve Indicator"
+      ]
     },
     "dial": {
       "color": "Skeleton",
@@ -35,13 +40,15 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Skeleton"],
+    "color_variants": [
+      "Skeleton"
+    ],
     "availability": "medium",
     "certification": false,
     "limited": false,
     "year_introduced": 2005,
     "resale_krw_est": 33000000,
-    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Breguet 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "41mm 화이트 골드 · 12mm · Cal. 505SR1 · 무브먼트 전면 노출 (솔라 에스케이프먼트와 직선형 헤어스프링 가시화) · 18세기 포켓워치 구조를 현대 손목시계로 직역 · 파워리저브 인디케이터",
     "verdict": {
       "overall": "Collector's Pick",

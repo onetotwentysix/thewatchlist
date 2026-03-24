@@ -23,7 +23,11 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
     },
     "dial": {
       "color": "Black",
@@ -35,13 +39,15 @@
       "clasp": "Oysterlock"
     },
     "bracelet_option": false,
-    "color_variants": ["Black"],
+    "color_variants": [
+      "Black"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2022,
     "resale_krw_est": 10500000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "40mm · Cal.3230 자동 70h · 블랙 다이얼에 옐로우/그린 아라비아 숫자 · 5분 단위 특대 숫자 + 소형 시 숫자 혼용 · COSC 자성 방지 강화 · 항공기 계기판 디자인 모티프 · 날짜 없는 3침",
     "verdict": {
       "overall": "Definitive",

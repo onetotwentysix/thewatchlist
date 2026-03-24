@@ -23,7 +23,12 @@
       "power_reserve_hours": 38,
       "frequency_vph": 28800,
       "jewels": 33,
-      "functions": ["Hours", "Minutes", "True Second", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "True Second",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Silver",
@@ -35,13 +40,17 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": true,
-    "color_variants": ["Silver", "Blue", "Black"],
+    "color_variants": [
+      "Silver",
+      "Blue",
+      "Black"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2014,
     "resale_krw_est": 7800000,
-    "source": "JLC 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "JLC 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "38.5mm · Cal.770 자동 · 데드비트 세컨드(True Second): 초침이 1초 단위로 정확히 점프 · 1958년 오리지널 지오피직 정밀도 계측 전통 계승 · 크로노미터 인증 · 돔형 크리스탈",
     "verdict": {
       "overall": "Collector's Pick",
@@ -83,7 +92,13 @@
       "power_reserve_hours": 38,
       "frequency_vph": 28800,
       "jewels": 43,
-      "functions": ["Hours", "Minutes", "True Second", "Universal Time", "Day/Night Indicator"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "True Second",
+        "Universal Time",
+        "Day/Night Indicator"
+      ]
     },
     "dial": {
       "color": "Blue",
@@ -95,13 +110,16 @@
       "clasp": "Pin Buckle"
     },
     "bracelet_option": false,
-    "color_variants": ["Blue", "Black"],
+    "color_variants": [
+      "Blue",
+      "Black"
+    ],
     "availability": "hard",
     "certification": true,
     "limited": false,
     "year_introduced": 2014,
     "resale_krw_est": 13500000,
-    "source": "JLC 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "JLC 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "41.6mm · Cal.775 자동 · 세계 시간 표시(24개 시간대 동시 확인) · 데드비트 세컨드 · 주야 인디케이터 · 세계지도 다이얼 · JLC 지오피직 라인 최고 사양",
     "verdict": {
       "overall": "Collector's Pick",

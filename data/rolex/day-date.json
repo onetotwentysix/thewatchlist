@@ -23,7 +23,13 @@
       "power_reserve_hours": 70,
       "frequency_vph": 28800,
       "jewels": 31,
-      "functions": ["Hours", "Minutes", "Seconds", "Day", "Date"]
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day",
+        "Date"
+      ]
     },
     "dial": {
       "color": "Champagne",
@@ -35,13 +41,19 @@
       "clasp": "Crownclasp"
     },
     "bracelet_option": false,
-    "color_variants": ["Champagne", "Silver", "Black", "Blue", "Green"],
+    "color_variants": [
+      "Champagne",
+      "Silver",
+      "Black",
+      "Blue",
+      "Green"
+    ],
     "availability": "medium",
     "certification": true,
     "limited": false,
     "year_introduced": 2019,
     "resale_krw_est": 58000000,
-    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03)",
+    "source": "Rolex 공식 홈페이지 (추정가 · 2026.03.24)",
     "notes": "36mm · Cal.3235 자동 70h · 18ct 옐로우 골드 · 프레지던트 브레이슬릿 · 풀 골드 구성 · 롤렉스 플래그십 드레스워치 · 70년간 대통령·CEO의 선택 · 요일 전체 철자 표시",
     "verdict": {
       "overall": "Iconic",
