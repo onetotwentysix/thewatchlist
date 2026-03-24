@@ -312,7 +312,7 @@ async function loadData(retryCount = 0) {
     el.innerHTML = `<p>${msg}</p>`;
   };
   try {
-    const v = '202603241823';
+    const v = '202603241837';
     const [watchRes, metaRes] = await Promise.all([
       fetch('./watches.json?v=' + v),
       fetch('./meta.json?v=' + v)
@@ -423,13 +423,15 @@ function matchesActiveFilters(w) {
     if (f.price === "50+"   && p < 50000000) return false;
   }
   if (f.material) {
-    const m = w.case.material;
+    const m = w.case?.material;
+    if (!m) return false;
     if (f.material === "steel"    && !STEEL_MATS.includes(m)) return false;
     if (f.material === "titanium" && m !== "Titanium") return false;
     if (f.material === "precious" && (STEEL_MATS.includes(m) || m === "Titanium")) return false;
   }
   if (f.size) {
-    const d = w.case.diameter_mm;
+    const d = w.case?.diameter_mm;
+    if (d == null) return false;
     if (f.size === "small"  && d > 36) return false;
     if (f.size === "medium" && (d < 37 || d > 40)) return false;
     if (f.size === "large"  && (d < 41 || d > 43.5)) return false;
@@ -437,8 +439,8 @@ function matchesActiveFilters(w) {
   }
   if (f.verdict  && (w.verdict||{}).overall !== f.verdict)  return false;
   if (f.availability && w.availability !== f.availability)  return false;
-  if (f.strap    && w.strap.type !== f.strap)               return false;
-  if (f.movement && w.movement.type !== f.movement)         return false;
+  if (f.strap    && w.strap?.type !== f.strap)               return false;
+  if (f.movement && w.movement?.type !== f.movement)         return false;
   if (f.gender   && w.gender !== f.gender)                  return false;
   return true;
 }
@@ -460,18 +462,18 @@ function getFiltered() {
       w.name.toLowerCase().includes(q) ||
       w.name_kr.includes(q) ||
       w.reference.toLowerCase().includes(q) ||
-      w.movement.caliber.toLowerCase().includes(q) ||
+      (w.movement?.caliber||"").toLowerCase().includes(q) ||
       (w.collection_kr||"").includes(q) ||
       (w.brand||"").toLowerCase().includes(q) ||
-      w.dial.color.toLowerCase().includes(q);
+      (w.dial?.color||"").toLowerCase().includes(q);
     return matchBrand && matchSearch && matchesActiveFilters(w);
   });
   data.sort((a,b) => {
     if (currentSort === "price-asc")      return (a.price_krw ?? Infinity) - (b.price_krw ?? Infinity);
     if (currentSort === "price-desc")     return (b.price_krw ?? -1) - (a.price_krw ?? -1);
     if (currentSort === "name-asc")       return a.name.localeCompare(b.name);
-    if (currentSort === "size-asc")       return a.case.diameter_mm - b.case.diameter_mm;
-    if (currentSort === "thickness-asc")  return (a.case.thickness_mm||99)-(b.case.thickness_mm||99);
+    if (currentSort === "size-asc")       return (a.case?.diameter_mm??999) - (b.case?.diameter_mm??999);
+    if (currentSort === "thickness-asc")  return (a.case?.thickness_mm||99)-(b.case?.thickness_mm||99);
     return 0;
   });
   return data;
@@ -518,6 +520,7 @@ function renderTable() {
             <div class="spec-row"><span class="spec-key">구매 난이도</span><span class="spec-val">${av.label}</span></div>
             <div class="spec-row"><span class="spec-key">출시 연도</span><span class="spec-val">${w.year_introduced}</span></div>
           </div>
+          ${w.case ? `
           <div class="spec-group">
             <h4>⌚ 케이스</h4>
             <div class="spec-row"><span class="spec-key">소재</span><span class="spec-val">${w.case.material}</span></div>
@@ -526,9 +529,10 @@ function renderTable() {
             <div class="spec-row"><span class="spec-key">방수</span><span class="spec-val">${w.case.water_resistance_m} m</span></div>
             <div class="spec-row"><span class="spec-key">유리</span><span class="spec-val">${w.case.glass}</span></div>
             <div class="spec-row"><span class="spec-key">케이스백</span><span class="spec-val">${w.case.caseback}</span></div>
-            <div class="spec-row"><span class="spec-key">다이얼 컬러</span><span class="spec-val">${w.dial.color}</span></div>
-            <div class="spec-row"><span class="spec-key">인덱스</span><span class="spec-val">${w.dial.indexes}</span></div>
-          </div>
+            ${w.dial ? `<div class="spec-row"><span class="spec-key">다이얼 컬러</span><span class="spec-val">${w.dial.color}</span></div>
+            <div class="spec-row"><span class="spec-key">인덱스</span><span class="spec-val">${w.dial.indexes}</span></div>` : ''}
+          </div>` : '<div class="spec-group"><h4>⌚ 케이스</h4><p style="color:var(--muted);font-size:12px">상세 스펙 미수록 (가격 정보만 수집된 항목)</p></div>'}
+          ${w.movement ? `
           <div class="spec-group">
             <h4>⚙ 무브먼트</h4>
             <div class="spec-row"><span class="spec-key">타입</span><span class="spec-val">${w.movement.type}</span></div>
@@ -538,15 +542,15 @@ function renderTable() {
             <div class="spec-row"><span class="spec-key">보석수</span><span class="spec-val">${w.movement.jewels}개</span></div>
             <div class="spec-row"><span class="spec-key">COSC</span><span class="spec-val">${w.certification?'✓ 인증':'—'}</span></div>
             <div class="fn-wrap">${w.movement.functions.map(f=>`<span class="fn-chip">${f}</span>`).join('')}</div>
-          </div>
+          </div>` : ''}
           <div class="spec-group">
             <h4>🔗 스트랩 / 기타</h4>
-            <div class="spec-row"><span class="spec-key">타입</span><span class="spec-val">${w.strap.type}</span></div>
+            ${w.strap ? `<div class="spec-row"><span class="spec-key">타입</span><span class="spec-val">${w.strap.type}</span></div>
             <div class="spec-row"><span class="spec-key">소재</span><span class="spec-val">${w.strap.material}</span></div>
             <div class="spec-row"><span class="spec-key">클라스프</span><span class="spec-val">${w.strap.clasp}</span></div>
-            <div class="spec-row"><span class="spec-key">브레이슬릿 옵션</span><span class="spec-val">${w.bracelet_option?'있음':'없음'}</span></div>
+            <div class="spec-row"><span class="spec-key">브레이슬릿 옵션</span><span class="spec-val">${w.bracelet_option?'있음':'없음'}</span></div>` : ''}
             <div class="spec-row"><span class="spec-key">한정판</span><span class="spec-val">${w.limited?'⚑ 한정':'—'}</span></div>
-            <div class="spec-row"><span class="spec-key">다이얼 옵션</span><span class="spec-val">${(w.color_variants||[]).join(' / ')}</span></div>
+            <div class="spec-row"><span class="spec-key">다이얼 옵션</span><span class="spec-val">${(w.color_variants||[]).join(' / ')||'—'}</span></div>
           </div>
           ${v.overall ? `
           <div class="verdict-grid">
@@ -573,14 +577,14 @@ function renderTable() {
       <td>${collectionTag(w.collection)}</td>
       <td class="td-ref">${w.reference}</td>
       <td class="td-name">${w.name_kr}<small>${w.name}</small></td>
-      <td class="td-spec">${w.dial.color}</td>
-      <td class="td-spec">${w.case.material}</td>
-      <td class="td-spec">${w.case.diameter_mm}mm</td>
-      <td class="td-spec">${w.case.thickness_mm||'–'}mm</td>
-      <td class="td-spec">${w.movement.caliber}</td>
-      <td class="td-spec">${w.movement.power_reserve_hours}h</td>
-      <td class="td-spec">${w.case.water_resistance_m}m</td>
-      <td>${strapTag(w.strap.type)}</td>
+      <td class="td-spec">${w.dial?.color||'–'}</td>
+      <td class="td-spec">${w.case?.material||'–'}</td>
+      <td class="td-spec">${w.case?.diameter_mm!=null?w.case.diameter_mm+'mm':'–'}</td>
+      <td class="td-spec">${w.case?.thickness_mm!=null?w.case.thickness_mm+'mm':'–'}</td>
+      <td class="td-spec">${w.movement?.caliber||'–'}</td>
+      <td class="td-spec">${w.movement?.power_reserve_hours!=null?w.movement.power_reserve_hours+'h':'–'}</td>
+      <td class="td-spec">${w.case?.water_resistance_m!=null?w.case.water_resistance_m+'m':'–'}</td>
+      <td>${w.strap?.type?strapTag(w.strap.type):'–'}</td>
       <td class="td-avail"><span class="avail-dot ${av.cls}" title="${av.label}"></span></td>
       <td>${v.overall ? verdictTag(v.overall) : '—'}</td>
       <td class="td-price ${w.price_confirmed?'price-confirmed':'price-estimated'}">${w.price_krw==null?'가격 문의':'₩'+fmtPrice(w.price_krw)}${w.price_confirmed?'<span class="price-verified-badge" title="공식 홈페이지 확인 완료">공식</span>':''}</td>
@@ -609,14 +613,14 @@ function renderCards(data) {
       </div>
       <div class="card-expand-section">
         <div class="card-expand-title">⌚ 케이스 &amp; 무브먼트</div>
-        <div class="spec-row"><span class="spec-key">소재</span><span class="spec-val">${w.case.material}</span></div>
+        ${w.case ? `<div class="spec-row"><span class="spec-key">소재</span><span class="spec-val">${w.case.material}</span></div>
         <div class="spec-row"><span class="spec-key">직경 / 두께</span><span class="spec-val">${w.case.diameter_mm}mm / ${w.case.thickness_mm||'–'}mm</span></div>
         <div class="spec-row"><span class="spec-key">방수</span><span class="spec-val">${w.case.water_resistance_m}m</span></div>
-        <div class="spec-row"><span class="spec-key">케이스백</span><span class="spec-val">${w.case.caseback}</span></div>
-        <div class="spec-row"><span class="spec-key">칼리버</span><span class="spec-val">${w.movement.caliber} (${w.movement.type})</span></div>
+        <div class="spec-row"><span class="spec-key">케이스백</span><span class="spec-val">${w.case.caseback}</span></div>` : '<p style="color:var(--muted);font-size:12px">상세 스펙 미수록</p>'}
+        ${w.movement ? `<div class="spec-row"><span class="spec-key">칼리버</span><span class="spec-val">${w.movement.caliber} (${w.movement.type})</span></div>
         <div class="spec-row"><span class="spec-key">파워리저브</span><span class="spec-val">${w.movement.power_reserve_hours}h (${Math.round(w.movement.power_reserve_hours/24)}일)</span></div>
-        <div class="spec-row"><span class="spec-key">스트랩</span><span class="spec-val">${w.strap.type} · ${w.strap.material}</span></div>
-        <div class="fn-wrap" style="margin-top:6px">${w.movement.functions.map(f=>`<span class="fn-chip">${f}</span>`).join('')}</div>
+        <div class="fn-wrap" style="margin-top:6px">${w.movement.functions.map(f=>`<span class="fn-chip">${f}</span>`).join('')}</div>` : ''}
+        ${w.strap ? `<div class="spec-row"><span class="spec-key">스트랩</span><span class="spec-val">${w.strap.type} · ${w.strap.material}</span></div>` : ''}
       </div>
       ${v.overall ? `
       <div class="card-expand-section">
@@ -647,7 +651,7 @@ function renderCards(data) {
         </div>
       </div>
       <div class="card-name">${w.name_kr}</div>
-      <div class="card-ref">${w.reference} · ${w.case.diameter_mm}mm · ${w.case.thickness_mm||'–'}mm</div>
+      <div class="card-ref">${w.reference}${w.case?.diameter_mm!=null?' · '+w.case.diameter_mm+'mm':''}${w.case?.thickness_mm!=null?' · '+w.case.thickness_mm+'mm':''}</div>
       ${v.overall ? `<div style="margin-top:6px">${verdictTag(v.overall)}</div>` : ''}
       ${expandHtml}
     </div>`;
