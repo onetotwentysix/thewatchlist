@@ -312,7 +312,7 @@ async function loadData(retryCount = 0) {
     el.innerHTML = `<p>${msg}</p>`;
   };
   try {
-    const v = '202603241837';
+    const v = '202603241842';
     const [watchRes, metaRes] = await Promise.all([
       fetch('./watches.json?v=' + v),
       fetch('./meta.json?v=' + v)
@@ -375,8 +375,10 @@ function initMeta() {
 const availMap = {
   easy:   {label:"구매 가능", cls:"avail-easy"},
   medium: {label:"일반 대기", cls:"avail-medium"},
-  hard:   {label:"웨이팅",   cls:"avail-hard"}
+  hard:   {label:"웨이팅",   cls:"avail-hard"},
+  unknown:{label:"–",        cls:"avail-medium"}
 };
+function getAvail(w) { return availMap[w.availability] || availMap.unknown; }
 
 function collectionTag(c) {
   const col = meta.collections[c];
@@ -505,7 +507,7 @@ function renderTable() {
   empty.style.display = "none";
 
   tbody.innerHTML = data.map(w => {
-    const av = availMap[w.availability];
+    const av = getAvail(w);
     const isExp = expandedId === w.id;
     const v = w.verdict || {};
 
@@ -599,7 +601,7 @@ function renderCards(data) {
   const cardList = document.getElementById("cardList");
   cardList.innerHTML = data.map(w => {
     const v = w.verdict || {};
-    const av = availMap[w.availability];
+    const av = getAvail(w);
     const isExp = expandedId === w.id;
 
     const expandHtml = isExp ? `
