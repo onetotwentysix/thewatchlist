@@ -65,7 +65,8 @@
         "label": "Enduring",
         "comment": "다이버워치는 기능적 수요가 항상 존재해 시장에서 안정적. 롤렉스 서브마리너 대비 인지도는 낮지만 실용성과 가성비로 인정받는다."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   },
   {
     "brand": "IWC",
@@ -135,7 +136,8 @@
         "label": "Enduring",
         "comment": "다이버 크로노그래프는 스포츠 시계 중에서도 수요가 안정적인 카테고리. 이 가격대에서 300m 방수 크로노는 경쟁력 있는 포지션."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   },
   {
     "brand": "IWC",
@@ -202,7 +204,8 @@
         "label": "Enduring",
         "comment": "클린한 다이버 디자인은 시대를 초월한다."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   },
   {
     "brand": "IWC",
@@ -269,7 +272,8 @@
         "label": "Enduring",
         "comment": "클린한 다이버 디자인은 시대를 초월한다."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   },
   {
     "brand": "IWC",
@@ -337,7 +341,8 @@
         "label": "Enduring",
         "comment": "툴워치 미학과 크로노 기능의 조화."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   },
   {
     "brand": "IWC",
@@ -405,7 +410,8 @@
         "label": "Enduring",
         "comment": "툴워치 미학과 크로노 기능의 조화."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   },
   {
     "brand": "IWC",
@@ -473,7 +479,8 @@
         "label": "Collector",
         "comment": "한정판적 성격의 에디션워치."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   },
   {
     "brand": "IWC",
@@ -541,6 +548,7 @@
         "label": "Collector",
         "comment": "한정판적 성격의 에디션워치."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   }
 ]

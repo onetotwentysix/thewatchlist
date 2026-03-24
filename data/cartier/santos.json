@@ -66,7 +66,8 @@
         "label": "Enduring",
         "comment": "120년이 지나도 스퀘어 케이스, 노출 나사, 로만 인덱스의 DNA가 변하지 않았다. 럭셔리 워치 시장에서 가장 폭넓은 연령대와 성별에 걸쳐 수요를 유지하는 Cartier의 기함 컬렉션."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   },
   {
     "brand": "Cartier",
@@ -204,6 +205,7 @@
         "label": "Collector's Pick",
         "comment": "Cartier 인하우스 크로노그래프는 수집 가치 있는 기술 자산. 그러나 큰 사이즈와 두께로 일상 착용 허들이 존재. 마니아층 수요는 안정적."
       }
-    }
+    },
+    "price_confirmed_date": "2026.03"
   }
 ]

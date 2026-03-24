@@ -91,6 +91,14 @@ function validate(model, file, index) {
   if (model.price_krw && (typeof model.price_krw !== "number" || model.price_krw <= 0)) {
     errors.push(`${loc} price_krw는 양수 숫자여야 합니다`);
   }
+  // price_confirmed:true 이면 price_confirmed_date 필수 (형식: "YYYY.MM")
+  if (model.price_confirmed === true) {
+    if (!model.price_confirmed_date) {
+      errors.push(`${loc} price_confirmed_date 누락 (price_confirmed:true 모델은 필수)`);
+    } else if (!/^\d{4}\.\d{2}$/.test(model.price_confirmed_date)) {
+      errors.push(`${loc} price_confirmed_date 형식 오류: "${model.price_confirmed_date}" (형식: YYYY.MM)`);
+    }
+  }
   if (model.case?.diameter_mm && (model.case.diameter_mm < 20 || model.case.diameter_mm > 60)) {
     errors.push(`${loc} case.diameter_mm 범위 이상: ${model.case.diameter_mm}`);
   }
@@ -187,12 +195,17 @@ function build() {
     }
   }
 
-  // 중복 reference 검사
-  const refs = all.map(w => w.reference);
-  const dupRefs = refs.filter((r, i) => refs.indexOf(r) !== i);
-  if (dupRefs.length > 0) {
-    console.error(`✗  중복 reference 발견: ${[...new Set(dupRefs)].join(", ")}`);
-    totalErrors += dupRefs.length;
+  // 글로벌 중복 reference 검사 (어느 파일인지 함께 출력)
+  const refMap = {};
+  for (const w of all) {
+    if (!refMap[w.reference]) refMap[w.reference] = [];
+    refMap[w.reference].push(`${w.brand}/${w.collection}`);
+  }
+  for (const [ref, locations] of Object.entries(refMap)) {
+    if (locations.length > 1) {
+      console.error(`✗  중복 reference: ${ref} → ${locations.join(", ")}`);
+      totalErrors++;
+    }
   }
 
   // ─── 통계 출력 ──────────────────────────────────────────────────────────────
