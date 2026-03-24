@@ -361,8 +361,44 @@
     "price_krw": 24520000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 17700000
   },
   {
     "id": 9,
@@ -376,8 +412,44 @@
     "price_krw": 28110000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 45,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 19100000
   },
   {
     "id": 10,
@@ -391,8 +463,44 @@
     "price_krw": 29910000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 45,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Metal",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 20300000
   },
   {
     "id": 11,
@@ -406,8 +514,44 @@
     "price_krw": 56710000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 45,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 36900000
   },
   {
     "id": 12,
@@ -421,8 +565,44 @@
     "price_krw": 60630000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 45,
+      "thickness_mm": 15.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Leather",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 39400000
   },
   {
     "id": 13,
@@ -436,8 +616,44 @@
     "price_krw": 56710000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 45,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Leather",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 36900000
   },
   {
     "id": 14,
@@ -451,8 +667,44 @@
     "price_krw": 24520000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 17700000
   },
   {
     "id": 15,
@@ -466,8 +718,44 @@
     "price_krw": 27130000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42.3,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Metal",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 19500000
   },
   {
     "id": 16,
@@ -481,8 +769,44 @@
     "price_krw": 27620000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 42.3,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 18800000
   },
   {
     "id": 17,
@@ -496,8 +820,44 @@
     "price_krw": 27620000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 42.3,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 18800000
   },
   {
     "id": 18,
@@ -511,8 +871,44 @@
     "price_krw": 51640000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 42.3,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 33600000
   },
   {
     "id": 19,
@@ -526,8 +922,44 @@
     "price_krw": 51640000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 42.3,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 33600000
   },
   {
     "id": 20,
@@ -541,8 +973,44 @@
     "price_krw": 26640000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42.3,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 19200000
   },
   {
     "id": 21,
@@ -556,8 +1024,44 @@
     "price_krw": 26640000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42.3,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 19200000
   },
   {
     "id": 22,
@@ -571,8 +1075,44 @@
     "price_krw": 26640000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 42.3,
+      "thickness_mm": 14.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 19200000
   },
   {
     "id": 23,
@@ -586,8 +1126,44 @@
     "price_krw": 24840000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38.2,
+      "thickness_mm": 12,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1150",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 17900000
   },
   {
     "id": 24,
@@ -601,8 +1177,44 @@
     "price_krw": 28930000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 38.2,
+      "thickness_mm": 12,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1150",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Metal",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 19700000
   },
   {
     "id": 25,
@@ -616,8 +1228,44 @@
     "price_krw": 46580000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 38.2,
+      "thickness_mm": 12,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1150",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 30300000
   },
   {
     "id": 26,
@@ -631,8 +1279,44 @@
     "price_krw": 47390000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 38.2,
+      "thickness_mm": 12,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1153",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black Gradient Mother-of-Pearl",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 30800000
   },
   {
     "id": 27,
@@ -646,8 +1330,44 @@
     "price_krw": 25330000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 38.2,
+      "thickness_mm": 12,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1153",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Pink Gradient Mother-of-Pearl",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 17200000
   },
   {
     "id": 28,
@@ -661,8 +1381,44 @@
     "price_krw": 49190000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Bronze Gold",
+      "diameter_mm": 41.3,
+      "thickness_mm": 13.3,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1154.P2",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 32000000
   },
   {
     "id": 29,
@@ -676,8 +1432,44 @@
     "price_krw": 22880000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.3,
+      "thickness_mm": 13,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1151",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 16500000
   },
   {
     "id": 30,
@@ -691,8 +1483,43 @@
     "price_krw": 27620000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.3,
+      "thickness_mm": 13,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1151",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 19900000
   },
   {
     "id": 31,
@@ -706,8 +1533,43 @@
     "price_krw": 22880000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.3,
+      "thickness_mm": 13.2,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1151",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 16500000
   },
   {
     "id": 32,
@@ -721,8 +1583,43 @@
     "price_krw": 22880000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.3,
+      "thickness_mm": 13,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1151",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 16500000
   },
   {
     "id": 33,
@@ -736,8 +1633,43 @@
     "price_krw": 23370000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 40.3,
+      "thickness_mm": 13.2,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1154",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 16800000
   },
   {
     "id": 34,
@@ -751,8 +1683,44 @@
     "price_krw": 30890000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 45,
+      "thickness_mm": 16.25,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6918B",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 44,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Big Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 21000000
   },
   {
     "id": 35,
@@ -766,8 +1734,45 @@
     "price_krw": 29740000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F185",
+      "power_reserve_hours": 40,
+      "frequency_vph": 21600,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 21400000
   },
   {
     "id": 36,
@@ -781,8 +1786,45 @@
     "price_krw": 29740000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F185",
+      "power_reserve_hours": 40,
+      "frequency_vph": 21600,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 21400000
   },
   {
     "id": 37,
@@ -796,8 +1838,45 @@
     "price_krw": 62590000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 45,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F185",
+      "power_reserve_hours": 40,
+      "frequency_vph": 21600,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 40700000
   },
   {
     "id": 38,
@@ -811,8 +1890,45 @@
     "price_krw": 62590000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 45,
+      "thickness_mm": 15.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F185",
+      "power_reserve_hours": 40,
+      "frequency_vph": 21600,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Leather",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 40700000
   },
   {
     "id": 39,
@@ -826,8 +1942,45 @@
     "price_krw": 39880000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 17.2,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "66BF8",
+      "power_reserve_hours": 40,
+      "frequency_vph": 21600,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Complete Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 28700000
   },
   {
     "id": 40,
@@ -841,8 +1994,44 @@
     "price_krw": 188410000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 45,
+      "thickness_mm": 14.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "25C",
+      "power_reserve_hours": 192,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "8-Day Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 128100000
   },
   {
     "id": 41,
@@ -856,8 +2045,44 @@
     "price_krw": 231060000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 45,
+      "thickness_mm": 14.75,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "25A",
+      "power_reserve_hours": 192,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "8-Day Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 150200000
   },
   {
     "id": 42,
@@ -871,8 +2096,44 @@
     "price_krw": 230410000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 45,
+      "thickness_mm": 14.7,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "25C",
+      "power_reserve_hours": 192,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "8-Day Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 149800000
   },
   {
     "id": 43,
@@ -886,8 +2147,44 @@
     "price_krw": 242010000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 45,
+      "thickness_mm": 14.75,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "25A",
+      "power_reserve_hours": 192,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "8-Day Tourbillon"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 157300000
   },
   {
     "id": 44,
@@ -901,8 +2198,44 @@
     "price_krw": 15360000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1150",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Meteor Grey",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 11100000
   },
   {
     "id": 45,
@@ -916,8 +2249,44 @@
     "price_krw": 15360000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1150",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 11100000
   },
   {
     "id": 46,
@@ -931,8 +2300,44 @@
     "price_krw": 15360000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1150",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 11100000
   },
   {
     "id": 47,
@@ -946,8 +2351,43 @@
     "price_krw": 15360000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1150",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 11100000
   },
   {
     "id": 48,
@@ -961,8 +2401,44 @@
     "price_krw": 19290000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 38,
+      "thickness_mm": 10.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1153",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Leather",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 13900000
   },
   {
     "id": 49,
@@ -976,8 +2452,44 @@
     "price_krw": 16840000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.45,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Meteor Grey",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 12100000
   },
   {
     "id": 50,
@@ -991,8 +2503,44 @@
     "price_krw": 18630000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 43,
+      "thickness_mm": 13.45,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 12700000
   },
   {
     "id": 51,
@@ -1006,8 +2554,44 @@
     "price_krw": 18630000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 43,
+      "thickness_mm": 13.45,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Vertically Satin-Brushed Anthracite",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 12700000
   },
   {
     "id": 52,
@@ -1021,8 +2605,44 @@
     "price_krw": 21410000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 15000000
   },
   {
     "id": 53,
@@ -1036,8 +2656,44 @@
     "price_krw": 21410000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 15000000
   },
   {
     "id": 54,
@@ -1051,8 +2707,44 @@
     "price_krw": 32030000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Ceramic",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 22400000
   },
   {
     "id": 55,
@@ -1066,8 +2758,44 @@
     "price_krw": 20590000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue Gradient",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 14400000
   },
   {
     "id": 56,
@@ -1081,8 +2809,44 @@
     "price_krw": 32030000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43,
+      "thickness_mm": 13.5,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Green",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Ceramic",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 22400000
   },
   {
     "id": 57,
@@ -1096,8 +2860,44 @@
     "price_krw": 20590000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue Gradient",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 14400000
   },
   {
     "id": 58,
@@ -1111,8 +2911,44 @@
     "price_krw": 45760000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Sedna Gold",
+      "diameter_mm": 43,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 29700000
   },
   {
     "id": 59,
@@ -1126,8 +2962,44 @@
     "price_krw": 45760000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Sedna Gold",
+      "diameter_mm": 43,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue Gradient",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 29700000
   },
   {
     "id": 60,
@@ -1141,8 +3013,44 @@
     "price_krw": 25170000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1318",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Green",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 17600000
   },
   {
     "id": 61,
@@ -1156,8 +3064,45 @@
     "price_krw": 20430000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.2,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315DD",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Day",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Subtle Sand Gradient",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 14700000
   },
   {
     "id": 62,
@@ -1171,8 +3116,45 @@
     "price_krw": 23860000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 14.9,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F385",
+      "power_reserve_hours": 50,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Meteor Grey",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 17200000
   },
   {
     "id": 63,
@@ -1186,8 +3168,45 @@
     "price_krw": 25660000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 43,
+      "thickness_mm": 14.9,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F385",
+      "power_reserve_hours": 50,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Anthracite",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 17400000
   },
   {
     "id": 64,
@@ -1201,8 +3220,45 @@
     "price_krw": 27620000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 15.25,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F385",
+      "power_reserve_hours": 50,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 19300000
   },
   {
     "id": 65,
@@ -1216,8 +3272,45 @@
     "price_krw": 27620000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 15.25,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F385",
+      "power_reserve_hours": 50,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue Gradient",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 19300000
   },
   {
     "id": 66,
@@ -1231,8 +3324,45 @@
     "price_krw": 39060000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 15.25,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F385",
+      "power_reserve_hours": 50,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Green",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Ceramic",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 27300000
   },
   {
     "id": 67,
@@ -1246,8 +3376,45 @@
     "price_krw": 32520000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 15.25,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F385",
+      "power_reserve_hours": 50,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue Gradient",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 22800000
   },
   {
     "id": 68,
@@ -1261,8 +3428,45 @@
     "price_krw": 32520000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 15.25,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F385",
+      "power_reserve_hours": 50,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Meteor Grey",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Fabric",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 22800000
   },
   {
     "id": 69,
@@ -1276,8 +3480,45 @@
     "price_krw": 83340000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 43,
+      "thickness_mm": 14.9,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "F385",
+      "power_reserve_hours": 50,
+      "frequency_vph": 36000,
+      "jewels": 37,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Flyback Chronograph",
+        "Date"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue Gradient",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Metal",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 54200000
   },
   {
     "id": 70,
@@ -1291,8 +3532,45 @@
     "price_krw": 23860000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6654.P.4",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Meteor Grey",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 17200000
   },
   {
     "id": 71,
@@ -1306,8 +3584,45 @@
     "price_krw": 25660000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 43,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6654.P.4",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Anthracite",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 17400000
   },
   {
     "id": 72,
@@ -1321,8 +3636,45 @@
     "price_krw": 27620000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6654.P.4",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 19300000
   },
   {
     "id": 73,
@@ -1336,8 +3688,45 @@
     "price_krw": 39060000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6654.P.4",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Ceramic",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 27300000
   },
   {
     "id": 74,
@@ -1351,8 +3740,45 @@
     "price_krw": 27620000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Ceramic",
+      "diameter_mm": 43.6,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6654.P.4",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Green",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 19300000
   },
   {
     "id": 75,
@@ -1366,8 +3792,45 @@
     "price_krw": 83340000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 43,
+      "thickness_mm": 13.4,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6654.P.4",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Blue",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Metal",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 54200000
   },
   {
     "id": 76,
@@ -1381,8 +3844,44 @@
     "price_krw": 42330000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 43,
+      "thickness_mm": 13.1,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6054.P.4",
+      "power_reserve_hours": 72,
+      "frequency_vph": 28800,
+      "jewels": 34,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Annual Calendar"
+      ]
+    },
+    "dial": {
+      "color": "Sunburst Meteor Grey",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 30500000
   },
   {
     "id": 77,
@@ -1396,8 +3895,43 @@
     "price_krw": 25170000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 45,
+      "thickness_mm": 15.7,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 18100000
   },
   {
     "id": 78,
@@ -1411,8 +3945,44 @@
     "price_krw": 43140000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 47,
+      "thickness_mm": 14.8,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "13P8",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Dive-Time Counter"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 29300000
   },
   {
     "id": 79,
@@ -1426,8 +3996,43 @@
     "price_krw": 31050000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 45,
+      "thickness_mm": 14.1,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315A",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 21100000
   },
   {
     "id": 80,
@@ -1441,8 +4046,43 @@
     "price_krw": 32030000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 45,
+      "thickness_mm": 14.1,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1315A",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 35,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": null,
+    "resale_krw_est": 21800000
   },
   {
     "id": 81,
@@ -1456,8 +4096,45 @@
     "price_krw": 65370000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "specs_complete": true,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Titanium",
+      "diameter_mm": 55.6,
+      "thickness_mm": 24,
+      "water_resistance_m": 300,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "9918B",
+      "power_reserve_hours": 120,
+      "frequency_vph": 28800,
+      "jewels": 48,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Seconds",
+        "Mechanical Depth Gauge",
+        "Dive-Time Counter"
+      ]
+    },
+    "dial": {
+      "color": "Black",
+      "indexes": "Luminescent Indexes"
+    },
+    "strap": {
+      "type": "Rubber",
+      "material": "Rubber",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 44500000
   },
   {
     "id": 82,
