@@ -259,8 +259,18 @@ function build() {
 
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(all, null, 2));
   fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 2));
+
+  // index.html의 캐시 버스팅 버전을 빌드 날짜로 자동 갱신
+  const INDEX_FILE = path.join(__dirname, "index.html");
+  const today = new Date();
+  const buildVer = `${today.getFullYear()}${String(today.getMonth()+1).padStart(2,'0')}${String(today.getDate()).padStart(2,'0')}${String(today.getHours()).padStart(2,'0')}${String(today.getMinutes()).padStart(2,'0')}`;
+  let html = fs.readFileSync(INDEX_FILE, "utf8");
+  html = html.replace(/const v = '[^']+';/, `const v = '${buildVer}';`);
+  fs.writeFileSync(INDEX_FILE, html);
+
   console.log(`\n  ✓  watches.json 생성 완료 (${all.length}개 모델, id 1–${all.length})`);
-  console.log(`  ✓  meta.json 생성 완료 (${meta.brands.length}개 브랜드, ${Object.keys(meta.collections).length}개 컬렉션)\n`);
+  console.log(`  ✓  meta.json 생성 완료 (${meta.brands.length}개 브랜드, ${Object.keys(meta.collections).length}개 컬렉션)`);
+  console.log(`  ✓  index.html 캐시 버전 갱신: ${buildVer}\n`);
 }
 
 build();
