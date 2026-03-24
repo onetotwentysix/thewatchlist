@@ -305,21 +305,33 @@ footer p span { color:var(--gold); }
 let watches = [];
 let meta = { brands: [], collections: {} };
 
-async function loadData() {
+async function loadData(retryCount = 0) {
+  const showError = (msg) => {
+    const el = document.getElementById("emptyState");
+    el.style.display = "block";
+    el.innerHTML = `<p>${msg}</p>`;
+  };
   try {
-    const v = '202603241801';
+    const v = '202603241823';
     const [watchRes, metaRes] = await Promise.all([
       fetch('./watches.json?v=' + v),
       fetch('./meta.json?v=' + v)
     ]);
+    if (!watchRes.ok) throw new Error(`watches.json: HTTP ${watchRes.status}`);
+    if (!metaRes.ok)  throw new Error(`meta.json: HTTP ${metaRes.status}`);
     watches = await watchRes.json();
-    meta = await metaRes.json();
+    meta    = await metaRes.json();
     initMeta();
     renderTable();
   } catch(e) {
-    document.getElementById("emptyState").style.display = "block";
-    document.getElementById("emptyState").innerHTML = "<p>⚠️ watches.json 또는 meta.json을 불러올 수 없습니다.<br>node build.js를 먼저 실행해주세요.</p>";
     console.error("데이터 로드 실패:", e);
+    if (retryCount < 3) {
+      const delay = (retryCount + 1) * 1500;
+      showError(`⏳ 데이터 로딩 중… (${retryCount + 1}/3회 재시도)`);
+      setTimeout(() => loadData(retryCount + 1), delay);
+    } else {
+      showError(`⚠️ 데이터를 불러올 수 없습니다.<br><small style="color:#999">${e.message}</small>`);
+    }
   }
 }
 
