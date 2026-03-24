@@ -36,12 +36,16 @@ const AUTO_PALETTE = [
 ];
 
 // ─── 필수 필드 정의 ────────────────────────────────────────────────────────────
-const REQUIRED_FIELDS = [
+// specs_complete:false 모델은 기본 필드만 검사
+const REQUIRED_FIELDS_BASIC = [
   "brand", "collection", "collection_kr", "reference", "name", "name_kr",
-  "gender", "price_krw", "price_confirmed",
+  "gender", "price_krw", "price_confirmed", "source"
+];
+const REQUIRED_FIELDS_FULL = [
+  ...REQUIRED_FIELDS_BASIC,
   "case", "movement", "dial", "strap",
   "availability", "certification", "limited",
-  "year_introduced", "resale_krw_est", "source"
+  "year_introduced", "resale_krw_est"
 ];
 const REQUIRED_CASE   = ["material", "diameter_mm", "thickness_mm", "water_resistance_m", "glass", "caseback"];
 const REQUIRED_MOV    = ["type", "caliber", "power_reserve_hours", "frequency_vph", "jewels", "functions"];
@@ -60,8 +64,12 @@ function validate(model, file, index) {
   const errors = [];
   const loc = `[${file} #${index + 1} "${model.name || "?"}"]`;
 
+  // specs_complete:false 이면 기본 필드만, 기본값은 full 검사
+  const specsComplete = model.specs_complete !== false;
+  const requiredFields = specsComplete ? REQUIRED_FIELDS_FULL : REQUIRED_FIELDS_BASIC;
+
   // 필수 필드
-  for (const f of REQUIRED_FIELDS) {
+  for (const f of requiredFields) {
     // price_krw는 null 허용 (가격 문의/POA)
     if (f === "price_krw") {
       if (model[f] === undefined || model[f] === "") {
@@ -72,11 +80,13 @@ function validate(model, file, index) {
     }
   }
 
-  // 중첩 필드
-  for (const f of REQUIRED_CASE)  if (!model.case?.[f]     && model.case?.[f]  !== 0) errors.push(`${loc} case.${f} 누락`);
-  for (const f of REQUIRED_MOV)   if (!model.movement?.[f] && model.movement?.[f] !== 0) errors.push(`${loc} movement.${f} 누락`);
-  for (const f of REQUIRED_DIAL)  if (!model.dial?.[f])    errors.push(`${loc} dial.${f} 누락`);
-  for (const f of REQUIRED_STRAP) if (!model.strap?.[f])   errors.push(`${loc} strap.${f} 누락`);
+  // 중첩 필드 (specs_complete:false 이면 건너뜀)
+  if (specsComplete) {
+    for (const f of REQUIRED_CASE)  if (!model.case?.[f]     && model.case?.[f]  !== 0) errors.push(`${loc} case.${f} 누락`);
+    for (const f of REQUIRED_MOV)   if (!model.movement?.[f] && model.movement?.[f] !== 0) errors.push(`${loc} movement.${f} 누락`);
+    for (const f of REQUIRED_DIAL)  if (!model.dial?.[f])    errors.push(`${loc} dial.${f} 누락`);
+    for (const f of REQUIRED_STRAP) if (!model.strap?.[f])   errors.push(`${loc} strap.${f} 누락`);
+  }
 
   // 값 범위 검사
   if (model.availability && !VALID_AVAILABILITY.includes(model.availability)) {

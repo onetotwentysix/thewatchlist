@@ -4,567 +4,1113 @@
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5015-1130-52A",
-    "name": "Fifty Fathoms Automatique 45 Steel",
-    "name_kr": "피프티 패덤즈 오토매틱 45 스틸",
+    "reference": "5015-1130-52B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
     "price_krw": 24520000,
     "price_confirmed": true,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 45,
-      "thickness_mm": 15.4,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Sailcloth",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Black",
-      "Blue"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2007,
-    "resale_krw_est": 18000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "1953년 최초 다이버워치의 현대 계승작. 3-배럴 칼리버 1315로 5일 파워리저브. 실리콘 헤어스프링.",
-    "verdict": {
-      "overall": "Iconic",
-      "spec": {
-        "label": "Specialist",
-        "comment": "45mm/15.4mm는 상당한 사이즈. 그러나 120h 파워리저브와 실리콘 헤어스프링, 300m 방수는 하이엔드 다이버워치 중 최상위 스펙. 손목 둘레 18cm 이상 권장."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "1953년 롤렉스 서브마리너보다 먼저 출시된 세계 최초의 현대 다이버워치. 미해군 네이비실에 납품되었으며 근대 다이버워치의 원형."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "70년 이상의 역사를 가진 다이버워치 중 가장 정통성 있는 라인. 롤렉스 서브마리너의 진지한 대안. 수집 가치와 중고 시장 안정성 높음."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "id": 2,
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5015-12B40-O52A",
-    "name": "Fifty Fathoms Automatique 45 Titanium",
-    "name_kr": "피프티 패덤즈 오토매틱 45 티타늄 블루",
+    "reference": "5015-12B30-B52B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
-    "price_krw": 29910000,
+    "price_krw": 28110000,
     "price_confirmed": true,
-    "case": {
-      "material": "Titanium",
-      "diameter_mm": 45,
-      "thickness_mm": 15.4,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Blue",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Sailcloth / NATO",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Blue"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2017,
-    "resale_krw_est": 20000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "풀 새틴 브러싱 티타늄. 스틸 버전보다 가볍고 블루 다이얼.",
-    "verdict": {
-      "overall": "Iconic",
-      "spec": {
-        "label": "Specialist",
-        "comment": "스틸 버전과 동일 스펙에 티타늄으로 무게를 낮춤. 풀 새틴 브러싱은 도구적 성격 강조. 블루 다이얼과 티타늄 조합은 하이엔드 다이버워치 시장에서 희소."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "스틸 버전과 동일한 1953년 FF 헤리티지 공유. 티타늄 버전은 2017년 출시로 더 툴워치에 가까운 성격. 전문 다이버들의 실용 수요를 반영."
-      },
-      "timelessness": {
-        "label": "Collector's Pick",
-        "comment": "티타늄 다이버워치는 틈새 시장이지만 확고한 수요. 블루 다이얼의 트렌드 친화성과 티타늄의 내구성이 장기 가치를 지지."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "id": 3,
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5010-1130-71S",
-    "name": "Fifty Fathoms Automatique 42 Steel",
-    "name_kr": "피프티 패덤즈 오토매틱 42 스틸",
+    "reference": "5015-12B40-98B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
-    "price_krw": 27130000,
+    "price_krw": 29910000,
     "price_confirmed": true,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42.3,
-      "thickness_mm": 14.3,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Bracelet",
-      "material": "Stainless Steel",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Black"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2025,
-    "resale_krw_est": 21000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "2025년 신규 42mm 스틸 버전. 45mm보다 착용감 개선.",
-    "verdict": {
-      "overall": "Definitive",
-      "spec": {
-        "label": "Versatile",
-        "comment": "42mm/14.3mm로 FF 라인 중 가장 일상 착용하기 좋은 사이즈. 동일한 Cal.1315의 120h 파워리저브. 스틸 브레이슬릿으로 데일리 워치 완성도 높음."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "2025년 트렌드에 맞게 소형화한 FF. 원래 42mm로 시작한 FF의 뿌리로 돌아간 의미. 보다 컴팩트한 사이즈 요구에 대한 블랑팡의 공식 응답."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "42mm 다이버워치는 가장 범용적인 사이즈. 롤렉스 서브마리너 대비 스펙과 헤리티지 모두 우위. 2025 출시로 중고 데이터는 아직 축적 중이나 장기 전망 밝음."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "id": 4,
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5100-1140-O52A",
-    "name": "Fifty Fathoms Bathyscaphe 38",
-    "name_kr": "피프티 패덤즈 바티스카프 38",
-    "gender": "Men/Women",
-    "price_krw": 15360000,
+    "reference": "5015-3630-52B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 56710000,
     "price_confirmed": true,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 38,
-      "thickness_mm": 13.4,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Blue",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Vulcanized Rubber",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Blue",
-      "Black",
-      "Grey"
-    ],
-    "availability": "easy",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2015,
-    "resale_krw_est": 12000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "라운드 베젤과 더 얇은 케이스. 유니섹스 가능한 FF 엔트리.",
-    "verdict": {
-      "overall": "Versatile",
-      "spec": {
-        "label": "Versatile",
-        "comment": "38mm/13.4mm로 유니섹스 착용 가능한 사이즈. Cal.1315로 120h 파워리저브 동일. 바티스카프만의 라운드 베젤이 덜 스포티하고 더 캐주얼한 느낌."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "1956년 해저 탐사선 바티스카프에서 이름을 딴 서브라인. FF의 실용적 DNA를 더 접근하기 쉬운 사이즈로 계승. 블랑팡의 해양 보존 파트너십을 상징."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "더 작고 가벼운 다이버워치 트렌드에 잘 맞는 모델. FF 라인 중 입문 포지션으로 수요 안정적. 남녀 모두 착용 가능해 활용도 높음."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "id": 5,
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5054-3640-O52B",
-    "name": "Bathyscaphe Complete Calendar Moonphase",
-    "name_kr": "바티스카프 컴플리트 캘린더 문페이즈",
+    "reference": "5015-3603C-63B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
-    "price_krw": 83340000,
+    "price_krw": 60630000,
     "price_confirmed": true,
-    "case": {
-      "material": "18K Red Gold",
-      "diameter_mm": 43.6,
-      "thickness_mm": 13.4,
-      "water_resistance_m": 50,
-      "glass": "Sapphire Crystal (Domed)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "6654",
-      "power_reserve_hours": 72,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Complete Calendar",
-        "Moon Phase"
-      ]
-    },
-    "dial": {
-      "color": "Slate Blue",
-      "indexes": "Applied Indices"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Alligator",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Slate Blue"
-    ],
-    "availability": "hard",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2016,
-    "resale_krw_est": 28000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "다이버 케이스에 컴플리케이션 결합. 18K 레드골드. 문페이즈+컴플리트 캘린더.",
-    "verdict": {
-      "overall": "Collector's Pick",
-      "spec": {
-        "label": "Specialist",
-        "comment": "43.6mm이지만 골드 케이스 덕분에 드레스워치로도 통용. Cal.6654는 72h 파워리저브. 다이버 실루엣에 달력과 문페이즈의 드레시한 조합이 독특."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "블랑팡의 두 정체성 — 다이버워치(FF)와 컴플리케이션(빌레레) — 을 한 케이스에서 구현한 독특한 피스. 해양과 전통 워치메이킹의 교차점."
-      },
-      "timelessness": {
-        "label": "Collector's Pick",
-        "comment": "다이버 케이스 + 달력 컴플리케이션은 극히 희소한 조합. 마니아들 사이 수요 확고. 골드 케이스가 장기 가치 지지하나 일상 착용성은 제한적."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "id": 6,
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5200-1110-71S",
-    "name": "Fifty Fathoms Bathyscaphe 43",
-    "name_kr": "피프티 패덤즈 바티스카프 43",
+    "reference": "5015A-3630-63B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
-    "price_krw": 14500000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 43,
-      "thickness_mm": 13.5,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Rubber",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Black",
-      "Blue",
-      "Green"
-    ],
-    "availability": "easy",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2013,
-    "resale_krw_est": 11500000,
-    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03.24)",
-    "notes": "43mm · 13.5mm · Cal. 1315 자동 120h (3배럴) · 300m 방수 · 세라믹 단방향 베젤 · 실리콘 헤어스프링 · 45mm 대비 착용 허들 낮은 바티스카프 라인 주력 사이즈",
-    "verdict": {
-      "overall": "Definitive",
-      "spec": {
-        "label": "Versatile",
-        "comment": "43mm/13.5mm, Cal. 1315 자동 120h. 45mm 대비 케이스가 작아 착용 적합 범위가 넓다. 3배럴 5일 파워리저브와 실리콘 헤어스프링은 동일. 다이버워치 기능과 일상 착용성을 균형있게 갖춘 바티스카프의 핵심 모델."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "Bathyscaphe는 1953년 오리지널 FF보다 더 슬림하고 일상적인 다이버워치로 2013년 론칭. 1960년대 Bathyscaphe 포켓워치에서 이름을 가져온 계보. FF 라인 내 가장 대중적 포지션."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "43mm 세라믹 베젤 다이버워치는 현재 시장에서 가장 수요가 안정적인 카테고리. Cal. 1315의 5일 파워리저브와 실리콘 헤어스프링은 기술적 노후화 위험이 낮다."
-      }
-    }
+    "price_krw": 56710000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "id": 7,
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5200-0130-O52A",
-    "name": "Fifty Fathoms Bathyscaphe Flyback Chronograph 43",
-    "name_kr": "피프티 패덤즈 바티스카프 플라이백 크로노그래프 43",
+    "reference": "5015D-1140-52B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
-    "price_krw": 27620000,
+    "price_krw": 24520000,
     "price_confirmed": true,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 43,
-      "thickness_mm": 15,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "F185",
-      "power_reserve_hours": 40,
-      "frequency_vph": 36000,
-      "jewels": 37,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Flyback Chronograph",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Blue",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Rubber",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Blue",
-      "Black"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2019,
-    "resale_krw_est": 18500000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "43mm · 15mm · Cal. F185 자동 플라이백 크로노그래프 · 36,000vph 고주파 · 300m 방수 · 세라믹 베젤 · 다이버워치에 인하우스 플라이백 크로노 탑재한 복합 전문 도구",
-    "verdict": {
-      "overall": "Specialist",
-      "spec": {
-        "label": "Specialist",
-        "comment": "43mm/15mm, Cal. F185 자동 플라이백 크로노 36,000vph. 300m 방수 + 플라이백 크로노 조합은 다이버워치 중 최고 수준 기능 스택. 두께 15mm는 착용 허들. 스쿠버 다이빙과 수중 타이밍 전문가 타깃."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "FF의 다이버 전통과 블랑팡 크로노그래프 기술이 결합한 모델. 1953년 세계 최초 현대 다이버워치 DNA에 고주파 플라이백 크로노를 더한 기술적 집대성."
-      },
-      "timelessness": {
-        "label": "Collector's Pick",
-        "comment": "다이버워치 + 인하우스 플라이백 크로노의 조합은 시장에서 찾기 어렵다. 기능적 복잡성과 헤리티지가 맞닿는 지점에서 컬렉터 가치가 높다. 두께와 가격은 진입 장벽."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "id": 8,
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5054-1130-52B",
-    "name": "Fifty Fathoms Bicompax Annual Calendar 42",
-    "name_kr": "피프티 패덤즈 바이컴팩스 애뉴얼 캘린더 42",
+    "reference": "5010-1130-71S",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
-    "price_krw": 34000000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42,
-      "thickness_mm": 15.2,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "F185B",
-      "power_reserve_hours": 40,
-      "frequency_vph": 36000,
-      "jewels": 37,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Flyback Chronograph",
-        "Annual Calendar",
-        "Day",
-        "Date",
-        "Month",
-        "Moon Phase"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Rubber",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Black",
-      "Blue"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2014,
-    "resale_krw_est": 27000000,
-    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03.24)",
-    "notes": "42mm · 15.2mm · Cal. F185B · 플라이백 크로노 + 애뉴얼 캘린더(요일·날짜·월) + 문페이즈 · 300m 방수 · 스포츠 다이버 케이스에 그랑 컴플리케이션을 담은 블랑팡의 기술 집약 모델",
-    "verdict": {
-      "overall": "Collector's Pick",
-      "spec": {
-        "label": "Specialist",
-        "comment": "42mm/15.2mm, 플라이백 크로노 + 애뉴얼 캘린더 + 문페이즈 + 300m 방수. 이 조합을 하나의 케이스에 담은 시계는 세계적으로 극히 드물다. 두께 15mm는 착용 장벽이나 스펙의 밀도 자체가 독보적."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "피프티 패덤즈 헤리티지에 블랑팡 그랑 컴플리케이션 전통을 결합한 모델. 1953년 다이버워치와 빌레레 드레스워치 양 극단의 블랑팡 정체성이 하나의 시계로 통합된다."
-      },
-      "timelessness": {
-        "label": "Collector's Pick",
-        "comment": "다이버 + 크로노 + 연간 달력 + 문페이즈의 조합은 수집 목록에서 영원히 화제가 될 구성. 시장 희소성이 가격 하방을 지지. 블랑팡 컬렉터의 최종 목적지 중 하나."
-      }
-    }
+    "price_krw": 27130000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "id": 9,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010-12B30-B64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 10,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010-12B40-O64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 11,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010-36B30-B64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 51640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 12,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010-36B40-O64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 51640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 13,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010C-1130-NABA",
+    "name": "Fifty Fathoms 70th Anniversary Act 1 Series III",
+    "name_kr": "피프티 패덤즈 70주년 액트 1 시리즈 III",
+    "gender": "Men",
+    "price_krw": 26640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 14,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010B-1130-NABA",
+    "name": "Fifty Fathoms 70th Anniversary Act 1 Series II",
+    "name_kr": "피프티 패덤즈 70주년 액트 1 시리즈 II",
+    "gender": "Men",
+    "price_krw": 26640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 15,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010A-1130-NABA",
+    "name": "Fifty Fathoms 70th Anniversary Act 1 Series I",
+    "name_kr": "피프티 패덤즈 70주년 액트 1 시리즈 I",
+    "gender": "Men",
+    "price_krw": 26640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 16,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-1130-B64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 24840000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 17,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-12B40-98S",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 28930000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 18,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-36B40-O64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 46580000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 19,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-3644A-B64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 47390000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 20,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-12B44R-NAFA",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 25330000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 21,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5901-5630-NANA",
+    "name": "Fifty Fathoms 70th Anniversary Act 3",
+    "name_kr": "피프티 패덤즈 70주년 액트 3",
+    "gender": "Men",
+    "price_krw": 49190000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 22,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008-1130-B52A",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 22880000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 23,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008-11B40-NAOA",
+    "name": "Fifty Fathoms Ocean Commitment III",
+    "name_kr": "피프티 패덤즈 오션 커밋먼트 III",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 24,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008B-1130-B52A",
+    "name": "Fifty Fathoms Barakuda",
+    "name_kr": "피프티 패덤즈 바라쿠다",
+    "gender": "Men",
+    "price_krw": 22880000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 25,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008D-1130-B64A",
+    "name": "Fifty Fathoms No Rad",
+    "name_kr": "피프티 패덤즈 노 래드",
+    "gender": "Men",
+    "price_krw": 22880000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 26,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008-11B30-NABA",
+    "name": "Fifty Fathoms MIL-SPEC Hodinkee",
+    "name_kr": "피프티 패덤즈 밀스펙 호딩키",
+    "gender": "Men",
+    "price_krw": 23370000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 27,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5050-12B30-B52B",
+    "name": "Fifty Fathoms Grande Date",
+    "name_kr": "피프티 패덤즈 그랑 데이트",
+    "gender": "Men",
+    "price_krw": 30890000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 28,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5085F-1130-52B",
+    "name": "Fifty Fathoms Chronographe Flyback",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 29740000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 29,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5085FB-1140-52B",
+    "name": "Fifty Fathoms Chronographe Flyback",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 29740000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 30,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5085F-3630-52B",
+    "name": "Fifty Fathoms Chronographe Flyback",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 62590000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 31,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5085FA-3630-63B",
+    "name": "Fifty Fathoms Chronographe Flyback",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 62590000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 32,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5066F-1140-52B",
+    "name": "Fifty Fathoms Chronographe Flyback Quantième Complet",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백 콤플리트 캘린더",
+    "gender": "Men",
+    "price_krw": 39880000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 33,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5025-12B40-NAOA",
+    "name": "Fifty Fathoms Tourbillon 8 Jours",
+    "name_kr": "피프티 패덤즈 투르비용 8일 파워리저브",
+    "gender": "Men",
+    "price_krw": 188410000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 34,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5025-3630-52B",
+    "name": "Fifty Fathoms Tourbillon 8 Jours",
+    "name_kr": "피프티 패덤즈 투르비용 8일 파워리저브",
+    "gender": "Men",
+    "price_krw": 231060000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 35,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5025-36B40-O52B",
+    "name": "Fifty Fathoms Tourbillon 8 Jours",
+    "name_kr": "피프티 패덤즈 투르비용 8일 파워리저브",
+    "gender": "Men",
+    "price_krw": 230410000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 36,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5025-1530-52B",
+    "name": "Fifty Fathoms Tourbillon 8 Jours",
+    "name_kr": "피프티 패덤즈 투르비용 8일 파워리저브",
+    "gender": "Men",
+    "price_krw": 242010000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 37,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5100B-1110-B52A",
+    "name": "Bathyscaphe 38",
+    "name_kr": "바티스카프 38",
+    "gender": "Men",
+    "price_krw": 15360000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 38,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5100-1140-O52A",
+    "name": "Bathyscaphe 38",
+    "name_kr": "바티스카프 38",
+    "gender": "Men",
+    "price_krw": 15360000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 39,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5100-1127-W52A",
+    "name": "Bathyscaphe 38",
+    "name_kr": "바티스카프 38",
+    "gender": "Men",
+    "price_krw": 15360000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 40,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "2023-5100A-1127-W52A",
+    "name": "Bathyscaphe Saint-Valentin 2023",
+    "name_kr": "바티스카프 생발랑탱 2023",
+    "gender": "Men",
+    "price_krw": 15360000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 41,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5100-1130-63A",
+    "name": "Bathyscaphe 38",
+    "name_kr": "바티스카프 38",
+    "gender": "Men",
+    "price_krw": 19290000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 42,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-1110-B52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 16840000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 43,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-1230-B52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 18630000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 44,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-1210-G52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 18630000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 45,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-0640-O52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 21410000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 46,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000A-0640-O52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 21410000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 47,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-0130-01S",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 32030000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 48,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000A-0140-O52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 20590000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 49,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-0153-01S",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 32030000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 50,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-0240-O52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 20590000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 51,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-36S30-B52B",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 45760000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 52,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-36S40-O52B",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 45760000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 53,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5005-0153-NABA",
+    "name": "Bathyscaphe Mokarran",
+    "name_kr": "바티스카프 모카란",
+    "gender": "Men",
+    "price_krw": 25170000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 54,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5052-1146-E52A",
+    "name": "Bathyscaphe Day Date Desert Edition",
+    "name_kr": "바티스카프 데이 데이트 데저트 에디션",
+    "gender": "Men",
+    "price_krw": 20430000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 55,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-1110-B52A",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 23860000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 56,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-1210-G52A",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 25660000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 57,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0130-B52A",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 58,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0140-O52A",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 59,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0153-01S",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 39060000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 60,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0240-O52A",
+    "name": "Bathyscaphe Chronographe Flyback Ocean Commitment I",
+    "name_kr": "바티스카프 크로노그라프 플라이백 오션 커밋먼트 I",
+    "gender": "Men",
+    "price_krw": 32520000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 61,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0310-G52A",
+    "name": "Bathyscaphe Chronographe Flyback Ocean Commitment II",
+    "name_kr": "바티스카프 크로노그라프 플라이백 오션 커밋먼트 II",
+    "gender": "Men",
+    "price_krw": 32520000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 62,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-3640-76S",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 83340000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 63,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-1110-B52A",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 23860000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 64,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-1210-G52A",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 25660000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 65,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-0130-B52A",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 66,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-0140-01S",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 39060000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 67,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-0153-B52A",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 68,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-3640-76S",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 83340000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 69,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5071-1110-B52A",
+    "name": "Bathyscaphe Quantième Annuel",
+    "name_kr": "바티스카프 애뉴얼 캘린더",
+    "gender": "Men",
+    "price_krw": 42330000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 70,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5015E-1130-B52A",
+    "name": "Fifty Fathoms Nageurs de Combat",
+    "name_kr": "피프티 패덤즈 나저 드 콩바",
+    "gender": "Men",
+    "price_krw": 25170000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 71,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5019-12B30-64A",
+    "name": "Tech Gombessa",
+    "name_kr": "테크 곰베사",
+    "gender": "Men",
+    "price_krw": 43140000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 72,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5029-12B30-94A",
+    "name": "Fifty Fathoms Tech",
+    "name_kr": "피프티 패덤즈 테크",
+    "gender": "Men",
+    "price_krw": 31050000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 73,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5029A-12B30-64A",
+    "name": "Tech Ocean Commitment IV",
+    "name_kr": "테크 오션 커밋먼트 IV",
+    "gender": "Men",
+    "price_krw": 32030000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 74,
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5018-1230-64A",
+    "name": "X Fathoms",
+    "name_kr": "X 패덤즈",
+    "gender": "Men",
+    "price_krw": 65370000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "id": 75,
     "brand": "Blancpain",
     "collection": "LEvolution",
     "collection_kr": "L-Evolution",
@@ -633,7 +1179,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 76,
     "brand": "Blancpain",
     "collection": "Villeret",
     "collection_kr": "빌레레",
@@ -703,7 +1249,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 11,
+    "id": 77,
     "brand": "Blancpain",
     "collection": "Villeret",
     "collection_kr": "빌레레",
@@ -774,7 +1320,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 12,
+    "id": 78,
     "brand": "Blancpain",
     "collection": "Villeret",
     "collection_kr": "빌레레",
@@ -843,7 +1389,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 79,
     "brand": "Blancpain",
     "collection": "Villeret",
     "collection_kr": "빌레레",
@@ -918,7 +1464,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 80,
     "brand": "Blancpain",
     "collection": "Villeret",
     "collection_kr": "빌레레",
@@ -987,7 +1533,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 15,
+    "id": 81,
     "brand": "Blancpain",
     "collection": "Woman",
     "collection_kr": "우먼",
@@ -1058,7 +1604,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 16,
+    "id": 82,
     "brand": "Breguet",
     "collection": "Classique",
     "collection_kr": "클래식",
@@ -1125,7 +1671,7 @@
     }
   },
   {
-    "id": 17,
+    "id": 83,
     "brand": "Breguet",
     "collection": "Classique",
     "collection_kr": "클래식",
@@ -1194,7 +1740,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 84,
     "brand": "Breguet",
     "collection": "Classique",
     "collection_kr": "클래식",
@@ -1261,7 +1807,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 85,
     "brand": "Breguet",
     "collection": "Classique",
     "collection_kr": "클래식",
@@ -1331,7 +1877,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 86,
     "brand": "Breguet",
     "collection": "Marine",
     "collection_kr": "마린",
@@ -1400,7 +1946,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 87,
     "brand": "Breguet",
     "collection": "Marine",
     "collection_kr": "마린",
@@ -1470,7 +2016,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 88,
     "brand": "Breguet",
     "collection": "Tradition",
     "collection_kr": "트라디션",
@@ -1538,7 +2084,7 @@
     }
   },
   {
-    "id": 23,
+    "id": 89,
     "brand": "Breguet",
     "collection": "TypeXX",
     "collection_kr": "타입 XX",
@@ -1609,7 +2155,7 @@
     }
   },
   {
-    "id": 24,
+    "id": 90,
     "brand": "Breguet",
     "collection": "TypeXX",
     "collection_kr": "타입 XX",
@@ -1678,7 +2224,7 @@
     }
   },
   {
-    "id": 25,
+    "id": 91,
     "brand": "Breitling",
     "collection": "Avenger",
     "collection_kr": "어벤저",
@@ -1749,7 +2295,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 26,
+    "id": 92,
     "brand": "Breitling",
     "collection": "Navitimer",
     "collection_kr": "나비타이머",
@@ -1821,7 +2367,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 27,
+    "id": 93,
     "brand": "Breitling",
     "collection": "Superocean",
     "collection_kr": "슈퍼오션",
@@ -1893,7 +2439,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 28,
+    "id": 94,
     "brand": "Cartier",
     "collection": "BallonBleu",
     "collection_kr": "발롱 블루",
@@ -1962,7 +2508,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 95,
     "brand": "Cartier",
     "collection": "BallonBleu",
     "collection_kr": "발롱 블루",
@@ -2033,7 +2579,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 30,
+    "id": 96,
     "brand": "Cartier",
     "collection": "BallonBleu",
     "collection_kr": "발롱 블루",
@@ -2102,7 +2648,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 97,
     "brand": "Cartier",
     "collection": "Drive",
     "collection_kr": "드라이브",
@@ -2171,7 +2717,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 98,
     "brand": "Cartier",
     "collection": "Drive",
     "collection_kr": "드라이브",
@@ -2237,7 +2783,7 @@
     }
   },
   {
-    "id": 33,
+    "id": 99,
     "brand": "Cartier",
     "collection": "Panthere",
     "collection_kr": "팡테르",
@@ -2304,7 +2850,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 34,
+    "id": 100,
     "brand": "Cartier",
     "collection": "Panthere",
     "collection_kr": "팡테르",
@@ -2371,7 +2917,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 35,
+    "id": 101,
     "brand": "Cartier",
     "collection": "Panthere",
     "collection_kr": "팡테르",
@@ -2438,7 +2984,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 36,
+    "id": 102,
     "brand": "Cartier",
     "collection": "Pasha",
     "collection_kr": "파샤",
@@ -2509,7 +3055,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 37,
+    "id": 103,
     "brand": "Cartier",
     "collection": "Pasha",
     "collection_kr": "파샤",
@@ -2579,7 +3125,7 @@
     }
   },
   {
-    "id": 38,
+    "id": 104,
     "brand": "Cartier",
     "collection": "Santos",
     "collection_kr": "산토스",
@@ -2650,7 +3196,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 39,
+    "id": 105,
     "brand": "Cartier",
     "collection": "Santos",
     "collection_kr": "산토스",
@@ -2720,7 +3266,7 @@
     }
   },
   {
-    "id": 40,
+    "id": 106,
     "brand": "Cartier",
     "collection": "Santos",
     "collection_kr": "산토스",
@@ -2791,7 +3337,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 41,
+    "id": 107,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -2861,7 +3407,7 @@
     }
   },
   {
-    "id": 42,
+    "id": 108,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -2927,7 +3473,7 @@
     }
   },
   {
-    "id": 43,
+    "id": 109,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -2995,7 +3541,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 44,
+    "id": 110,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -3063,7 +3609,7 @@
     }
   },
   {
-    "id": 45,
+    "id": 111,
     "brand": "Cartier",
     "collection": "Tank",
     "collection_kr": "탱크",
@@ -3131,7 +3677,7 @@
     }
   },
   {
-    "id": 46,
+    "id": 112,
     "brand": "Chopard",
     "collection": "AlpineEagle",
     "collection_kr": "알파인 이글",
@@ -3202,7 +3748,7 @@
     }
   },
   {
-    "id": 47,
+    "id": 113,
     "brand": "Chopard",
     "collection": "AlpineEagle",
     "collection_kr": "알파인 이글",
@@ -3273,7 +3819,7 @@
     }
   },
   {
-    "id": 48,
+    "id": 114,
     "brand": "Chopard",
     "collection": "HappySport",
     "collection_kr": "해피 스포트",
@@ -3342,7 +3888,7 @@
     }
   },
   {
-    "id": 49,
+    "id": 115,
     "brand": "Chopard",
     "collection": "HappySport",
     "collection_kr": "해피 스포트",
@@ -3412,7 +3958,7 @@
     }
   },
   {
-    "id": 50,
+    "id": 116,
     "brand": "Chopard",
     "collection": "HappySport",
     "collection_kr": "해피 스포트",
@@ -3481,7 +4027,7 @@
     }
   },
   {
-    "id": 51,
+    "id": 117,
     "brand": "Chopard",
     "collection": "LUC",
     "collection_kr": "L.U.C",
@@ -3551,7 +4097,7 @@
     }
   },
   {
-    "id": 52,
+    "id": 118,
     "brand": "Chopard",
     "collection": "LUC",
     "collection_kr": "L.U.C",
@@ -3619,7 +4165,7 @@
     }
   },
   {
-    "id": 53,
+    "id": 119,
     "brand": "Chopard",
     "collection": "LUC",
     "collection_kr": "L.U.C",
@@ -3687,7 +4233,7 @@
     }
   },
   {
-    "id": 54,
+    "id": 120,
     "brand": "Chopard",
     "collection": "MilleMiglia",
     "collection_kr": "밀레 밀리아",
@@ -3757,7 +4303,7 @@
     }
   },
   {
-    "id": 55,
+    "id": 121,
     "brand": "Chopard",
     "collection": "MilleMiglia",
     "collection_kr": "밀레 밀리아",
@@ -3828,7 +4374,7 @@
     }
   },
   {
-    "id": 56,
+    "id": 122,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -3898,7 +4444,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 57,
+    "id": 123,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -3970,7 +4516,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 58,
+    "id": 124,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -4039,7 +4585,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 59,
+    "id": 125,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -4108,7 +4654,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 60,
+    "id": 126,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -4178,7 +4724,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 61,
+    "id": 127,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -4248,7 +4794,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 62,
+    "id": 128,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -4318,7 +4864,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 63,
+    "id": 129,
     "brand": "IWC",
     "collection": "Aquatimer",
     "collection_kr": "아쿠아타이머",
@@ -4388,7 +4934,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 64,
+    "id": 130,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4457,7 +5003,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 65,
+    "id": 131,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4530,7 +5076,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 66,
+    "id": 132,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4603,7 +5149,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 67,
+    "id": 133,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4676,7 +5222,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 68,
+    "id": 134,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4749,7 +5295,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 69,
+    "id": 135,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4818,7 +5364,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 70,
+    "id": 136,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4887,7 +5433,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 71,
+    "id": 137,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -4956,7 +5502,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 72,
+    "id": 138,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -5025,7 +5571,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 73,
+    "id": 139,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -5099,7 +5645,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 74,
+    "id": 140,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -5168,7 +5714,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 75,
+    "id": 141,
     "brand": "IWC",
     "collection": "Ingenieur",
     "collection_kr": "인제니어",
@@ -5237,7 +5783,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 76,
+    "id": 142,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5307,7 +5853,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 77,
+    "id": 143,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5376,7 +5922,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 78,
+    "id": 144,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5445,7 +5991,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 79,
+    "id": 145,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5516,7 +6062,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 80,
+    "id": 146,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5586,7 +6132,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 81,
+    "id": 147,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5655,7 +6201,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 82,
+    "id": 148,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5724,7 +6270,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 83,
+    "id": 149,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5793,7 +6339,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 84,
+    "id": 150,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5862,7 +6408,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 85,
+    "id": 151,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -5931,7 +6477,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 86,
+    "id": 152,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6000,7 +6546,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 87,
+    "id": 153,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6069,7 +6615,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 88,
+    "id": 154,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6138,7 +6684,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 89,
+    "id": 155,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6207,7 +6753,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 90,
+    "id": 156,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6276,7 +6822,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 91,
+    "id": 157,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6345,7 +6891,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 92,
+    "id": 158,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6414,7 +6960,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 93,
+    "id": 159,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6483,7 +7029,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 94,
+    "id": 160,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6552,7 +7098,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 95,
+    "id": 161,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6621,7 +7167,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 96,
+    "id": 162,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6690,7 +7236,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 97,
+    "id": 163,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6759,7 +7305,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 98,
+    "id": 164,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6828,7 +7374,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 99,
+    "id": 165,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6897,7 +7443,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 100,
+    "id": 166,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -6967,7 +7513,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 101,
+    "id": 167,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7037,7 +7583,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 102,
+    "id": 168,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7107,7 +7653,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 103,
+    "id": 169,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7177,7 +7723,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 104,
+    "id": 170,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7247,7 +7793,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 105,
+    "id": 171,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7317,7 +7863,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 106,
+    "id": 172,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7387,7 +7933,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 107,
+    "id": 173,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7457,7 +8003,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 108,
+    "id": 174,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7527,7 +8073,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 109,
+    "id": 175,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7597,7 +8143,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 110,
+    "id": 176,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7667,7 +8213,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 111,
+    "id": 177,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7737,7 +8283,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 112,
+    "id": 178,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7807,7 +8353,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 113,
+    "id": 179,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7877,7 +8423,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 114,
+    "id": 180,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -7947,7 +8493,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 115,
+    "id": 181,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8017,7 +8563,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 116,
+    "id": 182,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8087,7 +8633,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 117,
+    "id": 183,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8157,7 +8703,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 118,
+    "id": 184,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8227,7 +8773,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 119,
+    "id": 185,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8297,7 +8843,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 120,
+    "id": 186,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8367,7 +8913,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 121,
+    "id": 187,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8437,7 +8983,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 122,
+    "id": 188,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8507,7 +9053,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 123,
+    "id": 189,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8577,7 +9123,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 124,
+    "id": 190,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8647,7 +9193,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 125,
+    "id": 191,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8717,7 +9263,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 126,
+    "id": 192,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8787,7 +9333,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 127,
+    "id": 193,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8857,7 +9403,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 128,
+    "id": 194,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8927,7 +9473,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 129,
+    "id": 195,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -8997,7 +9543,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 130,
+    "id": 196,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9067,7 +9613,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 131,
+    "id": 197,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9137,7 +9683,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 132,
+    "id": 198,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9207,7 +9753,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 133,
+    "id": 199,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9277,7 +9823,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 134,
+    "id": 200,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9347,7 +9893,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 135,
+    "id": 201,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9417,7 +9963,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 136,
+    "id": 202,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9487,7 +10033,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 137,
+    "id": 203,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9557,7 +10103,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 138,
+    "id": 204,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9627,7 +10173,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 139,
+    "id": 205,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9697,7 +10243,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 140,
+    "id": 206,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9767,7 +10313,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 141,
+    "id": 207,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9837,7 +10383,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 142,
+    "id": 208,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9907,7 +10453,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 143,
+    "id": 209,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -9977,7 +10523,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 144,
+    "id": 210,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10047,7 +10593,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 145,
+    "id": 211,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10117,7 +10663,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 146,
+    "id": 212,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10191,7 +10737,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 147,
+    "id": 213,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10265,7 +10811,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 148,
+    "id": 214,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10339,7 +10885,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 149,
+    "id": 215,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10413,7 +10959,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 150,
+    "id": 216,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10487,7 +11033,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 151,
+    "id": 217,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10561,7 +11107,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 152,
+    "id": 218,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10635,7 +11181,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 153,
+    "id": 219,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10705,7 +11251,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 154,
+    "id": 220,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10774,7 +11320,7 @@
     }
   },
   {
-    "id": 155,
+    "id": 221,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10844,7 +11390,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 156,
+    "id": 222,
     "brand": "IWC",
     "collection": "Pilot",
     "collection_kr": "파일럿",
@@ -10913,7 +11459,7 @@
     }
   },
   {
-    "id": 157,
+    "id": 223,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -10984,7 +11530,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 158,
+    "id": 224,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11055,7 +11601,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 159,
+    "id": 225,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11124,7 +11670,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 160,
+    "id": 226,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11193,7 +11739,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 161,
+    "id": 227,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11262,7 +11808,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 162,
+    "id": 228,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11331,7 +11877,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 163,
+    "id": 229,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11400,7 +11946,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 164,
+    "id": 230,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11469,7 +12015,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 165,
+    "id": 231,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11538,7 +12084,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 166,
+    "id": 232,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11607,7 +12153,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 167,
+    "id": 233,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11676,7 +12222,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 168,
+    "id": 234,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11745,7 +12291,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 169,
+    "id": 235,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11814,7 +12360,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 170,
+    "id": 236,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11883,7 +12429,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 171,
+    "id": 237,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -11952,7 +12498,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 172,
+    "id": 238,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12021,7 +12567,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 173,
+    "id": 239,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12090,7 +12636,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 174,
+    "id": 240,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12160,7 +12706,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 175,
+    "id": 241,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12230,7 +12776,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 176,
+    "id": 242,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12300,7 +12846,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 177,
+    "id": 243,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12370,7 +12916,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 178,
+    "id": 244,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12440,7 +12986,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 179,
+    "id": 245,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12510,7 +13056,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 180,
+    "id": 246,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12580,7 +13126,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 181,
+    "id": 247,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12650,7 +13196,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 182,
+    "id": 248,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12719,7 +13265,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 183,
+    "id": 249,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12788,7 +13334,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 184,
+    "id": 250,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12857,7 +13403,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 185,
+    "id": 251,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12926,7 +13472,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 186,
+    "id": 252,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -12995,7 +13541,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 187,
+    "id": 253,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13064,7 +13610,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 188,
+    "id": 254,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13133,7 +13679,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 189,
+    "id": 255,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13202,7 +13748,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 190,
+    "id": 256,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13272,7 +13818,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 191,
+    "id": 257,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13341,7 +13887,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 192,
+    "id": 258,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13410,7 +13956,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 193,
+    "id": 259,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13482,7 +14028,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 194,
+    "id": 260,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13554,7 +14100,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 195,
+    "id": 261,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13624,7 +14170,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 196,
+    "id": 262,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13694,7 +14240,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 197,
+    "id": 263,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13764,7 +14310,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 198,
+    "id": 264,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13834,7 +14380,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 199,
+    "id": 265,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13904,7 +14450,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 200,
+    "id": 266,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -13974,7 +14520,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 201,
+    "id": 267,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14044,7 +14590,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 202,
+    "id": 268,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14114,7 +14660,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 203,
+    "id": 269,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14184,7 +14730,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 204,
+    "id": 270,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14254,7 +14800,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 205,
+    "id": 271,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14324,7 +14870,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 206,
+    "id": 272,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14394,7 +14940,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 207,
+    "id": 273,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14464,7 +15010,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 208,
+    "id": 274,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14534,7 +15080,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 209,
+    "id": 275,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14604,7 +15150,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 210,
+    "id": 276,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14674,7 +15220,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 211,
+    "id": 277,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14744,7 +15290,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 212,
+    "id": 278,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14814,7 +15360,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 213,
+    "id": 279,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14887,7 +15433,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 214,
+    "id": 280,
     "brand": "IWC",
     "collection": "Portofino",
     "collection_kr": "포르토피노",
@@ -14960,7 +15506,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 215,
+    "id": 281,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15033,7 +15579,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 216,
+    "id": 282,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15105,7 +15651,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 217,
+    "id": 283,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15177,7 +15723,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 218,
+    "id": 284,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15247,7 +15793,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 219,
+    "id": 285,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15317,7 +15863,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 220,
+    "id": 286,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15386,7 +15932,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 221,
+    "id": 287,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15455,7 +16001,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 222,
+    "id": 288,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15524,7 +16070,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 223,
+    "id": 289,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15593,7 +16139,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 224,
+    "id": 290,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15662,7 +16208,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 225,
+    "id": 291,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15731,7 +16277,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 226,
+    "id": 292,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15800,7 +16346,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 227,
+    "id": 293,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15870,7 +16416,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 228,
+    "id": 294,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -15940,7 +16486,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 229,
+    "id": 295,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16010,7 +16556,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 230,
+    "id": 296,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16080,7 +16626,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 231,
+    "id": 297,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16150,7 +16696,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 232,
+    "id": 298,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16220,7 +16766,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 233,
+    "id": 299,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16290,7 +16836,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 234,
+    "id": 300,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16360,7 +16906,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 235,
+    "id": 301,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16430,7 +16976,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 236,
+    "id": 302,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16500,7 +17046,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 237,
+    "id": 303,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16570,7 +17116,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 238,
+    "id": 304,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16640,7 +17186,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 239,
+    "id": 305,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16710,7 +17256,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 240,
+    "id": 306,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16780,7 +17326,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 241,
+    "id": 307,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16850,7 +17396,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 242,
+    "id": 308,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16920,7 +17466,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 243,
+    "id": 309,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -16990,7 +17536,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 244,
+    "id": 310,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17060,7 +17606,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 245,
+    "id": 311,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17130,7 +17676,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 246,
+    "id": 312,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17200,7 +17746,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 247,
+    "id": 313,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17270,7 +17816,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 248,
+    "id": 314,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17341,7 +17887,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 249,
+    "id": 315,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17412,7 +17958,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 250,
+    "id": 316,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17485,7 +18031,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 251,
+    "id": 317,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17558,7 +18104,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 252,
+    "id": 318,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17631,7 +18177,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 253,
+    "id": 319,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17704,7 +18250,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 254,
+    "id": 320,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17777,7 +18323,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 255,
+    "id": 321,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17850,7 +18396,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 256,
+    "id": 322,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17924,7 +18470,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 257,
+    "id": 323,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -17998,7 +18544,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 258,
+    "id": 324,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18072,7 +18618,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 259,
+    "id": 325,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18146,7 +18692,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 260,
+    "id": 326,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18215,7 +18761,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 261,
+    "id": 327,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18283,7 +18829,7 @@
     }
   },
   {
-    "id": 262,
+    "id": 328,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18352,7 +18898,7 @@
     }
   },
   {
-    "id": 263,
+    "id": 329,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18421,7 +18967,7 @@
     }
   },
   {
-    "id": 264,
+    "id": 330,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18490,7 +19036,7 @@
     }
   },
   {
-    "id": 265,
+    "id": 331,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18559,7 +19105,7 @@
     }
   },
   {
-    "id": 266,
+    "id": 332,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18629,7 +19175,7 @@
     }
   },
   {
-    "id": 267,
+    "id": 333,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18699,7 +19245,7 @@
     }
   },
   {
-    "id": 268,
+    "id": 334,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18768,7 +19314,7 @@
     }
   },
   {
-    "id": 269,
+    "id": 335,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18837,7 +19383,7 @@
     }
   },
   {
-    "id": 270,
+    "id": 336,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18906,7 +19452,7 @@
     }
   },
   {
-    "id": 271,
+    "id": 337,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -18979,7 +19525,7 @@
     }
   },
   {
-    "id": 272,
+    "id": 338,
     "brand": "IWC",
     "collection": "Portugieser",
     "collection_kr": "포르투기저",
@@ -19050,7 +19596,7 @@
     }
   },
   {
-    "id": 273,
+    "id": 339,
     "brand": "JLC",
     "collection": "Duometre",
     "collection_kr": "듀오미터",
@@ -19121,7 +19667,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 274,
+    "id": 340,
     "brand": "JLC",
     "collection": "Duometre",
     "collection_kr": "듀오미터",
@@ -19191,7 +19737,7 @@
     }
   },
   {
-    "id": 275,
+    "id": 341,
     "brand": "JLC",
     "collection": "Duometre",
     "collection_kr": "듀오미터",
@@ -19261,7 +19807,7 @@
     }
   },
   {
-    "id": 276,
+    "id": 342,
     "brand": "JLC",
     "collection": "Geophysic",
     "collection_kr": "지오피직",
@@ -19331,7 +19877,7 @@
     }
   },
   {
-    "id": 277,
+    "id": 343,
     "brand": "JLC",
     "collection": "Geophysic",
     "collection_kr": "지오피직",
@@ -19401,7 +19947,7 @@
     }
   },
   {
-    "id": 278,
+    "id": 344,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -19472,7 +20018,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 279,
+    "id": 345,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -19544,7 +20090,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 280,
+    "id": 346,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -19612,7 +20158,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 281,
+    "id": 347,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -19681,7 +20227,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 282,
+    "id": 348,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -19751,7 +20297,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 283,
+    "id": 349,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -19821,7 +20367,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 284,
+    "id": 350,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -19891,7 +20437,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 285,
+    "id": 351,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -19961,7 +20507,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 286,
+    "id": 352,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -20032,7 +20578,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 287,
+    "id": 353,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -20103,7 +20649,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 288,
+    "id": 354,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -20174,7 +20720,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 289,
+    "id": 355,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -20245,7 +20791,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 290,
+    "id": 356,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -20316,7 +20862,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 291,
+    "id": 357,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -20387,7 +20933,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 292,
+    "id": 358,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -20457,7 +21003,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 293,
+    "id": 359,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -20527,7 +21073,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 294,
+    "id": 360,
     "brand": "JLC",
     "collection": "MasterControl",
     "collection_kr": "마스터 컨트롤",
@@ -20597,7 +21143,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 295,
+    "id": 361,
     "brand": "JLC",
     "collection": "MasterGrandeTradition",
     "collection_kr": "마스터 그랑 트래디션",
@@ -20666,7 +21212,7 @@
     }
   },
   {
-    "id": 296,
+    "id": 362,
     "brand": "JLC",
     "collection": "MasterGrandeTradition",
     "collection_kr": "마스터 그랑 트래디션",
@@ -20735,7 +21281,7 @@
     }
   },
   {
-    "id": 297,
+    "id": 363,
     "brand": "JLC",
     "collection": "MasterGrandeTradition",
     "collection_kr": "마스터 그랑 트래디션",
@@ -20803,7 +21349,7 @@
     }
   },
   {
-    "id": 298,
+    "id": 364,
     "brand": "JLC",
     "collection": "MasterGrandeTradition",
     "collection_kr": "마스터 그랑 트래디션",
@@ -20872,7 +21418,7 @@
     }
   },
   {
-    "id": 299,
+    "id": 365,
     "brand": "JLC",
     "collection": "MasterGrandeTradition",
     "collection_kr": "마스터 그랑 트래디션",
@@ -20941,7 +21487,7 @@
     }
   },
   {
-    "id": 300,
+    "id": 366,
     "brand": "JLC",
     "collection": "MasterGrandeTradition",
     "collection_kr": "마스터 그랑 트래디션",
@@ -21010,7 +21556,7 @@
     }
   },
   {
-    "id": 301,
+    "id": 367,
     "brand": "JLC",
     "collection": "MasterGrandeTradition",
     "collection_kr": "마스터 그랑 트래디션",
@@ -21079,7 +21625,7 @@
     }
   },
   {
-    "id": 302,
+    "id": 368,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21150,7 +21696,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 303,
+    "id": 369,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21220,7 +21766,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 304,
+    "id": 370,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21290,7 +21836,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 305,
+    "id": 371,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21360,7 +21906,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 306,
+    "id": 372,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21430,7 +21976,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 307,
+    "id": 373,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21500,7 +22046,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 308,
+    "id": 374,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21570,7 +22116,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 309,
+    "id": 375,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21639,7 +22185,7 @@
     }
   },
   {
-    "id": 310,
+    "id": 376,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21709,7 +22255,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 311,
+    "id": 377,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21778,7 +22324,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 312,
+    "id": 378,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21847,7 +22393,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 313,
+    "id": 379,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21916,7 +22462,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 314,
+    "id": 380,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -21986,7 +22532,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 315,
+    "id": 381,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22056,7 +22602,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 316,
+    "id": 382,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22126,7 +22672,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 317,
+    "id": 383,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22195,7 +22741,7 @@
     }
   },
   {
-    "id": 318,
+    "id": 384,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22264,7 +22810,7 @@
     }
   },
   {
-    "id": 319,
+    "id": 385,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22333,7 +22879,7 @@
     }
   },
   {
-    "id": 320,
+    "id": 386,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22403,7 +22949,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 321,
+    "id": 387,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22473,7 +23019,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 322,
+    "id": 388,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22540,7 +23086,7 @@
     }
   },
   {
-    "id": 323,
+    "id": 389,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22607,7 +23153,7 @@
     }
   },
   {
-    "id": 324,
+    "id": 390,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22674,7 +23220,7 @@
     }
   },
   {
-    "id": 325,
+    "id": 391,
     "brand": "JLC",
     "collection": "MasterUltraThin",
     "collection_kr": "마스터 울트라 씬",
@@ -22741,7 +23287,7 @@
     }
   },
   {
-    "id": 326,
+    "id": 392,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -22812,7 +23358,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 327,
+    "id": 393,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -22883,7 +23429,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 328,
+    "id": 394,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -22952,7 +23498,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 329,
+    "id": 395,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23021,7 +23567,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 330,
+    "id": 396,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23090,7 +23636,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 331,
+    "id": 397,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23159,7 +23705,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 332,
+    "id": 398,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23230,7 +23776,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 333,
+    "id": 399,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23301,7 +23847,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 334,
+    "id": 400,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23371,7 +23917,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 335,
+    "id": 401,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23441,7 +23987,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 336,
+    "id": 402,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23511,7 +24057,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 337,
+    "id": 403,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23581,7 +24127,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 338,
+    "id": 404,
     "brand": "JLC",
     "collection": "Polaris",
     "collection_kr": "폴라리스",
@@ -23651,7 +24197,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 339,
+    "id": 405,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -23722,7 +24268,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 340,
+    "id": 406,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -23791,7 +24337,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 341,
+    "id": 407,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -23860,7 +24406,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 342,
+    "id": 408,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -23929,7 +24475,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 343,
+    "id": 409,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -23998,7 +24544,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 344,
+    "id": 410,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24067,7 +24613,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 345,
+    "id": 411,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24136,7 +24682,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 346,
+    "id": 412,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24205,7 +24751,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 347,
+    "id": 413,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24274,7 +24820,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 348,
+    "id": 414,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24343,7 +24889,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 349,
+    "id": 415,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24412,7 +24958,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 350,
+    "id": 416,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24481,7 +25027,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 351,
+    "id": 417,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24550,7 +25096,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 352,
+    "id": 418,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24619,7 +25165,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 353,
+    "id": 419,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24689,7 +25235,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 354,
+    "id": 420,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24758,7 +25304,7 @@
     }
   },
   {
-    "id": 355,
+    "id": 421,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24828,7 +25374,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 356,
+    "id": 422,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24897,7 +25443,7 @@
     }
   },
   {
-    "id": 357,
+    "id": 423,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -24967,7 +25513,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 358,
+    "id": 424,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25035,7 +25581,7 @@
     }
   },
   {
-    "id": 359,
+    "id": 425,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25103,7 +25649,7 @@
     }
   },
   {
-    "id": 360,
+    "id": 426,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25171,7 +25717,7 @@
     }
   },
   {
-    "id": 361,
+    "id": 427,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25239,7 +25785,7 @@
     }
   },
   {
-    "id": 362,
+    "id": 428,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25307,7 +25853,7 @@
     }
   },
   {
-    "id": 363,
+    "id": 429,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25374,7 +25920,7 @@
     }
   },
   {
-    "id": 364,
+    "id": 430,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25441,7 +25987,7 @@
     }
   },
   {
-    "id": 365,
+    "id": 431,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25508,7 +26054,7 @@
     }
   },
   {
-    "id": 366,
+    "id": 432,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25575,7 +26121,7 @@
     }
   },
   {
-    "id": 367,
+    "id": 433,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25642,7 +26188,7 @@
     }
   },
   {
-    "id": 368,
+    "id": 434,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25709,7 +26255,7 @@
     }
   },
   {
-    "id": 369,
+    "id": 435,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25776,7 +26322,7 @@
     }
   },
   {
-    "id": 370,
+    "id": 436,
     "brand": "JLC",
     "collection": "RendezVous",
     "collection_kr": "랑데부",
@@ -25843,7 +26389,7 @@
     }
   },
   {
-    "id": 371,
+    "id": 437,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -25912,7 +26458,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 372,
+    "id": 438,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -25981,7 +26527,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 373,
+    "id": 439,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26049,7 +26595,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 374,
+    "id": 440,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26118,7 +26664,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 375,
+    "id": 441,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26186,7 +26732,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 376,
+    "id": 442,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26254,7 +26800,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 377,
+    "id": 443,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26322,7 +26868,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 378,
+    "id": 444,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26390,7 +26936,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 379,
+    "id": 445,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26458,7 +27004,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 380,
+    "id": 446,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26526,7 +27072,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 381,
+    "id": 447,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26594,7 +27140,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 382,
+    "id": 448,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26662,7 +27208,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 383,
+    "id": 449,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26730,7 +27276,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 384,
+    "id": 450,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26798,7 +27344,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 385,
+    "id": 451,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26866,7 +27412,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 386,
+    "id": 452,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -26934,7 +27480,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 387,
+    "id": 453,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27002,7 +27548,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 388,
+    "id": 454,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27070,7 +27616,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 389,
+    "id": 455,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27138,7 +27684,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 390,
+    "id": 456,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27207,7 +27753,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 391,
+    "id": 457,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27276,7 +27822,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 392,
+    "id": 458,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27346,7 +27892,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 393,
+    "id": 459,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27417,7 +27963,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 394,
+    "id": 460,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27488,7 +28034,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 395,
+    "id": 461,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27558,7 +28104,7 @@
     }
   },
   {
-    "id": 396,
+    "id": 462,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27627,7 +28173,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 397,
+    "id": 463,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27694,7 +28240,7 @@
     }
   },
   {
-    "id": 398,
+    "id": 464,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27761,7 +28307,7 @@
     }
   },
   {
-    "id": 399,
+    "id": 465,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27829,7 +28375,7 @@
     }
   },
   {
-    "id": 400,
+    "id": 466,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27898,7 +28444,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 401,
+    "id": 467,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -27966,7 +28512,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 402,
+    "id": 468,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28034,7 +28580,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 403,
+    "id": 469,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28102,7 +28648,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 404,
+    "id": 470,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28170,7 +28716,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 405,
+    "id": 471,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28238,7 +28784,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 406,
+    "id": 472,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28306,7 +28852,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 407,
+    "id": 473,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28374,7 +28920,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 408,
+    "id": 474,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28442,7 +28988,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 409,
+    "id": 475,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28510,7 +29056,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 410,
+    "id": 476,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28578,7 +29124,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 411,
+    "id": 477,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28646,7 +29192,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 412,
+    "id": 478,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28713,7 +29259,7 @@
     }
   },
   {
-    "id": 413,
+    "id": 479,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28780,7 +29326,7 @@
     }
   },
   {
-    "id": 414,
+    "id": 480,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28847,7 +29393,7 @@
     }
   },
   {
-    "id": 415,
+    "id": 481,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28915,7 +29461,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 416,
+    "id": 482,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -28983,7 +29529,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 417,
+    "id": 483,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -29051,7 +29597,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 418,
+    "id": 484,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -29119,7 +29665,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 419,
+    "id": 485,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -29187,7 +29733,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 420,
+    "id": 486,
     "brand": "JLC",
     "collection": "Reverso",
     "collection_kr": "리베르소",
@@ -29257,7 +29803,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 421,
+    "id": 487,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -29325,7 +29871,7 @@
     }
   },
   {
-    "id": 422,
+    "id": 488,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -29394,7 +29940,7 @@
     }
   },
   {
-    "id": 423,
+    "id": 489,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -29461,7 +30007,7 @@
     }
   },
   {
-    "id": 424,
+    "id": 490,
     "brand": "Piaget",
     "collection": "Altiplano",
     "collection_kr": "알티플라노",
@@ -29529,7 +30075,7 @@
     }
   },
   {
-    "id": 425,
+    "id": 491,
     "brand": "Piaget",
     "collection": "Limelight",
     "collection_kr": "라임라이트",
@@ -29597,7 +30143,7 @@
     }
   },
   {
-    "id": 426,
+    "id": 492,
     "brand": "Piaget",
     "collection": "Limelight",
     "collection_kr": "라임라이트",
@@ -29664,7 +30210,7 @@
     }
   },
   {
-    "id": 427,
+    "id": 493,
     "brand": "Piaget",
     "collection": "Polo",
     "collection_kr": "폴로",
@@ -29735,7 +30281,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 428,
+    "id": 494,
     "brand": "Piaget",
     "collection": "Polo",
     "collection_kr": "폴로",
@@ -29803,7 +30349,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 429,
+    "id": 495,
     "brand": "Rolex",
     "collection": "AirKing",
     "collection_kr": "에어킹",
@@ -29870,7 +30416,7 @@
     }
   },
   {
-    "id": 430,
+    "id": 496,
     "brand": "Rolex",
     "collection": "Datejust",
     "collection_kr": "데이저스트",
@@ -29942,7 +30488,7 @@
     }
   },
   {
-    "id": 431,
+    "id": 497,
     "brand": "Rolex",
     "collection": "Datejust",
     "collection_kr": "데이저스트",
@@ -30014,7 +30560,7 @@
     }
   },
   {
-    "id": 432,
+    "id": 498,
     "brand": "Rolex",
     "collection": "Datejust",
     "collection_kr": "데이저스트",
@@ -30086,7 +30632,7 @@
     }
   },
   {
-    "id": 433,
+    "id": 499,
     "brand": "Rolex",
     "collection": "DayDate",
     "collection_kr": "데이-데이트",
@@ -30159,7 +30705,7 @@
     }
   },
   {
-    "id": 434,
+    "id": 500,
     "brand": "Rolex",
     "collection": "Daytona",
     "collection_kr": "데이토나",
@@ -30230,7 +30776,7 @@
     }
   },
   {
-    "id": 435,
+    "id": 501,
     "brand": "Rolex",
     "collection": "Explorer",
     "collection_kr": "익스플로러",
@@ -30297,7 +30843,7 @@
     }
   },
   {
-    "id": 436,
+    "id": 502,
     "brand": "Rolex",
     "collection": "Explorer",
     "collection_kr": "익스플로러",
@@ -30367,7 +30913,7 @@
     }
   },
   {
-    "id": 437,
+    "id": 503,
     "brand": "Rolex",
     "collection": "GMTMaster",
     "collection_kr": "GMT 마스터 II",
@@ -30436,7 +30982,7 @@
     }
   },
   {
-    "id": 438,
+    "id": 504,
     "brand": "Rolex",
     "collection": "GMTMaster",
     "collection_kr": "GMT 마스터 II",
@@ -30505,7 +31051,7 @@
     }
   },
   {
-    "id": 439,
+    "id": 505,
     "brand": "Rolex",
     "collection": "OysterPerpetual",
     "collection_kr": "오이스터 퍼페추얼",
@@ -30577,7 +31123,7 @@
     }
   },
   {
-    "id": 440,
+    "id": 506,
     "brand": "Rolex",
     "collection": "OysterPerpetual",
     "collection_kr": "오이스터 퍼페추얼",
@@ -30649,7 +31195,7 @@
     }
   },
   {
-    "id": 441,
+    "id": 507,
     "brand": "Rolex",
     "collection": "SeaDweller",
     "collection_kr": "씨 드웰러",
@@ -30717,7 +31263,7 @@
     }
   },
   {
-    "id": 442,
+    "id": 508,
     "brand": "Rolex",
     "collection": "SkyDweller",
     "collection_kr": "스카이 드웰러",
@@ -30790,7 +31336,7 @@
     }
   },
   {
-    "id": 443,
+    "id": 509,
     "brand": "Rolex",
     "collection": "Submariner",
     "collection_kr": "서브마리너",
@@ -30857,7 +31403,7 @@
     }
   },
   {
-    "id": 444,
+    "id": 510,
     "brand": "Rolex",
     "collection": "Submariner",
     "collection_kr": "서브마리너",
@@ -30925,7 +31471,7 @@
     }
   },
   {
-    "id": 445,
+    "id": 511,
     "brand": "Rolex",
     "collection": "YachtMaster",
     "collection_kr": "요트 마스터",
@@ -30994,7 +31540,7 @@
     }
   },
   {
-    "id": 446,
+    "id": 512,
     "brand": "Vacheron Constantin",
     "collection": "FiftySix",
     "collection_kr": "피프티식스",
@@ -31065,7 +31611,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 447,
+    "id": 513,
     "brand": "Vacheron Constantin",
     "collection": "FiftySix",
     "collection_kr": "피프티식스",
@@ -31138,7 +31684,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 448,
+    "id": 514,
     "brand": "Vacheron Constantin",
     "collection": "FiftySix",
     "collection_kr": "피프티식스",
@@ -31205,7 +31751,7 @@
     }
   },
   {
-    "id": 449,
+    "id": 515,
     "brand": "Vacheron Constantin",
     "collection": "Overseas",
     "collection_kr": "오버시즈",
@@ -31277,7 +31823,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 450,
+    "id": 516,
     "brand": "Vacheron Constantin",
     "collection": "Overseas",
     "collection_kr": "오버시즈",
@@ -31349,7 +31895,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 451,
+    "id": 517,
     "brand": "Vacheron Constantin",
     "collection": "Overseas",
     "collection_kr": "오버시즈",
@@ -31420,7 +31966,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 452,
+    "id": 518,
     "brand": "Vacheron Constantin",
     "collection": "Patrimony",
     "collection_kr": "패트리모니",
@@ -31490,7 +32036,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 453,
+    "id": 519,
     "brand": "Vacheron Constantin",
     "collection": "Patrimony",
     "collection_kr": "패트리모니",
@@ -31566,7 +32112,7 @@
     "price_confirmed_date": "2026.03.24"
   },
   {
-    "id": 454,
+    "id": 520,
     "brand": "Vacheron Constantin",
     "collection": "Traditionnelle",
     "collection_kr": "트라디셔넬",

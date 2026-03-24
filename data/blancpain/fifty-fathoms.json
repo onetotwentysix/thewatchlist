@@ -3,556 +3,1036 @@
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5015-1130-52A",
-    "name": "Fifty Fathoms Automatique 45 Steel",
-    "name_kr": "피프티 패덤즈 오토매틱 45 스틸",
+    "reference": "5015-1130-52B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
     "price_krw": 24520000,
     "price_confirmed": true,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 45,
-      "thickness_mm": 15.4,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Sailcloth",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Black",
-      "Blue"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2007,
-    "resale_krw_est": 18000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "1953년 최초 다이버워치의 현대 계승작. 3-배럴 칼리버 1315로 5일 파워리저브. 실리콘 헤어스프링.",
-    "verdict": {
-      "overall": "Iconic",
-      "spec": {
-        "label": "Specialist",
-        "comment": "45mm/15.4mm는 상당한 사이즈. 그러나 120h 파워리저브와 실리콘 헤어스프링, 300m 방수는 하이엔드 다이버워치 중 최상위 스펙. 손목 둘레 18cm 이상 권장."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "1953년 롤렉스 서브마리너보다 먼저 출시된 세계 최초의 현대 다이버워치. 미해군 네이비실에 납품되었으며 근대 다이버워치의 원형."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "70년 이상의 역사를 가진 다이버워치 중 가장 정통성 있는 라인. 롤렉스 서브마리너의 진지한 대안. 수집 가치와 중고 시장 안정성 높음."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5015-12B40-O52A",
-    "name": "Fifty Fathoms Automatique 45 Titanium",
-    "name_kr": "피프티 패덤즈 오토매틱 45 티타늄 블루",
+    "reference": "5015-12B30-B52B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 28110000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5015-12B40-98B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
     "price_krw": 29910000,
     "price_confirmed": true,
-    "case": {
-      "material": "Titanium",
-      "diameter_mm": 45,
-      "thickness_mm": 15.4,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Blue",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Sailcloth / NATO",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Blue"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2017,
-    "resale_krw_est": 20000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "풀 새틴 브러싱 티타늄. 스틸 버전보다 가볍고 블루 다이얼.",
-    "verdict": {
-      "overall": "Iconic",
-      "spec": {
-        "label": "Specialist",
-        "comment": "스틸 버전과 동일 스펙에 티타늄으로 무게를 낮춤. 풀 새틴 브러싱은 도구적 성격 강조. 블루 다이얼과 티타늄 조합은 하이엔드 다이버워치 시장에서 희소."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "스틸 버전과 동일한 1953년 FF 헤리티지 공유. 티타늄 버전은 2017년 출시로 더 툴워치에 가까운 성격. 전문 다이버들의 실용 수요를 반영."
-      },
-      "timelessness": {
-        "label": "Collector's Pick",
-        "comment": "티타늄 다이버워치는 틈새 시장이지만 확고한 수요. 블루 다이얼의 트렌드 친화성과 티타늄의 내구성이 장기 가치를 지지."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5015-3630-52B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 56710000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5015-3603C-63B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 60630000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5015A-3630-63B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 56710000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5015D-1140-52B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 24520000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
     "reference": "5010-1130-71S",
-    "name": "Fifty Fathoms Automatique 42 Steel",
-    "name_kr": "피프티 패덤즈 오토매틱 42 스틸",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
     "gender": "Men",
     "price_krw": 27130000,
     "price_confirmed": true,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42.3,
-      "thickness_mm": 14.3,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Bracelet",
-      "material": "Stainless Steel",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Black"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2025,
-    "resale_krw_est": 21000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "2025년 신규 42mm 스틸 버전. 45mm보다 착용감 개선.",
-    "verdict": {
-      "overall": "Definitive",
-      "spec": {
-        "label": "Versatile",
-        "comment": "42mm/14.3mm로 FF 라인 중 가장 일상 착용하기 좋은 사이즈. 동일한 Cal.1315의 120h 파워리저브. 스틸 브레이슬릿으로 데일리 워치 완성도 높음."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "2025년 트렌드에 맞게 소형화한 FF. 원래 42mm로 시작한 FF의 뿌리로 돌아간 의미. 보다 컴팩트한 사이즈 요구에 대한 블랑팡의 공식 응답."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "42mm 다이버워치는 가장 범용적인 사이즈. 롤렉스 서브마리너 대비 스펙과 헤리티지 모두 우위. 2025 출시로 중고 데이터는 아직 축적 중이나 장기 전망 밝음."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010-12B30-B64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010-12B40-O64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010-36B30-B64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 51640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010-36B40-O64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 51640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010C-1130-NABA",
+    "name": "Fifty Fathoms 70th Anniversary Act 1 Series III",
+    "name_kr": "피프티 패덤즈 70주년 액트 1 시리즈 III",
+    "gender": "Men",
+    "price_krw": 26640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010B-1130-NABA",
+    "name": "Fifty Fathoms 70th Anniversary Act 1 Series II",
+    "name_kr": "피프티 패덤즈 70주년 액트 1 시리즈 II",
+    "gender": "Men",
+    "price_krw": 26640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5010A-1130-NABA",
+    "name": "Fifty Fathoms 70th Anniversary Act 1 Series I",
+    "name_kr": "피프티 패덤즈 70주년 액트 1 시리즈 I",
+    "gender": "Men",
+    "price_krw": 26640000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-1130-B64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 24840000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-12B40-98S",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 28930000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-36B40-O64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 46580000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-3644A-B64B",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 47390000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5007-12B44R-NAFA",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 25330000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5901-5630-NANA",
+    "name": "Fifty Fathoms 70th Anniversary Act 3",
+    "name_kr": "피프티 패덤즈 70주년 액트 3",
+    "gender": "Men",
+    "price_krw": 49190000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008-1130-B52A",
+    "name": "Fifty Fathoms Automatique",
+    "name_kr": "피프티 패덤즈 오토매틱",
+    "gender": "Men",
+    "price_krw": 22880000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008-11B40-NAOA",
+    "name": "Fifty Fathoms Ocean Commitment III",
+    "name_kr": "피프티 패덤즈 오션 커밋먼트 III",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008B-1130-B52A",
+    "name": "Fifty Fathoms Barakuda",
+    "name_kr": "피프티 패덤즈 바라쿠다",
+    "gender": "Men",
+    "price_krw": 22880000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008D-1130-B64A",
+    "name": "Fifty Fathoms No Rad",
+    "name_kr": "피프티 패덤즈 노 래드",
+    "gender": "Men",
+    "price_krw": 22880000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5008-11B30-NABA",
+    "name": "Fifty Fathoms MIL-SPEC Hodinkee",
+    "name_kr": "피프티 패덤즈 밀스펙 호딩키",
+    "gender": "Men",
+    "price_krw": 23370000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5050-12B30-B52B",
+    "name": "Fifty Fathoms Grande Date",
+    "name_kr": "피프티 패덤즈 그랑 데이트",
+    "gender": "Men",
+    "price_krw": 30890000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5085F-1130-52B",
+    "name": "Fifty Fathoms Chronographe Flyback",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 29740000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5085FB-1140-52B",
+    "name": "Fifty Fathoms Chronographe Flyback",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 29740000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5085F-3630-52B",
+    "name": "Fifty Fathoms Chronographe Flyback",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 62590000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5085FA-3630-63B",
+    "name": "Fifty Fathoms Chronographe Flyback",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 62590000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5066F-1140-52B",
+    "name": "Fifty Fathoms Chronographe Flyback Quantième Complet",
+    "name_kr": "피프티 패덤즈 크로노그라프 플라이백 콤플리트 캘린더",
+    "gender": "Men",
+    "price_krw": 39880000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5025-12B40-NAOA",
+    "name": "Fifty Fathoms Tourbillon 8 Jours",
+    "name_kr": "피프티 패덤즈 투르비용 8일 파워리저브",
+    "gender": "Men",
+    "price_krw": 188410000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5025-3630-52B",
+    "name": "Fifty Fathoms Tourbillon 8 Jours",
+    "name_kr": "피프티 패덤즈 투르비용 8일 파워리저브",
+    "gender": "Men",
+    "price_krw": 231060000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5025-36B40-O52B",
+    "name": "Fifty Fathoms Tourbillon 8 Jours",
+    "name_kr": "피프티 패덤즈 투르비용 8일 파워리저브",
+    "gender": "Men",
+    "price_krw": 230410000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5025-1530-52B",
+    "name": "Fifty Fathoms Tourbillon 8 Jours",
+    "name_kr": "피프티 패덤즈 투르비용 8일 파워리저브",
+    "gender": "Men",
+    "price_krw": 242010000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5100B-1110-B52A",
+    "name": "Bathyscaphe 38",
+    "name_kr": "바티스카프 38",
+    "gender": "Men",
+    "price_krw": 15360000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
     "reference": "5100-1140-O52A",
-    "name": "Fifty Fathoms Bathyscaphe 38",
-    "name_kr": "피프티 패덤즈 바티스카프 38",
-    "gender": "Men/Women",
+    "name": "Bathyscaphe 38",
+    "name_kr": "바티스카프 38",
+    "gender": "Men",
     "price_krw": 15360000,
     "price_confirmed": true,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 38,
-      "thickness_mm": 13.4,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Blue",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Vulcanized Rubber",
-      "clasp": "Pin Buckle"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Blue",
-      "Black",
-      "Grey"
-    ],
-    "availability": "easy",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2015,
-    "resale_krw_est": 12000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "라운드 베젤과 더 얇은 케이스. 유니섹스 가능한 FF 엔트리.",
-    "verdict": {
-      "overall": "Versatile",
-      "spec": {
-        "label": "Versatile",
-        "comment": "38mm/13.4mm로 유니섹스 착용 가능한 사이즈. Cal.1315로 120h 파워리저브 동일. 바티스카프만의 라운드 베젤이 덜 스포티하고 더 캐주얼한 느낌."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "1956년 해저 탐사선 바티스카프에서 이름을 딴 서브라인. FF의 실용적 DNA를 더 접근하기 쉬운 사이즈로 계승. 블랑팡의 해양 보존 파트너십을 상징."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "더 작고 가벼운 다이버워치 트렌드에 잘 맞는 모델. FF 라인 중 입문 포지션으로 수요 안정적. 남녀 모두 착용 가능해 활용도 높음."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5054-3640-O52B",
-    "name": "Bathyscaphe Complete Calendar Moonphase",
-    "name_kr": "바티스카프 컴플리트 캘린더 문페이즈",
+    "reference": "5100-1127-W52A",
+    "name": "Bathyscaphe 38",
+    "name_kr": "바티스카프 38",
     "gender": "Men",
-    "price_krw": 83340000,
+    "price_krw": 15360000,
     "price_confirmed": true,
-    "case": {
-      "material": "18K Red Gold",
-      "diameter_mm": 43.6,
-      "thickness_mm": 13.4,
-      "water_resistance_m": 50,
-      "glass": "Sapphire Crystal (Domed)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "6654",
-      "power_reserve_hours": 72,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Complete Calendar",
-        "Moon Phase"
-      ]
-    },
-    "dial": {
-      "color": "Slate Blue",
-      "indexes": "Applied Indices"
-    },
-    "strap": {
-      "type": "Leather",
-      "material": "Alligator",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": false,
-    "color_variants": [
-      "Slate Blue"
-    ],
-    "availability": "hard",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2016,
-    "resale_krw_est": 28000000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "다이버 케이스에 컴플리케이션 결합. 18K 레드골드. 문페이즈+컴플리트 캘린더.",
-    "verdict": {
-      "overall": "Collector's Pick",
-      "spec": {
-        "label": "Specialist",
-        "comment": "43.6mm이지만 골드 케이스 덕분에 드레스워치로도 통용. Cal.6654는 72h 파워리저브. 다이버 실루엣에 달력과 문페이즈의 드레시한 조합이 독특."
-      },
-      "heritage": {
-        "label": "Strong",
-        "comment": "블랑팡의 두 정체성 — 다이버워치(FF)와 컴플리케이션(빌레레) — 을 한 케이스에서 구현한 독특한 피스. 해양과 전통 워치메이킹의 교차점."
-      },
-      "timelessness": {
-        "label": "Collector's Pick",
-        "comment": "다이버 케이스 + 달력 컴플리케이션은 극히 희소한 조합. 마니아들 사이 수요 확고. 골드 케이스가 장기 가치 지지하나 일상 착용성은 제한적."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5200-1110-71S",
-    "name": "Fifty Fathoms Bathyscaphe 43",
-    "name_kr": "피프티 패덤즈 바티스카프 43",
+    "reference": "2023-5100A-1127-W52A",
+    "name": "Bathyscaphe Saint-Valentin 2023",
+    "name_kr": "바티스카프 생발랑탱 2023",
     "gender": "Men",
-    "price_krw": 14500000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 43,
-      "thickness_mm": 13.5,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "1315",
-      "power_reserve_hours": 120,
-      "frequency_vph": 28800,
-      "jewels": 35,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Rubber",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Black",
-      "Blue",
-      "Green"
-    ],
-    "availability": "easy",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2013,
-    "resale_krw_est": 11500000,
-    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03.24)",
-    "notes": "43mm · 13.5mm · Cal. 1315 자동 120h (3배럴) · 300m 방수 · 세라믹 단방향 베젤 · 실리콘 헤어스프링 · 45mm 대비 착용 허들 낮은 바티스카프 라인 주력 사이즈",
-    "verdict": {
-      "overall": "Definitive",
-      "spec": {
-        "label": "Versatile",
-        "comment": "43mm/13.5mm, Cal. 1315 자동 120h. 45mm 대비 케이스가 작아 착용 적합 범위가 넓다. 3배럴 5일 파워리저브와 실리콘 헤어스프링은 동일. 다이버워치 기능과 일상 착용성을 균형있게 갖춘 바티스카프의 핵심 모델."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "Bathyscaphe는 1953년 오리지널 FF보다 더 슬림하고 일상적인 다이버워치로 2013년 론칭. 1960년대 Bathyscaphe 포켓워치에서 이름을 가져온 계보. FF 라인 내 가장 대중적 포지션."
-      },
-      "timelessness": {
-        "label": "Enduring",
-        "comment": "43mm 세라믹 베젤 다이버워치는 현재 시장에서 가장 수요가 안정적인 카테고리. Cal. 1315의 5일 파워리저브와 실리콘 헤어스프링은 기술적 노후화 위험이 낮다."
-      }
-    }
+    "price_krw": 15360000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5200-0130-O52A",
-    "name": "Fifty Fathoms Bathyscaphe Flyback Chronograph 43",
-    "name_kr": "피프티 패덤즈 바티스카프 플라이백 크로노그래프 43",
+    "reference": "5100-1130-63A",
+    "name": "Bathyscaphe 38",
+    "name_kr": "바티스카프 38",
+    "gender": "Men",
+    "price_krw": 19290000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-1110-B52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 16840000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-1230-B52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 18630000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-1210-G52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 18630000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-0640-O52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 21410000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000A-0640-O52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 21410000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-0130-01S",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 32030000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000A-0140-O52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 20590000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-0153-01S",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 32030000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-0240-O52A",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 20590000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-36S30-B52B",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 45760000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5000-36S40-O52B",
+    "name": "Bathyscaphe 43",
+    "name_kr": "바티스카프 43",
+    "gender": "Men",
+    "price_krw": 45760000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5005-0153-NABA",
+    "name": "Bathyscaphe Mokarran",
+    "name_kr": "바티스카프 모카란",
+    "gender": "Men",
+    "price_krw": 25170000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5052-1146-E52A",
+    "name": "Bathyscaphe Day Date Desert Edition",
+    "name_kr": "바티스카프 데이 데이트 데저트 에디션",
+    "gender": "Men",
+    "price_krw": 20430000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-1110-B52A",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 23860000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-1210-G52A",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 25660000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0130-B52A",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
     "gender": "Men",
     "price_krw": 27620000,
     "price_confirmed": true,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 43,
-      "thickness_mm": 15.0,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "F185",
-      "power_reserve_hours": 40,
-      "frequency_vph": 36000,
-      "jewels": 37,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Flyback Chronograph",
-        "Date"
-      ]
-    },
-    "dial": {
-      "color": "Blue",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Rubber",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Blue",
-      "Black"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2019,
-    "resale_krw_est": 18500000,
-    "source": "Blancpain 공식 홈페이지 (확인 · 2026.03.24)",
-    "notes": "43mm · 15mm · Cal. F185 자동 플라이백 크로노그래프 · 36,000vph 고주파 · 300m 방수 · 세라믹 베젤 · 다이버워치에 인하우스 플라이백 크로노 탑재한 복합 전문 도구",
-    "verdict": {
-      "overall": "Specialist",
-      "spec": {
-        "label": "Specialist",
-        "comment": "43mm/15mm, Cal. F185 자동 플라이백 크로노 36,000vph. 300m 방수 + 플라이백 크로노 조합은 다이버워치 중 최고 수준 기능 스택. 두께 15mm는 착용 허들. 스쿠버 다이빙과 수중 타이밍 전문가 타깃."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "FF의 다이버 전통과 블랑팡 크로노그래프 기술이 결합한 모델. 1953년 세계 최초 현대 다이버워치 DNA에 고주파 플라이백 크로노를 더한 기술적 집대성."
-      },
-      "timelessness": {
-        "label": "Collector's Pick",
-        "comment": "다이버워치 + 인하우스 플라이백 크로노의 조합은 시장에서 찾기 어렵다. 기능적 복잡성과 헤리티지가 맞닿는 지점에서 컬렉터 가치가 높다. 두께와 가격은 진입 장벽."
-      }
-    },
-    "price_confirmed_date": "2026.03.24"
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   },
   {
     "brand": "Blancpain",
     "collection": "FiftyFathoms",
     "collection_kr": "피프티 패덤즈",
-    "reference": "5054-1130-52B",
-    "name": "Fifty Fathoms Bicompax Annual Calendar 42",
-    "name_kr": "피프티 패덤즈 바이컴팩스 애뉴얼 캘린더 42",
+    "reference": "5200-0140-O52A",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
     "gender": "Men",
-    "price_krw": 34000000,
-    "price_confirmed": false,
-    "case": {
-      "material": "Stainless Steel",
-      "diameter_mm": 42,
-      "thickness_mm": 15.2,
-      "water_resistance_m": 300,
-      "glass": "Sapphire Crystal (Domed, AR)",
-      "caseback": "Exhibition"
-    },
-    "movement": {
-      "type": "Automatic",
-      "caliber": "F185B",
-      "power_reserve_hours": 40,
-      "frequency_vph": 36000,
-      "jewels": 37,
-      "functions": [
-        "Hours",
-        "Minutes",
-        "Seconds",
-        "Flyback Chronograph",
-        "Annual Calendar",
-        "Day",
-        "Date",
-        "Month",
-        "Moon Phase"
-      ]
-    },
-    "dial": {
-      "color": "Black",
-      "indexes": "Applied Indices (Luminous)"
-    },
-    "strap": {
-      "type": "Rubber",
-      "material": "Rubber",
-      "clasp": "Folding Clasp"
-    },
-    "bracelet_option": true,
-    "color_variants": [
-      "Black",
-      "Blue"
-    ],
-    "availability": "medium",
-    "certification": false,
-    "limited": false,
-    "year_introduced": 2014,
-    "resale_krw_est": 27000000,
-    "source": "Blancpain 공식 홈페이지 (추정가 · 2026.03.24)",
-    "notes": "42mm · 15.2mm · Cal. F185B · 플라이백 크로노 + 애뉴얼 캘린더(요일·날짜·월) + 문페이즈 · 300m 방수 · 스포츠 다이버 케이스에 그랑 컴플리케이션을 담은 블랑팡의 기술 집약 모델",
-    "verdict": {
-      "overall": "Collector's Pick",
-      "spec": {
-        "label": "Specialist",
-        "comment": "42mm/15.2mm, 플라이백 크로노 + 애뉴얼 캘린더 + 문페이즈 + 300m 방수. 이 조합을 하나의 케이스에 담은 시계는 세계적으로 극히 드물다. 두께 15mm는 착용 장벽이나 스펙의 밀도 자체가 독보적."
-      },
-      "heritage": {
-        "label": "Iconic",
-        "comment": "피프티 패덤즈 헤리티지에 블랑팡 그랑 컴플리케이션 전통을 결합한 모델. 1953년 다이버워치와 빌레레 드레스워치 양 극단의 블랑팡 정체성이 하나의 시계로 통합된다."
-      },
-      "timelessness": {
-        "label": "Collector's Pick",
-        "comment": "다이버 + 크로노 + 연간 달력 + 문페이즈의 조합은 수집 목록에서 영원히 화제가 될 구성. 시장 희소성이 가격 하방을 지지. 블랑팡 컬렉터의 최종 목적지 중 하나."
-      }
-    }
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0153-01S",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 39060000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0240-O52A",
+    "name": "Bathyscaphe Chronographe Flyback Ocean Commitment I",
+    "name_kr": "바티스카프 크로노그라프 플라이백 오션 커밋먼트 I",
+    "gender": "Men",
+    "price_krw": 32520000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-0310-G52A",
+    "name": "Bathyscaphe Chronographe Flyback Ocean Commitment II",
+    "name_kr": "바티스카프 크로노그라프 플라이백 오션 커밋먼트 II",
+    "gender": "Men",
+    "price_krw": 32520000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5200-3640-76S",
+    "name": "Bathyscaphe Chronographe Flyback",
+    "name_kr": "바티스카프 크로노그라프 플라이백",
+    "gender": "Men",
+    "price_krw": 83340000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-1110-B52A",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 23860000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-1210-G52A",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 25660000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-0130-B52A",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-0140-01S",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 39060000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-0153-B52A",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 27620000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5054-3640-76S",
+    "name": "Bathyscaphe Quantième Complet Phases de Lune",
+    "name_kr": "바티스카프 퍼페추얼 캘린더 문페이즈",
+    "gender": "Men",
+    "price_krw": 83340000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5071-1110-B52A",
+    "name": "Bathyscaphe Quantième Annuel",
+    "name_kr": "바티스카프 애뉴얼 캘린더",
+    "gender": "Men",
+    "price_krw": 42330000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5015E-1130-B52A",
+    "name": "Fifty Fathoms Nageurs de Combat",
+    "name_kr": "피프티 패덤즈 나저 드 콩바",
+    "gender": "Men",
+    "price_krw": 25170000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5019-12B30-64A",
+    "name": "Tech Gombessa",
+    "name_kr": "테크 곰베사",
+    "gender": "Men",
+    "price_krw": 43140000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5029-12B30-94A",
+    "name": "Fifty Fathoms Tech",
+    "name_kr": "피프티 패덤즈 테크",
+    "gender": "Men",
+    "price_krw": 31050000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5029A-12B30-64A",
+    "name": "Tech Ocean Commitment IV",
+    "name_kr": "테크 오션 커밋먼트 IV",
+    "gender": "Men",
+    "price_krw": 32030000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+  },
+  {
+    "brand": "Blancpain",
+    "collection": "FiftyFathoms",
+    "collection_kr": "피프티 패덤즈",
+    "reference": "5018-1230-64A",
+    "name": "X Fathoms",
+    "name_kr": "X 패덤즈",
+    "gender": "Men",
+    "price_krw": 65370000,
+    "price_confirmed": true,
+    "price_confirmed_date": "2026.03.24",
+    "specs_complete": false,
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
   }
 ]
