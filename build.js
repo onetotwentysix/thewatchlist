@@ -91,12 +91,12 @@ function validate(model, file, index) {
   if (model.price_krw && (typeof model.price_krw !== "number" || model.price_krw <= 0)) {
     errors.push(`${loc} price_krw는 양수 숫자여야 합니다`);
   }
-  // price_confirmed:true 이면 price_confirmed_date 필수 (형식: "YYYY.MM")
+  // price_confirmed:true 이면 price_confirmed_date 필수 (형식: "YYYY.MM.DD")
   if (model.price_confirmed === true) {
     if (!model.price_confirmed_date) {
       errors.push(`${loc} price_confirmed_date 누락 (price_confirmed:true 모델은 필수)`);
-    } else if (!/^\d{4}\.\d{2}$/.test(model.price_confirmed_date)) {
-      errors.push(`${loc} price_confirmed_date 형식 오류: "${model.price_confirmed_date}" (형식: YYYY.MM)`);
+    } else if (!/^\d{4}\.\d{2}\.\d{2}$/.test(model.price_confirmed_date)) {
+      errors.push(`${loc} price_confirmed_date 형식 오류: "${model.price_confirmed_date}" (형식: YYYY.MM.DD)`);
     }
   }
   if (model.case?.diameter_mm && (model.case.diameter_mm < 20 || model.case.diameter_mm > 60)) {
@@ -240,6 +240,13 @@ function build() {
   }
 
   // ─── watches.json + meta.json 출력 ────────────────────────────────────────
+  // meta.json에 last_confirmed_date 추가 (가장 최근 price_confirmed_date)
+  const confirmedDates = all
+    .filter(w => w.price_confirmed_date)
+    .map(w => w.price_confirmed_date)
+    .sort();
+  meta.last_confirmed_date = confirmedDates.length ? confirmedDates[confirmedDates.length - 1] : null;
+
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(all, null, 2));
   fs.writeFileSync(META_FILE, JSON.stringify(meta, null, 2));
   console.log(`\n  ✓  watches.json 생성 완료 (${all.length}개 모델, id 1–${all.length})`);
