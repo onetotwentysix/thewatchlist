@@ -1540,8 +1540,42 @@
     "price_krw": 49190000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 9.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 33400000
   },
   {
     "id": 84,
@@ -1555,8 +1589,42 @@
     "price_krw": 49190000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 9.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 33400000
   },
   {
     "id": 85,
@@ -1570,8 +1638,42 @@
     "price_krw": 58500000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 9.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "5 Interchangeable Straps",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 39800000
   },
   {
     "id": 86,
@@ -1585,8 +1687,42 @@
     "price_krw": 49190000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 9.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 32000000
   },
   {
     "id": 87,
@@ -1600,8 +1736,42 @@
     "price_krw": 49190000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 9.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 32000000
   },
   {
     "id": 88,
@@ -1615,8 +1785,42 @@
     "price_krw": 49190000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 9.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 32000000
   },
   {
     "id": 89,
@@ -1630,8 +1834,42 @@
     "price_krw": 49190000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 9.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1153",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2024,
+    "resale_krw_est": 33400000
   },
   {
     "id": 90,
@@ -1645,8 +1883,43 @@
     "price_krw": 52460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 35700000
   },
   {
     "id": 91,
@@ -1660,8 +1933,43 @@
     "price_krw": 52460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 35700000
   },
   {
     "id": 92,
@@ -1675,8 +1983,43 @@
     "price_krw": 52460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 35700000
   },
   {
     "id": 93,
@@ -1690,8 +2033,43 @@
     "price_krw": 61770000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "5 Interchangeable Straps",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 42000000
   },
   {
     "id": 94,
@@ -1705,8 +2083,42 @@
     "price_krw": 55070000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1153L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": true,
+    "year_introduced": 2025,
+    "resale_krw_est": 37400000
   },
   {
     "id": 95,
@@ -1720,8 +2132,43 @@
     "price_krw": 52460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 34100000
   },
   {
     "id": 96,
@@ -1735,8 +2182,43 @@
     "price_krw": 52460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 34100000
   },
   {
     "id": 97,
@@ -1750,8 +2232,43 @@
     "price_krw": 52460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 34100000
   },
   {
     "id": 98,
@@ -1765,8 +2282,43 @@
     "price_krw": 52460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 34100000
   },
   {
     "id": 99,
@@ -1780,8 +2332,43 @@
     "price_krw": 52460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 34.9,
+      "thickness_mm": 10.43,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "1163L",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 34100000
   },
   {
     "id": 100,
@@ -1795,8 +2382,42 @@
     "price_krw": 33670000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 22900000
   },
   {
     "id": 101,
@@ -1810,8 +2431,42 @@
     "price_krw": 35460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 24100000
   },
   {
     "id": 102,
@@ -1825,8 +2480,42 @@
     "price_krw": 36280000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 24700000
   },
   {
     "id": 103,
@@ -1840,8 +2529,42 @@
     "price_krw": 36280000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "White",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Ostrich",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 24700000
   },
   {
     "id": 104,
@@ -1855,8 +2578,42 @@
     "price_krw": 33670000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 21900000
   },
   {
     "id": 105,
@@ -1870,8 +2627,42 @@
     "price_krw": 35460000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 23000000
   },
   {
     "id": 106,
@@ -1885,8 +2676,42 @@
     "price_krw": 36280000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 23600000
   },
   {
     "id": 107,
@@ -1900,8 +2725,42 @@
     "price_krw": 32030000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Calfskin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 20800000
   },
   {
     "id": 108,
@@ -1915,8 +2774,43 @@
     "price_krw": 29250000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 36.8,
+      "thickness_mm": 10.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2663SR.4",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 34,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Off-Centre Hours Display"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set White",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 21100000
   },
   {
     "id": 109,
@@ -1930,8 +2824,43 @@
     "price_krw": 53110000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 36.8,
+      "thickness_mm": 10.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2663SR.4",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 34,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Off-Centre Hours Display"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Blue",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Ostrich",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 36100000
   },
   {
     "id": 110,
@@ -1945,8 +2874,43 @@
     "price_krw": 53110000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 36.8,
+      "thickness_mm": 10.3,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2663SR.4",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 34,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Off-Centre Hours Display"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Ostrich",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 34500000
   },
   {
     "id": 111,
@@ -1960,8 +2924,43 @@
     "price_krw": 66670000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 36,
+      "thickness_mm": 10.75,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2650RL.4",
+      "power_reserve_hours": 68,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Retrograde Date"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Ostrich",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 43300000
   },
   {
     "id": 112,
@@ -1975,8 +2974,43 @@
     "price_krw": 66670000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 36,
+      "thickness_mm": 10.75,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2650RL.4",
+      "power_reserve_hours": 68,
+      "frequency_vph": 28800,
+      "jewels": 28,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Retrograde Date"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Blue",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Ostrich",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 45300000
   },
   {
     "id": 113,
@@ -1990,8 +3024,43 @@
     "price_krw": 66670000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 36,
+      "thickness_mm": 10.75,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "2660RL.4",
+      "power_reserve_hours": 65,
+      "frequency_vph": 28800,
+      "jewels": 32,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Retrograde Date"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Ostrich",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 43300000
   },
   {
     "id": 114,
@@ -2005,8 +3074,44 @@
     "price_krw": 22060000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 34.8,
+      "thickness_mm": 10.55,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6763",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 15900000
   },
   {
     "id": 115,
@@ -2020,8 +3125,44 @@
     "price_krw": 30230000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 35,
+      "thickness_mm": 10.5,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6763",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Blue",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Satin",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 21800000
   },
   {
     "id": 116,
@@ -2035,8 +3176,44 @@
     "price_krw": 46580000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 35,
+      "thickness_mm": 10.55,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6763",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 30300000
   },
   {
     "id": 117,
@@ -2050,8 +3227,44 @@
     "price_krw": 34480000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 33.7,
+      "thickness_mm": 12.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6763",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Stainless Steel",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 24800000
   },
   {
     "id": 118,
@@ -2065,8 +3278,44 @@
     "price_krw": 33340000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 33,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6763",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 21700000
   },
   {
     "id": 119,
@@ -2080,8 +3329,44 @@
     "price_krw": 20270000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "Stainless Steel",
+      "diameter_mm": 33,
+      "thickness_mm": 11.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6763",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "medium",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 14600000
   },
   {
     "id": 120,
@@ -2095,8 +3380,44 @@
     "price_krw": 76810000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K Red Gold",
+      "diameter_mm": 33.7,
+      "thickness_mm": 12.2,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6763",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Gold",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 49900000
   },
   {
     "id": 121,
@@ -2110,8 +3431,44 @@
     "price_krw": 46080000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 33.7,
+      "thickness_mm": 11.7,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Solid"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "6763",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Complete Calendar",
+        "Moon Phase"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Opaline",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "Alligator",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 31300000
   },
   {
     "id": 122,
@@ -2125,8 +3482,43 @@
     "price_krw": 51480000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 34,
+      "thickness_mm": 10.4,
+      "water_resistance_m": 50,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "5L60",
+      "power_reserve_hours": 100,
+      "frequency_vph": 21600,
+      "jewels": 30,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds",
+        "Dual Time Zone"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Blue",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Leather",
+      "material": "5 Interchangeable Straps",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 35000000
   },
   {
     "id": 123,
@@ -2140,8 +3532,42 @@
     "price_krw": 33010000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond & Sapphire Mother-of-Pearl",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Satin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 22400000
   },
   {
     "id": 124,
@@ -2155,8 +3581,42 @@
     "price_krw": 33010000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 21.5,
+      "thickness_mm": 8.4,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond-Set Pink Mother-of-Pearl",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Fabric",
+      "material": "Satin",
+      "clasp": "Pin Buckle"
+    },
+    "bracelet_option": false,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 22400000
   },
   {
     "id": 125,
@@ -2170,8 +3630,42 @@
     "price_krw": 309990000,
     "price_confirmed": true,
     "price_confirmed_date": "2026.03.24",
-    "specs_complete": false,
-    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)"
+    "source": "Blancpain Korea (blancpain.com/ko, 2026.03.24)",
+    "case": {
+      "material": "18K White Gold",
+      "diameter_mm": 33,
+      "thickness_mm": 8,
+      "water_resistance_m": 30,
+      "glass": "Sapphire Crystal",
+      "caseback": "Sapphire Exhibition"
+    },
+    "movement": {
+      "type": "Automatic",
+      "caliber": "615",
+      "power_reserve_hours": 38,
+      "frequency_vph": 21600,
+      "jewels": 29,
+      "functions": [
+        "Hours",
+        "Minutes",
+        "Small Seconds"
+      ]
+    },
+    "dial": {
+      "color": "Diamond & Sapphire Mother-of-Pearl",
+      "indexes": "Diamond Indexes"
+    },
+    "strap": {
+      "type": "Bracelet",
+      "material": "Gold",
+      "clasp": "Folding Clasp"
+    },
+    "bracelet_option": true,
+    "availability": "hard",
+    "certification": false,
+    "limited": false,
+    "year_introduced": null,
+    "resale_krw_est": 210800000
   },
   {
     "id": 126,
