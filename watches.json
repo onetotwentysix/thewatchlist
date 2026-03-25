@@ -47,7 +47,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 24500000
+    "resale_krw_est": 24500000,
+    "specs_complete": true
   },
   {
     "id": 2,
@@ -97,7 +98,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 23700000
+    "resale_krw_est": 23700000,
+    "specs_complete": true
   },
   {
     "id": 3,
@@ -147,7 +149,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 32300000
+    "resale_krw_est": 32300000,
+    "specs_complete": true
   },
   {
     "id": 4,
@@ -197,7 +200,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 20800000
+    "resale_krw_est": 20800000,
+    "specs_complete": true
   },
   {
     "id": 5,
@@ -247,7 +251,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 22200000
+    "resale_krw_est": 22200000,
+    "specs_complete": true
   },
   {
     "id": 6,
@@ -297,7 +302,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 30900000
+    "resale_krw_est": 30900000,
+    "specs_complete": true
   },
   {
     "id": 7,
@@ -347,7 +353,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 23100000
+    "resale_krw_est": 23100000,
+    "specs_complete": true
   },
   {
     "id": 8,
@@ -4252,7 +4259,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 33400000
+    "resale_krw_est": 33400000,
+    "specs_complete": true
   },
   {
     "id": 84,
@@ -4301,7 +4309,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 33400000
+    "resale_krw_est": 33400000,
+    "specs_complete": true
   },
   {
     "id": 85,
@@ -4350,7 +4359,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 39800000
+    "resale_krw_est": 39800000,
+    "specs_complete": true
   },
   {
     "id": 86,
@@ -4399,7 +4409,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 32000000
+    "resale_krw_est": 32000000,
+    "specs_complete": true
   },
   {
     "id": 87,
@@ -4448,7 +4459,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 32000000
+    "resale_krw_est": 32000000,
+    "specs_complete": true
   },
   {
     "id": 88,
@@ -4497,7 +4509,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 32000000
+    "resale_krw_est": 32000000,
+    "specs_complete": true
   },
   {
     "id": 89,
@@ -4546,7 +4559,8 @@
     "certification": false,
     "limited": true,
     "year_introduced": 2024,
-    "resale_krw_est": 33400000
+    "resale_krw_est": 33400000,
+    "specs_complete": true
   },
   {
     "id": 90,
@@ -4596,7 +4610,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 35700000
+    "resale_krw_est": 35700000,
+    "specs_complete": true
   },
   {
     "id": 91,
@@ -4646,7 +4661,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 35700000
+    "resale_krw_est": 35700000,
+    "specs_complete": true
   },
   {
     "id": 92,
@@ -4696,7 +4712,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 35700000
+    "resale_krw_est": 35700000,
+    "specs_complete": true
   },
   {
     "id": 93,
@@ -4746,7 +4763,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 42000000
+    "resale_krw_est": 42000000,
+    "specs_complete": true
   },
   {
     "id": 94,
@@ -4795,7 +4813,8 @@
     "certification": false,
     "limited": true,
     "year_introduced": 2025,
-    "resale_krw_est": 37400000
+    "resale_krw_est": 37400000,
+    "specs_complete": true
   },
   {
     "id": 95,
@@ -4845,7 +4864,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 34100000
+    "resale_krw_est": 34100000,
+    "specs_complete": true
   },
   {
     "id": 96,
@@ -4895,7 +4915,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 34100000
+    "resale_krw_est": 34100000,
+    "specs_complete": true
   },
   {
     "id": 97,
@@ -4945,7 +4966,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 34100000
+    "resale_krw_est": 34100000,
+    "specs_complete": true
   },
   {
     "id": 98,
@@ -4995,7 +5017,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 34100000
+    "resale_krw_est": 34100000,
+    "specs_complete": true
   },
   {
     "id": 99,
@@ -5045,7 +5068,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 34100000
+    "resale_krw_est": 34100000,
+    "specs_complete": true
   },
   {
     "id": 100,
@@ -5094,7 +5118,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 22900000
+    "resale_krw_est": 22900000,
+    "specs_complete": true
   },
   {
     "id": 101,
@@ -5143,7 +5168,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24100000
+    "resale_krw_est": 24100000,
+    "specs_complete": true
   },
   {
     "id": 102,
@@ -5192,7 +5218,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24700000
+    "resale_krw_est": 24700000,
+    "specs_complete": true
   },
   {
     "id": 103,
@@ -5241,7 +5268,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24700000
+    "resale_krw_est": 24700000,
+    "specs_complete": true
   },
   {
     "id": 104,
@@ -5290,7 +5318,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21900000
+    "resale_krw_est": 21900000,
+    "specs_complete": true
   },
   {
     "id": 105,
@@ -5339,7 +5368,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 23000000
+    "resale_krw_est": 23000000,
+    "specs_complete": true
   },
   {
     "id": 106,
@@ -5388,7 +5418,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 23600000
+    "resale_krw_est": 23600000,
+    "specs_complete": true
   },
   {
     "id": 107,
@@ -5437,7 +5468,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 20800000
+    "resale_krw_est": 20800000,
+    "specs_complete": true
   },
   {
     "id": 108,
@@ -5487,7 +5519,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21100000
+    "resale_krw_est": 21100000,
+    "specs_complete": true
   },
   {
     "id": 109,
@@ -5537,7 +5570,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 36100000
+    "resale_krw_est": 36100000,
+    "specs_complete": true
   },
   {
     "id": 110,
@@ -5587,7 +5621,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 34500000
+    "resale_krw_est": 34500000,
+    "specs_complete": true
   },
   {
     "id": 111,
@@ -5637,7 +5672,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 43300000
+    "resale_krw_est": 43300000,
+    "specs_complete": true
   },
   {
     "id": 112,
@@ -5687,7 +5723,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 45300000
+    "resale_krw_est": 45300000,
+    "specs_complete": true
   },
   {
     "id": 113,
@@ -5737,7 +5774,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 43300000
+    "resale_krw_est": 43300000,
+    "specs_complete": true
   },
   {
     "id": 114,
@@ -5788,7 +5826,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 15900000
+    "resale_krw_est": 15900000,
+    "specs_complete": true
   },
   {
     "id": 115,
@@ -5839,7 +5878,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21800000
+    "resale_krw_est": 21800000,
+    "specs_complete": true
   },
   {
     "id": 116,
@@ -5890,7 +5930,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 30300000
+    "resale_krw_est": 30300000,
+    "specs_complete": true
   },
   {
     "id": 117,
@@ -5941,7 +5982,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24800000
+    "resale_krw_est": 24800000,
+    "specs_complete": true
   },
   {
     "id": 118,
@@ -5992,7 +6034,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21700000
+    "resale_krw_est": 21700000,
+    "specs_complete": true
   },
   {
     "id": 119,
@@ -6043,7 +6086,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 14600000
+    "resale_krw_est": 14600000,
+    "specs_complete": true
   },
   {
     "id": 120,
@@ -6094,7 +6138,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 49900000
+    "resale_krw_est": 49900000,
+    "specs_complete": true
   },
   {
     "id": 121,
@@ -6145,7 +6190,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 31300000
+    "resale_krw_est": 31300000,
+    "specs_complete": true
   },
   {
     "id": 122,
@@ -6195,7 +6241,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 35000000
+    "resale_krw_est": 35000000,
+    "specs_complete": true
   },
   {
     "id": 123,
@@ -6244,7 +6291,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 22400000
+    "resale_krw_est": 22400000,
+    "specs_complete": true
   },
   {
     "id": 124,
@@ -6293,7 +6341,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 22400000
+    "resale_krw_est": 22400000,
+    "specs_complete": true
   },
   {
     "id": 125,
@@ -6342,7 +6391,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 210800000
+    "resale_krw_est": 210800000,
+    "specs_complete": true
   },
   {
     "id": 126,

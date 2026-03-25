@@ -46,7 +46,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 24500000
+    "resale_krw_est": 24500000,
+    "specs_complete": true
   },
   {
     "brand": "Blancpain",
@@ -95,7 +96,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 23700000
+    "resale_krw_est": 23700000,
+    "specs_complete": true
   },
   {
     "brand": "Blancpain",
@@ -144,7 +146,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 32300000
+    "resale_krw_est": 32300000,
+    "specs_complete": true
   },
   {
     "brand": "Blancpain",
@@ -193,7 +196,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 20800000
+    "resale_krw_est": 20800000,
+    "specs_complete": true
   },
   {
     "brand": "Blancpain",
@@ -242,7 +246,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 22200000
+    "resale_krw_est": 22200000,
+    "specs_complete": true
   },
   {
     "brand": "Blancpain",
@@ -291,7 +296,8 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 30900000
+    "resale_krw_est": 30900000,
+    "specs_complete": true
   },
   {
     "brand": "Blancpain",
@@ -340,6 +346,7 @@
     "certification": false,
     "limited": false,
     "year_introduced": 2023,
-    "resale_krw_est": 23100000
+    "resale_krw_est": 23100000,
+    "specs_complete": true
   }
 ]
