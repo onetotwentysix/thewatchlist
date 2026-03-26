@@ -46,7 +46,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 33400000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "화이트 골드 29.4mm, Cal.1163, 100h 파워리저브. 컬러풀한 다이얼과 골드 케이스의 조합. 레이디버드 컬렉션의 패션 지향 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "레이디버드의 팔레트 컬렉션. 골드 케이스와 다양한 다이얼 컬러로 개인 취향에 맞춘 선택 폭을 제공하는 현대적 접근."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "골드 케이스 + 컬러 다이얼의 여성 럭셔리 워치는 변하지 않는 수요를 가진다. 블랑팡 레이디 라인의 중간 가격대 주력 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -95,7 +110,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 33400000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "화이트 골드 29.4mm, Cal.1163, 100h 파워리저브. 컬러풀한 다이얼과 골드 케이스의 조합. 레이디버드 컬렉션의 패션 지향 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "레이디버드의 팔레트 컬렉션. 골드 케이스와 다양한 다이얼 컬러로 개인 취향에 맞춘 선택 폭을 제공하는 현대적 접근."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "골드 케이스 + 컬러 다이얼의 여성 럭셔리 워치는 변하지 않는 수요를 가진다. 블랑팡 레이디 라인의 중간 가격대 주력 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -144,7 +174,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 39800000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "화이트 골드 29.4mm, Cal.1163, 100h 파워리저브. 컬러풀한 다이얼과 골드 케이스의 조합. 레이디버드 컬렉션의 패션 지향 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "레이디버드의 팔레트 컬렉션. 골드 케이스와 다양한 다이얼 컬러로 개인 취향에 맞춘 선택 폭을 제공하는 현대적 접근."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "골드 케이스 + 컬러 다이얼의 여성 럭셔리 워치는 변하지 않는 수요를 가진다. 블랑팡 레이디 라인의 중간 가격대 주력 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -193,7 +238,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 32000000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "레드 골드 29.4mm, Cal.1163, 100h 파워리저브. 컬러풀한 다이얼과 골드 케이스의 조합. 레이디버드 컬렉션의 패션 지향 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "레이디버드의 팔레트 컬렉션. 골드 케이스와 다양한 다이얼 컬러로 개인 취향에 맞춘 선택 폭을 제공하는 현대적 접근."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "골드 케이스 + 컬러 다이얼의 여성 럭셔리 워치는 변하지 않는 수요를 가진다. 블랑팡 레이디 라인의 중간 가격대 주력 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -242,7 +302,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 32000000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "레드 골드 29.4mm, Cal.1163, 100h 파워리저브. 컬러풀한 다이얼과 골드 케이스의 조합. 레이디버드 컬렉션의 패션 지향 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "레이디버드의 팔레트 컬렉션. 골드 케이스와 다양한 다이얼 컬러로 개인 취향에 맞춘 선택 폭을 제공하는 현대적 접근."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "골드 케이스 + 컬러 다이얼의 여성 럭셔리 워치는 변하지 않는 수요를 가진다. 블랑팡 레이디 라인의 중간 가격대 주력 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -291,7 +366,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 32000000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "레드 골드 29.4mm, Cal.1163, 100h 파워리저브. 컬러풀한 다이얼과 골드 케이스의 조합. 레이디버드 컬렉션의 패션 지향 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "레이디버드의 팔레트 컬렉션. 골드 케이스와 다양한 다이얼 컬러로 개인 취향에 맞춘 선택 폭을 제공하는 현대적 접근."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "골드 케이스 + 컬러 다이얼의 여성 럭셔리 워치는 변하지 않는 수요를 가진다. 블랑팡 레이디 라인의 중간 가격대 주력 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -340,7 +430,22 @@
     "limited": true,
     "year_introduced": 2024,
     "resale_krw_est": 33400000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "화이트 골드 29.4mm, Cal. 1153. 2024년 발렌타인 한정 에디션. 하트 테마 다이얼과 다이아몬드 세팅. 14피스 한정."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡은 1980년대부터 매년 발렌타인 에디션을 출시해온 전통이 있다. 연간 소량 발매되는 이 에디션은 블랑팡 여성 라인의 연례 하이라이트."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "매년 단 14피스(2월 14일 상징)만 제작되는 한정판. 발매 즉시 완판되어 중고 시장에서 상당한 프리미엄을 형성한다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -390,7 +495,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 35700000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "화이트 골드 34.5mm, Cal.1163L, 100h 파워리저브. 컬러 다이얼에 문페이즈 컴플리케이션을 더한 레이디버드 라인. 여성 달력 시계의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 문페이즈는 오랜 전통. 레이디버드 컬러 시리즈에 달의 위상을 더해 시각적·기능적 완성도를 높인 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + 컬러 다이얼의 조합은 여성 럭셔리 워치 시장에서 안정적 수요를 갖는다. 골드 케이스의 내구성 있는 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -440,7 +560,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 35700000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "화이트 골드 34.5mm, Cal.1163L, 100h 파워리저브. 컬러 다이얼에 문페이즈 컴플리케이션을 더한 레이디버드 라인. 여성 달력 시계의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 문페이즈는 오랜 전통. 레이디버드 컬러 시리즈에 달의 위상을 더해 시각적·기능적 완성도를 높인 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + 컬러 다이얼의 조합은 여성 럭셔리 워치 시장에서 안정적 수요를 갖는다. 골드 케이스의 내구성 있는 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -490,7 +625,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 35700000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "화이트 골드 34.5mm, Cal.1163L, 100h 파워리저브. 컬러 다이얼에 문페이즈 컴플리케이션을 더한 레이디버드 라인. 여성 달력 시계의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 문페이즈는 오랜 전통. 레이디버드 컬러 시리즈에 달의 위상을 더해 시각적·기능적 완성도를 높인 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + 컬러 다이얼의 조합은 여성 럭셔리 워치 시장에서 안정적 수요를 갖는다. 골드 케이스의 내구성 있는 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -540,7 +690,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 42000000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "화이트 골드 34.5mm, Cal.1163L, 100h 파워리저브. 컬러 다이얼에 문페이즈 컴플리케이션을 더한 레이디버드 라인. 여성 달력 시계의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 문페이즈는 오랜 전통. 레이디버드 컬러 시리즈에 달의 위상을 더해 시각적·기능적 완성도를 높인 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + 컬러 다이얼의 조합은 여성 럭셔리 워치 시장에서 안정적 수요를 갖는다. 골드 케이스의 내구성 있는 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -589,7 +754,22 @@
     "limited": true,
     "year_introduced": 2025,
     "resale_krw_est": 37400000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "화이트 골드 29.4mm, Cal. 1153L, 문페이즈. 2025년 발렌타인 한정 에디션. 달의 위상 디스플레이와 하트 테마."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 연간 발렌타인 에디션 전통. 2025년 에디션은 이전 해와 다른 컴플리케이션(문페이즈)을 더해 컬렉터의 수집 욕구를 자극."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "2024년 에디션과 함께 세트 수집 대상. 14피스 한정 생산으로 희소성이 매우 높다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -639,7 +819,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 34100000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 34.5mm, Cal.1163L, 100h 파워리저브. 컬러 다이얼에 문페이즈 컴플리케이션을 더한 레이디버드 라인. 여성 달력 시계의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 문페이즈는 오랜 전통. 레이디버드 컬러 시리즈에 달의 위상을 더해 시각적·기능적 완성도를 높인 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + 컬러 다이얼의 조합은 여성 럭셔리 워치 시장에서 안정적 수요를 갖는다. 골드 케이스의 내구성 있는 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -689,7 +884,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 34100000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 34.5mm, Cal.1163L, 100h 파워리저브. 컬러 다이얼에 문페이즈 컴플리케이션을 더한 레이디버드 라인. 여성 달력 시계의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 문페이즈는 오랜 전통. 레이디버드 컬러 시리즈에 달의 위상을 더해 시각적·기능적 완성도를 높인 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + 컬러 다이얼의 조합은 여성 럭셔리 워치 시장에서 안정적 수요를 갖는다. 골드 케이스의 내구성 있는 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -739,7 +949,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 34100000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 34.5mm, Cal.1163L, 100h 파워리저브. 컬러 다이얼에 문페이즈 컴플리케이션을 더한 레이디버드 라인. 여성 달력 시계의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 문페이즈는 오랜 전통. 레이디버드 컬러 시리즈에 달의 위상을 더해 시각적·기능적 완성도를 높인 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + 컬러 다이얼의 조합은 여성 럭셔리 워치 시장에서 안정적 수요를 갖는다. 골드 케이스의 내구성 있는 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -789,7 +1014,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 34100000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 34.5mm, Cal.1163L, 100h 파워리저브. 컬러 다이얼에 문페이즈 컴플리케이션을 더한 레이디버드 라인. 여성 달력 시계의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 문페이즈는 오랜 전통. 레이디버드 컬러 시리즈에 달의 위상을 더해 시각적·기능적 완성도를 높인 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + 컬러 다이얼의 조합은 여성 럭셔리 워치 시장에서 안정적 수요를 갖는다. 골드 케이스의 내구성 있는 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -839,7 +1079,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 34100000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 34.5mm, Cal.1163L, 100h 파워리저브. 컬러 다이얼에 문페이즈 컴플리케이션을 더한 레이디버드 라인. 여성 달력 시계의 정석."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 문페이즈는 오랜 전통. 레이디버드 컬러 시리즈에 달의 위상을 더해 시각적·기능적 완성도를 높인 라인."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 + 컬러 다이얼의 조합은 여성 럭셔리 워치 시장에서 안정적 수요를 갖는다. 골드 케이스의 내구성 있는 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -888,7 +1143,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 22900000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "화이트 골드 21.5mm, 두께 8.2mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -937,7 +1207,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 24100000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "화이트 골드 21.5mm, 두께 8.2mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -986,7 +1271,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 24700000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "화이트 골드 21.5mm, 두께 8.2mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1035,7 +1335,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 24700000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "화이트 골드 21.5mm, 두께 8.2mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1084,7 +1399,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 21900000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "레드 골드 21.5mm, 두께 8.2mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1133,7 +1463,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 23000000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "레드 골드 21.5mm, 두께 8.2mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1182,7 +1527,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 23600000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "레드 골드 21.5mm, 두께 8.2mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1231,7 +1591,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 20800000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "레드 골드 21.5mm, 두께 8.2mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1281,7 +1656,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 21100000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "스틸 34mm, Cal.2663SR.4, 편심 시간 디스크 표시. 전통적인 시침 대신 디스크가 시간을 표시하는 독창적인 컴플리케이션. 여성 시계에서 이 수준의 기술 실험은 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Heure Décentrée(편심 시간)는 빌레레 컬렉션의 전통을 레이디버드에 이식한 모델. 메커니컬 시계의 가능성을 탐구하는 블랑팡의 철학을 여성 라인에서 표현."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "독창적인 표시 방식을 원하는 취향의 여성 수집가 대상. 스틸 버전은 비교적 접근 가능한 가격대이나 골드는 희소성이 높다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1331,7 +1721,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 36100000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "화이트 골드 34mm, Cal.2663SR.4, 편심 시간 디스크 표시. 전통적인 시침 대신 디스크가 시간을 표시하는 독창적인 컴플리케이션. 여성 시계에서 이 수준의 기술 실험은 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Heure Décentrée(편심 시간)는 빌레레 컬렉션의 전통을 레이디버드에 이식한 모델. 메커니컬 시계의 가능성을 탐구하는 블랑팡의 철학을 여성 라인에서 표현."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "독창적인 표시 방식을 원하는 취향의 여성 수집가 대상. 스틸 버전은 비교적 접근 가능한 가격대이나 골드는 희소성이 높다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1381,7 +1786,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 34500000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "레드 골드 34mm, Cal.2663SR.4, 편심 시간 디스크 표시. 전통적인 시침 대신 디스크가 시간을 표시하는 독창적인 컴플리케이션. 여성 시계에서 이 수준의 기술 실험은 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Heure Décentrée(편심 시간)는 빌레레 컬렉션의 전통을 레이디버드에 이식한 모델. 메커니컬 시계의 가능성을 탐구하는 블랑팡의 철학을 여성 라인에서 표현."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "독창적인 표시 방식을 원하는 취향의 여성 수집가 대상. 스틸 버전은 비교적 접근 가능한 가격대이나 골드는 희소성이 높다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1431,7 +1851,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 43300000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "레드 골드 34.4mm, Cal.2650RL.4, 후진 날짜 표시(레트로그레이드). 날짜 바늘이 월말에 시작 위치로 즉시 복귀하는 독창적 메커니즘을 소형 여성 케이스에 구현."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "레트로그레이드 날짜는 독특한 시각적 경험을 제공하는 컴플리케이션. 블랑팡이 이를 여성 케이스에 적용한 것은 기술적 의지의 표현."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 레트로그레이드 시계는 매우 희소한 카테고리. 골드 케이스의 제한된 수량으로 중고 유통이 드물다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1481,7 +1916,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 45300000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "화이트 골드 34.4mm, Cal.2650RL.4, 후진 날짜 표시(레트로그레이드). 날짜 바늘이 월말에 시작 위치로 즉시 복귀하는 독창적 메커니즘을 소형 여성 케이스에 구현."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "레트로그레이드 날짜는 독특한 시각적 경험을 제공하는 컴플리케이션. 블랑팡이 이를 여성 케이스에 적용한 것은 기술적 의지의 표현."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 레트로그레이드 시계는 매우 희소한 카테고리. 골드 케이스의 제한된 수량으로 중고 유통이 드물다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1531,7 +1981,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 43300000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "레드 골드 34.4mm, Cal.2660RL.4, 후진 날짜 표시(레트로그레이드). 날짜 바늘이 월말에 시작 위치로 즉시 복귀하는 독창적 메커니즘을 소형 여성 케이스에 구현."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "레트로그레이드 날짜는 독특한 시각적 경험을 제공하는 컴플리케이션. 블랑팡이 이를 여성 케이스에 적용한 것은 기술적 의지의 표현."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 레트로그레이드 시계는 매우 희소한 카테고리. 골드 케이스의 제한된 수량으로 중고 유통이 드물다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1582,7 +2047,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 15900000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "스틸 34.4mm, Cal.6763, 72h 파워리저브. 요일·날짜·월·문페이즈의 완전달력을 34mm 소형 여성 케이스에 통합. 이 크기의 완전달력은 세계적으로도 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 컴플리케이션 기술력을 여성 시계 크기로 압축한 성취. Cal. 6763은 완전달력 기능을 34mm 케이스에 맞게 소형화한 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 완전달력 시계는 극히 희소한 카테고리. 기술적 완성도와 여성 취향 디자인의 조합이 차별화 포인트다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1633,7 +2113,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 21800000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "스틸 34.4mm, Cal.6763, 72h 파워리저브. 요일·날짜·월·문페이즈의 완전달력을 34mm 소형 여성 케이스에 통합. 이 크기의 완전달력은 세계적으로도 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 컴플리케이션 기술력을 여성 시계 크기로 압축한 성취. Cal. 6763은 완전달력 기능을 34mm 케이스에 맞게 소형화한 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 완전달력 시계는 극히 희소한 카테고리. 기술적 완성도와 여성 취향 디자인의 조합이 차별화 포인트다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1684,7 +2179,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 30300000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 34.4mm, Cal.6763, 72h 파워리저브. 요일·날짜·월·문페이즈의 완전달력을 34mm 소형 여성 케이스에 통합. 이 크기의 완전달력은 세계적으로도 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 컴플리케이션 기술력을 여성 시계 크기로 압축한 성취. Cal. 6763은 완전달력 기능을 34mm 케이스에 맞게 소형화한 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 완전달력 시계는 극히 희소한 카테고리. 기술적 완성도와 여성 취향 디자인의 조합이 차별화 포인트다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1735,7 +2245,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 24800000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "스틸 34.4mm, Cal.6763, 72h 파워리저브. 요일·날짜·월·문페이즈의 완전달력을 34mm 소형 여성 케이스에 통합. 이 크기의 완전달력은 세계적으로도 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 컴플리케이션 기술력을 여성 시계 크기로 압축한 성취. Cal. 6763은 완전달력 기능을 34mm 케이스에 맞게 소형화한 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 완전달력 시계는 극히 희소한 카테고리. 기술적 완성도와 여성 취향 디자인의 조합이 차별화 포인트다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1786,7 +2311,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 21700000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 34.4mm, Cal.6763, 72h 파워리저브. 요일·날짜·월·문페이즈의 완전달력을 34mm 소형 여성 케이스에 통합. 이 크기의 완전달력은 세계적으로도 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 컴플리케이션 기술력을 여성 시계 크기로 압축한 성취. Cal. 6763은 완전달력 기능을 34mm 케이스에 맞게 소형화한 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 완전달력 시계는 극히 희소한 카테고리. 기술적 완성도와 여성 취향 디자인의 조합이 차별화 포인트다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1837,7 +2377,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 14600000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "스틸 34.4mm, Cal.6763, 72h 파워리저브. 요일·날짜·월·문페이즈의 완전달력을 34mm 소형 여성 케이스에 통합. 이 크기의 완전달력은 세계적으로도 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 컴플리케이션 기술력을 여성 시계 크기로 압축한 성취. Cal. 6763은 완전달력 기능을 34mm 케이스에 맞게 소형화한 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 완전달력 시계는 극히 희소한 카테고리. 기술적 완성도와 여성 취향 디자인의 조합이 차별화 포인트다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1888,7 +2443,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 49900000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 34.4mm, Cal.6763, 72h 파워리저브. 요일·날짜·월·문페이즈의 완전달력을 34mm 소형 여성 케이스에 통합. 이 크기의 완전달력은 세계적으로도 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 컴플리케이션 기술력을 여성 시계 크기로 압축한 성취. Cal. 6763은 완전달력 기능을 34mm 케이스에 맞게 소형화한 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 완전달력 시계는 극히 희소한 카테고리. 기술적 완성도와 여성 취향 디자인의 조합이 차별화 포인트다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1939,7 +2509,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 31300000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "화이트 골드 34.4mm, Cal.6763, 72h 파워리저브. 요일·날짜·월·문페이즈의 완전달력을 34mm 소형 여성 케이스에 통합. 이 크기의 완전달력은 세계적으로도 드물다."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡의 컴플리케이션 기술력을 여성 시계 크기로 압축한 성취. Cal. 6763은 완전달력 기능을 34mm 케이스에 맞게 소형화한 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 완전달력 시계는 극히 희소한 카테고리. 기술적 완성도와 여성 취향 디자인의 조합이 차별화 포인트다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1989,7 +2574,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 35000000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "World Timer",
+        "comment": "화이트 골드 29.4mm, Cal. 5L60, 듀얼 타임존 디스플레이. 소형 케이스에 복수 시간대 표시 컴플리케이션을 통합한 드문 조합."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "여성 시계에서 두 번째 시간대 표시는 해외 출장·여행이 잦은 현대 여성을 위한 실용적 컴플리케이션. 소형 케이스에 구현한 기술적 성취."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "여성 듀얼 타임 시계 카테고리 자체가 희소. 생산 수량이 제한적이어서 중고 물량이 드물다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2038,7 +2638,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 22400000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "화이트 골드 21.5mm, 두께 8.4mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2087,7 +2702,22 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 22400000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "화이트 골드 21.5mm, 두께 8.4mm, Cal.615, 38h 파워리저브. 블랑팡 레이디버드 라인의 기본 모델. 21.5mm 케이스에 자동 무브먼트 탑재."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "1953년 블랑팡은 세계 최소형 자동 무브먼트(Cal. 595)를 개발해 레이디버드를 탄생시켰다. 현행 Cal. 615는 그 전통을 이어받은 소형 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 럭셔리 워치에서 초소형 자동 무브먼트라는 기술적 희소성이 지속적인 수요를 만든다. 골드 버전은 세대를 넘어 전해지는 클래식."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2136,6 +2766,21 @@
     "limited": false,
     "year_introduced": null,
     "resale_krw_est": 210800000,
-    "specs_complete": true
+    "specs_complete": true,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Statement Piece",
+        "comment": "화이트 골드 29.4mm, Cal. 615, 메티에 다르 아트 다이얼. 3억원대 초고가. 천일야화를 주제로 한 법랑 공예·미니어처 페인팅 세공."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "메티에 다르(Métiers d'Art) 시리즈는 시계 제작 기술과 전통 공예를 융합한 블랑팡 최고 예술성의 결정체. 단 몇 피스만 제작되는 예술 작품."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "컬렉터 전용 초희귀 에디션. 시계를 초월한 예술 작품으로 분류되며 경매 시장에서 높은 관심을 받는다."
+      }
+    }
   }
 ]

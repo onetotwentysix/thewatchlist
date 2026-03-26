@@ -312,7 +312,7 @@ async function loadData(retryCount = 0) {
     el.innerHTML = `<p>${msg}</p>`;
   };
   try {
-    const v = '202603261549';
+    const v = '202603261939';
     const [watchRes, metaRes] = await Promise.all([
       fetch('./watches.json?v=' + v),
       fetch('./meta.json?v=' + v)

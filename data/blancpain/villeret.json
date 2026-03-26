@@ -47,7 +47,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 11600000
+    "resale_krw_est": 11600000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "스틸 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 컬렉션의 입문 드레스워치. 슬림 케이스와 클래식한 오팔린 다이얼."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Extraplate는 블랑팡이 전통 드레스워치의 비례와 제작 방식을 현대적으로 계승한 라인. Cal. 1151은 100h 파워리저브를 갖춘 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "드레스워치의 클래식 포지션. 스틸 버전은 빌레레 컬렉션 입문 모델로 안정적 수요를 갖는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -97,7 +112,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21800000
+    "resale_krw_est": 21800000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "레드 골드 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 컬렉션의 입문 드레스워치. 슬림 케이스와 클래식한 오팔린 다이얼."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Extraplate는 블랑팡이 전통 드레스워치의 비례와 제작 방식을 현대적으로 계승한 라인. Cal. 1151은 100h 파워리저브를 갖춘 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "드레스워치의 클래식 포지션. 스틸 버전은 빌레레 컬렉션 입문 모델로 안정적 수요를 갖는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -147,7 +177,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 11600000
+    "resale_krw_est": 11600000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "스틸 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 컬렉션의 입문 드레스워치. 슬림 케이스와 클래식한 오팔린 다이얼."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Extraplate는 블랑팡이 전통 드레스워치의 비례와 제작 방식을 현대적으로 계승한 라인. Cal. 1151은 100h 파워리저브를 갖춘 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "드레스워치의 클래식 포지션. 스틸 버전은 빌레레 컬렉션 입문 모델로 안정적 수요를 갖는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -197,7 +242,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21800000
+    "resale_krw_est": 21800000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "레드 골드 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 컬렉션의 입문 드레스워치. 슬림 케이스와 클래식한 오팔린 다이얼."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Extraplate는 블랑팡이 전통 드레스워치의 비례와 제작 방식을 현대적으로 계승한 라인. Cal. 1151은 100h 파워리저브를 갖춘 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "드레스워치의 클래식 포지션. 스틸 버전은 빌레레 컬렉션 입문 모델로 안정적 수요를 갖는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -248,7 +308,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 18100000
+    "resale_krw_est": 18100000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "스틸 40.2mm, 두께 10.6mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -299,7 +374,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28900000
+    "resale_krw_est": 28900000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 40.2mm, 두께 10.6mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -350,7 +440,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 18100000
+    "resale_krw_est": 18100000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "스틸 40.2mm, 두께 10.6mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -401,7 +506,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28900000
+    "resale_krw_est": 28900000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 40.2mm, 두께 10.6mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -452,7 +572,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 13700000
+    "resale_krw_est": 13700000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "스틸 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -503,7 +638,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 20600000
+    "resale_krw_est": 20600000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -554,7 +704,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 13700000
+    "resale_krw_est": 13700000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "스틸 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -605,7 +770,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 20600000
+    "resale_krw_est": 20600000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -656,7 +836,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 19300000
+    "resale_krw_est": 19300000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "스틸 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -707,7 +902,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 25900000
+    "resale_krw_est": 25900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -758,7 +968,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 19300000
+    "resale_krw_est": 19300000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "스틸 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -809,7 +1034,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 25900000
+    "resale_krw_est": 25900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -857,7 +1097,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 9900000
+    "resale_krw_est": 9900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 29.0mm, 두께 9.1mm, Cal.913, 40h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -905,7 +1160,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 16900000
+    "resale_krw_est": 16900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 29.2mm, 두께 9.3mm, Cal.913, 40h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -953,7 +1223,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 16800000
+    "resale_krw_est": 16800000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 29.2mm, 두께 9.3mm, Cal.913, 40h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1001,7 +1286,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28200000
+    "resale_krw_est": 28200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 29.0mm, 두께 9.1mm, Cal.913, 40h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1049,7 +1349,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 18800000
+    "resale_krw_est": 18800000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 29.2mm, 두께 9.3mm, Cal.913, 40h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1097,7 +1412,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 20100000
+    "resale_krw_est": 20100000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 29.2mm, 두께 9.3mm, Cal.913, 40h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1146,7 +1476,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 20700000
+    "resale_krw_est": 20700000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Luxurious",
+        "comment": "화이트 골드 21.5mm, Cal. 615, 38h 파워리저브, 다이아몬드 세팅 베젤. 2026년 발렌타인 한정 에디션. 14피스 한정."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "블랑팡 빌레레 발렌타인 에디션은 1980년대부터 이어진 연례 전통. 매년 새로운 디자인으로 발매되며 2026년 에디션은 나크레 펄레 다이얼이 특징."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "매년 14피스만 제작되는 극희귀 한정판. 발매 즉시 완판되며 중고 시장에서 높은 프리미엄을 형성한다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1194,7 +1539,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 11800000
+    "resale_krw_est": 11800000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 39.7mm, 두께 7.45mm, Cal.11A4B, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1242,7 +1602,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21900000
+    "resale_krw_est": 21900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 39.7mm, 두께 7.45mm, Cal.11A4B, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1290,7 +1665,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 31900000
+    "resale_krw_est": 31900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 42.0mm, 두께 11.25mm, Cal.1335, 192h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1338,7 +1728,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 31900000
+    "resale_krw_est": 31900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "화이트 골드 42.0mm, 두께 11.25mm, Cal.1335, 192h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1388,7 +1793,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 10800000
+    "resale_krw_est": 10800000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "스틸 33.2mm, 두께 8.9mm, Cal.1151, 100h 파워리저브. 날짜 표시가 더해진 빌레레 여성 드레스워치. 33.2mm로 남녀 착용이 가능한 비율."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Women Date는 블랑팡 여성 드레스워치 중 가장 실용적인 모델. 날짜 기능과 슬림한 케이스를 결합."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 드레스워치 중 기능성과 우아함을 균형 있게 갖춘 모델. 스틸 버전은 접근 가능한 가격대로 안정적인 수요."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1438,7 +1858,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 16500000
+    "resale_krw_est": 16500000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "스틸 33.2mm, 두께 9.15mm, Cal.1151, 100h 파워리저브. 날짜 표시가 더해진 빌레레 여성 드레스워치. 33.2mm로 남녀 착용이 가능한 비율."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Women Date는 블랑팡 여성 드레스워치 중 가장 실용적인 모델. 날짜 기능과 슬림한 케이스를 결합."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 드레스워치 중 기능성과 우아함을 균형 있게 갖춘 모델. 스틸 버전은 접근 가능한 가격대로 안정적인 수요."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1488,7 +1923,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 18100000
+    "resale_krw_est": 18100000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "레드 골드 33.2mm, 두께 8.9mm, Cal.1151, 100h 파워리저브. 날짜 표시가 더해진 빌레레 여성 드레스워치. 33.2mm로 남녀 착용이 가능한 비율."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Women Date는 블랑팡 여성 드레스워치 중 가장 실용적인 모델. 날짜 기능과 슬림한 케이스를 결합."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 드레스워치 중 기능성과 우아함을 균형 있게 갖춘 모델. 스틸 버전은 접근 가능한 가격대로 안정적인 수요."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1538,7 +1988,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 40900000
+    "resale_krw_est": 40900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dressy",
+        "comment": "레드 골드 33.2mm, 두께 9.15mm, Cal.1151, 100h 파워리저브. 날짜 표시가 더해진 빌레레 여성 드레스워치. 33.2mm로 남녀 착용이 가능한 비율."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Women Date는 블랑팡 여성 드레스워치 중 가장 실용적인 모델. 날짜 기능과 슬림한 케이스를 결합."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "여성 드레스워치 중 기능성과 우아함을 균형 있게 갖춘 모델. 스틸 버전은 접근 가능한 가격대로 안정적인 수요."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1586,7 +2051,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28200000
+    "resale_krw_est": 28200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 33.9mm, 두께 8.6mm, Cal.1150, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1634,7 +2114,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 11100000
+    "resale_krw_est": 11100000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 38.0mm, 두께 8.35mm, Cal.1150, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1682,7 +2177,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 16700000
+    "resale_krw_est": 16700000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 38.0mm, 두께 8.35mm, Cal.1150, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1730,7 +2240,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 19300000
+    "resale_krw_est": 19300000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 38.0mm, 두께 8.35mm, Cal.1150, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1778,7 +2303,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24500000
+    "resale_krw_est": 24500000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 38.0mm, 두께 8.35mm, Cal.1150, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1826,7 +2366,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 11400000
+    "resale_krw_est": 11400000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1874,7 +2429,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 11400000
+    "resale_krw_est": 11400000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1922,7 +2492,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21600000
+    "resale_krw_est": 21600000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -1970,7 +2555,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 22200000
+    "resale_krw_est": 22200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2020,7 +2620,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21600000
+    "resale_krw_est": 21600000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Dress-Grade Auto",
+        "comment": "레드 골드 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 컬렉션의 입문 드레스워치. 슬림 케이스와 클래식한 오팔린 다이얼."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Extraplate는 블랑팡이 전통 드레스워치의 비례와 제작 방식을 현대적으로 계승한 라인. Cal. 1151은 100h 파워리저브를 갖춘 자동 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "드레스워치의 클래식 포지션. 스틸 버전은 빌레레 컬렉션 입문 모델로 안정적 수요를 갖는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2068,7 +2683,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21600000
+    "resale_krw_est": 21600000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 8.7mm, Cal.1151, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2116,7 +2746,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 29400000
+    "resale_krw_est": 29400000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 8.9mm, Cal.1151, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2164,7 +2809,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 22200000
+    "resale_krw_est": 22200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 9.05mm, Cal.1150, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2212,7 +2872,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 11200000
+    "resale_krw_est": 11200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 40.0mm, 두께 8.55mm, Cal.11C5, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2260,7 +2935,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 11200000
+    "resale_krw_est": 11200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 40.0mm, 두께 8.55mm, Cal.11C5.4, 72h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2308,7 +2998,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21200000
+    "resale_krw_est": 21200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 8.55mm, Cal.11C5, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2356,7 +3061,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 42300000
+    "resale_krw_est": 42300000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 8.55mm, Cal.11C5.4, 72h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2404,7 +3124,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 29200000
+    "resale_krw_est": 29200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 8.9mm, Cal.11C5, 100h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2455,7 +3190,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 12700000
+    "resale_krw_est": 12700000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "스틸 40.5mm, Cal.1160DD, 72h 파워리저브. 요일과 날짜를 동시에 표시하는 드레스 컴플리케이션. 빌레레 케이스의 균형 잡힌 비율."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "요일+날짜 조합은 실용적인 컴플리케이션의 정석. 빌레레의 우아한 케이스와 함께 완성된 드레스워치 스테이플."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "실용적 컴플리케이션으로 시대에 관계없이 꾸준한 수요. 스틸 버전은 접근 가능한 입문 선택지."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2506,7 +3256,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 22700000
+    "resale_krw_est": 22700000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 40.5mm, Cal.1160DD, 72h 파워리저브. 요일과 날짜를 동시에 표시하는 드레스 컴플리케이션. 빌레레 케이스의 균형 잡힌 비율."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "요일+날짜 조합은 실용적인 컴플리케이션의 정석. 빌레레의 우아한 케이스와 함께 완성된 드레스워치 스테이플."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "실용적 컴플리케이션으로 시대에 관계없이 꾸준한 수요. 스틸 버전은 접근 가능한 입문 선택지."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2556,7 +3321,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 13500000
+    "resale_krw_est": 13500000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "스틸 40.0mm, 두께 10.95mm, Cal.6950, 72h 파워리저브. 대형 빅데이트 디스플레이를 채택한 빌레레 드레스워치. 읽기 편한 날짜 표시와 클래식한 케이스."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빅데이트를 드레스워치에 적용한 블랑팡의 기술적 접근. Cal. 6950은 두 디스크를 사용해 일자를 대형으로 표시하는 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "빅데이트 드레스워치의 안정적인 수요. 스틸과 골드 모두 빌레레 패밀리 내에서 명확한 포지션을 유지."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2606,7 +3386,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 23500000
+    "resale_krw_est": 23500000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 40.0mm, 두께 10.95mm, Cal.6950, 72h 파워리저브. 대형 빅데이트 디스플레이를 채택한 빌레레 드레스워치. 읽기 편한 날짜 표시와 클래식한 케이스."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빅데이트를 드레스워치에 적용한 블랑팡의 기술적 접근. Cal. 6950은 두 디스크를 사용해 일자를 대형으로 표시하는 독자 개발 무브먼트."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "빅데이트 드레스워치의 안정적인 수요. 스틸과 골드 모두 빌레레 패밀리 내에서 명확한 포지션을 유지."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2657,7 +3452,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 16000000
+    "resale_krw_est": 16000000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "스틸 40.5mm, Cal.6950GJ.4, 72h 파워리저브. 빅데이트 + 레트로그레이드 요일 표시. 요일 바늘이 주말에 즉시 복귀하는 독창적 메커니즘."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빅데이트와 레트로그레이드 요일을 결합한 기술적으로 복잡한 칼리버. 두 가지 독특한 표시 방식이 하나의 다이얼에서 공존한다."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "기술적으로 희소한 조합으로 빌레레 컬렉터 사이에서 주목받는 모델. 레트로그레이드 메커니즘의 시각적 재미를 즐기는 취향 대상."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2708,7 +3518,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 27100000
+    "resale_krw_est": 27100000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "레드 골드 40.5mm, Cal.6950GJ.4, 72h 파워리저브. 빅데이트 + 레트로그레이드 요일 표시. 요일 바늘이 주말에 즉시 복귀하는 독창적 메커니즘."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빅데이트와 레트로그레이드 요일을 결합한 기술적으로 복잡한 칼리버. 두 가지 독특한 표시 방식이 하나의 다이얼에서 공존한다."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "기술적으로 희소한 조합으로 빌레레 컬렉터 사이에서 주목받는 모델. 레트로그레이드 메커니즘의 시각적 재미를 즐기는 취향 대상."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2756,7 +3581,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24200000
+    "resale_krw_est": 24200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 10.65mm, Cal.7663.4, 65h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2804,7 +3644,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24200000
+    "resale_krw_est": 24200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 10.65mm, Cal.7663.4, 65h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2852,7 +3707,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24200000
+    "resale_krw_est": 24200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "화이트 골드 40.0mm, 두께 10.65mm, Cal.7663.4, 65h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2900,7 +3770,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 14800000
+    "resale_krw_est": 14800000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "스틸 40.0mm, 두께 10.9mm, Cal.7663Q.4, 65h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2948,7 +3833,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24900000
+    "resale_krw_est": 24900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "레드 골드 40.0mm, 두께 10.5mm, Cal.7663Q.4, 65h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -2996,7 +3896,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 23000000
+    "resale_krw_est": 23000000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "화이트 골드 40.0mm, 두께 10.5mm, Cal.7663Q.4, 65h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3044,7 +3959,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24900000
+    "resale_krw_est": 24900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Refined",
+        "comment": "화이트 골드 40.0mm, 두께 10.5mm, Cal.7663Q.4, 65h 파워리저브. 빌레레 라인 중 가장 슬림하고 소형인 여성·소형손목 지향 드레스워치."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "울트라플레이트는 블랑팡의 초박형 드레스워치 전통의 여성 버전. 29mm 케이스에 자동 무브먼트를 탑재."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "소형 드레스워치 시장에서 안정적인 수요. 클래식한 디자인으로 시대를 타지 않는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3095,7 +4025,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 12200000
+    "resale_krw_est": 12200000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "스틸 29.2mm, Cal.913QL, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3146,7 +4091,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 19300000
+    "resale_krw_est": 19300000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "스틸 29.2mm, Cal.913QL, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3197,7 +4157,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 16400000
+    "resale_krw_est": 16400000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 29.2mm, Cal.913QL, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3248,7 +4223,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21000000
+    "resale_krw_est": 21000000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 29.2mm, Cal.913QL, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3299,7 +4289,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 12900000
+    "resale_krw_est": 12900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "스틸 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3350,7 +4355,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 18600000
+    "resale_krw_est": 18600000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "스틸 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3401,7 +4421,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 20000000
+    "resale_krw_est": 20000000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3452,7 +4487,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 25300000
+    "resale_krw_est": 25300000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3503,7 +4553,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 27600000
+    "resale_krw_est": 27600000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3554,7 +4619,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 25300000
+    "resale_krw_est": 25300000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "Moon Phase",
+        "comment": "레드 골드 33.2mm, Cal.913QL.P, 40h 파워리저브. 날짜 + 문페이즈. 빌레레 컬렉션 중 가장 다양한 배리언트를 갖춘 주력 라인."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 Quantième Phases de Lune은 블랑팡이 가장 폭넓은 소재와 다이얼 옵션으로 제공하는 컬렉션의 허리. 스틸부터 골드까지, 클래식부터 다이아몬드 세팅까지."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "문페이즈 드레스워치 시장에서 가장 인지도 높은 빌레레 모델군. 다양한 예산과 취향에 맞는 선택지가 존재해 중고 시장에서도 활발하게 거래된다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3605,7 +4685,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 13900000
+    "resale_krw_est": 13900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "World Timer",
+        "comment": "스틸 40.5mm, Cal.5A50, 100h 파워리저브. GMT + 날짜. 두 번째 시간대를 드레스워치 케이스에 통합. 출장·여행에 실용적인 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 GMT Date는 드레스워치에 여행 기능을 더한 실용적 모델. Cal. 5A50은 100h 파워리저브를 갖춘 GMT 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "GMT 드레스워치의 안정적 수요. 스틸 버전은 비즈니스 출장용 시계로 선호되며 중고 가치도 안정적."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3656,7 +4751,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 23900000
+    "resale_krw_est": 23900000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "World Timer",
+        "comment": "레드 골드 40.5mm, Cal.5A50, 100h 파워리저브. GMT + 날짜. 두 번째 시간대를 드레스워치 케이스에 통합. 출장·여행에 실용적인 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "빌레레 GMT Date는 드레스워치에 여행 기능을 더한 실용적 모델. Cal. 5A50은 100h 파워리저브를 갖춘 GMT 칼리버."
+      },
+      "timelessness": {
+        "label": "Enduring",
+        "comment": "GMT 드레스워치의 안정적 수요. 스틸 버전은 비즈니스 출장용 시계로 선호되며 중고 가치도 안정적."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3707,7 +4817,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 19900000
+    "resale_krw_est": 19900000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "World Timer",
+        "comment": "스틸 40.0mm, Cal.5254DF, 72h 파워리저브. 듀얼 타임존 + 날짜. '반시간대(Demi-Fuseau)' 조정이 가능한 독특한 GMT 구현."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Demi-Fuseau(반 시간대)는 일부 지역의 30분 단위 시간대 차이를 정확히 표시할 수 있는 드문 기능. 전통 드레스워치의 우아함과 실용적 GMT를 결합."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "반시간대 기능은 매우 희소한 컴플리케이션. 아이슬란드·인도·이란 등 30분 단위 시간대를 쓰는 지역을 자주 방문하는 사람에게 유일한 선택지."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3758,7 +4883,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 32800000
+    "resale_krw_est": 32800000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "레드 골드 40.0mm, Cal.5254DF, 72h 파워리저브. 반개형 케이스백(Demi-Savonnette)에 듀얼 타임 컴플리케이션. 무브먼트가 부분 노출되는 독특한 마감."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "Demi-Savonnette(반개형) 케이스백은 19세기 회중시계의 전통을 현대 손목시계에 적용한 드문 형식. 기술적 희소성과 헤리티지 감성을 동시에 갖추었다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "반개형 케이스백 + GMT 컴플리케이션의 극히 희소한 조합. 생산 수량이 매우 제한적이어서 컬렉터 전용 선택지."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3809,7 +4949,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 15400000
+    "resale_krw_est": 15400000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "스틸 38.0mm, 두께 10.45mm, Cal.6763, 100h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3860,7 +5015,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 21100000
+    "resale_krw_est": 21100000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "스틸 38.0mm, 두께 10.25mm, Cal.6763, 100h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3911,7 +5081,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24300000
+    "resale_krw_est": 24300000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 38.0mm, 두께 10.45mm, Cal.6763, 100h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -3962,7 +5147,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 29600000
+    "resale_krw_est": 29600000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 38.0mm, 두께 10.25mm, Cal.6763, 100h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4013,7 +5213,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 17400000
+    "resale_krw_est": 17400000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "스틸 40.0mm, Cal.6654.4, 72h 파워리저브. 완전달력 + 문페이즈. Quantième Complet 메인 라인과 동일한 핵심 컴플리케이션 구성."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet 패밀리의 일원. 완전달력과 월상 표시의 조합은 블랑팡이 가장 깊이 있게 발전시킨 전통 컴플리케이션."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 드레스워치의 가장 완성된 형태. 빌레레 컬렉션에서 가장 보편적이고 안정적인 중고 가치를 가진 모델군."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4064,7 +5279,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 17400000
+    "resale_krw_est": 17400000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "스틸 40.0mm, 두께 10.9mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4115,7 +5345,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 17400000
+    "resale_krw_est": 17400000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "스틸 40.0mm, 두께 10.9mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4166,7 +5411,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28300000
+    "resale_krw_est": 28300000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 40.0mm, 두께 10.9mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4217,7 +5477,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28300000
+    "resale_krw_est": 28300000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 40.0mm, 두께 10.9mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4268,7 +5543,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28300000
+    "resale_krw_est": 28300000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 40.0mm, 두께 10.9mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4319,7 +5609,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28300000
+    "resale_krw_est": 28300000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 40.0mm, 두께 10.9mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4370,7 +5675,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28300000
+    "resale_krw_est": 28300000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "화이트 골드 40.0mm, 두께 10.9mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4421,7 +5741,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28300000
+    "resale_krw_est": 28300000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "화이트 골드 40.0mm, 두께 10.9mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4472,7 +5807,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 30600000
+    "resale_krw_est": 30600000,
+    "verdict": {
+      "overall": "Definitive",
+      "spec": {
+        "label": "Heritage Auto",
+        "comment": "레드 골드 40.0mm, 두께 10.9mm, Cal.6654.4, 72h 파워리저브. 완전달력(요일·일자·월·윤년) + 문페이즈. 빌레레 컬렉션의 아이코닉 드레스 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Iconic",
+        "comment": "빌레레 Quantième Complet은 블랑팡이 드레스워치 문화에서 가장 오랜 시간 유지해온 상징적 모델. 아치형 케이스와 월상 표시의 조합은 빌레레 컬렉션의 얼굴."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "완전달력 + 문페이즈 드레스워치의 카테고리 정의. 스틸부터 플래티넘까지 다양한 버전이 존재하며 중고 시장에서도 가장 활발하게 거래되는 빌레레 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4523,7 +5873,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 31900000
+    "resale_krw_est": 31900000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "레드 골드 40.0mm, Cal.6654.4, 72h 파워리저브. 반개형(Demi-Savonnette) 케이스백에 완전달력. 무브먼트 일부를 케이스백 창으로 관찰 가능."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "Demi-Savonnette는 19세기 회중시계 전통을 현대 손목시계로 계승한 희귀 형식. 완전달력과 결합해 기술적 미학과 역사성을 동시에 표현."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "반개형 케이스백 + 완전달력의 매우 드문 조합. 생산 수량이 극히 제한되어 컬렉터 전용 포지션."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4575,7 +5940,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 43400000
+    "resale_krw_est": 43400000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "레드 골드 42.0mm, Cal.6639, 192h(8일) 파워리저브. 완전달력 + 문페이즈 + 8일 파워리저브. 일주일에 한 번 태엽 감기가 가능한 실용적 무브먼트."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "8일 파워리저브는 전통 회중시계의 주간 태엽 감기 방식을 현대 손목시계에 계승. 자동 태엽이 아닌 수동으로 더욱 긴 주기를 달성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "8일 PR + 완전달력은 드문 조합. 레드 골드 케이스로만 제공되어 고가의 희소성 있는 컬렉터 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4627,7 +6007,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 46200000
+    "resale_krw_est": 46200000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "7-Day Power Reserve",
+        "comment": "레드 골드 42.0mm, Cal.6639, 192h(8일) 파워리저브. 완전달력 + 문페이즈 + 8일 파워리저브. 일주일에 한 번 태엽 감기가 가능한 실용적 무브먼트."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "8일 파워리저브는 전통 회중시계의 주간 태엽 감기 방식을 현대 손목시계에 계승. 자동 태엽이 아닌 수동으로 더욱 긴 주기를 달성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "8일 PR + 완전달력은 드문 조합. 레드 골드 케이스로만 제공되어 고가의 희소성 있는 컬렉터 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4678,7 +6073,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 28600000
+    "resale_krw_est": 28600000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "스틸 40.3mm, Cal.1240H, 45h 파워리저브. GMT + 알람. 두 번째 시간대 설정과 독립적인 알람 기능을 하나의 드레스 케이스에 통합."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "기계식 알람 + GMT는 극히 드문 복합 컴플리케이션. 호텔 투숙 중 알람 기능을 선호하는 여행 애호가를 위한 실용적 선택."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "알람 + GMT 드레스워치의 희소한 포지션. 생산 수량이 제한적이어서 중고 시장에서 구하기 어렵다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4729,7 +6139,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 39900000
+    "resale_krw_est": 39900000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "레드 골드 40.3mm, Cal.1240H, 45h 파워리저브. GMT + 알람. 두 번째 시간대 설정과 독립적인 알람 기능을 하나의 드레스 케이스에 통합."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "기계식 알람 + GMT는 극히 드문 복합 컴플리케이션. 호텔 투숙 중 알람 기능을 선호하는 여행 애호가를 위한 실용적 선택."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "알람 + GMT 드레스워치의 희소한 포지션. 생산 수량이 제한적이어서 중고 시장에서 구하기 어렵다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4781,7 +6206,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 18600000
+    "resale_krw_est": 18600000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "스틸 40.5mm, Cal.67A5.4, 72h 파워리저브. 완전달력 + 문페이즈 + GMT. 세 가지 컴플리케이션이 결합된 빌레레의 복합 기능 모델."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "완전달력, 문페이즈, GMT를 단일 드레스 케이스에 통합하는 것은 기술적으로 상당히 도전적이다. 블랑팡의 컴플리케이션 개발 역량을 보여주는 모델."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "세 가지 컴플리케이션 조합의 희소성. 특히 골드 버전은 유통 수량이 극히 적다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4833,7 +6273,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 29400000
+    "resale_krw_est": 29400000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 40.5mm, Cal.67A5.4, 72h 파워리저브. 완전달력 + 문페이즈 + GMT. 세 가지 컴플리케이션이 결합된 빌레레의 복합 기능 모델."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "완전달력, 문페이즈, GMT를 단일 드레스 케이스에 통합하는 것은 기술적으로 상당히 도전적이다. 블랑팡의 컴플리케이션 개발 역량을 보여주는 모델."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "세 가지 컴플리케이션 조합의 희소성. 특히 골드 버전은 유통 수량이 극히 적다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4884,7 +6339,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 31700000
+    "resale_krw_est": 31700000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "World Timer",
+        "comment": "스틸 40.0mm, Cal.6054F.4, 72h 파워리저브. 연간 달력(2월 제외 자동 조정) + GMT. 1년에 한 번만 날짜 조정이 필요한 편의성과 두 번째 시간대 표시."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "연간 달력과 GMT를 결합한 실용성 높은 컴플리케이션. 블랑팡의 연간 달력 칼리버는 만년 달력보다 간결하면서도 일상적 불편함을 줄인다."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "연간달력 + GMT의 조합은 드레스워치 시장에서 희소하다. 출장이 잦은 비즈니스 전문가에게 이상적인 기능 조합."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4935,7 +6405,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 44100000
+    "resale_krw_est": 44100000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "World Timer",
+        "comment": "레드 골드 40.0mm, Cal.6054F.4, 72h 파워리저브. 연간 달력(2월 제외 자동 조정) + GMT. 1년에 한 번만 날짜 조정이 필요한 편의성과 두 번째 시간대 표시."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "연간 달력과 GMT를 결합한 실용성 높은 컴플리케이션. 블랑팡의 연간 달력 칼리버는 만년 달력보다 간결하면서도 일상적 불편함을 줄인다."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "연간달력 + GMT의 조합은 드레스워치 시장에서 희소하다. 출장이 잦은 비즈니스 전문가에게 이상적인 기능 조합."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -4986,7 +6471,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 43000000
+    "resale_krw_est": 43000000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "World Timer",
+        "comment": "레드 골드 40.0mm, Cal.6054F.4, 72h 파워리저브. 연간 달력(2월 제외 자동 조정) + GMT. 1년에 한 번만 날짜 조정이 필요한 편의성과 두 번째 시간대 표시."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "연간 달력과 GMT를 결합한 실용성 높은 컴플리케이션. 블랑팡의 연간 달력 칼리버는 만년 달력보다 간결하면서도 일상적 불편함을 줄인다."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "연간달력 + GMT의 조합은 드레스워치 시장에서 희소하다. 출장이 잦은 비즈니스 전문가에게 이상적인 기능 조합."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5037,7 +6537,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 44100000
+    "resale_krw_est": 44100000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "World Timer",
+        "comment": "화이트 골드 40.0mm, Cal.6054F.4, 72h 파워리저브. 연간 달력(2월 제외 자동 조정) + GMT. 1년에 한 번만 날짜 조정이 필요한 편의성과 두 번째 시간대 표시."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "연간 달력과 GMT를 결합한 실용성 높은 컴플리케이션. 블랑팡의 연간 달력 칼리버는 만년 달력보다 간결하면서도 일상적 불편함을 줄인다."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "연간달력 + GMT의 조합은 드레스워치 시장에서 희소하다. 출장이 잦은 비즈니스 전문가에게 이상적인 기능 조합."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5088,7 +6603,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 75000000
+    "resale_krw_est": 75000000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "화이트 골드 38.0mm, Cal.1333SQ, 192h(8일) 파워리저브. 스켈레톤 무브먼트 + 8일 파워리저브. 프레임만 남긴 투명한 다이얼로 무브먼트 전체가 노출."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Villeret 스켈레톤은 빌레레 케이스의 클래식한 외관 아래 완전히 개방된 무브먼트 아트를 결합. Cal. 1333SQ는 8일 파워리저브를 갖춘 수동 칼리버."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "스켈레톤 드레스워치는 무브먼트 심미성을 즐기는 취향 대상. 화이트골드 소재로만 제공되어 취향의 차이가 분명한 포지션."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5139,7 +6669,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 111800000
+    "resale_krw_est": 111800000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Technical",
+        "comment": "레드 골드 38.0mm, Cal.1333SQ, 192h(8일) 파워리저브. 스켈레톤 무브먼트 + 8일 파워리저브. 프레임만 남긴 투명한 다이얼로 무브먼트 전체가 노출."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "Villeret 스켈레톤은 빌레레 케이스의 클래식한 외관 아래 완전히 개방된 무브먼트 아트를 결합. Cal. 1333SQ는 8일 파워리저브를 갖춘 수동 칼리버."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "스켈레톤 드레스워치는 무브먼트 심미성을 즐기는 취향 대상. 화이트골드 소재로만 제공되어 취향의 차이가 분명한 포지션."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5190,7 +6735,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 39700000
+    "resale_krw_est": 39700000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "High Complication",
+        "comment": "스틸 40.3mm, Cal.5954.4, 72h 파워리저브. 퍼페추얼 달력 + 문페이즈. 완전달력보다 상위 단계인 만년 달력에 달의 위상을 더한 조합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "빌레레 Quantième Perpétuel Phases de Lune은 드레스워치 컴플리케이션의 전통적 정점. 만년 달력과 문페이즈의 결합은 고급 스위스 워치메이킹의 클래식한 표현."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "만년 달력 + 문페이즈는 전통 드레스워치 시장에서 세대를 넘는 수요를 갖는다. 빌레레 컬렉션 내 안정적 포지션."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5241,7 +6801,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 49500000
+    "resale_krw_est": 49500000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "High Complication",
+        "comment": "레드 골드 40.3mm, Cal.5954.4, 72h 파워리저브. 퍼페추얼 달력 + 문페이즈. 완전달력보다 상위 단계인 만년 달력에 달의 위상을 더한 조합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "빌레레 Quantième Perpétuel Phases de Lune은 드레스워치 컴플리케이션의 전통적 정점. 만년 달력과 문페이즈의 결합은 고급 스위스 워치메이킹의 클래식한 표현."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "만년 달력 + 문페이즈는 전통 드레스워치 시장에서 세대를 넘는 수요를 갖는다. 빌레레 컬렉션 내 안정적 포지션."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5292,7 +6867,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 49500000
+    "resale_krw_est": 49500000,
+    "verdict": {
+      "overall": "Classic",
+      "spec": {
+        "label": "High Complication",
+        "comment": "레드 골드 40.3mm, Cal.5954.4, 72h 파워리저브. 퍼페추얼 달력 + 문페이즈. 2100년까지 날짜 조정이 불필요한 만년 달력."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "퍼페추얼 달력은 400년 그레고리안 달력 주기를 기계적으로 구현한 최고의 달력 컴플리케이션. 블랑팡 빌레레의 Cal. 5954.4는 이를 드레스 케이스에 맞게 소형화."
+      },
+      "timelessness": {
+        "label": "Timeless",
+        "comment": "만년 달력 드레스워치는 수십 년이 지나도 기능적 가치가 변하지 않는다. 세대를 넘겨 전달할 수 있는 상징적 가치."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5344,7 +6934,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 64700000
+    "resale_krw_est": 64700000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 42.0mm, Cal.5939A, 192h(8일) 파워리저브. 퍼페추얼 달력 + 문페이즈 + 8일 파워리저브. 가장 복잡한 빌레레 달력 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "Cal. 5939A는 만년 달력과 8일 파워리저브를 결합한 독자 칼리버. 자동 무브먼트보다 더 긴 태엽 주기로 두터운 골드 케이스에 최적화."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "퍼페추얼 + 8일 PR의 드문 조합. 레드 골드 단일 소재로만 제공. 빌레레 최상위 달력 모델군의 하나."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5396,7 +7001,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 39800000
+    "resale_krw_est": 39800000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 42.0mm, Cal.3738G2, 192h(8일) 파워리저브. 주(週) 표시 + 빅데이트 + 8일 파워리저브. 세마이니에(주간 달력)는 현대 손목시계에서 극히 드문 컴플리케이션."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "Semainier(주간 달력)는 전통 회중시계에서 볼 수 있었던 드문 기능. 블랑팡이 현대적 손목시계에 이를 부활시킨 것은 전통 시계 제작에 대한 헌신의 표현."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "주간 달력 + 빅데이트 + 8일 PR의 조합은 세계적으로도 거의 유일하다. 매우 제한된 수량의 컬렉터 전용 모델."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5446,7 +7066,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 24700000
+    "resale_krw_est": 24700000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "스틸 40.3mm, Cal.66CM8, 40h 파워리저브. 단일 버튼 크로노그래프. 하나의 푸셔로 시작·정지·리셋이 순차적으로 작동하는 전통적 방식."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "모노푸셔 크로노그래프는 1900년대 초 레이싱과 스포츠에서 사용된 전통적 크로노그래프 형식. 빌레레의 드레스 케이스와 결합해 우아한 스포츠워치를 완성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "단일 버튼 크로노는 현대 시계 시장에서 희소한 포지션. 전통 크로노그래프 메커니즘에 관심 있는 수집가 대상."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5496,7 +7131,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 36400000
+    "resale_krw_est": 36400000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "레드 골드 40.3mm, Cal.66CM8, 40h 파워리저브. 단일 버튼 크로노그래프. 하나의 푸셔로 시작·정지·리셋이 순차적으로 작동하는 전통적 방식."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "모노푸셔 크로노그래프는 1900년대 초 레이싱과 스포츠에서 사용된 전통적 크로노그래프 형식. 빌레레의 드레스 케이스와 결합해 우아한 스포츠워치를 완성."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "단일 버튼 크로노는 현대 시계 시장에서 희소한 포지션. 전통 크로노그래프 메커니즘에 관심 있는 수집가 대상."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5547,7 +7197,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 34700000
+    "resale_krw_est": 34700000,
+    "verdict": {
+      "overall": "Specialist",
+      "spec": {
+        "label": "Chrono Dress",
+        "comment": "레드 골드 43.7mm, Cal. F385, 50h 파워리저브. 플라이백 크로노그래프 + 맥박수 측정용 펄소미터 스케일. 의사용 클래식 시계의 현대적 재현."
+      },
+      "heritage": {
+        "label": "Strong",
+        "comment": "펄소미터(맥박 크로노)는 의사들이 15초나 30초 동안 맥박을 세어 분당 박동수를 읽는 전통적 의학 도구 기능을 가진 크로노그래프. 빌레레의 고급 케이스와 결합된 희소한 조합."
+      },
+      "timelessness": {
+        "label": "Specialist",
+        "comment": "펄소미터 크로노그래프는 현대 의료 기기에 밀렸으나 기계식 시계 메커니즘으로서의 가치는 여전하다. 의사·수집가 양쪽의 관심 대상."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5597,7 +7262,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 123500000
+    "resale_krw_est": 123500000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 40.0mm, Cal.228, 120h 파워리저브. 플라잉 카루젤(캐리지가 회전하는 동시에 이동). 투르비용과 유사하지만 다른 방식으로 중력 오차를 보정."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "카루젤은 토마스 그로스만이 1892년 개발한 기술로, 블랑팡은 이를 Flying(플라잉) 방식으로 현대화했다. 플라잉 카루젤 손목시계는 세계적으로도 극히 드물다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "투르비용보다 덜 알려지지만 기술적으로 대등하거나 더 복잡한 카루젤. 40mm 케이스에서의 구현은 블랑팡의 기술력을 증명하는 컬렉터 필수 피스."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5647,7 +7327,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 142500000
+    "resale_krw_est": 142500000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "플래티넘 40.0mm, Cal.228, 120h 파워리저브. 플라잉 카루젤(캐리지가 회전하는 동시에 이동). 투르비용과 유사하지만 다른 방식으로 중력 오차를 보정."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "카루젤은 토마스 그로스만이 1892년 개발한 기술로, 블랑팡은 이를 Flying(플라잉) 방식으로 현대화했다. 플라잉 카루젤 손목시계는 세계적으로도 극히 드물다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "투르비용보다 덜 알려지지만 기술적으로 대등하거나 더 복잡한 카루젤. 40mm 케이스에서의 구현은 블랑팡의 기술력을 증명하는 컬렉터 필수 피스."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5698,7 +7393,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 154100000
+    "resale_krw_est": 154100000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5749,7 +7459,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 160700000
+    "resale_krw_est": 160700000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "플래티넘 42.0mm, Cal.225L, 120h 파워리저브. 카루젤 + 문페이즈. 중력 보정 기구와 달의 위상 표시를 결합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "카루젤 칼리버와 문페이즈의 조합은 기계식 시계 제작에서 최상위 기술 집약의 예. 블랑팡 Cal. 225L은 이 두 기능을 하나의 무브먼트에 통합."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "카루젤 + 문페이즈 드레스워치는 극히 희소하다. 플래티넘과 골드 소재로만 제공되며 생산 수량이 매우 제한적."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5800,7 +7525,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 142300000
+    "resale_krw_est": 142300000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 42.0mm, Cal.225L, 120h 파워리저브. 카루젤 + 문페이즈. 중력 보정 기구와 달의 위상 표시를 결합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "카루젤 칼리버와 문페이즈의 조합은 기계식 시계 제작에서 최상위 기술 집약의 예. 블랑팡 Cal. 225L은 이 두 기능을 하나의 무브먼트에 통합."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "카루젤 + 문페이즈 드레스워치는 극히 희소하다. 플래티넘과 골드 소재로만 제공되며 생산 수량이 매우 제한적."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5851,7 +7591,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 123900000
+    "resale_krw_est": 123900000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 37.5mm, 두께 10.4mm, Cal.25, 192h(8일) 파워리저브. 투르비용 + 8일 파워리저브. 슬림한 드레스 케이스에 구현된 고전적 투르비용."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "블랑팡 Cal. 25는 37.5mm 소형 케이스에 투르비용과 8일 파워리저브를 탑재. 드레스워치 투르비용의 전형적인 표현으로, 시각적 경박함 없이 기술을 담았다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "드레스워치 투르비용의 정석적 형태. 다양한 소재(레드골드·화이트골드)로 제공되며 투르비용 입문 컬렉터에게도 어필하는 균형 잡힌 가격대."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5902,7 +7657,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 123900000
+    "resale_krw_est": 123900000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "화이트 골드 37.5mm, 두께 10.4mm, Cal.25, 192h(8일) 파워리저브. 투르비용 + 8일 파워리저브. 슬림한 드레스 케이스에 구현된 고전적 투르비용."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "블랑팡 Cal. 25는 37.5mm 소형 케이스에 투르비용과 8일 파워리저브를 탑재. 드레스워치 투르비용의 전형적인 표현으로, 시각적 경박함 없이 기술을 담았다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "드레스워치 투르비용의 정석적 형태. 다양한 소재(레드골드·화이트골드)로 제공되며 투르비용 입문 컬렉터에게도 어필하는 균형 잡힌 가격대."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -5953,7 +7723,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 133700000
+    "resale_krw_est": 133700000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "화이트 골드 38.0mm, 두께 10.4mm, Cal.25, 192h(8일) 파워리저브. 투르비용 + 8일 파워리저브. 슬림한 드레스 케이스에 구현된 고전적 투르비용."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "블랑팡 Cal. 25는 37.5mm 소형 케이스에 투르비용과 8일 파워리저브를 탑재. 드레스워치 투르비용의 전형적인 표현으로, 시각적 경박함 없이 기술을 담았다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "드레스워치 투르비용의 정석적 형태. 다양한 소재(레드골드·화이트골드)로 제공되며 투르비용 입문 컬렉터에게도 어필하는 균형 잡힌 가격대."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6004,7 +7789,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 133700000
+    "resale_krw_est": 133700000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 38.0mm, 두께 10.4mm, Cal.25, 192h(8일) 파워리저브. 투르비용 + 8일 파워리저브. 슬림한 드레스 케이스에 구현된 고전적 투르비용."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "블랑팡 Cal. 25는 37.5mm 소형 케이스에 투르비용과 8일 파워리저브를 탑재. 드레스워치 투르비용의 전형적인 표현으로, 시각적 경박함 없이 기술을 담았다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "드레스워치 투르비용의 정석적 형태. 다양한 소재(레드골드·화이트골드)로 제공되며 투르비용 입문 컬렉터에게도 어필하는 균형 잡힌 가격대."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6055,7 +7855,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 140000000
+    "resale_krw_est": 140000000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 42.0mm, Cal.242, 288h(12일) 파워리저브. 플라잉 투르비용 + 12일 파워리저브. 케이지 없이 부유하는 투르비용의 시각적 장관."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "플라잉 투르비용은 케이지의 상부 받침대를 제거해 투르비용이 허공에 떠있는 것처럼 보이게 한 구조. 블랑팡 Cal. 242는 12일 파워리저브라는 극히 드문 스펙을 더한다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "12일 파워리저브 플라잉 투르비용은 세계적으로도 극히 희소. 플래티넘 소재로 제공되며 블랑팡 최상위 투르비용 컬렉션 중 하나."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6106,7 +7921,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 158400000
+    "resale_krw_est": 158400000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "플래티넘 42.0mm, Cal.242, 288h(12일) 파워리저브. 플라잉 투르비용 + 12일 파워리저브. 케이지 없이 부유하는 투르비용의 시각적 장관."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "플라잉 투르비용은 케이지의 상부 받침대를 제거해 투르비용이 허공에 떠있는 것처럼 보이게 한 구조. 블랑팡 Cal. 242는 12일 파워리저브라는 극히 드문 스펙을 더한다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "12일 파워리저브 플라잉 투르비용은 세계적으로도 극히 희소. 플래티넘 소재로 제공되며 블랑팡 최상위 투르비용 컬렉션 중 하나."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6158,7 +7988,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 163500000
+    "resale_krw_est": 163500000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 42.0mm, Cal.260MR, 144h 파워리저브. 투르비용 + 점프 시각(Jumping Hour) + 후진 분침(Retrograde Minutes). 세 가지 독특한 시간 표시 방식의 결합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "점프 아워(시간이 한 번에 바뀌는 것)와 레트로그레이드 분침을 투르비용과 결합한 세계적 희귀 컴플리케이션. 시간이 표시되는 방식 자체를 재정의한다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "시간 표시 방식의 세 가지 독창적 실험이 하나의 케이스에. 극도로 제한된 생산 수량으로 경매에서만 가끔 모습을 드러내는 수준의 희귀성."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6210,7 +8055,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 188100000
+    "resale_krw_est": 188100000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 42.0mm, Cal.3863, 72h 파워리저브. 런닝 이퀘이션 오브 타임(실시간 균시차 표시) + 퍼페추얼 달력 + 문페이즈."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "균시차(Équation du Temps)는 태양시와 평균시의 차이를 초 단위로 실시간 표시하는 천문학적 컴플리케이션. '마르샹트(Marchante)'는 이를 고정 눈금이 아닌 움직이는 바늘로 실시간 추적한다는 의미로, 세계 최희귀 기능 중 하나."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "런닝 균시차 + 퍼페추얼 달력 + 문페이즈의 삼중 최상위 컴플리케이션. 88피스 한정 생산으로 컬렉터 시장에서도 구하기 매우 어렵다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6262,7 +8122,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 205100000
+    "resale_krw_est": 205100000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "플래티넘 42.0mm, Cal.3863, 72h 파워리저브. 런닝 이퀘이션 오브 타임(실시간 균시차 표시) + 퍼페추얼 달력 + 문페이즈."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "균시차(Équation du Temps)는 태양시와 평균시의 차이를 초 단위로 실시간 표시하는 천문학적 컴플리케이션. '마르샹트(Marchante)'는 이를 고정 눈금이 아닌 움직이는 바늘로 실시간 추적한다는 의미로, 세계 최희귀 기능 중 하나."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "런닝 균시차 + 퍼페추얼 달력 + 문페이즈의 삼중 최상위 컴플리케이션. 88피스 한정 생산으로 컬렉터 시장에서도 구하기 매우 어렵다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6313,7 +8188,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 72900000
+    "resale_krw_est": 72900000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6364,7 +8254,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 72900000
+    "resale_krw_est": 72900000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6415,7 +8320,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 76300000
+    "resale_krw_est": 76300000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6466,7 +8386,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 93500000
+    "resale_krw_est": 93500000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "플래티넘 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6517,7 +8452,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 93500000
+    "resale_krw_est": 93500000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "플래티넘 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6568,7 +8518,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 93500000
+    "resale_krw_est": 93500000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "플래티넘 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6619,7 +8584,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 93500000
+    "resale_krw_est": 93500000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "플래티넘 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6670,7 +8650,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 93500000
+    "resale_krw_est": 93500000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "플래티넘 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6721,7 +8716,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 83400000
+    "resale_krw_est": 83400000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "플래티넘 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6772,7 +8782,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 83400000
+    "resale_krw_est": 83400000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "플래티넘 45.2mm, Cal.3638, 168h 파워리저브. 전통 중국 달력 표시. 음력 주기, 12지지 동물, 계절 절기 등 복잡한 중국 역법 체계를 기계적으로 구현."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "중국 전통 달력(농력)은 태양력과 태음력을 복합한 복잡한 체계. 이를 기계식 무브먼트 단일 칼리버로 구현한 것은 세계 최초이자 유일. 블랑팡 Cal. 3638은 수십 년의 연구 끝에 탄생."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 유일한 기계식 전통 중국 달력 시계. 다양한 에나멜·메티에 다르 다이얼로 제공되며, 중국 컬렉터 시장을 중심으로 높은 희소가치를 인정받는다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6824,7 +8849,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 192700000
+    "resale_krw_est": 192700000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "플래티넘 42.0mm, Cal.260MR, 144h 파워리저브. 투르비용 + 점프 시각(Jumping Hour) + 후진 분침(Retrograde Minutes). 세 가지 독특한 시간 표시 방식의 결합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "점프 아워(시간이 한 번에 바뀌는 것)와 레트로그레이드 분침을 투르비용과 결합한 세계적 희귀 컴플리케이션. 시간이 표시되는 방식 자체를 재정의한다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "시간 표시 방식의 세 가지 독창적 실험이 하나의 케이스에. 극도로 제한된 생산 수량으로 경매에서만 가끔 모습을 드러내는 수준의 희귀성."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6875,7 +8915,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 350400000
+    "resale_krw_est": 350400000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 44.6mm, Cal.2322, 168h 파워리저브. 투르비용과 카루젤을 하나의 시계에 공존. 세계에서 극히 소수만이 구현한 복합 중력 보정 장치."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "투르비용과 카루젤은 서로 다른 원리로 중력 오차를 보정하는 별개의 기술이다. 둘을 하나의 무브먼트에 탑재한 것은 시계 제작에서 가능한 가장 극단적인 기술적 도전."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 손에 꼽히는 투르비용+카루젤 드레스워치. 현존하는 최복잡 손목시계 중 하나. 블랑팡 컬렉션의 절대적 정점."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6926,7 +8981,22 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 350400000
+    "resale_krw_est": 350400000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 44.6mm, Cal.2322, 168h 파워리저브. 투르비용과 카루젤을 하나의 시계에 공존. 세계에서 극히 소수만이 구현한 복합 중력 보정 장치."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "투르비용과 카루젤은 서로 다른 원리로 중력 오차를 보정하는 별개의 기술이다. 둘을 하나의 무브먼트에 탑재한 것은 시계 제작에서 가능한 가장 극단적인 기술적 도전."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계에서 손에 꼽히는 투르비용+카루젤 드레스워치. 현존하는 최복잡 손목시계 중 하나. 블랑팡 컬렉션의 절대적 정점."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -6976,7 +9046,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 198800000
+    "resale_krw_est": 198800000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 40.0mm, Cal.35, 40h 파워리저브. 미닛 리피터. 슬라이더를 당기면 차임이 시·15분·분을 음으로 알려준다."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "미닛 리피터는 시계 제작의 3대 그랑 컴플리케이션 중 하나. 블랑팡은 자체 개발한 Cal. 35(38mm), Cal. 332C(40mm)를 통해 다양한 케이스 사이즈에 맞는 리피터 칼리버 라인업을 갖추고 있다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "미닛 리피터는 기계식 오디오 컴플리케이션의 정점. 금과 플래티넘 케이스로만 제공되며, 생산 수량이 극히 제한적이다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -7026,7 +9111,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 198800000
+    "resale_krw_est": 198800000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "화이트 골드 40.0mm, Cal.35, 40h 파워리저브. 미닛 리피터. 슬라이더를 당기면 차임이 시·15분·분을 음으로 알려준다."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "미닛 리피터는 시계 제작의 3대 그랑 컴플리케이션 중 하나. 블랑팡은 자체 개발한 Cal. 35(38mm), Cal. 332C(40mm)를 통해 다양한 케이스 사이즈에 맞는 리피터 칼리버 라인업을 갖추고 있다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "미닛 리피터는 기계식 오디오 컴플리케이션의 정점. 금과 플래티넘 케이스로만 제공되며, 생산 수량이 극히 제한적이다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -7076,7 +9176,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 294200000
+    "resale_krw_est": 294200000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 38.0mm, Cal.332B, 40h 파워리저브. 미닛 리피터. 슬라이더를 당기면 차임이 시·15분·분을 음으로 알려준다."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "미닛 리피터는 시계 제작의 3대 그랑 컴플리케이션 중 하나. 블랑팡은 자체 개발한 Cal. 35(38mm), Cal. 332C(40mm)를 통해 다양한 케이스 사이즈에 맞는 리피터 칼리버 라인업을 갖추고 있다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "미닛 리피터는 기계식 오디오 컴플리케이션의 정점. 금과 플래티넘 케이스로만 제공되며, 생산 수량이 극히 제한적이다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -7126,7 +9241,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 294200000
+    "resale_krw_est": 294200000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "화이트 골드 38.0mm, Cal.332B, 40h 파워리저브. 미닛 리피터. 슬라이더를 당기면 차임이 시·15분·분을 음으로 알려준다."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "미닛 리피터는 시계 제작의 3대 그랑 컴플리케이션 중 하나. 블랑팡은 자체 개발한 Cal. 35(38mm), Cal. 332C(40mm)를 통해 다양한 케이스 사이즈에 맞는 리피터 칼리버 라인업을 갖추고 있다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "미닛 리피터는 기계식 오디오 컴플리케이션의 정점. 금과 플래티넘 케이스로만 제공되며, 생산 수량이 극히 제한적이다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -7176,7 +9306,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 329200000
+    "resale_krw_est": 329200000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "레드 골드 40.0mm, Cal.332C, 40h 파워리저브. 미닛 리피터. 슬라이더를 당기면 차임이 시·15분·분을 음으로 알려준다."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "미닛 리피터는 시계 제작의 3대 그랑 컴플리케이션 중 하나. 블랑팡은 자체 개발한 Cal. 35(38mm), Cal. 332C(40mm)를 통해 다양한 케이스 사이즈에 맞는 리피터 칼리버 라인업을 갖추고 있다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "미닛 리피터는 기계식 오디오 컴플리케이션의 정점. 금과 플래티넘 케이스로만 제공되며, 생산 수량이 극히 제한적이다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -7226,7 +9371,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 329200000
+    "resale_krw_est": 329200000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Grand Complication",
+        "comment": "화이트 골드 40.0mm, Cal.332C, 40h 파워리저브. 미닛 리피터. 슬라이더를 당기면 차임이 시·15분·분을 음으로 알려준다."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "미닛 리피터는 시계 제작의 3대 그랑 컴플리케이션 중 하나. 블랑팡은 자체 개발한 Cal. 35(38mm), Cal. 332C(40mm)를 통해 다양한 케이스 사이즈에 맞는 리피터 칼리버 라인업을 갖추고 있다."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "미닛 리피터는 기계식 오디오 컴플리케이션의 정점. 금과 플래티넘 케이스로만 제공되며, 생산 수량이 극히 제한적이다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -7277,7 +9437,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 529100000
+    "resale_krw_est": 529100000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 45.0mm, Cal.232, 65h 파워리저브. 카루젤 + 미닛 리피터. 눈으로 보는 카루젤과 귀로 듣는 미닛 리피터가 동시에 작동."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "카루젤과 미닛 리피터를 하나의 케이스에 탑재한 것은 블랑팡 독자 기술의 정점 중 하나. Cal. 232는 두 개의 주요 컴플리케이션을 65시간 파워리저브 내에서 구동."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계적으로 희소한 울트라 컴플리케이션. 수량이 극히 제한되어 경매 시장에서도 드물게 나타난다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -7328,7 +9503,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 564200000
+    "resale_krw_est": 564200000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 45.7mm, Cal.233, 65h 파워리저브. 카루젤 + 미닛 리피터. 눈으로 보는 카루젤과 귀로 듣는 미닛 리피터가 동시에 작동."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "카루젤과 미닛 리피터를 하나의 케이스에 탑재한 것은 블랑팡 독자 기술의 정점 중 하나. Cal. 232는 두 개의 주요 컴플리케이션을 65시간 파워리저브 내에서 구동."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계적으로 희소한 울트라 컴플리케이션. 수량이 극히 제한되어 경매 시장에서도 드물게 나타난다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -7379,7 +9569,22 @@
     "certification": false,
     "limited": false,
     "year_introduced": null,
-    "resale_krw_est": 452600000
+    "resale_krw_est": 452600000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 45.0mm, Cal.235, 65h 파워리저브. 카루젤 + 미닛 리피터. 눈으로 보는 카루젤과 귀로 듣는 미닛 리피터가 동시에 작동."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "카루젤과 미닛 리피터를 하나의 케이스에 탑재한 것은 블랑팡 독자 기술의 정점 중 하나. Cal. 232는 두 개의 주요 컴플리케이션을 65시간 파워리저브 내에서 구동."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계적으로 희소한 울트라 컴플리케이션. 수량이 극히 제한되어 경매 시장에서도 드물게 나타난다."
+      }
+    }
   },
   {
     "brand": "Blancpain",
@@ -7431,6 +9636,21 @@
     "certification": false,
     "limited": true,
     "year_introduced": null,
-    "resale_krw_est": 493700000
+    "resale_krw_est": 493700000,
+    "verdict": {
+      "overall": "Collector's Pick",
+      "spec": {
+        "label": "Ultra Complication",
+        "comment": "레드 골드 45.0mm, Cal.2358, 65h 파워리저브. 카루젤 + 미닛 리피터 + 플라이백 크로노그래프. 세 가지 최고 수준 컴플리케이션의 결합."
+      },
+      "heritage": {
+        "label": "Prestigious",
+        "comment": "블랑팡이 만든 가장 복잡한 손목시계 중 하나. 카루젤, 미닛 리피터, 플라이백 크로노그래프를 단일 케이스에 통합하는 것은 현존하는 가장 어려운 워치메이킹 도전."
+      },
+      "timelessness": {
+        "label": "Collector",
+        "comment": "세계 최복잡 드레스워치 카테고리. 수량이 손에 꼽을 정도로 제한되며, 소유 자체가 세계 최상위 컬렉터의 증거."
+      }
+    }
   }
 ]
